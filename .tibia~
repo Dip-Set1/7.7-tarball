@@ -1,0 +1,39 @@
+# Tibia - Graphical Multi-User-Dungeon
+# .tibia: Konfigurationsdatei (Game-Server)
+
+# Verzeichnisse
+BINPATH     = "/game/bin"
+MAPPATH     = "/game/map"
+ORIGMAPPATH = "/game/origmap"
+DATAPATH    = "/game/dat"
+USERPATH    = "/game/usr"
+LOGPATH     = "/game/log"
+SAVEPATH    = "/game/save"
+MONSTERPATH = "/game/mon"
+NPCPATH     = "/game/npc"
+
+# SharedMemories
+SHM = 10011
+
+# Port fuer Verbindung
+GamePort = 7171
+GameAddress = "67.15.99.125"
+
+# DebugLevel
+DebugLevel = 2
+
+# Server-Takt
+Beat = 50
+
+# QueryManager
+QueryManager = {("127.0.0.1",7173,"nXE?/>j`"),("127.0.0.1",7174,"nXE?/>j`"),("127.0.0.1",7175,"nXE?/>j`"),("127.0.0.1",7176,"nXE?/>j`")}
+
+# Weltstatus
+World = "Zanera"
+State = public
+Type = normal
+MaxClients = 950
+MaxNewbies = 300
+PremiumBuffer = 100
+PremiumNewbieBuffer = 150
+RebootTime = 11

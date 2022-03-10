@@ -1,0 +1,75 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1018/992/4
+
+3-31: Content={4516, 1108}
+4-31: Content={4526, 1100, 2913, 3462}
+5-31: Content={4525, 1100}
+6-31: Content={4515, 1100}
+7-30: Content={4515, 1108}
+7-31: Content={4515, 1104}
+8-30: Content={4519, 1100}
+8-31: Content={4529, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}
+9-30: Content={4530, 1100}
+9-31: Content={4521}
+10-30: Content={4519, 1100}
+10-31: Content={4515}
+11-29: Content={4522, 1108, 2853}
+11-30: Content={4523, 1104, 2853 Content={2853}}
+11-31: Content={4516}
+12-29: Content={4515, 1100}
+12-30: Content={4526, 3681}
+12-31: Content={4523}
+13-29: Content={4524, 1100}
+13-30: Content={4529}
+13-31: Content={4515, 2853}
+14-29: Content={4515, 1100}
+14-30: Content={4515, 3615}
+14-31: Content={4515}
+15-29: Content={4515, 1100}
+15-30: Content={4515}
+15-31: Content={4515, 3681}
+16-28: Content={4515, 1108}
+16-29: Content={4528, 1104}
+16-30: Content={4515}
+16-31: Content={4515}
+17-28: Content={4522, 1100}
+17-29: Content={4526, 3120}
+17-30: Content={4529, 3681}
+17-31: Content={4515, 3507 String="sir'mutante\ncarlin" Editor="Sir'Mutante"}
+18-28: Content={4515, 1100}
+18-29: Content={4515}
+18-30: Content={4517}
+18-31: Content={4515}
+19-28: Content={4515, 1100}
+19-29: Content={4523, 3681}
+19-30: Content={4515}
+19-31: Content={4515, 3623}
+20-28: Content={4524, 1100}
+20-29: Content={4515}
+20-30: Content={4515}
+20-31: Content={4515, 3681}
+21-28: Content={4515, 1100, 2853}
+21-29: Content={4515}
+21-30: Content={4515}
+21-31: Content={4515}
+22-28: Content={4515, 1109}
+22-29: Content={4515, 1105}
+22-30: Content={4515, 3681}
+22-31: Content={4515}
+23-29: Content={4521, 1100}
+23-30: Content={4528}
+23-31: Content={4515}
+24-29: Content={4515, 1100}
+24-30: Content={4515}
+24-31: Content={4525}
+25-29: Content={4515, 1100}
+25-30: Content={4515}
+25-31: Content={4528, 3614}
+26-29: Content={4525, 1100, 3267}
+26-30: Content={4521}
+26-31: Content={4527}
+27-29: Content={4515, 1109, 2853}
+27-30: Content={4517, 1105}
+27-31: Content={4515, 3681}
+28-30: Content={4518, 1109}
+28-31: Content={4515, 1101}

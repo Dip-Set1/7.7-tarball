@@ -1,0 +1,44 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-11: Refresh, ProtectionZone, 
+00-12: Refresh, ProtectionZone, Content={4907}
+00-13: Refresh, ProtectionZone, Content={486, 4906}
+00-14: Refresh, ProtectionZone, Content={486}
+00-15: Refresh, ProtectionZone, Content={486}
+00-16: Refresh, ProtectionZone, Content={486, 5004}
+00-17: Refresh, ProtectionZone, Content={482}
+00-18: Refresh, ProtectionZone, Content={486}
+00-19: Refresh, ProtectionZone, Content={486}
+00-20: Refresh, ProtectionZone, Content={486}
+00-21: Refresh, ProtectionZone, Content={486}
+00-22: Refresh, ProtectionZone, Content={486}
+00-23: Refresh, ProtectionZone, Content={486}
+00-24: Refresh, ProtectionZone, Content={486}
+00-25: Refresh, ProtectionZone, Content={486}
+00-26: Refresh, ProtectionZone, Content={486, 5004, 2704}
+00-27: Refresh, ProtectionZone, Content={486, 1968}
+00-28: Refresh, ProtectionZone, Content={486}
+00-29: Refresh, ProtectionZone, Content={486}
+00-30: Refresh, ProtectionZone, Content={486, 4905, 2704}
+01-11: Refresh, ProtectionZone, 
+01-12: Refresh, ProtectionZone, 
+01-13: Refresh, ProtectionZone, Content={4907}
+01-14: Refresh, ProtectionZone, Content={486, 4904, 2703}
+01-15: Refresh, ProtectionZone, Content={486, 4904, 2713}
+01-16: Refresh, ProtectionZone, Content={486, 5005, 2702}
+01-17: Refresh, ProtectionZone, Content={486, 4921, 4977}
+01-18: Refresh, ProtectionZone, Content={486, 4920, 4977, 3711}
+01-19: Refresh, ProtectionZone, Content={486, 3717}
+01-20: Refresh, ProtectionZone, Content={486, 3717}
+01-21: Refresh, ProtectionZone, Content={486, 3717}
+01-22: Refresh, ProtectionZone, Content={486, 3717}
+01-23: Refresh, ProtectionZone, Content={486, 3717}
+01-24: Refresh, ProtectionZone, Content={486, 4920}
+01-25: Refresh, ProtectionZone, Content={486, 4920}
+01-26: Refresh, ProtectionZone, Content={486, 4910}
+01-27: Refresh, ProtectionZone, Content={486, 4904, 2703}
+01-28: Refresh, ProtectionZone, Content={486, 4904, 2713}
+01-29: Refresh, ProtectionZone, Content={486, 4904, 2702}
+01-30: Refresh, ProtectionZone, Content={4908}
+02-18: Content={4976}

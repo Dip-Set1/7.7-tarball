@@ -1,0 +1,16 @@
+ID              = 11432770
+Name            = "Junior bill"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = 128-83-114-114-0
+CurrentOutfit   = 128-83-114-114-0
+LastLogin       = 1132103985
+LastLogout      = 1132104202
+StartPosition   = [0,0,0]
+CurrentPosition = [0,0,0]
+PlayerkillerEnd = 0
+
+
+Spells      = {}
+QuestValues = {}
+Murders     = {}

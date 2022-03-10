@@ -1,0 +1,227 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1019/989/6
+
+13-0: Content={1281}
+13-1: Content={1735}
+13-2: Content={1281, 2908}
+13-3: Content={1735}
+13-4: Content={1281, 2656}
+13-5: Content={1286}
+13-6: Refresh, Content={441}
+13-7: Refresh, Content={441}
+13-8: Refresh, Content={450}
+14-0: ProtectionZone, Content={408, 2491}
+14-1: ProtectionZone, Content={408, 2492}
+14-2: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3556, 3583 Amount=10, 2656}
+14-3: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3301, 3583 Amount=10, 2656}
+14-4: ProtectionZone, Content={408, 2451 Content={4277 Content={3582 Amount=100, 2854 Content={3357, 3572, 3412, 3372, 3373, 2874}, 2853 Content={2853, 3277 Amount=25, 3277 Amount=100}}, 3503 Content={3279, 2853 Content={1782, 1782, 1782, 1782}, 2853 Content={3039, 3039, 3039}, 3130, 3507}, 2868 Content={3447 Amount=60, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3316}}, 2656}
+14-5: Refresh, Content={408, 1282}
+14-6: Refresh, Content={408, 2526}
+14-7: Refresh, Content={408}
+14-8: Refresh, Content={440}
+15-0: ProtectionZone, Content={408, 3067, 3077, 4839, 2656, 2314, 3267, 4839, 2949}
+15-1: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3406, 3583 Amount=10, 2656}
+15-2: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3556, 3583 Amount=10, 2656}
+15-3: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3301, 3583 Amount=10, 2656}
+15-4: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3583 Amount=10, 2656}
+15-5: Refresh, Content={408, 1282}
+15-6: Refresh, Content={408}
+15-7: Refresh, Content={408}
+15-8: Refresh, Content={440}
+15-9: Content={1283}
+15-10: Content={1281, 2667}
+15-11: Content={1281, 2647}
+15-12: Content={1735}
+15-13: Content={1281}
+15-14: Content={1286}
+15-15: Content={450}
+16-0: ProtectionZone, Content={408, 3065, 3077, 3576, 3042 Amount=39, 2656, 2314}
+16-1: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 2948, 3406, 3583 Amount=10, 2656}
+16-2: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3556, 3583 Amount=10, 2656}
+16-3: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3301, 3583 Amount=10, 2656}
+16-4: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3556, 3583 Amount=10, 2656}
+16-5: ProtectionZone, Content={408, 1640 String="# Players allowed to open this door\nrepre flam\nsir betokas\ntalegas de perro flam\nlady cosena\nhelmer oshingon\ndark bolas\njetsi\nrepre flam\noliver attomm\nmiguel flam\nMADAM ALUS\nLUCA SEYN\nsir richarrd\nmare trek\n"}
+16-6: Refresh, Content={408}
+16-7: Refresh, Content={408}
+16-8: Refresh, Content={440}
+16-9: Content={1282, 2656}
+16-10: ProtectionZone, Content={408, 3160 Charges=1, 3160 Charges=1, 2485 Content={2871, 3033 Amount=5, 3032 Amount=5, 3425, 3084 RemainingUses=250}}
+16-11: ProtectionZone, Content={408, 3189 Charges=2, 3189 Charges=2, 2485 Content={2471 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3050, 3048 RemainingUses=20, 3351}, 3351, 3447 Amount=38, 3449 Amount=15, 3051, 3051 SavedExpireTime=8, 3051}, 3457}
+16-12: ProtectionZone, Content={408, 2491}
+16-13: ProtectionZone, Content={408, 2492}
+16-14: Content={408, 1282}
+16-15: Content={440}
+17-0: ProtectionZone, Content={408, 2491}
+17-1: ProtectionZone, Content={408, 2492}
+17-2: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3556, 3583 Amount=10, 2656}
+17-3: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3301, 3583 Amount=10, 2656}
+17-4: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3583 Amount=10, 2656}
+17-5: Content={408, 1734}
+17-6: Refresh, Content={408}
+17-7: Refresh, Content={408}
+17-8: Refresh, Content={440}
+17-9: Content={1734}
+17-10: ProtectionZone, Content={408, 2393, 3007, 3551, 3007, 3046, 2667}
+17-11: ProtectionZone, Content={408, 3287 Amount=1, 3045 RemainingUses=200, 3028 Amount=1, 3007, 3351, 3357, 3384, 2659, 2853 Content={3282}}
+17-12: ProtectionZone, Content={408, 2491}
+17-13: ProtectionZone, Content={408, 2492}
+17-14: Content={408, 1734}
+17-15: Content={440}
+18-0: Content={408, 1281}
+18-1: Content={408, 1281, 2659}
+18-2: Content={408, 1281, 2908}
+18-3: Content={408, 1281, 2644}
+18-4: Content={408, 1281, 2659}
+18-5: Refresh, Content={408, 1289}
+18-6: Refresh, Content={408}
+18-7: Refresh, Content={408}
+18-8: Refresh, Content={1771}
+18-9: ProtectionZone, Content={1771, 1641 String="# Players allowed to open this door\n\nheel-flip\n"}
+18-10: ProtectionZone, Content={408, 3198 Charges=5, 3429, 2659, 3450 Amount=9, 3446 Amount=74, 2973 KeyNumber=3520, 2992 Amount=1, 2667}
+18-11: ProtectionZone, Content={408, 3092, 3043 Amount=1, 3007, 3557, 2667, 2659, 3298 Amount=1, 3160 Charges=1}
+18-12: ProtectionZone, Content={408, 2854 Content={3430, 2854, 2854 Content={3003}, 3447 Amount=100}, 3322, 3042 Amount=15, 2667}
+18-13: ProtectionZone, Content={408, 3053, 3668, 3076, 2314}
+18-14: Content={408, 1282}
+18-15: Content={440}
+19-0: ProtectionZone, Content={408, 3658, 2829, 2472 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 3535}
+19-1: ProtectionZone, Content={408, 3155 Charges=1, 3059, 3535, 3535}
+19-2: ProtectionZone, Content={408, 2970 KeyNumber=3800, 2831 String="The power of the Talons\nWritten by Doneos\n\n\nThe Talons are the most mysterious gems that we know of. We dont know much yet, but we are working on it.\n\nFact is, that each Talon contains a mighty magical power inside. We must only find a way to set this power free and more important to control this power so that we can use it for our purposes.\n\nRecently, a fellow warlock found out, that you can release the power through lava.\nYet, we havent found out how to control this released power.\n\n", 2393, 2644, 3561, 3551}
+19-3: ProtectionZone, Content={408, 2985, 2843 String="lol" Editor="Blinged", 3535}
+19-4: ProtectionZone, Content={408, 2893, 2659}
+19-5: Refresh, Content={408, 1282}
+19-6: Refresh, Content={408}
+19-7: Refresh, Content={408}
+19-8: Refresh, Content={440}
+19-9: Content={1282, 2910}
+19-10: ProtectionZone, Content={408, 3486, 2853 Content={3083 RemainingUses=150, 3046, 3046, 3046 SavedExpireTime=2999, 3046}, 2659, 2659, 2667}
+19-11: ProtectionZone, Content={408, 2866 Content={2867 Content={3198 Charges=5, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=1, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={2866 Content={2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=1, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}, 2485 Content={2866 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2866 Content={3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}}, 3425}
+19-12: ProtectionZone, Content={408, 2991, 3287 Amount=6, 3384, 3457, 2903, 2667}
+19-13: ProtectionZone, Content={408, 2972 KeyNumber=3304, 3039, 3074, 3314, 3081 RemainingUses=5, 3287 Amount=1, 3418, 2314}
+19-14: Content={408, 1282}
+19-15: Content={440}
+20-0: ProtectionZone, Content={408, 3658, 2829, 2472 Content={3349, 3052, 3298 Amount=2, 3290, 3287 Amount=2, 3289, 3313, 3299, 3314, 3441, 3429, 2853 Content={3313, 3471, 3447 Amount=4, 3308}, 3283, 2853 Content={2969 KeyNumber=3033, 2853 Content={3267, 3308}, 3317}, 2469 Content={3026 Amount=4, 3027 Amount=5, 3029 Amount=2, 3028 Amount=7, 3030 Amount=2, 3318, 3032 Amount=1, 3042 Amount=1, 3033 Amount=1}}, 3535}
+20-1: ProtectionZone, Content={408, 3591 Amount=4, 3535, 3031 Amount=40, 3535, 3535, 3562, 3565}
+20-2: ProtectionZone, Content={408, 3509, 2971 KeyNumber=3702, 2829, 2991, 3588 Amount=8, 2991, 2659}
+20-3: ProtectionZone, Content={408, 3536}
+20-4: ProtectionZone, Content={408, 2991, 2991, 2659, 2659}
+20-5: ProtectionZone, Content={408, 1641 String="# Players allowed to open this door\nLady Abish"}
+20-6: Refresh, Content={408}
+20-7: Refresh, Content={408}
+20-8: Refresh, Content={440}
+20-9: Content={1734}
+20-10: ProtectionZone, Content={408, 2874 ContainerLiquidType=9, 2874 ContainerLiquidType=9, 3075, 2985, 2486 Content={2903}, 2667}
+20-11: ProtectionZone, Content={408, 3081 RemainingUses=5, 2970 KeyNumber=3301, 3287 Amount=1, 3027 Amount=1, 3287 Amount=1, 2314}
+20-12: ProtectionZone, Content={408, 3029 Amount=2, 3081 RemainingUses=5, 2314}
+20-13: ProtectionZone, Content={408, 3082 RemainingUses=50, 3403, 2314}
+20-14: Content={408, 1734}
+20-15: Content={440}
+21-0: ProtectionZone, Content={408, 2499 String="Dark yeka"}
+21-1: ProtectionZone, Content={408, 2500}
+21-2: ProtectionZone, Content={408, 2969 KeyNumber=5000, 2831 String="Information about the life crystals\nWritten by Doneos\n\nOur ancients killed some dragons and suprisely the dragons carried some life crystals with them.\nThey researched into it and found out, that the life crystals obtain the same kind of magic that the life rings have.\nBut there is a slight difference:\n\nThe power of the life crystals seem to be ten times bigger then the power of the life rings.\nThats why the life crystals glow a little (you can see it in the night) and life rings not.\n\nWe couldnt solve its secret yet, but one day we will.", 2393, 2644}
+21-3: ProtectionZone, Content={408, 3076, 2314}
+21-4: ProtectionZone, Content={408, 2934, 2314}
+21-5: Content={408, 1734}
+21-6: Refresh, Content={408}
+21-7: Refresh, Content={408}
+21-8: Refresh, Content={440}
+21-9: Content={1284}
+21-10: Content={408, 1281}
+21-11: Content={408, 1281}
+21-12: Content={408, 1735}
+21-13: Content={408, 1281}
+21-14: Content={408, 1285}
+21-15: Content={440}
+22-0: Content={408, 1281}
+22-1: Content={408, 1735}
+22-2: Content={408, 1281}
+22-3: Content={408, 1735}
+22-4: Refresh, Content={408, 1281}
+22-5: Content={408, 1285}
+22-6: Refresh, Content={408}
+22-7: Refresh, Content={408}
+22-8: Refresh, Content={440}
+22-9: Content={448}
+22-10: Content={442}
+22-11: Content={442}
+22-12: Content={442}
+22-13: Content={442}
+22-14: Content={442}
+22-15: Content={449}
+23-5: Refresh, Content={448}
+23-6: Refresh, Content={1771}
+23-7: Refresh, Content={1771}
+23-8: Refresh, Content={449}
+24-5: Refresh, 
+24-6: Refresh, Content={1771}
+24-7: Refresh, Content={1771}
+25-5: Refresh, 
+25-6: Refresh, Content={1771}
+25-7: Refresh, Content={1771}
+26-5: Refresh, 
+26-6: Refresh, Content={1771}
+26-7: Refresh, Content={1771}
+27-5: Refresh, Content={447}
+27-6: Refresh, Content={1771}
+27-7: Content={1771, 1283}
+27-8: Content={1281}
+27-9: Content={1735}
+27-10: Content={1735}
+27-11: Content={1286}
+28-5: Refresh, Content={439}
+28-6: Refresh, Content={408}
+28-7: Content={408, 1282, 2639}
+28-8: ProtectionZone, Content={408, 2491}
+28-9: ProtectionZone, Content={408, 2492}
+28-10: ProtectionZone, Content={408, 3017, 3066, 2314, 2656}
+28-11: Content={408, 1290}
+28-12: Content={1281}
+28-13: Content={1735}
+28-14: Content={1286}
+29-5: Refresh, Content={439}
+29-6: Refresh, Content={408}
+29-7: Content={408, 1734}
+29-8: ProtectionZone, Content={408, 2976, 3409, 2647}
+29-9: ProtectionZone, Content={408, 3357, 3668, 2393, 3668, 2650}
+29-10: ProtectionZone, Content={408, 3017, 3070, 2314, 2656}
+29-11: Content={408, 1282}
+29-12: ProtectionZone, Content={408, 2491}
+29-13: ProtectionZone, Content={408, 2492}
+29-14: Content={408, 1282}
+30-5: Refresh, Content={439}
+30-6: Refresh, Content={408}
+30-7: Content={408, 1282, 2910}
+30-8: ProtectionZone, Content={408, 3076, 3583 Amount=14, 2656}
+30-9: ProtectionZone, Content={408, 3282, 3045 RemainingUses=200, 3275, 3031 Amount=1, 3658, 2656, 2656, 2644}
+30-10: ProtectionZone, Content={408, 3576, 2977, 3017, 2314, 2653, 2653, 2653, 2659}
+30-11: Content={408, 1282}
+30-12: ProtectionZone, Content={408, 2368, 2656}
+30-13: ProtectionZone, Content={408, 2975, 2368, 2659}
+30-14: Content={408, 1734}
+30-22: Content={1283}
+30-23: Content={1281, 2644}
+30-24: Content={1281, 2605 String="=)\n\nLoOk'AnArChY RlZ..." Editor="Evil of Charles"}
+30-25: Content={1281, 2644}
+30-26: Content={1288}
+30-27: Content={1281}
+30-28: Content={1281, 2605 String="eALe aDIccts sTyle\nbPs roOx\n4eVer aDicct.!!*\n\nkikO wAS hERe..!*" Editor="Elite Adicct"}
+30-29: Content={1281}
+30-30: Content={1286}
+31-5: Refresh, Content={439}
+31-6: Refresh, Content={408}
+31-7: Content={408, 1734}
+31-8: ProtectionZone, Content={408, 3027 Amount=1, 3026 Amount=2, 3734 Amount=1, 2484 Content={2829 String="Suns and Stars, Part II\nVery basic rituals depend on the influences of dawn and dusk, or of night and day. Other, more complex rituals may only be performed at very specific times, perhaps even at a specific hour. Other rituals that are more complex still are bound to specific days, and to specific times as well. In fact, some individual spells can only be performed once a year or once every other year, while the most powerful of rituals may only be carried out during stellar constellations that are so incredibly rare that centuries may pass before the ritual can be performed again. Given the power and knowledge of the ancients it seems reasonable to assume that they have prepared rituals whose time has not even come to this very day. Since most of the ancient races have disappeared from the lands it is well possible that some of the rituals are still be buried in some long forgotten ruin, while others might actually be in the possession of some surviving heir of one of the ancient races.\nWho knows. The astrological knowledge of the ancients is yet to be rediscovered. We are perfectly positive that some of the discoveries we have made can be considered as the groundwork for further, more elaborate theories which one day might rival that of the ancients. Still, it would be an immense progress if we could rediscover some of the ancients' lost astrological writings.", 2842, 2393, 3658, 3304}, 2653}
+31-9: ProtectionZone, Content={408, 3282, 2394, 3046 SavedExpireTime=2999, 3180 Charges=3, 2903, 3062, 2647, 3658, 2659}
+31-10: ProtectionZone, Content={408, 3017, 3065, 2314, 2659}
+31-11: Content={408, 1282, 2910}
+31-12: ProtectionZone, Content={408, 3061, 2472 Content={2854 Content={2911 SavedExpireTime=2952, 2876, 2659, 2911 SavedExpireTime=2005, 3114 Amount=4, 2981, 2876, 2984, 3463, 3661, 3738 Amount=1}, 2867, 2870 Content={3008, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3059, 2865 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 3008, 3056 RemainingUses=196, 3054 RemainingUses=200, 3046, 3054 RemainingUses=200, 3077, 3084 RemainingUses=250, 3008, 3012, 3097 SavedExpireTime=3580, 2973 KeyNumber=3520, 3054 RemainingUses=200, 2969 KeyNumber=4600, 3093 SavedExpireTime=884, 3059}, 2869 Content={3577 Amount=40, 3582 Amount=68, 3577 Amount=100, 3483, 3483, 3483}, 2865 Content={2872 Content={2865}, 3441, 3065, 2857, 2865 Content={3299, 3299, 3299, 3299, 3299, 3299, 3299, 3299, 3299, 3299, 3299, 3299, 3299, 3299, 3299, 3299, 3299, 3299}, 3275, 3441, 3441, 3357, 3377}, 2865 Content={3003, 3003, 3270, 3003, 3293, 3308, 3308}, 2865 Content={3298 Amount=13, 3448 Amount=24, 3350, 3350, 3349, 3447 Amount=15, 3446 Amount=26, 3449 Amount=2, 3446 Amount=100, 1781 Amount=3, 3447 Amount=100}, 2854 Content={2854, 2969 KeyNumber=3033}}, 2659}
+31-13: ProtectionZone, Content={408, 2393, 2656}
+31-14: Content={408, 1282}
+31-22: Content={1282}
+31-23: ProtectionZone, Content={408, 1948, 3029 Amount=2, 3049, 3492 Amount=2, 3583 Amount=10, 2667}
+31-24: ProtectionZone, Content={408, 3033 Amount=6, 3313, 3039, 3449 Amount=100, 3287 Amount=48, 2644}
+31-25: ProtectionZone, Content={408, 3028 Amount=1, 2903, 3061, 3734 Amount=1, 2485 Content={3483, 2992 Amount=1, 2854 Content={3492 Amount=91, 3294, 3483}, 3017, 2853 Content={1781 Amount=22, 2857}}, 2667}
+31-26: Content={408, 1282}
+31-27: ProtectionZone, Content={408, 1948, 3017, 3097, 3305}
+31-28: ProtectionZone, Content={408, 3042 Amount=1, 3051, 3297, 3070}
+31-29: ProtectionZone, Content={408, 3061, 3072}
+31-30: Content={408, 1282}

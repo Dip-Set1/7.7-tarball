@@ -1,0 +1,1027 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1008/1001/7
+
+0-0: Content={4515}
+0-1: Content={4515}
+0-2: Content={4521}
+0-3: Content={4522}
+0-4: Content={4515, 1283}
+0-5: Content={4515, 1281}
+0-6: Content={4515, 1735}
+0-7: Content={4515, 1281}
+0-8: Content={4530, 1288}
+0-9: Content={4515, 1288}
+0-10: Content={4515, 1735}
+0-11: Content={4525, 1288}
+0-12: Content={4515, 1281}
+0-13: Content={4523, 1281}
+0-14: Content={4515, 1735}
+0-15: Content={4521, 1286}
+0-16: Content={4515, 3681}
+0-17: Content={4521, 1297}
+0-18: Refresh, Content={408, 1294}
+0-19: Refresh, Content={408, 1294}
+0-20: Refresh, Content={408, 1294}
+0-21: Refresh, Content={408, 1294}
+0-22: Content={408, 1298}
+0-23: Refresh, Content={103, 4531}
+0-24: Refresh, Content={103}
+0-25: Refresh, Content={103, 4533}
+0-26: Refresh, Content={4515, 2174}
+0-27: Refresh, Content={4524}
+0-28: Refresh, Content={4519}
+0-29: Refresh, Content={4517}
+0-30: Refresh, Content={4515}
+0-31: Refresh, Content={4515}
+1-0: Content={4526}
+1-1: Content={4515}
+1-2: Content={4515}
+1-3: Content={4515}
+1-4: Content={4515, 1282}
+1-5: ProtectionZone, Content={408, 2535}
+1-6: ProtectionZone, Content={408}
+1-7: ProtectionZone, Content={408}
+1-8: Content={408, 1290}
+1-9: Content={408, 1947}
+1-10: Refresh, Content={408}
+1-11: Content={408, 1282}
+1-12: ProtectionZone, Content={408, 2536}
+1-13: ProtectionZone, Content={408}
+1-14: ProtectionZone, Content={408, 2493}
+1-15: Refresh, Content={408, 1282}
+1-16: Refresh, Content={4522}
+1-17: Refresh, Content={4515, 3682}
+1-18: Refresh, Content={4522}
+1-19: Refresh, Content={4515}
+1-20: Refresh, Content={4523}
+1-21: Refresh, Content={4515}
+1-22: Refresh, Content={4527, 2526}
+1-23: Refresh, Content={103, 4531}
+1-24: Refresh, Content={103}
+1-25: Refresh, Content={103, 4533}
+1-26: Refresh, Content={4522, 2174}
+1-27: Refresh, Content={4526}
+1-28: Refresh, Content={4515}
+1-29: Refresh, Content={4517}
+1-30: Refresh, Content={4515}
+1-31: Refresh, Content={4526}
+2-0: Content={4523}
+2-1: Content={4522}
+2-2: Content={4524}
+2-3: Content={4518}
+2-4: Content={4515, 1282}
+2-5: ProtectionZone, Content={408}
+2-6: ProtectionZone, Content={408}
+2-7: ProtectionZone, Content={408, 2976}
+2-8: Refresh, Content={408, 1282}
+2-9: Refresh, Content={408}
+2-10: Refresh, Content={408}
+2-11: Content={408, 1282}
+2-12: ProtectionZone, Content={408}
+2-13: ProtectionZone, Content={408}
+2-14: ProtectionZone, Content={408, 2494}
+2-15: Refresh, Content={408, 1282}
+2-16: Refresh, Content={4515, 3682}
+2-17: Refresh, Content={4515}
+2-18: Refresh, Content={4527}
+2-19: Refresh, Content={4528, 3617}
+2-20: Refresh, Content={4518, 3682}
+2-21: Refresh, Content={4515}
+2-22: Refresh, Content={4515}
+2-23: Refresh, Content={103, 4531}
+2-24: Refresh, Content={103}
+2-25: Refresh, Content={103, 4533}
+2-26: Content={4515, 1272, 2175}
+2-27: Refresh, Content={4515, 1270}
+2-28: Refresh, Content={4530, 1270}
+2-29: Refresh, Content={4518, 1270}
+2-30: Refresh, Content={4524, 1270}
+2-31: Content={4515, 1277}
+3-0: Content={4515, 1735}
+3-1: Content={4515, 1281, 2907}
+3-2: Content={4515, 1286}
+3-3: Content={4515}
+3-4: Content={4515, 1734}
+3-5: ProtectionZone, Content={408, 2874}
+3-6: ProtectionZone, Content={408, 3412, 3561}
+3-7: ProtectionZone, Content={408, 2976, 2874}
+3-8: ProtectionZone, Content={408, 1641}
+3-9: Refresh, Content={408}
+3-10: Refresh, Content={408}
+3-11: ProtectionZone, Content={408, 1640}
+3-12: ProtectionZone, Content={408}
+3-13: ProtectionZone, Content={408}
+3-14: ProtectionZone, Content={408}
+3-15: Content={408, 1734}
+3-16: Refresh, Content={4515, 3681}
+3-17: Refresh, Content={4515, 3682}
+3-18: Refresh, Content={4525, 3681}
+3-19: Refresh, Content={4518, 3682}
+3-20: Refresh, Content={4515}
+3-21: Refresh, Content={4515}
+3-22: Refresh, Content={4515}
+3-23: Refresh, Content={103, 4531}
+3-24: Refresh, Content={103}
+3-25: Refresh, Content={103, 4533}
+3-26: Refresh, Content={4515, 1271}
+3-27: Refresh, Content={408, 2536}
+3-28: Refresh, Content={408}
+3-29: Refresh, Content={408}
+3-30: Refresh, Content={408, 2359}
+3-31: Content={408, 1271}
+4-0: ProtectionZone, Content={408, 3075, 2314, 2656}
+4-1: ProtectionZone, Content={408, 3052 SavedExpireTime=918, 3085 RemainingUses=200, 3065, 4839, 2314, 2656}
+4-2: Refresh, Content={408, 1282}
+4-3: Refresh, Content={4526}
+4-4: Content={4526, 1282, 2910}
+4-5: ProtectionZone, Content={408, 2487}
+4-6: ProtectionZone, Content={408, 2488}
+4-7: ProtectionZone, Content={408, 2976, 2874}
+4-8: Refresh, Content={408, 1282}
+4-9: Refresh, Content={408}
+4-10: Refresh, Content={408}
+4-11: Content={408, 1282, 2909}
+4-12: ProtectionZone, Content={408}
+4-13: ProtectionZone, Content={408}
+4-14: ProtectionZone, Content={408}
+4-15: Refresh, Content={408, 1282}
+4-16: Refresh, Content={4527}
+4-17: Refresh, Content={4515}
+4-18: Refresh, Content={4515}
+4-19: Refresh, Content={4515}
+4-20: Refresh, Content={4526}
+4-21: Refresh, Content={4528}
+4-22: Refresh, Content={4515}
+4-23: Refresh, Content={103, 4531}
+4-24: Refresh, Content={103}
+4-25: Refresh, Content={103, 4537}
+4-26: Refresh, Content={103, 4534, 1271}
+4-27: Refresh, Content={408}
+4-28: Refresh, Content={408}
+4-29: Refresh, Content={408}
+4-30: Refresh, Content={408, 2319}
+4-31: Content={408, 1271}
+5-0: ProtectionZone, Content={408, 2864 Content={3492 Amount=48}, 2667}
+5-1: ProtectionZone, Content={408, 3007, 3071, 2656}
+5-2: Refresh, Content={408, 1282}
+5-3: Refresh, Content={4515}
+5-4: Content={4515, 1290}
+5-5: Content={408, 1281}
+5-6: Content={408, 1281}
+5-7: Content={408, 1281}
+5-8: Refresh, Content={408, 1289, 2909}
+5-9: Refresh, Content={408}
+5-10: Refresh, Content={408}
+5-11: Content={408, 1290}
+5-12: Content={408, 1281}
+5-13: Content={408, 1281}
+5-14: Content={408, 1281}
+5-15: Content={408, 1291}
+5-16: Content={4515, 1283}
+5-17: Refresh, Content={4526, 1281}
+5-18: Refresh, Content={4521, 1281}
+5-19: Content={4515, 1735}
+5-20: Content={4515, 1735}
+5-21: Refresh, Content={4517, 1281}
+5-22: Content={4515, 1286}
+5-23: Refresh, Content={103, 4531}
+5-24: Refresh, Content={103}
+5-25: Refresh, Content={103}
+5-26: Refresh, Content={103, 1632}
+5-27: Refresh, Content={408}
+5-28: Refresh, Content={408}
+5-29: Refresh, Content={408}
+5-30: Refresh, Content={408, 2361}
+5-31: Content={408, 1271}
+6-0: ProtectionZone, Content={408, 3042 Amount=3, 2667, 2667}
+6-1: ProtectionZone, Content={408, 2656}
+6-2: Refresh, Content={408, 1282}
+6-3: Refresh, Content={4515}
+6-4: Content={4515, 1282}
+6-5: ProtectionZone, Content={408, 2536}
+6-6: ProtectionZone, Content={408}
+6-7: ProtectionZone, Content={408}
+6-8: Refresh, Content={408, 1282}
+6-9: Refresh, Content={408}
+6-10: Refresh, Content={408}
+6-11: Content={408, 1282}
+6-12: ProtectionZone, Content={408, 2536}
+6-13: ProtectionZone, Content={408}
+6-14: ProtectionZone, Content={408, 2493}
+6-15: Content={408, 1290}
+6-16: Refresh, Content={4515, 1282}
+6-17: Refresh, Content={408, 2493}
+6-18: Refresh, Content={408, 2472}
+6-19: Refresh, Content={408}
+6-20: Refresh, Content={408, 2542}
+6-21: Refresh, Content={408, 2525}
+6-22: Refresh, Content={408, 1282}
+6-23: Refresh, Content={103, 4531}
+6-24: Refresh, Content={103}
+6-25: Refresh, Content={103, 4538}
+6-26: Refresh, Content={103, 4532, 1271}
+6-27: Refresh, Content={408, 2471}
+6-28: Refresh, Content={408}
+6-29: Refresh, Content={408}
+6-30: Refresh, Content={408}
+6-31: Content={408, 1271}
+7-0: ProtectionZone, Content={408, 3069, 3492 Amount=2, 3034 Amount=1, 3007, 2992 Amount=2, 2667, 2667}
+7-1: ProtectionZone, Content={408, 2992 Amount=1, 3418, 2656}
+7-2: Refresh, Content={408, 1282}
+7-3: Refresh, Content={4518}
+7-4: Content={4515, 1282}
+7-5: ProtectionZone, Content={408}
+7-6: ProtectionZone, Content={408}
+7-7: ProtectionZone, Content={408}
+7-8: Refresh, Content={408, 1282}
+7-9: Refresh, Content={408}
+7-10: Refresh, Content={408}
+7-11: Content={408, 1282}
+7-12: ProtectionZone, Content={408}
+7-13: ProtectionZone, Content={408}
+7-14: ProtectionZone, Content={408, 2494}
+7-15: Content={408, 1290}
+7-16: Refresh, Content={4515, 1282}
+7-17: Refresh, Content={408, 2494}
+7-18: Refresh, Content={408}
+7-19: Refresh, Content={408}
+7-20: Refresh, Content={408}
+7-21: Refresh, Content={408}
+7-22: Refresh, Content={408, 1282}
+7-23: Refresh, Content={103, 4531}
+7-24: Refresh, Content={103}
+7-25: Refresh, Content={103, 4533}
+7-26: Refresh, Content={4515, 1271, 2909}
+7-27: Refresh, Content={408, 2472}
+7-28: Refresh, Content={408}
+7-29: Refresh, Content={408}
+7-30: Refresh, Content={408}
+7-31: Content={408, 1271}
+8-0: ProtectionZone, Content={408, 2667, 2656}
+8-1: ProtectionZone, Content={408, 3583 Amount=69, 3510, 2656}
+8-2: Refresh, Content={408, 1282}
+8-3: Refresh, Content={4521}
+8-4: Content={4521, 1734}
+8-5: ProtectionZone, Content={408}
+8-6: ProtectionZone, Content={408}
+8-7: ProtectionZone, Content={408}
+8-8: ProtectionZone, Content={408, 1640}
+8-9: Refresh, Content={408}
+8-10: Refresh, Content={408}
+8-11: ProtectionZone, Content={408, 1640}
+8-12: ProtectionZone, Content={408}
+8-13: ProtectionZone, Content={408}
+8-14: ProtectionZone, Content={408}
+8-15: Content={408, 1734}
+8-16: Refresh, Content={4530, 1282, 2909}
+8-17: Refresh, Content={408, 2433}
+8-18: Refresh, Content={408}
+8-19: Refresh, Content={408, 2360}
+8-20: Refresh, Content={408, 2927, 2319}
+8-21: Refresh, Content={408, 2358}
+8-22: Content={408, 1734}
+8-23: Refresh, Content={103, 4531}
+8-24: Refresh, Content={103}
+8-25: Refresh, Content={103, 4533}
+8-26: Refresh, Content={4518, 1271}
+8-27: Refresh, Content={408, 2487}
+8-28: Refresh, Content={408, 2488}
+8-29: Refresh, Content={408}
+8-30: Refresh, Content={408}
+8-31: Content={408, 1271}
+9-0: ProtectionZone, Content={408, 1639 String="# Players allowed to open this dor\n"}
+9-1: Refresh, Content={408, 1281}
+9-2: Content={408, 1285}
+9-3: Refresh, Content={4515}
+9-4: Content={4525, 1282, 2909}
+9-5: ProtectionZone, Content={408, 2487}
+9-6: ProtectionZone, Content={408, 2488}
+9-7: ProtectionZone, Content={408}
+9-8: Refresh, Content={408, 1282}
+9-9: Refresh, Content={408}
+9-10: Refresh, Content={408}
+9-11: Content={408, 1282, 2909}
+9-12: ProtectionZone, Content={408}
+9-13: ProtectionZone, Content={408}
+9-14: ProtectionZone, Content={408}
+9-15: Content={408, 1290}
+9-16: Refresh, Content={4523, 1282}
+9-17: Refresh, Content={408}
+9-18: Refresh, Content={408}
+9-19: Refresh, Content={408}
+9-20: Refresh, Content={408}
+9-21: Refresh, Content={408}
+9-22: Content={408, 1734}
+9-23: Refresh, Content={103, 4531}
+9-24: Refresh, Content={103}
+9-25: Refresh, Content={103, 4533}
+9-26: Refresh, Content={4519, 1271}
+9-27: Refresh, Content={408, 2487}
+9-28: Refresh, Content={408, 2488}
+9-29: Refresh, Content={408}
+9-30: Refresh, Content={408, 2473}
+9-31: Content={408, 1271}
+10-0: Refresh, Content={103}
+10-1: Refresh, Content={103, 4533}
+10-2: Refresh, Content={4515}
+10-3: Refresh, Content={4529}
+10-4: Content={4515, 1284}
+10-5: Refresh, Content={408, 1281}
+10-6: Content={408, 1735}
+10-7: Refresh, Content={408, 1281}
+10-8: Refresh, Content={408, 1287}
+10-9: Refresh, Content={408, 1281}
+10-10: Refresh, Content={408, 1629}
+10-11: Refresh, Content={408, 1287}
+10-12: Refresh, Content={408, 1281}
+10-13: Refresh, Content={408, 1281}
+10-14: Content={408, 1735}
+10-15: Refresh, Content={408, 1287}
+10-16: Refresh, Content={4515, 1282}
+10-17: Refresh, Content={408}
+10-18: Refresh, Content={408}
+10-19: Refresh, Content={408}
+10-20: Refresh, Content={408, 2469}
+10-21: Refresh, Content={408, 2473}
+10-22: Refresh, Content={408, 1282}
+10-23: Refresh, Content={103, 4531}
+10-24: Refresh, Content={103}
+10-25: Refresh, Content={103, 4533}
+10-26: Content={4515, 1279}
+10-27: Content={408, 1270, 2667}
+10-28: Content={408, 1270, 2647}
+10-29: Content={408, 1270}
+10-30: Content={408, 1270, 2908}
+10-31: Content={408, 1276}
+11-0: Refresh, Content={103}
+11-1: Refresh, Content={103, 4537}
+11-2: Refresh, Content={103, 4541}
+11-3: Refresh, Content={4522}
+11-4: Refresh, Content={4525}
+11-5: Refresh, Content={4526}
+11-6: Refresh, Content={4515}
+11-7: Refresh, Content={4517}
+11-8: Refresh, Content={4522, 2109}
+11-9: Refresh, Content={870, 4531}
+11-10: Refresh, Content={870}
+11-11: Refresh, Content={870, 4533}
+11-12: Refresh, Content={4515, 2526}
+11-13: Refresh, Content={4515}
+11-14: Refresh, Content={4521}
+11-15: Refresh, Content={4515, 2109}
+11-16: Content={4517, 1284}
+11-17: Refresh, Content={408, 1281}
+11-18: Refresh, Content={408, 1281}
+11-19: Refresh, Content={408, 1629}
+11-20: Refresh, Content={408, 1281}
+11-21: Refresh, Content={408, 1281}
+11-22: Content={408, 1285}
+11-23: Refresh, Content={870, 4659, 4531, 2109}
+11-24: Refresh, Content={870, 4659}
+11-25: Refresh, Content={870, 4659, 4533}
+11-26: Content={4518, 1271, 2656}
+11-27: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3351, 3384, 2659}
+11-28: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3576, 3357, 2659}
+11-29: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3301, 3313, 3557, 2659}
+11-30: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3740 Amount=1, 3556, 2659}
+11-31: ProtectionZone, Content={408, 2487}
+12-0: Refresh, Content={103}
+12-1: Refresh, Content={103}
+12-2: Refresh, Content={103, 4537}
+12-3: Refresh, Content={870, 4656, 4534}
+12-4: Refresh, Content={870, 4534}
+12-5: Refresh, Content={870, 4534}
+12-6: Refresh, Content={870, 4534}
+12-7: Refresh, Content={870, 4534}
+12-8: Refresh, Content={870, 4534}
+12-9: Refresh, Content={870, 4535}
+12-10: Refresh, Content={870}
+12-11: Refresh, Content={870, 4537}
+12-12: Refresh, Content={870, 4534}
+12-13: Refresh, Content={870, 4534}
+12-14: Refresh, Content={870, 4534}
+12-15: Refresh, Content={870, 4534}
+12-16: Refresh, Content={870, 4534}
+12-17: Refresh, Content={870, 4534, 3501}
+12-18: Refresh, Content={870, 4535}
+12-19: Refresh, Content={870}
+12-20: Refresh, Content={870, 4537}
+12-21: Refresh, Content={870, 4534, 2372}
+12-22: Refresh, Content={870, 4534, 2373}
+12-23: Refresh, Content={870, 4535}
+12-24: Refresh, Content={870}
+12-25: Refresh, Content={870, 4537}
+12-26: Content={870, 4541, 1271}
+12-27: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3351, 3384, 2659}
+12-28: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3576, 3357, 2659}
+12-29: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3265, 3313, 3313, 3279, 3557, 2659}
+12-30: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3740 Amount=1, 3556, 2659}
+12-31: ProtectionZone, Content={408, 2495 String="Venom Vanth"}
+13-0: Refresh, Content={103}
+13-1: Refresh, Content={103}
+13-2: Refresh, Content={103}
+13-3: Refresh, Content={870, 4656}
+13-4: Refresh, Content={870}
+13-5: Refresh, Content={870}
+13-6: Refresh, Content={870}
+13-7: Refresh, Content={870}
+13-8: Refresh, Content={870}
+13-9: Refresh, Content={870}
+13-10: Refresh, Content={870}
+13-11: Refresh, Content={870}
+13-12: Refresh, Content={870}
+13-13: Refresh, Content={870}
+13-14: Refresh, Content={870}
+13-15: Refresh, Content={870}
+13-16: Refresh, Content={870}
+13-17: Refresh, Content={870}
+13-18: Refresh, Content={870}
+13-19: Refresh, Content={870}
+13-20: Refresh, Content={870}
+13-21: Refresh, Content={870}
+13-22: Refresh, Content={870}
+13-23: Refresh, Content={870}
+13-24: Refresh, Content={870}
+13-25: Refresh, Content={870}
+13-26: Content={870, 4533, 1271}
+13-27: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3351, 3384, 2659}
+13-28: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3576, 3357, 2659}
+13-29: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3279, 3265, 3557, 2659}
+13-30: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3740 Amount=1, 3556, 2659}
+13-31: ProtectionZone, Content={408, 2853 Content={3577 Amount=26, 2854 Content={2854}, 3069}, 3492 Amount=2, 3034 Amount=1, 3065, 3318, 2659}
+14-0: Refresh, Content={103, 4536}
+14-1: Refresh, Content={103}
+14-2: Refresh, Content={103}
+14-3: Refresh, Content={870, 4656}
+14-4: Refresh, Content={870}
+14-5: Refresh, Content={870}
+14-6: Refresh, Content={870}
+14-7: Refresh, Content={870}
+14-8: Refresh, Content={870}
+14-9: Refresh, Content={870}
+14-10: Refresh, Content={870}
+14-11: Refresh, Content={870}
+14-12: Refresh, Content={870}
+14-13: Refresh, Content={870}
+14-14: Refresh, Content={870}
+14-15: Refresh, Content={870}
+14-16: Refresh, Content={870}
+14-17: Refresh, Content={870}
+14-18: Refresh, Content={870}
+14-19: Refresh, Content={870}
+14-20: Refresh, Content={870}
+14-21: Refresh, Content={870}
+14-22: Refresh, Content={870}
+14-23: Refresh, Content={870}
+14-24: Refresh, Content={870}
+14-25: Refresh, Content={870}
+14-26: Content={870, 4533, 1271, 2910}
+14-27: ProtectionZone, Content={408, 3551, 3557, 3357, 2659}
+14-28: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3576, 2659}
+14-29: ProtectionZone, Content={408, 3279, 3269, 3557, 2659}
+14-30: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3556, 2659}
+14-31: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3065, 2659}
+15-0: Refresh, Content={103, 4540}
+15-1: Refresh, Content={103, 4532}
+15-2: Refresh, Content={103, 4532}
+15-3: Refresh, Content={870, 4656, 4532}
+15-4: Refresh, Content={870, 4532}
+15-5: Refresh, Content={870, 4532}
+15-6: Refresh, Content={870, 4532}
+15-7: Refresh, Content={870, 4532}
+15-8: Refresh, Content={870, 4532}
+15-9: Refresh, Content={870, 4536}
+15-10: Refresh, Content={870}
+15-11: Refresh, Content={870}
+15-12: Refresh, Content={870}
+15-13: Refresh, Content={870}
+15-14: Refresh, Content={870}
+15-15: Refresh, Content={870}
+15-16: Refresh, Content={870}
+15-17: Refresh, Content={870}
+15-18: Refresh, Content={870}
+15-19: Refresh, Content={870}
+15-20: Refresh, Content={870}
+15-21: Refresh, Content={870}
+15-22: Refresh, Content={870}
+15-23: Refresh, Content={870}
+15-24: Refresh, Content={870}
+15-25: Refresh, Content={870}
+15-26: Content={870, 4533, 1271}
+15-27: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3356, 2659}
+15-28: ProtectionZone, Content={408, 3034 Amount=1, 3492 Amount=2, 3081 RemainingUses=5, 2659}
+15-29: ProtectionZone, Content={408, 3034 Amount=1, 3492 Amount=2, 3034 Amount=1, 3492 Amount=4, 2659}
+15-30: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3492 Amount=2, 3034 Amount=1, 3556, 2659}
+15-31: ProtectionZone, Content={408, 3492 Amount=2, 3028 Amount=1, 3065, 3418, 2659}
+16-0: Refresh, Content={4518}
+16-1: Refresh, Content={4515}
+16-2: Refresh, Content={4516}
+16-3: Refresh, Content={4518}
+16-4: Refresh, Content={4528}
+16-5: Refresh, Content={4515}
+16-6: Refresh, Content={4530}
+16-7: Refresh, Content={4515}
+16-8: Refresh, Content={4515}
+16-9: Refresh, Content={870, 4540}
+16-10: Refresh, Content={870, 4532}
+16-11: Refresh, Content={870, 4532}
+16-12: Refresh, Content={870, 4536}
+16-13: Refresh, Content={870}
+16-14: Refresh, Content={870}
+16-15: Refresh, Content={870}
+16-16: Refresh, Content={870}
+16-17: Refresh, Content={870}
+16-18: Refresh, Content={870}
+16-19: Refresh, Content={870}
+16-20: Refresh, Content={870}
+16-21: Refresh, Content={870}
+16-22: Refresh, Content={870}
+16-23: Refresh, Content={870}
+16-24: Refresh, Content={870}
+16-25: Refresh, Content={870}
+16-26: Content={870, 4533, 1271}
+16-27: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 2659}
+16-28: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 2659}
+16-29: ProtectionZone, Content={408, 2659}
+16-30: ProtectionZone, Content={408, 3034 Amount=1, 3311, 3034 Amount=1, 3492 Amount=2, 3070, 2659}
+16-31: ProtectionZone, Content={408, 3456, 3492 Amount=2, 3034 Amount=1, 3492 Amount=2, 3034 Amount=1, 3017, 3322, 2659}
+17-0: Refresh, Content={4515}
+17-1: Refresh, Content={4523}
+17-2: Refresh, Content={4515}
+17-3: Refresh, Content={4515}
+17-4: Refresh, Content={4523}
+17-5: Refresh, Content={4517}
+17-6: Refresh, Content={4515}
+17-7: Refresh, Content={4524}
+17-8: Refresh, Content={4518}
+17-9: Refresh, Content={4515}
+17-10: Refresh, Content={4515}
+17-11: Refresh, Content={4518}
+17-12: Refresh, Content={870, 4531}
+17-13: Refresh, Content={870}
+17-14: Refresh, Content={870}
+17-15: Refresh, Content={870}
+17-16: Refresh, Content={870}
+17-17: Refresh, Content={870}
+17-18: Refresh, Content={870}
+17-19: Refresh, Content={870, 1930}
+17-20: Refresh, Content={870}
+17-21: Refresh, Content={870}
+17-22: Refresh, Content={870}
+17-23: Refresh, Content={870}
+17-24: Refresh, Content={870}
+17-25: Refresh, Content={870}
+17-26: Content={870, 4533, 1273}
+17-27: Refresh, Content={408, 1270}
+17-28: Refresh, Content={408, 1270}
+17-29: Refresh, Content={408, 1270}
+17-30: ProtectionZone, Content={408, 1639 String="# Players allowed to open this door\nSir Serpent\nXarth Deon"}
+17-31: Refresh, Content={408, 1270}
+18-0: Content={4515, 1294}
+18-1: Content={4519, 1294}
+18-2: Content={4530, 1294}
+18-3: Content={4515, 1294}
+18-4: Content={4515, 1294}
+18-5: Content={4515, 1301}
+18-6: Content={4529, 1281}
+18-7: Content={4525, 1281}
+18-8: Content={4518, 1281}
+18-9: Content={4518, 1288}
+18-10: Content={4515, 1288}
+18-11: Content={4517, 1281, 2908}
+18-12: Content={870, 4531, 1286}
+18-13: Refresh, Content={870}
+18-14: Refresh, Content={870}
+18-15: Refresh, Content={870}
+18-16: Refresh, Content={870}
+18-17: Refresh, Content={870}
+18-18: Refresh, Content={870}
+18-19: Refresh, Content={870, 1931}
+18-20: Refresh, Content={870}
+18-21: Refresh, Content={870}
+18-22: Refresh, Content={870}
+18-23: Refresh, Content={870}
+18-24: Refresh, Content={870}
+18-25: Refresh, Content={870}
+18-26: Refresh, Content={870, 4537}
+18-27: Refresh, Content={870, 4658, 4534}
+18-28: Refresh, Content={103, 4534}
+18-29: Refresh, Content={103, 4535}
+18-30: Refresh, Content={103}
+18-31: Refresh, Content={103, 4533}
+19-0: ProtectionZone, Content={4522, 3681}
+19-1: ProtectionZone, Content={4528, 3681}
+19-2: ProtectionZone, Content={4526, 2473, 2473, 3662}
+19-3: ProtectionZone, Content={4515, 3659, 3061, 3433}
+19-4: ProtectionZone, Content={4529, 3588 Amount=5, 2873 ContainerLiquidType=1, 3588 Amount=100, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659}
+19-5: Content={4525, 1282}
+19-6: ProtectionZone, Content={459, 2438 Content={3059, 2829 String="By the powers that remain and the powers of old, \nby the wisdom of the scarab and the kiss of the scorpion, \nby the infinity of the sand and the eternity of the mountains, \nby the life-giving powers of water and air, \nby the death-bringing powers of fire and lightning, \nby the blessing of death and the revelations of undeath, \nthis corpse shall rise from the grave, \nthis corpse shall break the shackles of life, \nthis corpse shall seek wisdom, \nthis corpse shall serve the one. \nPraised be our pharaoh!", 2826 String="The lamp of Tazur was made of finest gold by the most skilled goldsmith of the land. He bound one of the mightiest and most evil djinn into it. The djinn was forced to do his every bidding. Using his power the artisan defeated legions of enemies. He even travelled to distant Drefia which in those days was at the zenith of its glory, and he met many necromancers who were willing to share their knowledge with him. This way he became even more powerful. Using stolen lifeforce he lived longer than any man was meant to live, and with his own eyes he saw the might of his necromancer allies decline. Legend has it that one day the djinn of good decided to stop the outrageous cabals of Drefia. Other stories say that it was in fact the evil djinn who saw their power threatened by it. Whatever the true cause might be, one night a star fell down from the sky and smashed most of Drefia, breaking its evil power forever, and the goldsmith finally met his fate. His most prized treasure, the lamp of Tazur was lost that night. It is said that it is still there somewhere, hidden on the ocean bed, waiting for a new owner.", 2829 String="Suns and Stars, Part I\nIt stands to reason that the stars and the suns influence the flow of magic. The astral patterns wax and wane like the tides, and it is not possible to perform certain summonings on inappropriate days, to give but one example. The study of astrology is pointing at further influences that go well beyond summoning creatures, though. For instance, the influence of the stars and the suns seems to increase with the power level of the performed incantation or ritual. The more mana is used in a spell the more it is susceptible to extratibian influence. For this reason it seems quite safe to assume that certain powerful rituals are only possible when the stars are correctly aligned. We consequently hope to achieve through close observation and through careful calculation a measure of exactness concerning the right timing of rituals which we did not dare dream of so far. Several magic incantations we have never managed to reproduce until now might actually be achieved once we know the ideal stellar constellations. This would explain why all our previous attempts to achieve these effects were doomed to fail.", 2829 String="Suns and Stars, Part II\nVery basic rituals depend on the influences of dawn and dusk, or of night and day. Other, more complex rituals may only be performed at very specific times, perhaps even at a specific hour. Other rituals that are more complex still are bound to specific days, and to specific times as well. In fact, some individual spells can only be performed once a year or once every other year, while the most powerful of rituals may only be carried out during stellar constellations that are so incredibly rare that centuries may pass before the ritual can be performed again. Given the power and knowledge of the ancients it seems reasonable to assume that they have prepared rituals whose time has not even come to this very day. Since most of the ancient races have disappeared from the lands it is well possible that some of the rituals are still be buried in some long forgotten ruin, while others might actually be in the possession of some surviving heir of one of the ancient races.\nWho knows. The astrological knowledge of the ancients is yet to be rediscovered. We are perfectly positive that some of the discoveries we have made can be considered as the groundwork for further, more elaborate theories which one day might rival that of the ancients. Still, it would be an immense progress if we could rediscover some of the ancients' lost astrological writings.", 2827 String="The Uthun, formed from our memories, is especially vulnerable to the Akh's dominion. It is always its first victim, the first to fall for its pathetic needs and its badly-chosen priorities. And so the Uthun falls prey to the Akh's temptations. Once the Uthun is tainted the Akh is sure to come next. The Akh is inadequately translated as 'soul' into this language. It is the unseen spiritual centre hidden deep in all that is alive, and it is each living creature's most prized possession. It is the very essence of being. And it is our most vulnerable part."}}
+19-7: ProtectionZone, Content={457, 2439 Content={2820 String="Researchpaper 74-08 G\nWe haven't yet managed to improve the 'find person' spell. However, we are still convinced that in theory it must be capable of divulging additional information such as the experience and power of the targeted persons as well as their general physical condition and the chemical composition of their last supper. There are numerous problems, though, and it is well possible that we have to start all over again. This would mean, of course, that we would have to create some spells to obtain information by means of magic which is plain to see when you are close to the targeted person. One might argue that it is a waste of time and resources to develop such a spell, but then I see no other way to create a similar spell that features enhanced range and a combination of effects.", 2820 String="Researchpaper 56-09 A\nWe lost three mages in our last attempt at performing a controlled demon summoning. It is still too difficult to predict in what way the fabric of time and space is affected by the breach of the sphere, and from what we have seen the backlash of nature against demonic incursion can range from a slightly offensive odour to a sizeable explosion such as the one we saw yesterday. I am personally disappointed to observe that the elemental protection spells we put up did not work at all. Perhaps there is some truth in the reports that the unleashed energy is of purely entropical nature. We have yet to decide whether or not it makes sense to create an entropic counterspell first, but I support the idea that the loss of manpower while trying to balance the spell is manageable. It is possible, though, that this will lead to no convincing result at all due to the uncontrollable nature of the demonic realm. If this should be the case the use of entropic countermagic is the only option left.\nBy the way: The summoning of lesser creatures, the so-called 'reds', progressed comparatively well. Of course, these creature are mere borderdwellers and may consequently not be considered true demons of course. However, it may prove that the development of summoning spells for 'reds' will prove a rewarding spin-off of demon summoning research.", 2820 String="Researchpaper 02-56 A\nThe work on the cat-eye spell is progressing well. Soon we will be able to reproduce this spell that is used by several of the elder races. Once this has been accomplished we will finally be able to see in the dark without attracting unwanted attention. The problem is to stabilise the spell so it can be maintained during a predictable period of time. Also, the hurtful effect of sudden light to the spell caster must be palliated.", 2820 String="Researchpaper 44-33 C\nThe divination spell designed to specify the gender of an unborn child has been completed successfully after several tests using other divination spells. The lack of worthwhile studies in divination magic hampered our efforts considerably, but I'm convinced this spell will provide future researchers in the field with invaluable information to work on. We plan to use the techniques we have developed in order to detect the presence of hostile creatures and to recognise signs of life in the area of the spell's effect.", 2820 String="Researchpaper 35-22 D\nThe 'Foeburner' spell still is not working. Somehow it seems impossible to specify a group of targets to be excluded from the area of the spell effect. If only we found a way to use a spell or a spell-like ability to define non-target groups we could finally make the spell work. For now, however, we have stopped the research because we felt it is necessary to create the groundwork for future research in the field. The question is: Should we focus on working out a special definition spell, or is it actually possible to weave some sort of divination spell into the pattern of the foeburner in order to receive a satisfying result with a single spell. I am somewhat inclined towards the latter option because of the satisfactory results we have recently achieved in the field of divination magic.", 2820 String="Researchpaper 33-16 H\nThe 'stoneskin' spell is still flawed. The test subjects complained about severe problems when moving, and some actually suffered from partial paralysis or even from acute petrification! However, I still believe the spell might be useful as some sort of emergency measure because I imagine that turning oneself into a statue for a while might come in handy when all other options have failed. Oddly enough it is quite simple to focus the spell into an object, preferably an amulet, so the change is still bound to an object that serves as a transmitter. Obviously the problem is related to the one we had when we tried to channel certain spells through runes. I'm afraid that while research covering spontaneous magic has made great advances since the early days we are still at the beginning when it comes to channelled spells."}}
+19-8: ProtectionZone, Content={457, 2440 Content={2826 String="The tibian world-wonders!\nThe known and aknowledged world-wonders are:\nThe colossus of Kazordoon\nThe black pyramid of Dracoria\nThe great lighthousetree of Ab'dendriel\nThe thorntower of Shadowthorn\nThe undergroundcity of Mintwalin\nThe black city of skulls in hellsgate\nThe great lava falls in hellsgate\nThe pyramid city of Ankrahmun", 2828 String="The secret of the high mask of the ancients was thought to be lost in time forever. But with the coming of the undying pharaoh its secrets were snatched away from the scarabs and the sands. Once more, masks were forged that contained the secret energies of lost aeons. Their true powers remained a mystery, but from the little that showed at first glance it was clear that they were most powerful indeed. Unfortunately, the pharaoh decreed that their powers were not meant for ordinary mortals, and ordered them to be destroyed. It is said that it was necessary to combine the powers of different ancient idols in order to create those legendary artifacts.", 2820 String="Resarchpaper 88-04 F\nOn the request of our beloved pharaoh we have stopped the research on the XXXXXX spell. All research was destroyed, and although we had met with considerable success in XXXXX the XXXXX and even seemed to have a solution for the problem of the plasma leak the project has been discarded. Even the side reports were destroyed. An apology has been issued to the pharaoh for thoughtlessly researching in that field.", 2832 String="Mehrah asram cha mehe than. Uth a'thul at cha there. Orum tha cha elik jahara. Udhun zah fahr mal. Chamek at uthul hatradek asram. Mehrem alir iktha at uthun. Kasin tha Ur ch helim doh. Mah dah direm. Athul as hathu, athul as dofah, athul as mereth. Cha ukhtu muhn dahra. Sethor mah amin dah. At meruhm cha me dah. Chamek persim kaharah bah tufi. Moh dah rah. Moh Udhin cha uthul. Meheth Zuhl tha berah.", 2824 String="Time is of no importance to the dead. To understand the concept of time is to understand the cruel trick the gods played on all mortals. Just because it pleased them to do so they stripped all living creatures of their immortality, thus turning anything they hope to achieve into futile ambition. For what is left to hope for if you know the sands of time are moving relentlessly in your hourglass, and that death will be the end of all? Whatever a mortal can hope to achieve time will take from him eventually, and all his hardships and his glorious achievements will be just a distant memory in an indifferent world.", 2825 String="The great pyramid is the centre of our beloved city. It is there that our praised pharaoh resides, surrounded by his trusted servants. Far below the palace, hidden in the deepest dungeons of the ancient pyramid are the tombs of despair. The old pharaoh met his fate there, and it is said he still roams the hidden passageways, bound forever to his undead body. So great was the wisdom of Arkhothep that he granted his father eternal unlife, so that he may to atone for his sins and become worthy of ascension. Who knows? Perhaps one day he, too, will ascend, leaving both the curse and his tomb behind him and taking his place at Arkhothep's side. But I fear his folly defies all attempt to cure it. He has proved unyielding to the wisdom of his son's preachings for as long as I can remember. Long will be his road, and a million deaths he shall die before he will see the light of the wisdom that will free him from his prison."}}
+19-9: Content={461, 1290}
+19-10: ProtectionZone, Content={454, 1947}
+19-11: ProtectionZone, Content={454, 3384}
+19-12: Refresh, Content={454, 1282}
+19-13: Refresh, Content={870}
+19-14: Refresh, Content={870}
+19-15: Refresh, Content={870}
+19-16: Refresh, Content={870}
+19-17: Refresh, Content={870}
+19-18: Refresh, Content={870}
+19-19: Refresh, Content={870}
+19-20: Refresh, Content={870}
+19-21: Refresh, Content={870}
+19-22: Refresh, Content={870}
+19-23: Refresh, Content={870}
+19-24: Refresh, Content={870}
+19-25: Refresh, Content={870}
+19-26: Refresh, Content={870}
+19-27: Refresh, Content={870, 4658}
+19-28: Refresh, Content={103}
+19-29: Refresh, Content={103}
+19-30: Refresh, Content={103}
+19-31: Refresh, Content={103, 4537}
+20-0: ProtectionZone, Content={4518, 3618}
+20-1: ProtectionZone, Content={4515, 1922}
+20-2: ProtectionZone, Content={4526, 1924}
+20-3: ProtectionZone, Content={4518, 3659, 3061, 3574}
+20-4: ProtectionZone, Content={4515, 3591 Amount=10, 2667, 2667, 2667, 2667, 2667}
+20-5: Content={4515, 1734}
+20-6: ProtectionZone, Content={456, 3093, 3297, 3429, 2656, 2469, 2469}
+20-7: ProtectionZone, Content={454, 3098, 3280, 3416, 2659, 2469}
+20-8: ProtectionZone, Content={454, 3051, 3297, 3415, 2656, 2469, 3053, 2469}
+20-9: ProtectionZone, Content={455, 1640 String="# Players allowed to open this door\nVonBoidkan \n"}
+20-10: ProtectionZone, Content={454, 2874, 2874}
+20-11: ProtectionZone, Content={454, 3492 Amount=1}
+20-12: ProtectionZone, Content={454, 1640 String="# Players allowed to open this door\nBoidkan of Sacrifice\nechicero oscuro\nSlayer dan\nPelon-Arktik\nMoor Telix\nVon'Breaker\nVon Boidkan"}
+20-13: Refresh, Content={870}
+20-14: Refresh, Content={870}
+20-15: Refresh, Content={870}
+20-16: Refresh, Content={870}
+20-17: Refresh, Content={870}
+20-18: Refresh, Content={870}
+20-19: Refresh, Content={870}
+20-20: Refresh, Content={870}
+20-21: Refresh, Content={870}
+20-22: Refresh, Content={870}
+20-23: Refresh, Content={870}
+20-24: Refresh, Content={870}
+20-25: Refresh, Content={870}
+20-26: Refresh, Content={870}
+20-27: Refresh, Content={870, 4658}
+20-28: Refresh, Content={103}
+20-29: Refresh, Content={103}
+20-30: Refresh, Content={103}
+20-31: Refresh, Content={103}
+21-0: ProtectionZone, Content={4515, 3590 Amount=4}
+21-1: ProtectionZone, Content={4516, 1923}
+21-2: ProtectionZone, Content={4515, 1925}
+21-3: ProtectionZone, Content={4515, 3659, 3061, 3433}
+21-4: ProtectionZone, Content={4515, 3590 Amount=1, 2873 ContainerLiquidType=5, 2656, 2656, 2656, 2656, 2656, 2656, 2656}
+21-5: Content={4517, 1282, 2910}
+21-6: ProtectionZone, Content={456, 3091, 2659, 2469}
+21-7: ProtectionZone, Content={454, 3014, 3492 Amount=2, 3034 Amount=1, 3360, 2667, 2469, 2469}
+21-8: ProtectionZone, Content={454, 3053, 3424, 2659, 2469 Content={3079}}
+21-9: Content={454, 1290}
+21-10: Content={454, 1281}
+21-11: ProtectionZone, Content={454, 1638 String="# Players allowed to open this door\nSlayer dan\nBoidkan of Sacrifice\nVon'Breaker\nVon Boidkan"}
+21-12: Refresh, Content={454, 1289}
+21-13: Refresh, Content={870}
+21-14: Refresh, Content={870}
+21-15: Refresh, Content={870}
+21-16: Refresh, Content={870}
+21-17: Refresh, Content={870}
+21-18: Refresh, Content={870}
+21-19: Refresh, Content={870}
+21-20: Refresh, Content={870}
+21-21: Refresh, Content={870}
+21-22: Refresh, Content={870}
+21-23: Refresh, Content={870}
+21-24: Refresh, Content={870}
+21-25: Refresh, Content={870}
+21-26: Refresh, Content={870}
+21-27: Refresh, Content={870, 4658}
+21-28: Refresh, Content={103}
+21-29: Refresh, Content={103}
+21-30: Refresh, Content={103}
+21-31: Refresh, Content={103}
+22-0: ProtectionZone, Content={4515, 4642, 3661}
+22-1: ProtectionZone, Content={4515, 3048 RemainingUses=20, 3606 Amount=4, 3654}
+22-2: ProtectionZone, Content={4518, 2842 String="Dante ROX!\n" Editor="Zaitoo", 3510}
+22-3: ProtectionZone, Content={4526}
+22-4: ProtectionZone, Content={4515}
+22-5: ProtectionZone, Content={4526, 1640 String="# Players allowed to open this door\nSlayer dan\nVon Boidkan"}
+22-6: ProtectionZone, Content={456, 3093, 3297, 3429, 2656, 2469, 2469}
+22-7: ProtectionZone, Content={454, 3098, 3315, 3416, 2659, 2469}
+22-8: ProtectionZone, Content={454, 3051, 3297, 3415, 2656, 2469, 2469}
+22-9: Content={454, 1282}
+22-10: ProtectionZone, Content={454, 2535, 3014, 3492 Amount=2, 3034 Amount=1, 2861 Content={2853 Content={2854 Content={3582 Amount=41, 3582 Amount=100, 3577 Amount=50, 3577 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100}}}}
+22-11: ProtectionZone, Content={454, 3042 Amount=1, 3449 Amount=5}
+22-12: Refresh, Content={454, 1282}
+22-13: Refresh, Content={870}
+22-14: Refresh, Content={870}
+22-15: Refresh, Content={870, 2109}
+22-16: Refresh, Content={870}
+22-17: Refresh, Content={870, 2526}
+22-18: Refresh, Content={870}
+22-19: Refresh, Content={870}
+22-20: Refresh, Content={870}
+22-21: Refresh, Content={870}
+22-22: Refresh, Content={870}
+22-23: Refresh, Content={870}
+22-24: Refresh, Content={870, 2109}
+22-25: Refresh, Content={870, 4538}
+22-26: Refresh, Content={870, 4532}
+22-27: Refresh, Content={870, 4658, 4532}
+22-28: Refresh, Content={103, 4536}
+22-29: Refresh, Content={103}
+22-30: Refresh, Content={103}
+22-31: Refresh, Content={103}
+23-0: ProtectionZone, Content={4515, 4633, 3661}
+23-1: ProtectionZone, Content={4515, 3622}
+23-2: ProtectionZone, Content={4515, 3731 Amount=1}
+23-3: ProtectionZone, Content={4518, 3731 Amount=1}
+23-4: ProtectionZone, Content={4527, 3661}
+23-5: Content={4515, 1282}
+23-6: ProtectionZone, Content={460, 2535, 3042 Amount=2, 3243, 2866 Content={2469, 2469, 2867 Content={2854}}, 2854 Content={1781 Amount=3, 3268, 3412, 3483, 3503 Content={3507, 3507}, 2854 Content={3492 Amount=42, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}}
+23-7: ProtectionZone, Content={458, 3098, 3069, 3403, 2667}
+23-8: ProtectionZone, Content={458, 3097 SavedExpireTime=3599, 3070, 2656}
+23-9: Content={454, 1282, 2640}
+23-10: ProtectionZone, Content={454, 3014, 3492 Amount=2, 3034 Amount=1, 2862 Content={3492 Amount=81, 3492 Amount=100}, 2469 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+23-11: ProtectionZone, Content={454, 3042 Amount=1, 3449 Amount=6}
+23-12: Content={454, 1734}
+23-13: Refresh, Content={870}
+23-14: Content={870, 1272}
+23-15: Content={870, 1270}
+23-16: Content={870, 1277}
+23-17: Content={870, 1270}
+23-18: Content={870, 1270, 2908}
+23-19: Content={870, 1270}
+23-20: ProtectionZone, Content={870, 1639 String="# Players allowed to open this door\nBarcker"}
+23-21: Content={870, 1277}
+23-22: Refresh, Content={870, 1270}
+23-23: Refresh, Content={870, 1629}
+23-24: Refresh, Content={870, 1270}
+23-25: Refresh, Content={870, 4533, 1270, 2908}
+23-26: Refresh, Content={4518, 1270}
+23-27: Content={4515, 1275}
+23-28: Refresh, Content={103, 4540}
+23-29: Refresh, Content={103, 4536}
+23-30: Refresh, Content={103}
+23-31: Refresh, Content={103}
+24-0: ProtectionZone, Content={4515, 4633, 3661}
+24-1: ProtectionZone, Content={4515, 3731 Amount=1}
+24-2: ProtectionZone, Content={4519, 3731 Amount=1}
+24-3: ProtectionZone, Content={4515, 3731 Amount=1}
+24-4: ProtectionZone, Content={4516, 3681}
+24-5: Content={4515, 1290}
+24-6: Content={454, 1281}
+24-7: ProtectionZone, Content={454, 1638 String="# Players allowed to open this door\nVon Boidkan"}
+24-8: Content={454, 1281, 2908}
+24-9: Content={454, 1287}
+24-10: Content={454, 1281, 2908}
+24-11: ProtectionZone, Content={454, 1638 String="# Players allowed to open this door\n\nVon Boidkan"}
+24-12: Refresh, Content={454, 1289}
+24-13: Refresh, Content={870, 4532}
+24-14: Content={870, 4532, 1271}
+24-15: ProtectionZone, Content={429, 3077, 3085 RemainingUses=200, 3271, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n"}
+24-16: ProtectionZone, Content={429, 1640}
+24-17: ProtectionZone, Content={429, 3026 Amount=1}
+24-18: ProtectionZone, Content={429, 3031 Amount=3, 3351, 3031 Amount=1}
+24-19: ProtectionZone, Content={429, 2317}
+24-20: ProtectionZone, Content={429}
+24-21: Refresh, Content={429, 1271}
+24-22: Refresh, Content={429, 2524 ContainerLiquidType=1}
+24-23: Refresh, Content={429}
+24-24: Refresh, Content={429}
+24-25: Refresh, Content={429}
+24-26: Refresh, Content={429, 2473}
+24-27: Refresh, Content={429, 1271}
+24-28: Refresh, Content={4515}
+24-29: Refresh, Content={103, 4531}
+24-30: Refresh, Content={103}
+24-31: Refresh, Content={103}
+25-0: ProtectionZone, Content={4526, 4633, 3661}
+25-1: ProtectionZone, Content={4515, 3731 Amount=1}
+25-2: ProtectionZone, Content={4515, 3030 Amount=4, 2393}
+25-3: ProtectionZone, Content={4515, 3731 Amount=1}
+25-4: ProtectionZone, Content={4517, 3681}
+25-5: Content={4528, 1282}
+25-6: ProtectionZone, Content={459, 3160 Charges=1, 2869, 2469 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+25-7: ProtectionZone, Content={457, 3042 Amount=1, 3449 Amount=5}
+25-8: ProtectionZone, Content={457, 3042 Amount=1, 3449 Amount=5}
+25-9: ProtectionZone, Content={457, 3042 Amount=1, 3449 Amount=5}
+25-10: ProtectionZone, Content={457, 3042 Amount=1, 3449 Amount=5}
+25-11: ProtectionZone, Content={461, 3042 Amount=1, 3449 Amount=5}
+25-12: Refresh, Content={454, 1282}
+25-13: Refresh, Content={4515}
+25-14: Content={4515, 1271}
+25-15: ProtectionZone, Content={429, 3026 Amount=1, 3035 Amount=1, 3083 RemainingUses=150, 3059}
+25-16: Content={429, 1271, 2598 String="!¡!¡!¡!¡!¡GRATZ!¡!¡!¡!¡!¡\ngraxx por " Editor="Barcker"}
+25-17: ProtectionZone, Content={429, 3492 Amount=88, 2859, 2949}
+25-18: ProtectionZone, Content={429, 3588 Amount=1, 3053, 2971 KeyNumber=3702, 3588 Amount=3}
+25-19: ProtectionZone, Content={429, 2318, 3177 Charges=1}
+25-20: ProtectionZone, Content={429}
+25-21: Refresh, Content={429, 1271, 2909}
+25-22: Refresh, Content={429}
+25-23: Refresh, Content={429}
+25-24: Refresh, Content={429}
+25-25: Refresh, Content={429}
+25-26: Refresh, Content={429, 2319}
+25-27: Refresh, Content={429, 1271}
+25-28: Refresh, Content={4515}
+25-29: Refresh, Content={103, 4540}
+25-30: Refresh, Content={103, 4532}
+25-31: Refresh, Content={103, 4532}
+26-0: ProtectionZone, Content={4528, 4641, 3661}
+26-1: ProtectionZone, Content={4515, 3731 Amount=1}
+26-2: ProtectionZone, Content={4521, 3731 Amount=1}
+26-3: ProtectionZone, Content={4527, 3731 Amount=1}
+26-4: ProtectionZone, Content={4515, 3050, 2860, 3732 Amount=2}
+26-5: Content={4515, 1282}
+26-6: ProtectionZone, Content={456, 3198 Charges=5, 2868, 2469 Content={2867 Content={2867 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}
+26-7: ProtectionZone, Content={454, 3053, 3586 Amount=1, 3062, 3449 Amount=30}
+26-8: ProtectionZone, Content={454, 2308, 3029 Amount=31, 3071, 2667}
+26-9: ProtectionZone, Content={454, 2310, 3028 Amount=23, 3071, 2667}
+26-10: ProtectionZone, Content={454, 2312, 2903, 3034 Amount=4, 3071, 2667}
+26-11: ProtectionZone, Content={455, 3042 Amount=1, 3449 Amount=5}
+26-12: Refresh, Content={454, 1282}
+26-13: Refresh, Content={4515}
+26-14: Content={4528, 1279}
+26-15: Content={429, 1270}
+26-16: Content={429, 1278, 2598 Editor="Barcker"}
+26-17: ProtectionZone, Content={429, 2853, 2949, 3026 Amount=1}
+26-18: ProtectionZone, Content={429, 3308, 3074}
+26-19: ProtectionZone, Content={429, 2318, 3148 Charges=1}
+26-20: ProtectionZone, Content={429}
+26-21: Refresh, Content={429, 1271}
+26-22: Refresh, Content={429, 2111}
+26-23: Refresh, Content={429, 3458}
+26-24: Refresh, Content={429}
+26-25: Refresh, Content={429}
+26-26: Refresh, Content={429, 2523}
+26-27: Refresh, Content={429, 1271}
+26-28: Refresh, Content={4515}
+26-29: Refresh, Content={4515}
+26-30: Refresh, Content={4515}
+26-31: Refresh, Content={4515}
+27-0: ProtectionZone, Content={4519, 3052 SavedExpireTime=1169, 4311 Content={3052, 3052, 3052}, 3129}
+27-1: ProtectionZone, Content={4515, 3731 Amount=1}
+27-2: ProtectionZone, Content={4515, 3731 Amount=1}
+27-3: ProtectionZone, Content={4515, 3731 Amount=1, 3654}
+27-4: ProtectionZone, Content={4515, 3098, 2859 Content={3098, 3098, 3098, 3098, 3098, 3098}, 3732 Amount=1}
+27-5: Content={4529, 1734}
+27-6: ProtectionZone, Content={456, 3191 Charges=2, 2867, 2469}
+27-7: ProtectionZone, Content={454, 3053 SavedExpireTime=573, 3586 Amount=1, 3062, 3449 Amount=70}
+27-8: ProtectionZone, Content={454, 2309, 3034 Amount=6, 3071, 2667}
+27-9: ProtectionZone, Content={454, 2311, 3033 Amount=60, 3071, 2667}
+27-10: ProtectionZone, Content={454, 2313, 3032 Amount=2, 3010, 3071, 2667}
+27-11: ProtectionZone, Content={455, 3042 Amount=1, 3449 Amount=5}
+27-12: Content={454, 1734}
+27-13: Refresh, Content={4522}
+27-14: Content={4521, 1271}
+27-15: ProtectionZone, Content={429}
+27-16: Content={429, 1279}
+27-17: Content={429, 1270}
+27-18: ProtectionZone, Content={429, 1638}
+27-19: Content={429, 1270, 2908}
+27-20: ProtectionZone, Content={429, 1639 String="# Players allowed to open this door\nBarcker"}
+27-21: Content={429, 1280}
+27-22: Refresh, Content={429, 1270}
+27-23: Refresh, Content={429, 1270}
+27-24: Refresh, Content={429, 1270, 2907}
+27-25: Refresh, Content={429, 1629}
+27-26: Refresh, Content={429, 1270}
+27-27: Refresh, Content={429, 1278}
+27-28: Refresh, Content={4515}
+27-29: Content={4515, 1296}
+27-30: Content={4515, 1294}
+27-31: Content={4515, 1294}
+28-0: ProtectionZone, Content={4516, 4642, 3661, 3655}
+28-1: ProtectionZone, Content={4518, 3165 Charges=1, 3657}
+28-2: ProtectionZone, Content={4518, 3622}
+28-3: ProtectionZone, Content={4517, 2026}
+28-4: ProtectionZone, Content={4515, 3661, 3655}
+28-5: Content={4519, 1282, 2910}
+28-6: ProtectionZone, Content={460, 3155 Charges=1, 2870, 2469}
+28-7: ProtectionZone, Content={458, 3042 Amount=1, 3449 Amount=5}
+28-8: ProtectionZone, Content={458, 3042 Amount=1, 3449 Amount=5}
+28-9: ProtectionZone, Content={458, 3042 Amount=1, 3449 Amount=5}
+28-10: ProtectionZone, Content={458, 3042 Amount=1, 3449 Amount=5}
+28-11: ProtectionZone, Content={462, 3042 Amount=1, 3449 Amount=5}
+28-12: Refresh, Content={454, 1282}
+28-13: Refresh, Content={4515}
+28-14: Content={4524, 1271}
+28-15: ProtectionZone, Content={429}
+28-16: ProtectionZone, Content={429, 1641 String="# Players allowed to open this door\nBarcker"}
+28-17: ProtectionZone, Content={429}
+28-18: ProtectionZone, Content={429}
+28-19: ProtectionZone, Content={429}
+28-20: ProtectionZone, Content={429}
+28-21: Refresh, Content={429, 1271}
+28-22: Refresh, Content={429, 2536}
+28-23: Refresh, Content={429}
+28-24: Refresh, Content={429}
+28-25: Refresh, Content={429}
+28-26: Refresh, Content={429, 2472}
+28-27: Refresh, Content={429, 1271}
+28-28: Refresh, Content={4515}
+28-29: Content={4522, 1295}
+28-30: ProtectionZone, Content={429, 1948}
+28-31: ProtectionZone, Content={429}
+29-0: ProtectionZone, Content={4515, 4638, 3661}
+29-1: ProtectionZone, Content={4515, 4642, 3661}
+29-2: ProtectionZone, Content={4515, 3174 Charges=5, 3465 ContainerLiquidType=6, 2667}
+29-3: ProtectionZone, Content={4515, 3190 Charges=1, 3465 ContainerLiquidType=5, 2656, 1781 Amount=4, 3655}
+29-4: ProtectionZone, Content={4515, 3166 Charges=2, 3465 ContainerLiquidType=1, 2667, 3656}
+29-5: Content={4515, 1290}
+29-6: Content={454, 1281}
+29-7: Content={454, 1281}
+29-8: Content={454, 1735}
+29-9: Content={454, 1281}
+29-10: Content={454, 1735}
+29-11: Content={454, 1281}
+29-12: Content={454, 1285}
+29-13: Refresh, Content={4408, 4539}
+29-14: Content={4404, 4534, 1271}
+29-15: ProtectionZone, Content={429}
+29-16: Content={429, 1271}
+29-17: ProtectionZone, Content={429, 2487}
+29-18: ProtectionZone, Content={429, 2488}
+29-19: ProtectionZone, Content={429}
+29-20: ProtectionZone, Content={429}
+29-21: Refresh, Content={429, 1271}
+29-22: Refresh, Content={429, 2491}
+29-23: Refresh, Content={429, 2492}
+29-24: Refresh, Content={429}
+29-25: Refresh, Content={429}
+29-26: Refresh, Content={429, 2523}
+29-27: Refresh, Content={429, 1271}
+29-28: Refresh, Content={4515}
+29-29: Content={4515, 1295}
+29-30: ProtectionZone, Content={429, 3298 Amount=16, 2647, 2314}
+29-31: ProtectionZone, Content={429}
+30-0: Content={4599}
+30-1: ProtectionZone, Content={4515, 4638, 3661}
+30-2: ProtectionZone, Content={4515, 4634, 3661}
+30-3: ProtectionZone, Content={4517, 4634, 3661}
+30-4: Content={4529, 4642, 1294}
+30-5: Content={4515, 1298}
+30-6: Content={4522}
+30-7: Content={4526}
+30-8: Content={4521, 3681}
+30-9: Content={4530}
+30-10: Content={4517}
+30-11: Content={4522, 3681}
+30-12: Content={4407, 4539}
+30-13: Content={4394, 4535}
+30-14: Content={4398, 1273}
+30-15: Content={429, 1270}
+30-16: Content={429, 1276}
+30-17: Content={429, 1270}
+30-18: Content={429, 1270}
+30-19: Content={429, 1270}
+30-20: Content={429, 1270}
+30-21: Content={429, 1276}
+30-22: Content={429, 1270}
+30-23: Content={429, 1270}
+30-24: Content={429, 1270}
+30-25: Content={429, 1270}
+30-26: Content={429, 1270}
+30-27: Content={429, 1274}
+30-28: Refresh, Content={4519}
+30-29: Content={4515, 1295, 2910}
+30-30: ProtectionZone, Content={429, 2526}
+30-31: ProtectionZone, Content={429, 3287 Amount=12, 2647, 2314}
+31-0: Content={4597}
+31-1: Content={4599}
+31-2: Content={4598}
+31-3: Content={4597}
+31-4: Content={4526, 4633}
+31-5: Content={4528}
+31-6: Content={4523, 3681}
+31-7: Content={4515}
+31-8: Content={4515}
+31-9: Content={4515}
+31-10: Content={4515}
+31-11: Content={4529, 3682}
+31-12: Content={4394, 4531}
+31-13: Content={4394}
+31-14: Content={4401}
+31-15: Content={4404}
+31-16: Content={4407}
+31-17: Content={4397}
+31-18: Content={4402}
+31-19: Content={4408}
+31-20: Content={4409, 4538}
+31-21: Content={4395, 4542}
+31-22: Content={4515}
+31-23: Content={4526, 3681}
+31-24: Content={4515}
+31-25: Content={4516, 3137}
+31-26: Content={4518}
+31-27: Content={4515}
+31-28: Content={4518}
+31-29: Content={4515, 1303}
+31-30: Content={429, 1294}
+31-31: Content={429, 1294}

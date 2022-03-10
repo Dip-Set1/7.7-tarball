@@ -1,0 +1,5 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+30-31: ProtectionZone, Content={471}
+31-31: ProtectionZone, Content={465}

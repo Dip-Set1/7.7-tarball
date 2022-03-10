@@ -1,0 +1,257 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1028/1001/5
+
+0-17: Content={1297}
+0-18: Content={429, 1294}
+0-19: Content={429, 1294}
+0-20: Content={429, 1294}
+0-21: Content={429, 1294}
+0-22: Content={429, 1298}
+0-25: Content={1297}
+0-26: Content={429, 1294}
+0-27: Content={429, 1294}
+0-28: Content={429, 1739}
+0-29: Content={429, 1294}
+0-30: Content={429, 1298}
+3-6: Content={1296}
+3-7: Content={1294}
+3-8: Content={1739}
+3-9: Content={1301}
+3-10: Content={1294}
+3-11: Content={1739}
+3-12: Content={1299}
+3-17: Content={1296}
+3-18: Content={1294, 2656}
+3-19: Content={1294, 2667}
+3-20: Content={1294, 2656}
+3-21: Content={436, 1294, 2667}
+3-22: Content={1299}
+3-25: Content={1296}
+3-26: Content={1294, 2632}
+3-27: Content={1294, 2644}
+3-28: Content={1739}
+3-29: Content={1294, 2644}
+3-30: Content={1299}
+4-6: Content={1295}
+4-7: ProtectionZone, Content={429, 2487}
+4-8: ProtectionZone, Content={429, 2488}
+4-9: Content={429, 1295}
+4-10: ProtectionZone, Content={429, 2487}
+4-11: ProtectionZone, Content={429, 2488}
+4-12: Content={429, 1295}
+4-17: Content={1295, 2667}
+4-18: ProtectionZone, Content={429, 3583 Amount=70, 2469}
+4-19: ProtectionZone, Content={429, 3583 Amount=25, 2469}
+4-20: ProtectionZone, Content={429, 3583 Amount=50, 2469}
+4-21: ProtectionZone, Content={429, 3583 Amount=50, 2469}
+4-22: Content={429, 1295}
+4-25: Content={1295, 2644}
+4-26: ProtectionZone, Content={429, 3135, 2667}
+4-27: ProtectionZone, Content={429, 3140, 2667}
+4-28: ProtectionZone, Content={429, 3135, 3349, 3349, 3350, 2667}
+4-29: ProtectionZone, Content={429, 2667}
+4-30: Content={429, 1295}
+5-6: Content={1295, 2910}
+5-7: ProtectionZone, Content={429, 3035 Amount=60, 2856 Content={3505 String="Holaa mensito:\nEspero y aproveches tu regalito, te lo amndo con muchOoo MuchOoO cariño,y te kero decir que te keroo un buEN =* aunque tambien tengo poquito tiempo conociendote,ya te quero ver en rl, esperemos y si pueda ir para aya..!*\nYa quiero abrasartee.. tocarte... olerte.. etc. jijiji\nbuenoo RECuerDa. QUE TE keroo...\nbesos..=* mauck.\nCOn cariño: Paola       (Minna-nia)" Editor="Minna-Nia"}, 2644}
+5-8: ProtectionZone, Content={429, 3050 SavedExpireTime=1798, 3061, 2644}
+5-9: Content={429, 1295, 2910}
+5-10: ProtectionZone, Content={429, 2971 KeyNumber=3702, 3061}
+5-11: ProtectionZone, Content={429, 3027 Amount=3, 3061}
+5-12: Content={429, 1295}
+5-17: Content={1295, 2910}
+5-18: ProtectionZone, Content={429, 3583 Amount=10, 2469 Content={2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659}}
+5-19: ProtectionZone, Content={429, 4839}
+5-20: ProtectionZone, Content={429, 4839}
+5-21: ProtectionZone, Content={429, 3583 Amount=50, 2469}
+5-22: Content={429, 1738}
+5-25: Content={1295, 2910}
+5-26: ProtectionZone, Content={429, 3135, 2667}
+5-27: ProtectionZone, Content={429, 2867 Content={3425, 3425, 3425}, 2867 Content={3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411}, 2854 Content={3077, 3457, 3457, 3003, 3456, 3456, 3483, 3483, 3483, 2920, 3453, 2969 KeyNumber=5010, 2973 KeyNumber=3520, 3059}, 2867 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410}, 2667}
+5-28: ProtectionZone, Content={429, 3135, 3135, 3147, 2667}
+5-29: ProtectionZone, Content={429, 2667}
+5-30: Content={429, 1295}
+6-6: Content={1738}
+6-7: ProtectionZone, Content={429, 3061, 2644}
+6-8: ProtectionZone, Content={429, 3061, 3061, 2644}
+6-9: Content={429, 1295}
+6-10: ProtectionZone, Content={429, 2971 KeyNumber=3702, 3061}
+6-11: ProtectionZone, Content={429, 3061, 2865 Content={3349, 3446 Amount=57, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2867 Content={3557, 3557, 3557, 3557, 3557, 3557, 3557, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={2969 KeyNumber=5010, 3350, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3350, 3350, 3377, 3003, 3271, 3572, 3085 RemainingUses=200, 2949, 2867 Content={2865 Content={2867, 2868 Content={2866 Content={2865 Content={2854}}}}}, 3350}}
+6-12: Content={429, 1295}
+6-17: Content={1738}
+6-18: ProtectionZone, Content={429, 3583 Amount=9, 2469 Content={3409}}
+6-19: ProtectionZone, Content={429, 4839}
+6-20: ProtectionZone, Content={429, 4839}
+6-21: ProtectionZone, Content={429, 3583 Amount=26, 2469}
+6-22: Content={429, 1295}
+6-25: Content={1738}
+6-26: ProtectionZone, Content={429, 2667}
+6-27: ProtectionZone, Content={429, 3473, 2667}
+6-28: ProtectionZone, Content={429, 3059, 3466, 3469, 3469, 3469, 3505 String="Estan chidos\n\nDespues vemos como organizamos\n\nSaludos\n\nBuce" Editor="Buceador", 2920 SavedExpireTime=599, 3473, 3464, 2880, 2880, 3463, 2989, 2906, 2911 SavedExpireTime=2998, 2911 SavedExpireTime=2990, 2826 String="Mystic Rituals of the Ancient Trolls", 2667, 2667}
+6-29: ProtectionZone, Content={429, 2667}
+6-30: Content={429, 1738}
+7-6: Content={1303}
+7-7: Content={429, 1294}
+7-8: ProtectionZone, Content={429, 1639 String="# Players allowed to open this door\nvan'fanel"}
+7-9: Content={429, 1300}
+7-10: Content={429, 1294}
+7-11: ProtectionZone, Content={429, 1638 String="# Players allowed to open this door\nvan'fanel\nZyred Kronus"}
+7-12: Content={429, 1302}
+7-17: Content={1295, 2656}
+7-18: ProtectionZone, Content={411}
+7-19: ProtectionZone, Content={429, 3583 Amount=22, 2469}
+7-20: ProtectionZone, Content={429, 3583 Amount=9, 2469}
+7-21: ProtectionZone, Content={429, 3583 Amount=26, 2469}
+7-22: Content={429, 1295}
+7-25: Content={1295, 2639}
+7-26: ProtectionZone, Content={411}
+7-27: ProtectionZone, Content={429, 2667}
+7-28: ProtectionZone, Content={429, 3135, 3298 Amount=1, 3338, 3301, 3285}
+7-29: ProtectionZone, Content={429, 2667}
+7-30: Content={429, 1295}
+8-6: Content={2162}
+8-7: ProtectionZone, Content={411}
+8-8: ProtectionZone, Content={429, 3049 SavedExpireTime=3, 3029 Amount=8, 3033 Amount=60, 3072, 3042 Amount=25, 2667, 2469}
+8-9: ProtectionZone, Content={429, 3051, 3028 Amount=5, 3037, 3032 Amount=26, 3072, 3042 Amount=29, 2667, 2469}
+8-10: ProtectionZone, Content={429, 3049 SavedExpireTime=93, 3028 Amount=5, 3039, 3032 Amount=28, 3072, 3042 Amount=25, 2667, 2469}
+8-11: ProtectionZone, Content={429, 3098, 3029 Amount=8, 3033 Amount=61, 3072, 3042 Amount=26, 2667, 2469}
+8-12: Content={429, 2162}
+8-17: Content={1297}
+8-18: Content={429, 1294}
+8-19: Content={429, 1294}
+8-20: Content={429, 1739}
+8-21: Content={429, 1294}
+8-22: Content={429, 1298}
+8-25: Content={1297}
+8-26: Content={429, 1294}
+8-27: Content={429, 1294}
+8-28: Content={429, 1739}
+8-29: Content={429, 1294}
+8-30: Content={429, 1298}
+9-6: Content={2162}
+9-7: Content={429, 2164}
+9-8: Content={429, 2164}
+9-9: Content={429, 2164}
+9-10: Content={429, 2164}
+9-11: Content={429, 2164}
+9-12: Content={429, 2168}
+15-15: Content={1296}
+15-16: Content={1294}
+15-17: Content={1739}
+15-18: Content={1301}
+15-19: Content={1294}
+15-20: Content={1294, 2907}
+15-21: Content={1739}
+15-22: Content={1299}
+16-6: Content={1296}
+16-7: Content={1294}
+16-8: Content={1739}
+16-9: Content={1294}
+16-10: Content={1299}
+16-15: Content={1295}
+16-16: ProtectionZone, Content={432}
+16-17: ProtectionZone, Content={408}
+16-18: Content={408, 1295}
+16-19: ProtectionZone, Content={408, 3160 Charges=1, 2469 Content={2869, 2856}}
+16-20: ProtectionZone, Content={408, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3568}
+16-21: ProtectionZone, Content={408, 2493}
+16-22: Content={408, 1295}
+17-6: Content={1295}
+17-7: ProtectionZone, Content={411}
+17-8: ProtectionZone, Content={429}
+17-9: ProtectionZone, Content={429}
+17-10: Content={429, 1295}
+17-15: Content={1738}
+17-16: ProtectionZone, Content={408}
+17-17: ProtectionZone, Content={408}
+17-18: ProtectionZone, Content={408, 1640 String="# Players allowed to open this door\nMaxwell San\nRolot\nUnsolved"}
+17-19: ProtectionZone, Content={408, 3031 Amount=63, 3071, 2853 Content={2854, 3074, 3503 Content={3046 SavedExpireTime=1756, 3574, 3507 String="Sazuki San\nThais" Editor="Sazuki San"}, 3572}, 2868 Content={3051, 3732 Amount=3, 3042 Amount=1, 3725 Amount=1, 3727 Amount=1, 3091, 3051 SavedExpireTime=585, 3505 String="waarom koop je focking 6 bp bolts?? we need uhs.." Editor="Sazuki San", 3029 Amount=1, 2968 KeyNumber=3940, 3728 Amount=1, 3148 Charges=1, 3449 Amount=72}, 2867 Content={3446 Amount=1, 3446 Amount=22, 2854 Content={2872}, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3030 Amount=1, 3027 Amount=1, 3271}
+17-20: ProtectionZone, Content={408, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3409}}
+17-21: ProtectionZone, Content={408, 2494}
+17-22: Content={408, 1295}
+18-6: Content={1295}
+18-7: ProtectionZone, Content={429}
+18-8: ProtectionZone, Content={429}
+18-9: ProtectionZone, Content={429}
+18-10: Content={429, 1738}
+18-15: Content={1295, 2909}
+18-16: ProtectionZone, Content={408, 2982}
+18-17: ProtectionZone, Content={408}
+18-18: Content={408, 1295, 2664 RemainingExpireTime=171}
+18-19: ProtectionZone, Content={408, 3198 Charges=5, 2469}
+18-20: ProtectionZone, Content={408, 3568}
+18-21: ProtectionZone, Content={408, 2869 Content={3322, 2854 Content={3286, 3084 RemainingUses=250, 3352, 3085 RemainingUses=158, 3008}, 3075, 2854 Content={2866 Content={3409, 2871 Content={3409, 3349, 3349, 3409, 3349, 3409, 3349, 3409, 3349, 3409, 3409, 3275, 3349}, 3301, 3449 Amount=1, 2869 Content={3583 Amount=28, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100}, 2867 Content={3557, 3557, 2869 Content={3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557}, 2869 Content={3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557}, 2867 Content={3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557, 3557}}, 3275, 2867 Content={3351, 2869 Content={3351, 3351, 3351, 3351, 3351, 3351}}}}, 2871 Content={3556, 2903}, 3449 Amount=100, 2865, 2869 Content={2853 Content={2853 Content={2853 Content={2853}}}, 2858 Content={2853}}, 2867 Content={2870}, 2867 Content={2866}, 2867 Content={2868 Content={2865 Content={2854}}}, 2866 Content={2866 Content={2869}}}, 2469 Content={2469 Content={2469 Content={2880 ContainerLiquidType=2, 2469}}, 2469 Content={2469}}}
+18-22: Content={408, 1295}
+19-6: Content={1295, 2910}
+19-7: ProtectionZone, Content={429}
+19-8: ProtectionZone, Content={429}
+19-9: ProtectionZone, Content={429}
+19-10: Content={429, 1295}
+19-15: Content={1303}
+19-16: Content={408, 1294, 2931}
+19-17: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\n\nUruhaii\nUnsolved\nRolot"}
+19-18: Content={408, 1300}
+19-19: Content={408, 1294}
+19-20: Content={408, 1294, 2931}
+19-21: Content={408, 1739}
+19-22: Content={408, 1298}
+19-23: Content={450}
+20-6: Content={1738}
+20-7: ProtectionZone, Content={429}
+20-8: ProtectionZone, Content={429}
+20-9: ProtectionZone, Content={429}
+20-10: Content={429, 1295}
+20-15: Content={2154, 439}
+20-16: ProtectionZone, Content={408, 2903, 3279, 3061, 3449 Amount=10, 2469}
+20-17: ProtectionZone, Content={408}
+20-18: ProtectionZone, Content={408}
+20-19: ProtectionZone, Content={408}
+20-20: ProtectionZone, Content={408}
+20-21: ProtectionZone, Content={408}
+20-22: ProtectionZone, Content={408, 2903, 3279, 3061, 3449 Amount=100, 2469}
+20-23: Content={2155, 440}
+21-6: Content={1297}
+21-7: Content={429, 1294}
+21-8: Content={429, 1294}
+21-9: Content={429, 1739}
+21-10: Content={429, 1298}
+21-15: Content={2154, 439, 448, 439}
+21-16: ProtectionZone, Content={408, 2903, 3071, 3061, 3449 Amount=10, 2469 Content={3377, 3505 String="I'm STILL ALIVE!  \n\n\n=***** HOW ARE YOU HUN?!! \n\n\nI'm fine ^^ was in holidayyysss y4eye!\n\n\n;**\nYour noobie Antanis" Editor="Antanis", 2854 Content={3097 SavedExpireTime=737, 3289, 3289, 3031 Amount=10}, 2868 Content={2853, 3301, 3350, 3027 Amount=1, 3353, 3031 Amount=7, 3031 Amount=100, 3031 Amount=100, 3357, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2868 Content={3268}, 3074, 3465}}
+21-17: ProtectionZone, Content={408}
+21-18: ProtectionZone, Content={408, 2376}
+21-19: ProtectionZone, Content={408, 4839, 2316}
+21-20: ProtectionZone, Content={408, 2376}
+21-21: ProtectionZone, Content={408}
+21-22: ProtectionZone, Content={408, 2903, 3071, 3061, 3449 Amount=49, 2469}
+21-23: Content={2155, 440}
+22-15: Content={448}
+22-16: Content={2159, 442}
+22-17: Content={2157, 442}
+22-18: Content={2157, 442}
+22-19: Content={2157, 442}
+22-20: Content={2157, 442}
+22-21: Content={2157, 442}
+22-22: Content={2157, 442}
+22-23: Content={449}
+28-1: Content={1296}
+28-2: Content={1294}
+28-3: Content={1294, 2908}
+28-4: Content={1299}
+29-1: Content={1295}
+29-2: ProtectionZone, Content={429, 1948}
+29-3: ProtectionZone, Content={429}
+29-4: Content={429, 1295}
+30-1: Content={1295}
+30-2: ProtectionZone, Content={411}
+30-3: ProtectionZone, Content={429}
+30-4: Content={429, 1295}
+31-1: Content={1297}
+31-2: Content={429, 1294}
+31-3: Content={429, 1739}
+31-4: Content={429, 1298}
+31-12: Content={1296}
+31-13: Content={1294, 2659}
+31-14: Content={1739}
+31-15: Content={1294, 2908}
+31-16: Content={1739}
+31-17: Content={1294, 2659}
+31-18: Content={1299}

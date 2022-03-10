@@ -1,0 +1,11 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-24: Content={1515}
+00-25: Content={486, 1512}
+00-26: Content={486, 1524}
+00-27: Content={486, 1524}
+00-28: Content={486, 1516, 2256}
+00-29: Content={2271}
+00-30: Content={2287}
+00-31: Content={1523, 2285, 2256}

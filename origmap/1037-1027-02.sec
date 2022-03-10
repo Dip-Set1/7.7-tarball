@@ -1,0 +1,12 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+13-07: ProtectionZone, Content={471}
+13-08: ProtectionZone, Content={466}
+13-09: ProtectionZone, Content={473}
+14-07: ProtectionZone, Content={465}
+14-08: Refresh, ProtectionZone, Content={415}
+14-09: ProtectionZone, Content={451}
+15-07: ProtectionZone, Content={472}
+15-08: ProtectionZone, Content={467}
+15-09: ProtectionZone, Content={474}

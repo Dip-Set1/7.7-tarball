@@ -1,0 +1,44 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+06-30: Content={1271}
+08-26: Content={1272}
+10-00: Content={4515, 1111}
+10-26: Content={1272}
+10-31: Content={1270}
+11-00: Content={4515, 1107}
+11-01: Content={4530, 1111}
+12-00: Content={4521}
+12-01: Content={4515, 1102}
+13-00: Content={4518, 1106}
+13-01: Content={4515, 1110}
+14-00: Content={4515, 1110}
+16-29: Content={466}
+16-30: Content={466}
+17-28: Content={4403, 1108}
+17-29: Content={4403, 1103}
+17-30: Content={4406, 1111}
+18-28: Content={4406, 1100}
+18-29: Content={4404, 1106}
+18-30: Content={4399, 1110}
+19-27: Content={4406, 1108}
+19-28: Content={4399, 1104}
+19-29: Content={4409, 1102}
+20-26: Content={4405, 1108}
+20-27: Content={4405, 1104}
+20-28: Content={4397}
+20-29: Content={4394, 1102}
+21-26: Content={4406, 1100}
+21-27: Content={4406}
+21-28: Content={4404, 1106}
+21-29: Content={4406, 1110}
+22-26: Content={4409, 1100}
+22-27: Content={4409}
+22-28: Content={4407, 1102}
+23-26: Content={4402, 1109}
+23-27: Content={4407, 1105}
+23-28: Content={4402, 1102}
+24-27: Content={4399, 1100}
+24-28: Content={4409, 1102}
+25-27: Content={4406, 1109}
+25-28: Content={4406, 1110}

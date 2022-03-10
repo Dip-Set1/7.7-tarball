@@ -1,0 +1,133 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-18: Refresh, 
+00-19: Refresh, 
+00-20: Refresh, Content={4515, 1109}
+00-21: Refresh, Content={4515, 1101}
+00-22: Refresh, Content={4515, 1105, 1791}
+00-23: Refresh, Content={4528}
+00-24: Refresh, Content={4530, 1102}
+00-25: Refresh, 
+00-26: Refresh, 
+01-18: Refresh, 
+01-19: Refresh, 
+01-20: Refresh, 
+01-21: Refresh, 
+01-22: Refresh, Content={4519, 1109}
+01-23: Refresh, Content={4515, 1101}
+01-24: Refresh, Content={4515, 1110}
+01-25: Refresh, 
+01-26: Refresh, 
+04-28: Content={1283}
+04-29: Content={1281}
+04-30: Content={1281}
+04-31: Content={1288}
+05-28: Content={1282}
+05-29: ProtectionZone, Content={408, 2491}
+05-30: ProtectionZone, Content={408, 2492}
+05-31: Content={408, 1282}
+06-28: Content={1282, 2909}
+06-29: ProtectionZone, Content={408}
+06-30: ProtectionZone, Content={408}
+06-31: Content={408, 1282, 2909}
+07-28: Content={1734}
+07-29: ProtectionZone, Content={408}
+07-30: ProtectionZone, Content={408}
+07-31: Content={408, 1282}
+08-28: Content={1290}
+08-29: Content={408, 1281}
+08-30: ProtectionZone, Content={408, 1638}
+08-31: Content={408, 1291}
+09-28: Content={1282}
+09-29: ProtectionZone, Content={408}
+09-30: ProtectionZone, Content={408}
+09-31: Content={408, 1282}
+10-28: Content={1282, 2598}
+10-29: ProtectionZone, Content={408}
+10-30: ProtectionZone, Content={408}
+10-31: Content={408, 1282, 2909}
+11-00: Content={1735}
+11-01: Content={1281, 2907}
+11-02: Content={1735}
+11-03: Content={1281}
+11-04: Content={1286}
+11-05: Refresh, Content={441}
+11-06: Refresh, Content={441}
+11-07: Refresh, Content={441}
+11-08: Refresh, Content={450}
+11-28: Content={1282}
+11-29: ProtectionZone, Content={408, 1948}
+11-30: ProtectionZone, Content={408}
+11-31: ProtectionZone, Content={408, 1640}
+12-00: ProtectionZone, Content={408}
+12-01: ProtectionZone, Content={408}
+12-02: ProtectionZone, Content={408}
+12-03: ProtectionZone, Content={408}
+12-04: Refresh, Content={408, 1282}
+12-05: Refresh, Content={408}
+12-06: Refresh, Content={408}
+12-07: Refresh, Content={408}
+12-08: Refresh, Content={440}
+12-28: Content={1282, 2909}
+12-29: ProtectionZone, Content={432}
+12-30: ProtectionZone, Content={408}
+12-31: Content={408, 1282}
+13-00: ProtectionZone, Content={408}
+13-01: ProtectionZone, Content={408}
+13-02: ProtectionZone, Content={408}
+13-03: ProtectionZone, Content={408}
+13-04: ProtectionZone, Content={408, 1640}
+13-05: Refresh, Content={408}
+13-06: Refresh, Content={408}
+13-07: Refresh, Content={408}
+13-08: Refresh, Content={440}
+13-28: Content={1282}
+13-29: ProtectionZone, Content={408}
+13-30: ProtectionZone, Content={408}
+13-31: Content={408, 1282}
+14-00: ProtectionZone, Content={408}
+14-01: ProtectionZone, Content={408}
+14-02: ProtectionZone, Content={408}
+14-03: ProtectionZone, Content={408}
+14-04: Refresh, Content={408, 1282}
+14-05: Refresh, Content={408}
+14-06: Refresh, Content={408}
+14-07: Refresh, Content={408}
+14-08: Refresh, Content={440}
+14-28: Content={1284}
+14-29: Content={408, 1281}
+14-30: Content={408, 1281}
+14-31: Content={408, 1287}
+15-00: ProtectionZone, Content={408}
+15-01: ProtectionZone, Content={408}
+15-02: ProtectionZone, Content={408, 2491}
+15-03: ProtectionZone, Content={408, 2492}
+15-04: Content={408, 1734}
+15-05: Refresh, Content={408}
+15-06: Refresh, Content={432}
+15-07: Refresh, Content={408}
+15-08: Refresh, Content={440}
+16-00: ProtectionZone, Content={408}
+16-01: ProtectionZone, Content={408}
+16-02: ProtectionZone, Content={408, 2491}
+16-03: ProtectionZone, Content={408, 2492}
+16-04: Content={408, 1734}
+16-05: Refresh, Content={408}
+16-06: Refresh, Content={408}
+16-07: Refresh, Content={408}
+16-08: Refresh, Content={440}
+17-00: Content={408, 1735}
+17-01: Content={408, 1281}
+17-02: Content={408, 1735}
+17-03: Content={408, 1281}
+17-04: Content={408, 1285}
+17-05: Refresh, Content={408, 2526}
+17-06: Refresh, Content={408}
+17-07: Refresh, Content={408}
+17-08: Refresh, Content={440}
+18-04: Content={448}
+18-05: Refresh, Content={442}
+18-06: Refresh, Content={442}
+18-07: Refresh, Content={442}
+18-08: Refresh, Content={449}

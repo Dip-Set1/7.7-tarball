@@ -1,0 +1,159 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1013/1011/3
+
+16-8: Content={1155}
+16-9: Content={2156, 1154}
+16-10: Content={2156, 1154}
+16-11: Content={2156, 1154}
+16-12: Content={2156, 1154}
+16-13: Content={2156, 1154}
+16-14: Content={2156, 1154}
+16-15: Content={2156, 1154}
+16-16: Content={2156, 1154}
+16-17: Content={2156, 1154}
+16-18: Content={2156, 1154}
+16-19: Content={5054}
+17-8: Content={2154, 1153}
+17-9: ProtectionZone, Content={1152, 3447 Amount=10}
+17-10: ProtectionZone, Content={1152, 3031 Amount=1}
+17-11: ProtectionZone, Content={1152, 3723 Amount=1}
+17-12: ProtectionZone, Content={1152}
+17-13: ProtectionZone, Content={1152}
+17-14: ProtectionZone, Content={1152}
+17-15: ProtectionZone, Content={1152}
+17-16: ProtectionZone, Content={1152}
+17-17: ProtectionZone, Content={1152}
+17-18: Content={1152, 2154}
+17-19: Content={5052}
+18-8: Content={2154, 1153}
+18-9: ProtectionZone, Content={1152, 3447 Amount=10}
+18-10: ProtectionZone, Content={1152, 3031 Amount=1}
+18-11: ProtectionZone, Content={1152, 3723 Amount=1}
+18-12: ProtectionZone, Content={1152}
+18-13: ProtectionZone, Content={1152}
+18-14: ProtectionZone, Content={1152}
+18-15: ProtectionZone, Content={1152}
+18-16: ProtectionZone, Content={1152}
+18-17: ProtectionZone, Content={1152}
+18-18: Content={1152, 2154}
+18-19: Content={5052}
+19-8: Content={2154, 1153}
+19-9: ProtectionZone, Content={1152, 3447 Amount=10}
+19-10: ProtectionZone, Content={1152, 3031 Amount=1}
+19-11: ProtectionZone, Content={1152, 3723 Amount=1}
+19-12: ProtectionZone, Content={1152}
+19-13: ProtectionZone, Content={1152}
+19-14: ProtectionZone, Content={1152}
+19-15: ProtectionZone, Content={1152}
+19-16: ProtectionZone, Content={1152}
+19-17: ProtectionZone, Content={1152}
+19-18: Content={1152, 2154}
+19-19: Content={5052}
+20-8: Content={2154, 1153}
+20-9: ProtectionZone, Content={1152, 3447 Amount=10}
+20-10: ProtectionZone, Content={1152, 3031 Amount=1}
+20-11: ProtectionZone, Content={1152, 3723 Amount=1}
+20-12: ProtectionZone, Content={1152}
+20-13: ProtectionZone, Content={1152}
+20-14: ProtectionZone, Content={1152}
+20-15: ProtectionZone, Content={1152}
+20-16: ProtectionZone, Content={1152}
+20-17: ProtectionZone, Content={1152}
+20-18: Content={1152, 2154}
+20-19: Content={5052}
+21-8: Content={2154, 1153}
+21-9: ProtectionZone, Content={1152, 3447 Amount=10}
+21-10: ProtectionZone, Content={1152, 3031 Amount=1}
+21-11: ProtectionZone, Content={1152, 3723 Amount=1}
+21-12: ProtectionZone, Content={1152}
+21-13: ProtectionZone, Content={1152}
+21-14: ProtectionZone, Content={1152}
+21-15: ProtectionZone, Content={1152}
+21-16: ProtectionZone, Content={1152}
+21-17: ProtectionZone, Content={1152}
+21-18: Content={1152, 2154}
+21-19: Content={5052}
+22-8: Content={2154, 1153}
+22-9: ProtectionZone, Content={1152, 3447 Amount=10}
+22-10: ProtectionZone, Content={1152, 3031 Amount=1}
+22-11: ProtectionZone, Content={1152, 3723 Amount=1}
+22-12: ProtectionZone, Content={1152}
+22-13: ProtectionZone, Content={1152}
+22-14: Content={1156}
+22-15: ProtectionZone, Content={1152}
+22-16: ProtectionZone, Content={1152}
+22-17: ProtectionZone, Content={1152}
+22-18: Content={1152, 2154}
+22-19: Content={5052}
+23-8: Content={2154, 1153}
+23-9: ProtectionZone, Content={1152, 3447 Amount=10}
+23-10: ProtectionZone, Content={1152, 3031 Amount=1}
+23-11: ProtectionZone, Content={1152, 3723 Amount=1}
+23-12: ProtectionZone, Content={1152}
+23-13: ProtectionZone, Content={1152}
+23-14: ProtectionZone, Content={1152}
+23-15: ProtectionZone, Content={1152}
+23-16: ProtectionZone, Content={1152}
+23-17: ProtectionZone, Content={1152}
+23-18: Content={1152, 2154}
+23-19: Content={5052}
+24-8: Content={2154, 1153}
+24-9: ProtectionZone, Content={1152, 3447 Amount=10}
+24-10: ProtectionZone, Content={1152, 3031 Amount=1}
+24-11: ProtectionZone, Content={1152, 3723 Amount=1}
+24-12: ProtectionZone, Content={1152}
+24-13: ProtectionZone, Content={1152}
+24-14: ProtectionZone, Content={1152}
+24-15: ProtectionZone, Content={1152}
+24-16: ProtectionZone, Content={1152}
+24-17: ProtectionZone, Content={1152}
+24-18: Content={1152, 2154}
+24-19: Content={5052}
+25-8: Content={2154, 1153}
+25-9: ProtectionZone, Content={1152, 3447 Amount=10}
+25-10: ProtectionZone, Content={1152, 3031 Amount=1}
+25-11: ProtectionZone, Content={1152, 3723 Amount=1}
+25-12: ProtectionZone, Content={1152}
+25-13: ProtectionZone, Content={1152}
+25-14: ProtectionZone, Content={1152}
+25-15: ProtectionZone, Content={1152}
+25-16: ProtectionZone, Content={1152}
+25-17: ProtectionZone, Content={1152}
+25-18: Content={1152, 2154}
+25-19: Content={5052}
+26-8: Content={2154, 1153}
+26-9: ProtectionZone, Content={1152, 3447 Amount=10}
+26-10: ProtectionZone, Content={1152, 3031 Amount=1}
+26-11: ProtectionZone, Content={1152, 3723 Amount=1}
+26-12: ProtectionZone, Content={1152}
+26-13: ProtectionZone, Content={1152}
+26-14: ProtectionZone, Content={1152}
+26-15: ProtectionZone, Content={1152}
+26-16: ProtectionZone, Content={1152}
+26-17: ProtectionZone, Content={1152}
+26-18: Content={1152, 2154}
+26-19: Content={5052}
+27-8: Content={2154, 1153}
+27-9: Content={1152, 2156}
+27-10: Content={1152, 2156}
+27-11: Content={1152, 2156}
+27-12: Content={1152, 2156}
+27-13: Content={1152, 2156}
+27-14: Content={1152, 2156}
+27-15: Content={1152, 2156}
+27-16: Content={1152, 2156}
+27-17: Content={1152, 2156}
+27-18: Content={1152, 2154, 2156}
+27-19: Content={5052}
+28-8: Content={5048}
+28-9: Content={5049}
+28-10: Content={5049}
+28-11: Content={5049}
+28-12: Content={5049}
+28-13: Content={5049}
+28-14: Content={5049}
+28-15: Content={5049}
+28-16: Content={5049}
+28-17: Content={5049}
+28-18: Content={5049}
+28-19: Content={5050}

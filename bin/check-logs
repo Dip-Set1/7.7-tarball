@@ -1,0 +1,52 @@
+#!/bin/bash
+
+#
+# Durchsucht logfiles nach bestimmten Mustern und versendet
+# das Ergebnis per mail
+#
+
+#
+# selbst bremsen
+cd /proc/self
+OWNPID=`cat stat `
+OWNPID=`expr "$OWNPID" : "\([0-9]*\).*" `
+renice +5 -p $OWNPID > /dev/null
+
+LC_CTYPE=POSIX
+MAILTO=cipwatch@cipsoft.com
+FILEDATE=`date -d "yesterday" +"%a, %d. %b %Y" `
+HOSTNAME=`/bin/hostname -s 2>/dev/null || /bin/hostname 2>/dev/null `
+
+
+function search_log()
+# $1 LogFile
+# $2 Subject
+# $3 Searchstring 
+# $4 1 => keine file not found benachrichtigung
+{
+  test -e "$1" || { 
+    test -z "$4" && { echo "File $1 not found." | mail -s "$2" $MAILTO ; }
+    return ; 
+  }
+
+  # Temp File anlegen
+  BODYFILE=`mktemp /tmp/check-logs.XXXXXX `
+  
+  # suchen
+  egrep "$3" $1 > $BODYFILE 2>/dev/null
+
+  # Wenn die Dateigroesse 0 ist, haben wir keine Ergebnisse => keine Mail
+  test -s $BODYFILE && cat $BODYFILE | mail -s "$2" $MAILTO
+  #test -s $BODYFILE && cat $BODYFILE
+
+  # delete tmp
+  rm $BODYFILE
+}
+
+
+# error.log
+search_log "/game/log/error.log" \
+           "error.log on $HOSTNAME: $FILEDATE" \
+           "`date -d "yesterday" +"%d.%m.%Y"` +[0123456789:]* +\([0-9]*\): +.*" \
+           "1"
+

@@ -1,0 +1,9 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-17: Content={4945}
+00-18: Content={4956}
+00-23: Content={4945}
+00-24: Content={4956}
+01-17: Content={4946}
+01-23: Content={4946}

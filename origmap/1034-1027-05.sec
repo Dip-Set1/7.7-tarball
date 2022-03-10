@@ -1,0 +1,116 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-12: ProtectionZone, 
+00-13: ProtectionZone, 
+00-14: ProtectionZone, 
+00-15: Refresh, ProtectionZone, 
+00-16: Refresh, ProtectionZone, Content={4921}
+00-17: Refresh, ProtectionZone, Content={4920}
+00-23: Refresh, ProtectionZone, Content={5001}
+00-24: Refresh, ProtectionZone, Content={4920}
+00-25: Refresh, ProtectionZone, Content={4920}
+00-26: Refresh, ProtectionZone, Content={4920}
+00-27: Refresh, ProtectionZone, Content={4920}
+00-28: Refresh, ProtectionZone, Content={4920}
+01-12: ProtectionZone, 
+01-13: ProtectionZone, 
+01-14: Refresh, ProtectionZone, 
+01-15: Refresh, ProtectionZone, Content={408, 4922}
+01-16: Refresh, ProtectionZone, Content={408}
+01-17: Refresh, ProtectionZone, Content={408, 4917}
+01-23: Refresh, ProtectionZone, Content={4917}
+01-24: Refresh, ProtectionZone, Content={432}
+01-25: Refresh, ProtectionZone, Content={408}
+01-26: Refresh, ProtectionZone, Content={408}
+01-27: Refresh, ProtectionZone, Content={408}
+01-28: Refresh, ProtectionZone, Content={408, 4917}
+02-12: ProtectionZone, 
+02-13: Refresh, ProtectionZone, 
+02-14: Refresh, ProtectionZone, Content={408, 4922}
+02-15: Refresh, ProtectionZone, Content={408, 4756}
+02-16: Refresh, ProtectionZone, Content={408, 4754}
+02-17: Refresh, ProtectionZone, Content={408, 4917}
+02-23: Refresh, ProtectionZone, Content={4917}
+02-24: Refresh, ProtectionZone, Content={408}
+02-25: Refresh, ProtectionZone, Content={408}
+02-26: Refresh, ProtectionZone, Content={408}
+02-27: Refresh, ProtectionZone, Content={408}
+02-28: Refresh, ProtectionZone, Content={408, 4917}
+03-12: Refresh, ProtectionZone, 
+03-13: Refresh, ProtectionZone, Content={408, 4922}
+03-14: Refresh, ProtectionZone, Content={432}
+03-15: Refresh, ProtectionZone, Content={408, 4755}
+03-16: Refresh, ProtectionZone, Content={408, 4753}
+03-17: Refresh, ProtectionZone, Content={408, 4917}
+03-23: Refresh, ProtectionZone, Content={4917}
+03-24: Refresh, ProtectionZone, Content={408, 3488}
+03-25: Refresh, ProtectionZone, Content={408}
+03-26: Refresh, ProtectionZone, Content={408}
+03-27: Refresh, ProtectionZone, Content={408}
+03-28: Refresh, ProtectionZone, Content={408, 4917}
+04-12: Refresh, ProtectionZone, Content={4925}
+04-13: Refresh, ProtectionZone, Content={408, 2033}
+04-14: Refresh, ProtectionZone, Content={408}
+04-15: Refresh, ProtectionZone, Content={408, 4940}
+04-16: Refresh, ProtectionZone, Content={408}
+04-17: Refresh, ProtectionZone, Content={408, 4917}
+04-21: Content={4941}
+04-23: Refresh, ProtectionZone, Content={4917}
+04-24: Refresh, ProtectionZone, Content={408, 4962}
+04-25: Refresh, ProtectionZone, Content={408}
+04-26: Refresh, ProtectionZone, Content={408, 4940}
+04-27: Refresh, ProtectionZone, Content={408}
+04-28: Refresh, ProtectionZone, Content={408, 4917}
+05-08: Content={4947}
+05-09: Content={4948}
+05-10: Content={4948}
+05-11: Content={4948}
+05-12: Refresh, ProtectionZone, Content={4949, 4926}
+05-13: Refresh, ProtectionZone, Content={408}
+05-14: Refresh, ProtectionZone, Content={408, 4756}
+05-15: Refresh, ProtectionZone, Content={408, 4754}
+05-16: Refresh, ProtectionZone, Content={408}
+05-17: Refresh, ProtectionZone, Content={408, 4917}
+05-23: Refresh, ProtectionZone, Content={4917}
+05-24: Refresh, ProtectionZone, Content={408, 4961}
+05-25: Refresh, ProtectionZone, Content={408}
+05-26: Refresh, ProtectionZone, Content={408}
+05-27: Refresh, ProtectionZone, Content={408}
+05-28: Refresh, ProtectionZone, Content={408, 4917}
+06-12: ProtectionZone, 
+06-13: Refresh, ProtectionZone, Content={4927}
+06-14: Refresh, ProtectionZone, Content={408, 4755}
+06-15: Refresh, ProtectionZone, Content={408, 4753}
+06-16: Refresh, ProtectionZone, Content={408}
+06-17: Refresh, ProtectionZone, Content={408, 4917}
+06-23: Refresh, ProtectionZone, Content={4917}
+06-24: Refresh, ProtectionZone, Content={408}
+06-25: Refresh, ProtectionZone, Content={408, 4756}
+06-26: Refresh, ProtectionZone, Content={408, 4754}
+06-27: Refresh, ProtectionZone, Content={408}
+06-28: Refresh, ProtectionZone, Content={408, 4917}
+07-12: ProtectionZone, 
+07-13: ProtectionZone, 
+07-14: Refresh, ProtectionZone, Content={4927}
+07-15: Refresh, ProtectionZone, Content={408}
+07-16: Refresh, ProtectionZone, Content={408}
+07-17: Refresh, ProtectionZone, Content={408, 4917}
+07-23: Refresh, ProtectionZone, Content={4917}
+07-24: Refresh, ProtectionZone, Content={408}
+07-25: Refresh, ProtectionZone, Content={408, 4755}
+07-26: Refresh, ProtectionZone, Content={408, 4753}
+07-27: Refresh, ProtectionZone, Content={408}
+07-28: Refresh, ProtectionZone, Content={408, 4917}
+08-12: ProtectionZone, 
+08-13: ProtectionZone, 
+08-14: ProtectionZone, 
+08-15: Refresh, ProtectionZone, Content={4927}
+08-16: Refresh, ProtectionZone, Content={408, 4929}
+08-17: Refresh, ProtectionZone, Content={408, 4930}
+08-23: Refresh, ProtectionZone, Content={4917}
+08-24: Refresh, ProtectionZone, Content={408, 4920}
+08-25: Refresh, ProtectionZone, Content={408, 4920}
+08-26: Refresh, ProtectionZone, Content={408, 4920}
+08-27: Refresh, ProtectionZone, Content={408, 4920}
+08-28: Refresh, ProtectionZone, Content={408, 4930}

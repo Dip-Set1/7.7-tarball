@@ -1,0 +1,150 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1018/989/6
+
+4-0: Refresh, Content={1294}
+4-1: Refresh, Content={2164}
+4-2: Refresh, Content={1294}
+4-3: Refresh, Content={1294}
+4-4: Refresh, Content={2164}
+4-5: Refresh, Content={2164}
+4-6: Refresh, Content={1299}
+5-0: Refresh, Content={429}
+5-1: Refresh, Content={429}
+5-2: Refresh, Content={429}
+5-3: Refresh, Content={429}
+5-4: Refresh, Content={429}
+5-5: Refresh, Content={429}
+5-6: Refresh, Content={429, 1295}
+6-0: Refresh, Content={429, 1294}
+6-1: Refresh, Content={429, 2164}
+6-2: Refresh, Content={429, 1299}
+6-3: Refresh, Content={429}
+6-4: Refresh, Content={429}
+6-5: Refresh, Content={429}
+6-6: Refresh, Content={429, 2162}
+7-0: Refresh, 
+7-1: Refresh, 
+7-2: Refresh, Content={1295}
+7-3: Refresh, Content={432}
+7-4: Refresh, Content={429, 1948}
+7-5: Refresh, Content={429}
+7-6: Refresh, Content={429, 2162}
+8-0: Refresh, 
+8-1: Refresh, 
+8-2: Refresh, Content={1297}
+8-3: Refresh, Content={429, 1294}
+8-4: Refresh, Content={429, 1299}
+8-5: Refresh, Content={429}
+8-6: Refresh, Content={429, 1295}
+9-0: Refresh, 
+9-1: Refresh, 
+9-2: Refresh, 
+9-3: Refresh, 
+9-4: Refresh, Content={1295}
+9-5: Refresh, Content={429}
+9-6: Refresh, Content={429, 1295}
+10-0: Refresh, 
+10-1: Refresh, 
+10-2: Refresh, 
+10-3: Refresh, 
+10-4: Refresh, Content={2162}
+10-5: Refresh, Content={429}
+10-6: Refresh, Content={429, 2162}
+11-0: Refresh, Content={1272}
+11-1: Refresh, 
+11-2: Refresh, 
+11-3: Refresh, 
+11-4: Refresh, Content={1295}
+11-5: Refresh, Content={429}
+11-6: Refresh, Content={429, 1295}
+12-0: Refresh, Content={436, 1272}
+12-1: Refresh, 
+12-2: Refresh, 
+12-3: Refresh, 
+12-4: Refresh, Content={2162}
+12-5: Refresh, Content={429}
+12-6: Refresh, Content={429, 2162}
+13-0: Refresh, Content={436, 1272}
+13-1: Refresh, 
+13-2: Refresh, 
+13-3: Refresh, 
+13-4: Refresh, Content={1295}
+13-5: Refresh, Content={429}
+13-6: Refresh, Content={429, 1295}
+14-0: Refresh, Content={436, 1271, 5068}
+14-1: Refresh, 
+14-2: Refresh, 
+14-3: Refresh, 
+14-4: Refresh, Content={2162}
+14-5: Refresh, Content={429}
+14-6: Refresh, Content={429, 2162}
+15-0: Refresh, Content={436, 1271, 5068}
+15-1: Refresh, 
+15-2: Refresh, 
+15-3: Refresh, 
+15-4: Refresh, Content={1295}
+15-5: Refresh, Content={429}
+15-6: Refresh, Content={429, 1295}
+16-0: Refresh, Content={436, 1271}
+16-1: Refresh, 
+16-2: Refresh, 
+16-3: Refresh, 
+16-4: Refresh, Content={2162}
+16-5: Refresh, Content={429}
+16-6: Refresh, Content={429, 2162}
+17-0: Refresh, Content={436, 1272}
+17-1: Refresh, 
+17-2: Refresh, 
+17-3: Refresh, 
+17-4: Refresh, Content={1295}
+17-5: Refresh, Content={429}
+17-6: Refresh, Content={429, 1295}
+18-0: Refresh, Content={436, 1272}
+18-1: Refresh, 
+18-2: Refresh, 
+18-3: Refresh, 
+18-4: Refresh, Content={2162}
+18-5: Refresh, Content={429}
+18-6: Refresh, Content={429, 2162}
+19-0: Refresh, 
+19-1: Refresh, 
+19-2: Refresh, 
+19-3: Refresh, 
+19-4: Refresh, Content={1295}
+19-5: Refresh, Content={429}
+19-6: Refresh, Content={429, 1295}
+20-0: Refresh, 
+20-1: Refresh, 
+20-2: Refresh, Content={1296}
+20-3: Refresh, Content={1294}
+20-4: Refresh, Content={1298}
+20-5: Refresh, Content={429}
+20-6: Refresh, Content={429, 2162}
+21-0: Refresh, 
+21-1: Refresh, 
+21-2: Refresh, Content={1295}
+21-3: Refresh, Content={429}
+21-4: Refresh, Content={429}
+21-5: Refresh, Content={429}
+21-6: Refresh, Content={429, 1295}
+22-0: Refresh, Content={1294}
+22-1: Refresh, Content={2164}
+22-2: Refresh, Content={1298}
+22-3: Refresh, Content={432}
+22-4: Refresh, Content={429, 1948}
+22-5: Refresh, Content={429}
+22-6: Refresh, Content={429, 2162}
+23-0: Refresh, Content={429}
+23-1: Refresh, Content={429}
+23-2: Refresh, Content={429}
+23-3: Refresh, Content={429}
+23-4: Refresh, Content={429}
+23-5: Refresh, Content={429}
+23-6: Refresh, Content={429, 2162}
+24-0: Refresh, Content={429, 1294}
+24-1: Refresh, Content={429, 2164}
+24-2: Refresh, Content={429, 1294}
+24-3: Refresh, Content={429, 1294}
+24-4: Refresh, Content={429, 2164}
+24-5: Refresh, Content={429, 2164}
+24-6: Refresh, Content={429, 1298}

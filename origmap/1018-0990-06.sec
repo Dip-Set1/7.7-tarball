@@ -1,0 +1,93 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+07-16: Refresh, 
+07-17: Refresh, 
+07-18: Refresh, 
+07-19: Refresh, Content={4459}
+07-20: Refresh, Content={4457}
+07-21: Refresh, 
+07-22: Refresh, 
+08-16: Refresh, 
+08-17: Refresh, Content={4459}
+08-18: Refresh, Content={4457}
+08-19: Refresh, Content={4468}
+08-20: Refresh, Content={1099, 1082}
+08-21: Refresh, 
+08-22: Refresh, 
+09-16: Refresh, Content={4459}
+09-17: Refresh, Content={4468}
+09-18: Refresh, Content={1099}
+09-19: Refresh, Content={1099}
+09-20: Refresh, Content={1099, 1082}
+09-21: Refresh, Content={1127, 4457}
+09-22: Refresh, 
+10-16: Refresh, Content={4458}
+10-17: Refresh, Content={1099}
+10-18: Refresh, Content={1099}
+10-19: Refresh, Content={1099}
+10-20: Refresh, Content={1099}
+10-21: Refresh, Content={1099, 1082}
+10-22: Refresh, Content={1127, 4457}
+11-16: Refresh, Content={4458}
+11-17: Refresh, Content={1099}
+11-18: Refresh, Content={1099}
+11-19: Refresh, Content={1099}
+11-20: Refresh, Content={1099}
+11-21: Refresh, Content={1099}
+11-22: Refresh, Content={1099, 1082}
+12-16: Refresh, Content={4458}
+12-17: Refresh, Content={1099, 1083}
+12-18: Refresh, Content={1099, 1081}
+12-19: Refresh, Content={1099}
+12-20: Refresh, Content={1099}
+12-21: Refresh, Content={1099}
+12-22: Refresh, Content={1099, 1082}
+13-16: Refresh, 
+13-17: Refresh, 
+13-18: Refresh, Content={4458}
+13-19: Refresh, Content={1099}
+13-20: Refresh, Content={1099}
+13-21: Refresh, Content={1099}
+13-22: Refresh, Content={1099, 1085}
+14-16: Refresh, 
+14-17: Refresh, 
+14-18: Refresh, Content={4458}
+14-19: Refresh, Content={1099, 1081}
+14-20: Refresh, Content={1099}
+14-21: Refresh, Content={1099, 1085}
+14-22: Refresh, 
+15-16: Refresh, 
+15-17: Refresh, 
+15-18: Refresh, 
+15-19: Refresh, Content={4458}
+15-20: Refresh, Content={1099, 1085}
+15-21: Refresh, 
+15-22: Refresh, 
+25-22: Content={1127}
+25-23: Content={1127}
+25-24: Content={1127}
+25-25: Content={1127}
+25-26: Content={1127}
+26-21: Content={1127}
+26-22: Content={1127}
+26-23: Content={1127}
+26-24: Content={1127}
+26-25: Content={1127}
+26-26: Content={1127}
+26-27: Content={1127}
+27-22: Content={1127}
+27-23: Content={1127}
+27-24: Content={1127}
+27-25: Content={1127}
+27-26: Content={1127}
+27-27: Content={1127}
+28-22: Content={1127}
+28-23: Content={1127}
+28-24: Content={1127}
+28-25: Content={1127}
+28-26: Content={1127}
+29-23: Content={1127}
+29-24: Content={1127}
+29-25: Content={1127}
+30-24: Content={1127}

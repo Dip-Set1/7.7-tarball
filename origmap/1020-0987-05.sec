@@ -1,0 +1,203 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-12: Refresh, Content={1155}
+00-13: Refresh, Content={1154}
+00-14: Refresh, Content={1154}
+00-15: Refresh, Content={1154}
+00-16: Refresh, Content={1154}
+00-17: Refresh, Content={1154}
+00-18: Refresh, Content={1154}
+00-19: Refresh, Content={1154}
+00-20: Refresh, Content={1154}
+00-21: Content={5054}
+01-12: Refresh, Content={1153}
+01-13: Refresh, Content={1152}
+01-14: Refresh, Content={1152}
+01-15: Refresh, Content={1152}
+01-16: Refresh, Content={1152}
+01-17: Refresh, Content={1152}
+01-18: Refresh, Content={1152}
+01-19: Refresh, Content={1152}
+01-20: Refresh, Content={1152}
+01-21: Content={5052}
+02-12: Refresh, Content={1153}
+02-13: Refresh, Content={1152}
+02-14: Refresh, Content={1152}
+02-15: Refresh, Content={1152}
+02-16: Refresh, Content={1152}
+02-17: Refresh, Content={1152}
+02-18: Refresh, Content={1152}
+02-19: Refresh, Content={1152}
+02-20: Refresh, Content={1152}
+02-21: Content={5052}
+03-12: Refresh, Content={1153}
+03-13: Refresh, Content={1152}
+03-14: Refresh, Content={1152}
+03-15: Refresh, Content={1152}
+03-16: Refresh, Content={1152}
+03-17: Refresh, Content={1152}
+03-18: Refresh, Content={1152}
+03-19: Refresh, Content={1152}
+03-20: Refresh, Content={1152}
+03-21: Content={5052}
+03-31: Refresh, Content={4518, 1108}
+04-12: Refresh, Content={1153}
+04-13: Refresh, Content={1152}
+04-14: Refresh, Content={1152}
+04-15: Refresh, Content={1152}
+04-16: Refresh, Content={1152}
+04-17: Refresh, Content={1152}
+04-18: Refresh, Content={1152}
+04-19: Refresh, Content={1152}
+04-20: Refresh, Content={1152}
+04-21: Content={5052}
+04-30: Refresh, Content={4526, 1108}
+04-31: Refresh, Content={4520, 1104}
+05-12: Refresh, Content={1153}
+05-13: Refresh, Content={1152}
+05-14: Refresh, Content={1152}
+05-15: Refresh, Content={1152}
+05-16: Refresh, Content={1152}
+05-17: Refresh, Content={1152}
+05-18: Refresh, Content={1152}
+05-19: Refresh, Content={1152}
+05-20: Refresh, Content={1152}
+05-21: Content={5052}
+05-30: Refresh, Content={4515, 1109}
+05-31: Refresh, Content={4515, 1105}
+06-12: Refresh, Content={1153}
+06-13: Refresh, Content={1152}
+06-14: Refresh, Content={1152}
+06-15: Refresh, Content={1152}
+06-16: Refresh, Content={1152}
+06-17: Refresh, Content={1152}
+06-18: Refresh, Content={1152}
+06-19: Refresh, Content={1152}
+06-20: Refresh, Content={1152}
+06-21: Content={5052}
+06-31: Refresh, Content={4530, 1109}
+07-12: Refresh, Content={5048}
+07-13: Refresh, Content={5049}
+07-14: Refresh, Content={5049}
+07-15: Refresh, Content={5049}
+07-16: Refresh, Content={5049}
+07-17: Refresh, Content={5049}
+07-18: Refresh, Content={5049}
+07-19: Refresh, Content={5049}
+07-20: Refresh, Content={5049}
+07-21: Content={5050}
+19-14: Refresh, 
+19-15: Refresh, Content={4522, 1108, 3634}
+19-16: Refresh, Content={4526, 1103, 3681}
+19-17: Refresh, Content={4522, 1103, 3657}
+19-18: Refresh, Content={4527, 1111, 3683}
+19-19: Refresh, 
+20-14: Refresh, 
+20-15: Refresh, Content={4517, 1100, 3618}
+20-16: Refresh, Content={4519, 3664}
+20-17: Refresh, Content={4515, 3631}
+20-18: Refresh, Content={4515, 1107, 3666}
+20-19: Refresh, Content={4524, 1111, 3667}
+21-14: Refresh, 
+21-15: Refresh, Content={4525, 1100, 3683}
+21-16: Refresh, Content={4515, 3666}
+21-17: Refresh, Content={4515, 3627}
+21-18: Refresh, Content={4515, 3619}
+21-19: Refresh, Content={4515, 1102, 3663}
+22-14: Refresh, Content={4515, 1108}
+22-15: Refresh, Content={4515, 1104, 3624}
+22-16: Refresh, Content={4526, 3665}
+22-17: Refresh, Content={4519, 3628, 3665}
+22-18: Refresh, Content={4515, 1106, 3664}
+22-19: Refresh, Content={4515, 1110, 3633, 3657}
+23-14: Refresh, Content={4525, 1109, 3617}
+23-15: Refresh, Content={4526, 1105, 3614}
+23-16: Refresh, Content={4517, 3666}
+23-17: Refresh, Content={4521, 1106, 3625}
+23-18: Refresh, Content={4522, 1110, 3682}
+23-19: Refresh, 
+24-14: Refresh, 
+24-15: Refresh, Content={4529, 1109, 3632, 3656}
+24-16: Refresh, Content={4515, 1101, 3663}
+24-17: Refresh, Content={4517, 1110, 3681}
+24-18: Refresh, 
+24-19: Refresh, 
+24-20: Refresh, 
+24-21: Refresh, 
+24-22: Refresh, 
+24-23: Refresh, Content={1155}
+24-24: Refresh, Content={1154}
+24-25: Refresh, Content={1154}
+24-26: Refresh, Content={1154}
+24-27: Refresh, Content={1154}
+24-28: Content={5054}
+25-14: Refresh, 
+25-15: Refresh, 
+25-16: Refresh, Content={1127, 3623}
+25-17: Refresh, 
+25-18: Refresh, 
+25-19: Refresh, 
+25-20: Refresh, Content={1155}
+25-21: Refresh, Content={1154}
+25-22: Refresh, Content={1154}
+25-23: Refresh, Content={1153, 1154}
+25-24: Refresh, Content={1152}
+25-25: Refresh, Content={1152}
+25-26: Refresh, Content={1152}
+25-27: Refresh, Content={1152}
+25-28: Content={5052}
+26-20: Refresh, Content={1153}
+26-21: Refresh, Content={1152}
+26-22: Refresh, Content={1152}
+26-23: Refresh, Content={1152}
+26-24: Refresh, Content={1152}
+26-25: Refresh, Content={1152}
+26-26: Refresh, Content={1152}
+26-27: Refresh, Content={1152}
+26-28: Content={5052}
+27-20: Refresh, Content={1153}
+27-21: Refresh, Content={1152}
+27-22: Refresh, Content={1152}
+27-23: Refresh, Content={1152}
+27-24: Refresh, Content={1152}
+27-25: Refresh, Content={1152}
+27-26: Refresh, Content={1152}
+27-27: Refresh, Content={1152}
+27-28: Content={5052}
+28-20: Refresh, Content={1153}
+28-21: Refresh, Content={1152}
+28-22: Refresh, Content={1152}
+28-23: Refresh, Content={1152}
+28-24: Refresh, Content={1152}
+28-25: Refresh, Content={1152}
+28-26: Refresh, Content={1152}
+28-27: Refresh, Content={1152}
+28-28: Content={5052}
+29-20: Refresh, Content={1153}
+29-21: Refresh, Content={1152}
+29-22: Refresh, Content={1152}
+29-23: Refresh, Content={1152}
+29-24: Refresh, Content={1152}
+29-25: Refresh, Content={1152}
+29-26: Refresh, Content={1152}
+29-27: Refresh, Content={1152}
+29-28: Content={5052}
+30-20: Refresh, Content={1153}
+30-21: Refresh, Content={1152}
+30-22: Refresh, Content={1152}
+30-23: Refresh, Content={1152}
+30-24: Refresh, Content={1152}
+30-25: Refresh, Content={1152}
+30-26: Refresh, Content={1152}
+30-27: Refresh, Content={1152}
+30-28: Content={5052}
+31-20: Refresh, Content={1153}
+31-21: Refresh, Content={1152}
+31-22: Refresh, Content={1152}
+31-23: Refresh, Content={1152}
+31-24: Refresh, Content={1152}
+31-25: Refresh, Content={1152}
+31-26: Refresh, Content={1152}
+31-27: Refresh, Content={1152}
+31-28: Content={5052}

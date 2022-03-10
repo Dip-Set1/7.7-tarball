@@ -1,0 +1,65 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-02: Refresh, Content={1115}
+00-03: Refresh, Content={104, 1112}
+00-04: Refresh, Content={104, 1112}
+00-05: Refresh, Content={104, 1112}
+00-06: Refresh, Content={104, 1116}
+00-07: Refresh, Content={104, 1105, 1107}
+00-08: Refresh, Content={104, 1103}
+00-09: Refresh, Content={104, 1106, 1104}
+00-10: Refresh, Content={104, 1110}
+00-28: Refresh, Content={410}
+00-29: Refresh, Content={410, 1271}
+00-30: Refresh, Content={410, 2558 ChestQuestNumber=76 Content={2969 KeyNumber=3008}}
+00-31: Refresh, Content={410}
+01-02: Refresh, 
+01-03: Refresh, 
+01-04: Refresh, 
+01-05: Refresh, 
+01-06: Refresh, Content={1127, 389}
+01-07: Refresh, Content={104, 1109}
+01-08: Refresh, Content={104, 1101}
+01-09: Refresh, Content={104, 1110}
+01-10: Refresh, 
+01-28: Refresh, Content={410}
+01-29: Refresh, Content={410, 1271}
+01-30: Refresh, Content={410, 2436}
+01-31: Refresh, Content={410}
+02-28: Refresh, Content={410}
+02-29: Refresh, Content={410, 1279}
+02-30: Refresh, Content={410, 1270}
+02-31: Refresh, Content={410, 1275}
+03-28: Refresh, Content={410}
+03-29: Refresh, Content={410, 1271}
+03-30: Refresh, Content={410, 2546 ChestQuestNumber=77 Content={2853 Content={3297, 3284 RemainingUses=1}}}
+03-31: Refresh, Content={410, 1271}
+04-28: Refresh, Content={410}
+04-29: Refresh, Content={410, 1271}
+04-30: Refresh, Content={410, 2546 ChestQuestNumber=78 Content={2853 Content={3081, 3051}}}
+04-31: Refresh, Content={410, 1648 Level=25}
+05-28: Refresh, Content={410}
+05-29: Refresh, Content={410, 1279}
+05-30: Refresh, Content={410, 1270}
+05-31: Refresh, Content={410, 1274}
+06-28: Refresh, Content={410}
+06-29: Refresh, Content={410, 1271}
+06-30: Refresh, Content={410, 2435 Content={2816 String="Be cruel to conquer \nBe bold to impress \nBe even to pass \nBe fearless to kill"}}
+06-31: Refresh, Content={410}
+07-28: Refresh, Content={410}
+07-29: Refresh, Content={410, 1271}
+07-30: Refresh, Content={410, 2437}
+07-31: Refresh, Content={410}
+08-28: Refresh, Content={410}
+08-29: Refresh, Content={410, 1273}
+08-30: Refresh, Content={410, 1270}
+08-31: Refresh, Content={410, 1270}
+09-28: Refresh, Content={410}
+09-29: Refresh, Content={410}
+09-30: Refresh, Content={410}
+09-31: Refresh, Content={410}
+10-28: Refresh, Content={410}
+10-29: Refresh, Content={410}
+10-30: Refresh, Content={410}
+10-31: Refresh, Content={410}

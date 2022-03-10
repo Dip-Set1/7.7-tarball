@@ -1,0 +1,35 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1013/1004/6
+
+20-1: Content={4515, 1108, 3504 Content={3507 String="saga'vith\nthais" Editor="Saga'Vith"}, 3504, 3504, 2873, 3504 Content={3507 String="nazruk\nthais"}}
+20-2: Content={4515, 1103, 3504, 2913, 3504, 3504 Content={3507 Editor="Rafael Mage Master"}, 3504 Content={3507 String="scorpi-knight\nthais\n" Editor="Scorpion-mort"}, 3504}
+20-3: Content={4525, 1103, 3504, 3503 Content={3507}, 2471, 2471, 3504, 3504 Content={3507 Editor="Rafael Mage Master"}, 3504, 2471, 2471}
+20-4: Content={4515, 1103, 2471, 2471, 3504 Content={3507 Editor="Cosa Adentro"}, 2471, 2473, 3504, 3504 Content={3507 String="Mac-Dre\nThais\n" Editor="Delta Frost"}, 2471, 3504, 3504, 2471}
+20-5: Content={4528, 1111, 1781 Amount=1, 3003, 3457, 2471, 3504 Content={2853, 3507 String="Pyster\nThais" Editor="Pyster"}, 3504 Content={3507 String="seikor\nthais" Editor="Eriot Draguz"}, 3504 Content={3507 String="seikor\nthais" Editor="Eriot Draguz"}, 2471}
+21-0: Content={4515, 1108, 3682}
+21-1: Content={4523, 1104, 2471, 2471}
+21-2: Content={4515, 3504 Content={3507 String="Danon'Druid\nthais" Editor="Soceo Nailo"}, 3504 Content={3507 String="danon'druid\nthais" Editor="Danon Paladynek"}, 3504}
+21-3: Content={4515, 3621}
+21-4: Content={4519, 3577 Amount=3, 3533 Amount=1, 2471, 2471, 2471, 3504 Content={3507 String="Gotcho\nThais" Editor="Gordito guapo"}, 2471, 3504, 3504 Content={3507 String="Pron Jasinor\nThais\n" Editor="Pron Jasinor"}, 3504 Content={3507 String="radeef \nthais\n\n" Editor="Haziel Pablo", 2853}, 3504 Content={3507 String="Gustavo the shadow master\nthais" Editor="Shapo'guzman"}}
+21-5: Content={4515, 1102, 2471, 3504 Content={3507 String="Kamil-Druidos\nThais" Editor="Tomek Tamus"}, 3504 Content={3507 String="mac'dre\nthais" Editor="Mac'Dre"}, 3504 Content={2471}, 3504 Content={3507 String="Steve Klypx\nThais" Editor="Steve Klypx"}, 2853, 3410, 2471, 2471, 3138, 3138, 3138}
+22-0: Content={4515, 1100, 2473, 2471, 3504, 3504, 3504 Content={3507 String="Rurikstein\nThais" Editor="Unglaublich"}, 3504}
+22-1: Content={4530, 3614}
+22-2: Content={4523, 3615}
+22-3: Content={4515, 3682}
+22-4: Content={4515, 3504, 3533 Amount=2, 3504 Content={3507 String="strong junior\nthais" Editor="Alan Garea"}, 2471, 2471, 3504 Content={3507 String="Pron Jasinor\nThais" Editor="Pron Jasinor"}, 3504}
+22-5: Content={4515, 1102, 3504 Content={3504}, 3504 Content={3507 String="Patrrycjusz\nThais" Editor="Xedry Beiwynitu"}, 3504 Content={3504}, 2869, 2471, 3578 Amount=1, 2471, 3577 Amount=1, 3504}
+23-0: Content={4515, 1109, 2473, 3504, 3504 Content={3504 Content={3507 String="wielki hades\nthais\n" Editor="Wielki Hades"}}, 3504, 3582 Amount=2, 3377, 3504, 3504 Content={3507 String="scorpi-knight\nthais"}}
+23-1: Content={4515, 1105, 3681}
+23-2: Content={4515, 3614}
+23-3: Content={4515, 3504 Content={3507 String="sagrav\nthais" Editor="Saga'Vith"}, 3135, 2471, 3504 Content={3507 String="incal chokobola\nthais" Editor="Haizak Artharian"}, 3504, 3377}
+23-4: Content={4515, 3504 Content={3507 String="pizzero de zanera\nthais" Editor="Rak the Druid"}, 3533 Amount=2, 3541, 2471, 2471, 2471, 3504 Content={3507 String="Draco Of Zanera\nThais\n\ntoma ai ueuhe" Editor="Wohn Elfree"}, 3137, 2853, 3492 Amount=2}
+23-5: Content={4515, 1107, 3504 Content={3507 String="miles vorkosigan\nthais" Editor="Miles Vorkosigan"}, 3291, 3430, 2853 Content={2853 Content={2853}}, 3504 Content={3507 String="mary-kelly\nthais" Editor="Fernanducha"}, 3504 Content={2853 Content={2853 Content={2853}}}, 3504 Content={3507 String="Venus de'montecristo\nthais" Editor="Venus de'montecristo"}, 3504, 2473, 3374, 3140}
+23-6: Content={4515, 1111, 3031 Amount=34, 3138, 3003, 3504, 3504 Content={3507 String="Mix Shooter\nThais" Editor="Mix Shooter"}, 3273, 3050, 3504 Content={3507 String="Venus de'montecristo\nkazordoon" Editor="Venus de'montecristo"}, 3504 Content={3507 String="thim morgus\nthais" Editor="Igis Thil"}, 3504, 3504 Content={3504}, 3504, 3138, 3582 Amount=3, 3138, 2473}
+24-1: Content={4515, 1109, 2473, 3140, 2853, 3507 String="Zharius thil gasolina\nthais" Editor="Dokas"}
+24-2: Content={4518, 1101, 2473, 2853 Content={2853 Content={2853}}, 2874, 3504, 3504 Content={3507 String="shadow'mad\nthais" Editor="Patrickus elo"}, 3276, 3377, 3504}
+24-3: Content={4530, 1101, 3504, 2471 Content={3577 Amount=2}, 2874, 2874, 3421, 3504, 2868 Content={3003}, 3504}
+24-4: Content={4515, 1101, 2874, 3138, 3138, 3504, 3031 Amount=2, 2473}
+24-5: Content={4515, 1105, 3681}
+24-6: Content={4515, 1102, 3135, 2854 Content={2854}, 2853 Content={2854 Content={3277 Amount=6, 3147, 3147, 3147}}, 3135, 3135, 3504, 3136, 3533 Amount=2, 3138, 3504, 3031 Amount=1, 3273, 3447 Amount=1, 3097, 3504 Content={2853, 3507 String="sir locito\nthais" Editor="Aidi Quinrif"}, 2482, 3507 Editor="Alberto Quintanilla", 2471, 2471, 3504 Content={3507 String="Dragoon Wake\nThais" Editor="Afronovita Il"}, 3504 Content={3507 String="riky of zanera\nthais\n" Editor="Lemis Fyfenis"}, 3448 Amount=2, 3135, 3138, 2471, 2471, 2471, 3266, 3504 Content={3507 String="undead'bolter\nthais"}}
+25-5: Content={4515, 1109, 3138, 3085 RemainingUses=41, 3138, 3374, 3140, 3114 Amount=5, 3062, 3135, 3138, 3492 Amount=1, 3456, 3504, 2853, 3374, 2472}
+25-6: Content={4515, 1110, 3504, 3138, 2916, 3135, 3375, 3504, 3286, 3504, 3577 Amount=2, 2853 Content={3294}, 3138, 3504, 3534 Amount=5, 3349, 3507 String="Attack egyptian overlord\nThais\n" Editor="Attack egyptian overlord", 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}, 3507 String="zaitoo\nthais" Editor="Zaitoo"}, 2874, 3507 String="filip\nkiva\nme me me ammmm\n" Editor="Thalia Sakura", 3358, 3097, 3504, 3504 Content={3507 String="kol vint\nthais" Editor="Kamar Il"}, 3316, 3504, 3504, 2854, 3504 Content={3507 String="Miithiee\nKazordoon" Editor="Miithiee"}, 3504, 3135, 3297, 3504, 3447 Amount=51, 3138, 3138, 3138, 3483, 3577 Amount=1, 3138, 3277 Amount=6, 2473 Content={2473, 2473}}

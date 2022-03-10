@@ -1,0 +1,19 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+29-21: Content={4459}
+29-22: Content={4457}
+30-20: Refresh, Content={1114}
+30-21: Refresh, Content={4468}
+30-22: Refresh, Content={1099, 1085}
+30-23: Refresh, Content={1112}
+30-24: Refresh, Content={1112}
+30-25: Content={1117}
+31-19: Content={1114}
+31-20: Refresh, Content={1116}
+31-21: Refresh, Content={4409}
+31-22: Refresh, Content={4408}
+31-23: Refresh, Content={4406}
+31-24: Refresh, Content={4407}
+31-25: Content={4397, 4459}
+31-26: Content={4457}

@@ -1,0 +1,46 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1010/997/6
+
+0-20: Content={1734}
+0-21: Content={409}
+0-22: Content={409}
+0-23: Content={409}
+0-24: Content={409}
+0-25: Content={409, 2435}
+0-26: Content={409}
+0-27: Content={409, 2435}
+0-28: Content={409}
+0-29: Content={409, 1734, 2712}
+0-30: Content={409, 2983}
+0-31: Content={409, 2162}
+1-20: Content={1734}
+1-21: Content={409}
+1-22: Content={413}
+1-23: Content={409}
+1-24: Content={409}
+1-25: Content={409, 2436}
+1-26: Content={409}
+1-27: Content={409, 2436}
+1-28: Content={409}
+1-29: Content={409, 1290, 2707}
+1-30: Content={409, 2164}
+1-31: Content={409, 2168}
+2-20: Content={1284}
+2-21: Content={409, 1286}
+2-22: Content={409, 2435}
+2-23: Content={409}
+2-24: Content={409}
+2-25: Content={409}
+2-26: Content={409}
+2-27: Content={409}
+2-28: Content={409}
+2-29: Content={409, 1282, 2611, 2706}
+3-21: Content={1284}
+3-22: Content={409, 1281, 2703}
+3-23: Content={409, 1281, 2709}
+3-24: Content={409, 1735, 2713}
+3-25: Content={409, 1281, 2709}
+3-26: Content={409, 1735, 2713}
+3-27: Content={409, 1281, 2709}
+3-28: Content={409, 1281, 2709}
+3-29: Content={409, 1285, 2711}

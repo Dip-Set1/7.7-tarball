@@ -1,0 +1,17 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-00: Content={1295}
+00-01: ProtectionZone, Content={429, 2494}
+00-02: ProtectionZone, Content={429}
+00-03: ProtectionZone, Content={429}
+00-04: ProtectionZone, Content={429}
+00-05: ProtectionZone, Content={429}
+00-06: Content={429, 1295}
+01-00: Content={1297}
+01-01: Content={429, 1294}
+01-02: Content={429, 1294}
+01-03: Content={429, 1739}
+01-04: Content={429, 1294}
+01-05: Content={429, 1294}
+01-06: Content={429, 1298}

@@ -1,0 +1,133 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1022/988/6
+
+0-18: Refresh, 
+0-19: Refresh, 
+0-20: Refresh, Content={4515, 1109}
+0-21: Refresh, Content={4515, 1101}
+0-22: Refresh, Content={4515, 1105, 1791}
+0-23: Refresh, Content={4528}
+0-24: Refresh, Content={4530, 1102}
+0-25: Refresh, 
+0-26: Refresh, 
+1-18: Refresh, 
+1-19: Refresh, 
+1-20: Refresh, 
+1-21: Refresh, 
+1-22: Refresh, Content={4519, 1109}
+1-23: Refresh, Content={4515, 1101}
+1-24: Refresh, Content={4515, 1110}
+1-25: Refresh, 
+1-26: Refresh, 
+4-28: Content={1283}
+4-29: Content={1281}
+4-30: Content={1281}
+4-31: Content={1288}
+5-28: Content={1282}
+5-29: ProtectionZone, Content={408, 2491}
+5-30: ProtectionZone, Content={408, 2492}
+5-31: Content={408, 1282}
+6-28: Content={1282, 2910}
+6-29: ProtectionZone, Content={408}
+6-30: ProtectionZone, Content={408}
+6-31: Content={408, 1282, 2910}
+7-28: Content={1734}
+7-29: ProtectionZone, Content={408}
+7-30: ProtectionZone, Content={408}
+7-31: Content={408, 1282}
+8-28: Content={1290}
+8-29: Content={408, 1281}
+8-30: ProtectionZone, Content={408, 1639}
+8-31: Content={408, 1291}
+9-28: Content={1282}
+9-29: ProtectionZone, Content={408}
+9-30: ProtectionZone, Content={408}
+9-31: Content={408, 1282}
+10-28: Content={1282, 2598 String=".............................................................................Van'fire=Owned 13/02/06..................\n.............................................................................\n\n\n" Editor="Van'Fire"}
+10-29: ProtectionZone, Content={408}
+10-30: ProtectionZone, Content={408}
+10-31: Content={408, 1282, 2910}
+11-0: Content={1735}
+11-1: Content={1281, 2908}
+11-2: Content={1735}
+11-3: Content={1281}
+11-4: Content={1286}
+11-5: Refresh, Content={441}
+11-6: Refresh, Content={441}
+11-7: Refresh, Content={441}
+11-8: Refresh, Content={450}
+11-28: Content={1282}
+11-29: ProtectionZone, Content={408, 1948}
+11-30: ProtectionZone, Content={408}
+11-31: ProtectionZone, Content={408, 1641}
+12-0: ProtectionZone, Content={408}
+12-1: ProtectionZone, Content={408}
+12-2: ProtectionZone, Content={408}
+12-3: ProtectionZone, Content={408}
+12-4: Refresh, Content={408, 1282}
+12-5: Refresh, Content={408}
+12-6: Refresh, Content={408}
+12-7: Refresh, Content={408}
+12-8: Refresh, Content={440}
+12-28: Content={1282, 2910}
+12-29: ProtectionZone, Content={432}
+12-30: ProtectionZone, Content={408}
+12-31: Content={408, 1282}
+13-0: ProtectionZone, Content={408, 3430}
+13-1: ProtectionZone, Content={408, 3012}
+13-2: ProtectionZone, Content={408}
+13-3: ProtectionZone, Content={408}
+13-4: ProtectionZone, Content={408, 1641}
+13-5: Refresh, Content={408}
+13-6: Refresh, Content={408}
+13-7: Refresh, Content={408}
+13-8: Refresh, Content={440}
+13-28: Content={1282}
+13-29: ProtectionZone, Content={408}
+13-30: ProtectionZone, Content={408}
+13-31: Content={408, 1282}
+14-0: ProtectionZone, Content={408}
+14-1: ProtectionZone, Content={408, 3012}
+14-2: ProtectionZone, Content={408}
+14-3: ProtectionZone, Content={408}
+14-4: Refresh, Content={408, 1282}
+14-5: Refresh, Content={408}
+14-6: Refresh, Content={408}
+14-7: Refresh, Content={408}
+14-8: Refresh, Content={440}
+14-28: Content={1284}
+14-29: Content={408, 1281}
+14-30: Content={408, 1281}
+14-31: Content={408, 1287}
+15-0: ProtectionZone, Content={408}
+15-1: ProtectionZone, Content={408, 3012}
+15-2: ProtectionZone, Content={408, 2491}
+15-3: ProtectionZone, Content={408, 2492}
+15-4: Content={408, 1734}
+15-5: Refresh, Content={408}
+15-6: Refresh, Content={432}
+15-7: Refresh, Content={408}
+15-8: Refresh, Content={440}
+16-0: ProtectionZone, Content={408, 3483}
+16-1: ProtectionZone, Content={408, 3483}
+16-2: ProtectionZone, Content={408, 2491}
+16-3: ProtectionZone, Content={408, 2492}
+16-4: Content={408, 1734}
+16-5: Refresh, Content={408}
+16-6: Refresh, Content={408}
+16-7: Refresh, Content={408}
+16-8: Refresh, Content={440}
+17-0: Content={408, 1735}
+17-1: Content={408, 1281}
+17-2: Content={408, 1735}
+17-3: Content={408, 1281}
+17-4: Content={408, 1285}
+17-5: Refresh, Content={408, 2526}
+17-6: Refresh, Content={408}
+17-7: Refresh, Content={408}
+17-8: Refresh, Content={440}
+18-4: Content={448}
+18-5: Refresh, Content={442}
+18-6: Refresh, Content={442}
+18-7: Refresh, Content={442}
+18-8: Refresh, Content={449}

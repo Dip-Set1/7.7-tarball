@@ -1,0 +1,52 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1010/1011/5
+
+23-8: Content={436, 1108}
+23-9: Content={436, 1103}
+23-10: Content={436, 1103}
+23-11: Content={436, 1103}
+23-12: Content={436, 1103}
+23-13: Content={436, 1103}
+23-14: Content={436, 1111}
+24-8: Content={436, 1100}
+24-9: Content={436}
+24-10: Content={436}
+24-11: Content={436}
+24-12: Content={436}
+24-13: Content={436}
+24-14: Content={436, 1102}
+25-8: Content={436, 1100}
+25-9: Content={436}
+25-10: Content={4520, 1108, 3656}
+25-11: Content={4518, 1103, 3654}
+25-12: Content={4515, 1111, 3656}
+25-13: Content={436}
+25-14: Content={436, 1102}
+26-8: Content={436, 1100}
+26-9: Content={436}
+26-10: Content={4515, 1100, 3654}
+26-11: Content={4517, 3656}
+26-12: Content={4525, 1102, 3654}
+26-13: Content={436}
+26-14: Content={436, 1102}
+27-8: Content={436, 1100, 2853 Content={3003, 3457}}
+27-9: Content={436}
+27-10: Content={4515, 1109, 3656}
+27-11: Content={4515, 1101, 3654}
+27-12: Content={4515, 1110, 3656}
+27-13: Content={436}
+27-14: Content={436, 1102}
+28-8: Content={436, 1100}
+28-9: Content={436}
+28-10: Content={436}
+28-11: Content={436}
+28-12: Content={436}
+28-13: Content={436}
+28-14: Content={436, 1102}
+29-8: Content={436, 1109}
+29-9: Content={436, 1101}
+29-10: Content={436, 1101}
+29-11: Content={436, 1101}
+29-12: Content={436, 1101}
+29-13: Content={436, 1101}
+29-14: Content={436, 1110}

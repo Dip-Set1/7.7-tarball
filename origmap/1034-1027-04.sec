@@ -1,0 +1,22 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-20: Content={4945}
+00-21: Content={4953}
+01-20: Content={4945}
+01-21: Content={4954}
+02-20: Content={4945}
+02-21: Content={4955}
+03-20: Content={4945}
+03-21: Content={4956}
+04-15: Content={4942}
+04-20: Content={4945}
+04-21: Content={4954, 4941}
+04-26: Content={4942}
+05-20: Content={4945}
+05-21: Content={4955}
+06-20: Content={4945}
+06-21: Content={4956}
+07-20: Content={4945}
+07-21: Content={4953}
+08-20: Content={4946}

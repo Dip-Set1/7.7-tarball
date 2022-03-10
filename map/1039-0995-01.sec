@@ -1,0 +1,17 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1039/995/1
+
+16-0: Content={1286}
+17-0: Content={409, 1282}
+18-0: Content={409, 1284}
+18-1: Content={1286}
+19-0: Refresh, Content={409}
+19-1: Content={409, 1282}
+20-0: Refresh, Content={409}
+20-1: Content={409, 1282}
+21-0: Refresh, Content={409}
+21-1: Content={409, 1282}
+22-0: Content={409, 1283}
+22-1: Content={409, 1285}
+23-0: Content={409, 1282}
+24-0: Content={409, 1285}

@@ -1,0 +1,27 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-24: Content={2154, 1153}
+00-25: ProtectionZone, Content={1152, 3615}
+00-26: ProtectionZone, Content={1152}
+00-27: ProtectionZone, Content={950, 3656}
+00-28: ProtectionZone, Content={950, 3657}
+00-29: ProtectionZone, Content={950, 3654}
+00-30: Content={1152, 2154}
+00-31: Content={5052}
+01-24: Content={2154, 1153}
+01-25: Content={1152, 2156}
+01-26: Content={1152, 2156}
+01-27: Content={1152, 2156}
+01-28: Content={1152, 2156}
+01-29: Content={1152, 2156, 2156}
+01-30: Content={1152, 2156, 2154}
+01-31: Content={5052}
+02-24: Content={5048}
+02-25: Content={5049}
+02-26: Content={5049}
+02-27: Content={5049}
+02-28: Content={5049}
+02-29: Content={5049}
+02-30: Content={5049}
+02-31: Content={5050}

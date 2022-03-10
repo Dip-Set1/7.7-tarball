@@ -1,0 +1,44 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1033/1015/1
+
+19-13: Content={4399, 1108}
+19-14: Content={4405, 1111}
+20-11: Content={4407, 1108}
+20-12: Content={4399, 1103}
+20-13: Content={4395, 1104}
+20-14: Content={4408, 1107}
+20-15: Content={4402, 1111}
+21-11: Content={4394, 1100}
+21-12: Content={4398}
+21-13: Content={4407}
+21-14: Content={4400}
+21-15: Content={4403, 1107}
+21-16: Content={4397, 1111}
+22-11: Content={4405, 1100}
+22-12: Content={4403}
+22-13: Content={4399}
+22-14: Content={4405}
+22-15: Content={4405}
+22-16: Content={4406, 1102}
+23-10: Content={4394, 1108}
+23-11: Content={4405, 1104}
+23-12: Content={4409}
+23-13: Content={4394}
+23-14: Content={4409}
+23-15: Content={4397}
+23-16: Content={4409, 1102}
+24-10: Content={4405, 1109}
+24-11: Content={4402, 1105}
+24-12: Content={4403}
+24-13: Content={4397}
+24-14: Content={4405}
+24-15: Content={4398, 1106}
+24-16: Content={4406, 1110}
+25-11: Content={4406, 1109}
+25-12: Content={4405, 1105}
+25-13: Content={4405}
+25-14: Content={4405, 1106}
+25-15: Content={4409, 1110}
+26-12: Content={4394, 1109}
+26-13: Content={4399, 1101}
+26-14: Content={4405, 1110}

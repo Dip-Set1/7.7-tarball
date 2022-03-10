@@ -1,0 +1,58 @@
+#!/bin/bash
+
+# dieses script fuehrt das monatliche backup durch
+# die dateien werden zum sichern abgeschnitten
+# und im tmp verzeichnis gesichert
+#
+# folgende komponenten werden gesichert:
+
+FILES='log/banish.log
+       log/game.log
+       log/houses.log
+       log/loot.log
+       log/openfiles.log
+       log/queue.log
+       log/lag.log
+       log/npc.log
+       '
+
+
+BASE=/game
+WORLDLINE=`egrep "^ *(World|world|WORLD) *[=] *" $BASE/.tibia `
+WORLD=`expr "$WORLDLINE" : " *[a-zA-Z]* *[=] * [\"]*\([a-zA-Z]*\)[\"]*" | tr A-Z a-z`
+BACKUP_FILE=game-$WORLD-logs-monthly.tgz
+TEMP_DIR=/tmp/backup-$WORLD-monthly
+
+# selbst bremsen
+renice +5 -p `ps h -C gamelogs-backup -o %p` > /dev/null
+
+# wurde der parameter gesetzt (weltname)
+if [ -z "$WORLD" ] ; then
+  echo "no worldname found" >&2
+  exit 1
+fi
+
+#
+# wir machen platz im /tmp verzeichnis
+/bin/rm -f $BACKUP_FILE
+if [ -d $TEMP_DIR ] ; then
+    /bin/rm -r $TEMP_DIR
+fi
+mkdir $TEMP_DIR
+mkdir $TEMP_DIR/log
+
+#
+# jetzt schieben wir die dateien nach tmp
+cd $BASE
+for F in $FILES ; do
+    test -e $F && mv $F $TEMP_DIR/$F
+done
+
+#
+# jetzt packen
+cd $TEMP_DIR
+/bin/tar cfz $BASE/$BACKUP_FILE *
+
+#
+# und die rechte anpassen
+/bin/chmod go-rwx $TEMP_DIR

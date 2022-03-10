@@ -1,0 +1,47 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1016/989/6
+
+28-8: Content={1114}
+28-9: Content={1112}
+28-10: Content={1112}
+28-11: Content={1112}
+28-12: Content={1119}
+28-13: Content={1112}
+28-14: Content={1117}
+29-8: Content={1113}
+29-9: ProtectionZone, Content={4396, 2526}
+29-10: ProtectionZone, Content={4406, 1947}
+29-11: ProtectionZone, Content={4403}
+29-12: Content={4407, 1113}
+29-13: ProtectionZone, Content={4397}
+29-14: Content={4394, 1113}
+30-2: Content={1114}
+30-3: Content={1112}
+30-4: Content={1112, 2931}
+30-5: Content={1112}
+30-6: Content={1112}
+30-7: Content={1112}
+30-8: Content={1116, 2931}
+30-9: ProtectionZone, Content={4407}
+30-10: ProtectionZone, Content={4404}
+30-11: ProtectionZone, Content={4399}
+30-12: Content={4402, 1113, 2929}
+30-13: ProtectionZone, Content={4401}
+30-14: Content={4409, 1115}
+30-15: Content={1112}
+30-16: Content={1117}
+31-2: Content={1113}
+31-3: ProtectionZone, Content={4406, 2520}
+31-4: ProtectionZone, Content={4406}
+31-5: ProtectionZone, Content={4397}
+31-6: ProtectionZone, Content={413}
+31-7: ProtectionZone, Content={4394}
+31-8: ProtectionZone, Content={4406}
+31-9: ProtectionZone, Content={4397}
+31-10: ProtectionZone, Content={4398}
+31-11: ProtectionZone, Content={4398}
+31-12: Content={4394, 1113}
+31-13: ProtectionZone, Content={4397}
+31-14: ProtectionZone, Content={4406}
+31-15: ProtectionZone, Content={4403, 2489}
+31-16: Content={4407, 1113}

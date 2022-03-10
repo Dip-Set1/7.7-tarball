@@ -1,0 +1,21 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-00: Content={4396, 4460}
+00-01: Content={4407}
+00-02: Content={4400}
+00-03: Content={4394}
+00-04: Content={4397, 1106}
+00-05: Content={4399, 1110}
+01-00: Content={4399, 4467}
+01-01: Content={4400, 4463}
+01-02: Content={4394}
+01-03: Content={4398}
+01-04: Content={4397, 1102}
+02-00: Content={1099, 1082}
+02-01: Content={4401, 4460}
+02-02: Content={4395, 1101}
+02-03: Content={4409, 1101}
+02-04: Content={4396, 1110}
+03-00: Content={1099, 1085}
+03-01: Content={4410, 1102, 4460}

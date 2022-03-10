@@ -1,0 +1,182 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1031/1003/6
+
+0-0: Content={429, 1294}
+0-1: Content={429, 1739}
+0-2: Content={429, 1294}
+0-3: Content={429, 1300}
+0-4: Content={429, 1294}
+0-5: Content={429, 1739}
+0-6: Content={429, 1294}
+0-7: Content={429, 1739}
+0-8: Content={429, 1294}
+0-9: Content={429, 1298}
+0-11: Content={2162}
+0-12: Refresh, Content={436}
+0-13: Refresh, Content={436}
+0-14: Content={436, 2162}
+1-11: Content={2162}
+1-12: Refresh, Content={436}
+1-13: Refresh, Content={436}
+1-14: Content={436, 2162}
+2-11: Content={2162}
+2-12: Refresh, Content={436}
+2-13: Refresh, Content={436}
+2-14: Content={436, 2162}
+3-6: Content={2166}
+3-7: Content={2164}
+3-8: Content={2164}
+3-9: Content={2164}
+3-10: Content={2166}
+3-11: Content={2164, 2162}
+3-12: Refresh, Content={436}
+3-13: Refresh, Content={436}
+3-14: Content={436, 2162}
+4-0: Content={2164}
+4-1: Content={2164}
+4-2: Content={2164}
+4-3: Content={2164}
+4-4: Content={2164}
+4-5: Content={2164}
+4-6: Content={2168}
+4-7: Content={436, 2526}
+4-8: Content={436, 2022 String="Silver Street"}
+4-9: Content={436, 2162}
+4-10: Refresh, Content={2168}
+4-11: Refresh, Content={436, 2109}
+4-12: Refresh, Content={436}
+4-13: Refresh, Content={436}
+4-14: Content={436, 1303}
+4-15: Content={1294}
+4-16: Content={1294, 2908}
+4-17: Content={1299}
+5-0: Refresh, Content={436}
+5-1: Refresh, Content={436}
+5-2: Refresh, Content={436}
+5-3: Refresh, Content={436}
+5-4: Refresh, Content={436}
+5-5: Refresh, Content={436}
+5-6: Refresh, Content={436}
+5-7: Refresh, Content={436}
+5-8: Refresh, Content={436}
+5-9: Refresh, Content={436}
+5-10: Refresh, Content={436}
+5-11: Refresh, Content={436}
+5-12: Refresh, Content={436}
+5-13: Refresh, Content={436}
+5-14: Content={436, 1295}
+5-15: ProtectionZone, Content={411}
+5-16: ProtectionZone, Content={429, 3160 Charges=1, 2659, 2469 Content={2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}
+5-17: Content={429, 1295}
+6-0: Refresh, Content={436}
+6-1: Refresh, Content={436}
+6-2: Refresh, Content={436}
+6-3: Refresh, Content={436}
+6-4: Refresh, Content={436}
+6-5: Refresh, Content={436}
+6-6: Refresh, Content={436}
+6-7: Refresh, Content={436}
+6-8: Refresh, Content={436}
+6-9: Refresh, Content={436}
+6-10: Refresh, Content={436}
+6-11: Refresh, Content={436}
+6-12: Refresh, Content={436}
+6-13: Refresh, Content={436}
+6-14: Content={436, 1295}
+6-15: ProtectionZone, Content={429, 1948, 3298 Amount=3, 3287 Amount=73}
+6-16: ProtectionZone, Content={429, 3200 Charges=3, 2644, 2469}
+6-17: Content={429, 1738}
+7-0: Content={436, 1628}
+7-1: Content={436, 1294}
+7-2: Content={436, 1294}
+7-3: Content={436, 1301}
+7-4: Content={436, 2164}
+7-5: Content={436, 2164}
+7-6: Content={436, 2164}
+7-7: Content={436, 2164}
+7-8: Content={436, 2164}
+7-9: Content={436, 2164}
+7-10: Content={436, 2164}
+7-11: Content={436, 1301}
+7-12: Content={436, 1739}
+7-13: ProtectionZone, Content={436, 1639 String="# Players allowed to open this door\nSir Dark Master\nSir Light Master\nArtires\ndestroyero"}
+7-14: Content={436, 1298}
+7-15: ProtectionZone, Content={429, 3287 Amount=100}
+7-16: ProtectionZone, Content={429, 3191 Charges=1, 2656, 2469}
+7-17: Content={429, 1295}
+8-0: Content={408}
+8-1: Content={408}
+8-2: Content={408}
+8-3: Content={408, 1295}
+8-11: Content={1295, 2910}
+8-12: ProtectionZone, Content={429, 2483 Content={2473 Content={2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2868 Content={3577 Amount=3, 3583 Amount=22, 2992 Amount=5}, 2865 Content={3588 Amount=56, 3588 Amount=77, 3588 Amount=100, 3588 Amount=100, 3584 Amount=4, 3587 Amount=7, 3591 Amount=44, 3600 Amount=19, 3601 Amount=2, 3724 Amount=2, 3590 Amount=7, 3723 Amount=1, 3595 Amount=28, 3585 Amount=23, 3598 Amount=37, 3586 Amount=24, 3592, 2906}, 2854 Content={2871, 2872 Content={2872}, 2863 Content={2857, 2857}, 2866 Content={2866}, 2865 Content={2865}, 2854 Content={2854, 2854}, 2867, 2868 Content={2868, 2868, 2868, 2868, 2868}, 2870 Content={2870, 2870, 2870, 2870 Content={3003, 3457}}, 2869 Content={2869, 2869, 2869, 2869}}}}
+8-13: ProtectionZone, Content={429, 3287 Amount=100}
+8-14: ProtectionZone, Content={429, 2859, 3287 Amount=100}
+8-15: ProtectionZone, Content={429, 3287 Amount=100}
+8-16: ProtectionZone, Content={429, 3152 Charges=1, 2667, 2469 Content={2870 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}}
+8-17: Content={429, 1738}
+9-0: Content={408}
+9-1: Content={408}
+9-2: Content={408}
+9-3: Content={408, 1295}
+9-11: Content={1295}
+9-12: ProtectionZone, Content={429, 2535, 2970 KeyNumber=4601}
+9-13: ProtectionZone, Content={429, 3160 Charges=1, 2659, 2469}
+9-14: ProtectionZone, Content={429, 3198 Charges=5, 2644, 2469}
+9-15: ProtectionZone, Content={429, 3192 Charges=2, 2656, 2469}
+9-16: ProtectionZone, Content={429, 3155 Charges=1, 2667, 2469 Content={2870 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}}
+9-17: Content={429, 1295}
+10-0: Content={408}
+10-1: Content={408}
+10-2: Content={408}
+10-3: Content={408, 1295}
+10-11: Content={1297}
+10-12: Content={429, 1294}
+10-13: Content={429, 1739}
+10-14: Content={429, 1294}
+10-15: Content={429, 1294}
+10-16: Content={429, 1739}
+10-17: Content={429, 1298}
+11-0: Content={408}
+11-1: Content={408}
+11-2: Content={408}
+11-3: Content={408, 1295}
+12-0: Content={408}
+12-1: Content={408}
+12-2: Content={408}
+12-3: Content={408, 1295}
+13-0: Content={408, 1294}
+13-1: Content={408, 1294}
+13-2: Content={408, 1294}
+13-3: Content={408, 1298}
+27-8: Refresh, Content={4399, 1102, 1108}
+28-6: Refresh, Content={4522, 1108}
+28-7: Refresh, Content={4515, 1103}
+28-8: Refresh, Content={4519, 1103}
+28-9: Refresh, Content={4515, 1111}
+29-2: Refresh, Content={4515, 1108}
+29-3: Refresh, Content={4521, 1103}
+29-4: Refresh, Content={4515, 1103}
+29-5: Refresh, Content={4528, 1103}
+29-6: Refresh, Content={4515, 1104}
+29-7: Refresh, Content={4515}
+29-8: Refresh, Content={4524}
+29-9: Refresh, Content={4518, 1102}
+30-1: Refresh, Content={4515, 1108}
+30-2: Refresh, Content={4515, 1104}
+30-3: Refresh, Content={4515}
+30-4: Refresh, Content={4515}
+30-5: Refresh, Content={4515}
+30-6: Refresh, Content={4515, 1106}
+30-7: Refresh, Content={4515, 1101}
+30-8: Refresh, Content={1771}
+30-9: Refresh, Content={1771}
+31-0: Refresh, Content={4526, 1108}
+31-1: Refresh, Content={4515, 1104}
+31-2: Refresh, Content={4517}
+31-3: Refresh, Content={4515, 1106}
+31-4: Refresh, Content={4521, 1101}
+31-5: Refresh, Content={4515, 1101}
+31-6: Refresh, Content={4523, 1110}
+31-8: Refresh, Content={1771}
+31-9: Refresh, Content={1771}

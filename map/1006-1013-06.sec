@@ -1,0 +1,238 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1006/1013/6
+
+0-10: Refresh, Content={1282}
+0-11: Refresh, Content={408, 3605 Amount=1}
+0-12: Refresh, Content={408, 3605 Amount=1}
+0-13: Refresh, Content={408, 3605 Amount=1}
+0-14: Refresh, Content={408, 3605 Amount=1}
+0-15: Content={408, 1282}
+0-23: Content={1153}
+0-24: Refresh, Content={1152}
+0-25: Refresh, Content={1152}
+0-26: Refresh, Content={1152}
+0-27: Refresh, Content={1152}
+0-28: Refresh, Content={1152}
+0-29: Refresh, Content={1152}
+0-30: Content={5052}
+1-10: Refresh, Content={1282}
+1-11: Refresh, Content={408, 3605 Amount=1}
+1-12: Refresh, Content={408, 3605 Amount=1}
+1-13: Content={475}
+1-14: Refresh, Content={408, 3605 Amount=1}
+1-15: Content={408, 1282}
+1-23: Content={1153}
+1-24: Refresh, Content={1152}
+1-25: Refresh, Content={1152}
+1-26: Refresh, Content={1152}
+1-27: Refresh, Content={1152}
+1-28: Refresh, Content={1152}
+1-29: Refresh, Content={1152}
+1-30: Content={5052}
+2-10: Refresh, Content={1282}
+2-11: Refresh, Content={408, 3605 Amount=1}
+2-12: Refresh, Content={408, 3605 Amount=1}
+2-13: Refresh, Content={408, 3605 Amount=1}
+2-14: Refresh, Content={408, 3605 Amount=1}
+2-15: Content={408, 1282}
+2-23: Content={1283, 1153}
+2-24: Content={1152, 1281}
+2-25: Content={1152, 1281}
+2-26: Content={1152, 1735}
+2-27: Content={1152, 1281, 2908}
+2-28: Content={1152, 1281}
+2-29: Content={1152, 1281}
+2-30: Content={1286}
+3-10: Refresh, Content={1282}
+3-11: Refresh, Content={408, 3605 Amount=1, 3605 Amount=1}
+3-12: Refresh, Content={408, 3605 Amount=1, 3605 Amount=1, 3605 Amount=1}
+3-13: Refresh, Content={408, 3605 Amount=1}
+3-14: Refresh, Content={408, 3605 Amount=1}
+3-15: Content={408, 1282}
+3-23: Content={1282}
+3-24: ProtectionZone, Content={408, 2526}
+3-25: ProtectionZone, Content={408, 2471}
+3-26: ProtectionZone, Content={408, 2471}
+3-27: ProtectionZone, Content={408, 2438}
+3-28: ProtectionZone, Content={408, 2439}
+3-29: ProtectionZone, Content={408, 2440}
+3-30: Content={408, 1282}
+4-10: Refresh, Content={1282}
+4-11: Refresh, Content={408, 3605 Amount=1}
+4-12: Refresh, Content={408, 3605 Amount=1}
+4-13: Refresh, Content={408, 3605 Amount=1, 3605 Amount=1}
+4-14: Refresh, Content={408, 3605 Amount=1}
+4-15: Content={408, 1282}
+4-23: Content={1734}
+4-24: ProtectionZone, Content={408}
+4-25: ProtectionZone, Content={408}
+4-26: ProtectionZone, Content={408}
+4-27: ProtectionZone, Content={408}
+4-28: ProtectionZone, Content={408}
+4-29: ProtectionZone, Content={408, 2480}
+4-30: Content={408, 1282}
+5-10: Content={1284}
+5-11: Content={408, 1281}
+5-12: Content={408, 1281}
+5-13: Content={408, 1281}
+5-14: Content={408, 1281}
+5-15: Content={408, 1285}
+5-23: Content={1282, 2910}
+5-24: Content={432}
+5-25: ProtectionZone, Content={408}
+5-26: ProtectionZone, Content={408}
+5-27: ProtectionZone, Content={408}
+5-28: ProtectionZone, Content={408}
+5-29: ProtectionZone, Content={408}
+5-30: Content={408, 1734}
+6-23: Content={1284}
+6-24: Content={408, 1281}
+6-25: Content={408, 1281}
+6-26: Content={408, 1286}
+6-27: ProtectionZone, Content={408}
+6-28: ProtectionZone, Content={408}
+6-29: ProtectionZone, Content={408, 2431}
+6-30: Content={408, 1282}
+7-26: Content={1282, 2910}
+7-27: ProtectionZone, Content={408, 2911}
+7-28: ProtectionZone, Content={408, 2487}
+7-29: ProtectionZone, Content={408, 2488}
+7-30: Content={408, 1734}
+8-26: Content={1282}
+8-27: ProtectionZone, Content={408, 2911}
+8-28: ProtectionZone, Content={408, 2487}
+8-29: ProtectionZone, Content={408, 2488}
+8-30: Content={408, 1282}
+9-26: Content={1284}
+9-27: Content={408, 1281}
+9-28: Content={408, 1281}
+9-29: Content={408, 1735}
+9-30: Content={408, 1285}
+11-11: Content={1296}
+11-12: Content={1294}
+11-13: Content={1294, 2931}
+11-14: Content={1294}
+11-15: Content={1294, 2605 String="Mana Fluids-60 gp (Not always in stock)\n\nTips are accepted and appreciated (10%).\n\nCELTICS OWNS U ALL BITCH!!!!\n:[ i have second thoughts on that celtics! ~arkh~" Editor="Arkhus"}
+11-16: Content={1294, 2605 String="Welcome to the tower bar. Make yourself at home and have a few drinks to wash away your sorrows. But be careful of how much you drink.\n\nP.S. DO NOT MOVE THE TAPESTRY OR GO BEHIND COUNTERS!\n~Horobi~" Editor="Arkhus"}
+11-17: Content={1294}
+11-18: Content={1294, 2931}
+11-19: Content={1294}
+11-20: Content={1299}
+12-11: Content={1295}
+12-12: ProtectionZone, Content={408, 2435}
+12-13: ProtectionZone, Content={408}
+12-14: ProtectionZone, Content={408}
+12-15: ProtectionZone, Content={408}
+12-16: ProtectionZone, Content={408}
+12-17: ProtectionZone, Content={408}
+12-18: ProtectionZone, Content={408}
+12-19: ProtectionZone, Content={408, 2522}
+12-20: Content={408, 1295}
+13-11: Content={1295}
+13-12: ProtectionZone, Content={408, 2436}
+13-13: ProtectionZone, Content={408}
+13-14: ProtectionZone, Content={408}
+13-15: ProtectionZone, Content={408}
+13-16: ProtectionZone, Content={408}
+13-17: ProtectionZone, Content={408}
+13-18: ProtectionZone, Content={408}
+13-19: ProtectionZone, Content={408, 2525}
+13-20: ProtectionZone, Content={408, 1303}
+13-21: ProtectionZone, Content={2156, 441}
+13-22: ProtectionZone, Content={2156, 441}
+13-23: ProtectionZone, Content={2156, 441}
+13-24: Content={450}
+14-11: Content={1295}
+14-12: ProtectionZone, Content={408, 2437}
+14-13: ProtectionZone, Content={408}
+14-14: ProtectionZone, Content={408}
+14-15: ProtectionZone, Content={408}
+14-16: ProtectionZone, Content={408}
+14-17: ProtectionZone, Content={408}
+14-18: ProtectionZone, Content={408}
+14-19: ProtectionZone, Content={408}
+14-20: ProtectionZone, Content={408, 1295}
+14-21: ProtectionZone, Content={408}
+14-22: ProtectionZone, Content={408}
+14-23: ProtectionZone, Content={408}
+14-24: Content={2158, 440}
+15-11: Content={1295, 2928}
+15-12: ProtectionZone, Content={408}
+15-13: ProtectionZone, Content={408}
+15-14: ProtectionZone, Content={408}
+15-15: ProtectionZone, Content={408}
+15-16: ProtectionZone, Content={408}
+15-17: ProtectionZone, Content={408}
+15-18: ProtectionZone, Content={408}
+15-19: ProtectionZone, Content={408}
+15-20: ProtectionZone, Content={408, 1641}
+15-21: ProtectionZone, Content={408}
+15-22: ProtectionZone, Content={408}
+15-23: ProtectionZone, Content={408}
+15-24: Content={2155, 440}
+16-11: Content={1295}
+16-12: ProtectionZone, Content={408, 2535}
+16-13: ProtectionZone, Content={408}
+16-14: ProtectionZone, Content={408}
+16-15: ProtectionZone, Content={408}
+16-16: ProtectionZone, Content={408}
+16-17: ProtectionZone, Content={408}
+16-18: ProtectionZone, Content={408}
+16-19: ProtectionZone, Content={408, 2526}
+16-20: ProtectionZone, Content={408, 1295}
+16-21: ProtectionZone, Content={408}
+16-22: ProtectionZone, Content={408}
+16-23: ProtectionZone, Content={408}
+16-24: Content={2155, 440}
+17-11: Content={1303}
+17-12: ProtectionZone, Content={408, 1301}
+17-13: ProtectionZone, Content={408, 1294}
+17-14: ProtectionZone, Content={408, 1294, 2931}
+17-15: ProtectionZone, Content={408, 1294}
+17-16: ProtectionZone, Content={408, 1639}
+17-17: ProtectionZone, Content={408, 1294}
+17-18: ProtectionZone, Content={408, 1294, 2931}
+17-19: ProtectionZone, Content={408, 1294}
+17-20: ProtectionZone, Content={408, 1302}
+17-21: ProtectionZone, Content={408}
+17-22: ProtectionZone, Content={408}
+17-23: ProtectionZone, Content={408}
+17-24: Content={2155, 440}
+18-11: Content={1303}
+18-12: ProtectionZone, Content={408, 1295}
+18-13: ProtectionZone, Content={408}
+18-14: ProtectionZone, Content={408}
+18-15: ProtectionZone, Content={408}
+18-16: ProtectionZone, Content={408}
+18-17: ProtectionZone, Content={408}
+18-18: ProtectionZone, Content={408}
+18-19: ProtectionZone, Content={408}
+18-20: ProtectionZone, Content={408, 1295}
+18-21: ProtectionZone, Content={408}
+18-22: ProtectionZone, Content={408}
+18-23: ProtectionZone, Content={408}
+18-24: Content={2155, 440}
+19-11: Content={1303}
+19-12: ProtectionZone, Content={408, 1303}
+19-13: ProtectionZone, Content={408, 1947}
+19-14: ProtectionZone, Content={408}
+19-15: ProtectionZone, Content={408}
+19-16: ProtectionZone, Content={408}
+19-17: ProtectionZone, Content={408}
+19-18: Content={434}
+19-19: ProtectionZone, Content={408}
+19-20: Content={408, 1303}
+19-21: Content={2157, 442}
+19-22: Content={2157, 442}
+19-23: Content={2157, 442}
+19-24: Content={449}
+20-11: Content={1297}
+20-12: Content={408, 1300}
+20-13: Content={408, 1294}
+20-14: Content={408, 1294}
+20-15: Content={408, 1294}
+20-16: Content={408, 1294}
+20-17: Content={408, 1294}
+20-18: Content={408, 1294}
+20-19: Content={408, 1294}
+20-20: Content={408, 1298}

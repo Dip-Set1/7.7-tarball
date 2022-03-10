@@ -1,0 +1,46 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-01: ProtectionZone, Content={471}
+00-02: ProtectionZone, Content={466}
+00-03: ProtectionZone, Content={473}
+00-20: ProtectionZone, Content={471}
+00-21: ProtectionZone, Content={466}
+00-22: ProtectionZone, Content={473}
+01-01: ProtectionZone, Content={465}
+01-02: Refresh, ProtectionZone, Content={415}
+01-03: ProtectionZone, Content={451}
+01-20: ProtectionZone, Content={465}
+01-21: Refresh, ProtectionZone, Content={415}
+01-22: ProtectionZone, Content={451}
+02-01: ProtectionZone, Content={472}
+02-02: ProtectionZone, Content={467}
+02-03: ProtectionZone, Content={474}
+02-20: ProtectionZone, Content={472}
+02-21: ProtectionZone, Content={467}
+02-22: ProtectionZone, Content={474}
+19-17: ProtectionZone, Content={471}
+19-18: ProtectionZone, Content={466}
+19-19: ProtectionZone, Content={466}
+19-20: ProtectionZone, Content={466}
+19-21: ProtectionZone, Content={473}
+20-17: ProtectionZone, Content={465}
+20-18: Refresh, ProtectionZone, Content={415}
+20-19: Refresh, ProtectionZone, Content={415}
+20-20: Refresh, ProtectionZone, Content={415}
+20-21: ProtectionZone, Content={451}
+21-17: ProtectionZone, Content={465}
+21-18: Refresh, ProtectionZone, Content={415}
+21-19: Refresh, ProtectionZone, Content={415, 2115}
+21-20: Refresh, ProtectionZone, Content={415}
+21-21: ProtectionZone, Content={451}
+22-17: ProtectionZone, Content={465}
+22-18: Refresh, ProtectionZone, Content={415}
+22-19: Refresh, ProtectionZone, Content={415}
+22-20: Refresh, ProtectionZone, Content={415}
+22-21: ProtectionZone, Content={451}
+23-17: ProtectionZone, Content={472}
+23-18: ProtectionZone, Content={467}
+23-19: ProtectionZone, Content={467}
+23-20: ProtectionZone, Content={467}
+23-21: ProtectionZone, Content={474}

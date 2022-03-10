@@ -1,0 +1,10 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+20-20: Content={2019}
+25-18: Content={4943}
+25-19: Content={1769}
+25-20: Content={1769}
+25-21: Content={4944}
+26-19: Content={4957}
+26-20: Content={4957, 1748}

@@ -1,0 +1,26 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1040/1014/5
+
+6-28: Content={4943}
+6-29: Content={1769}
+6-30: Content={1769}
+6-31: Content={1769}
+7-29: Content={4957}
+7-30: Content={4958}
+7-31: Content={4959}
+11-28: Content={4943}
+11-29: Content={1769}
+11-30: Content={1769}
+11-31: Content={1769}
+12-29: Content={4957}
+12-30: Content={4958}
+12-31: Content={4959}
+13-30: Refresh, ProtectionZone, Content={5001}
+13-31: Refresh, ProtectionZone, Content={4920}
+14-30: Refresh, ProtectionZone, Content={4917}
+14-31: Refresh, ProtectionZone, Content={482}
+15-30: Refresh, ProtectionZone, Content={4917}
+15-31: Refresh, ProtectionZone, Content={486}
+16-30: Refresh, ProtectionZone, Content={4917}
+16-31: Refresh, ProtectionZone, Content={486, 4920}
+17-31: Content={2256}

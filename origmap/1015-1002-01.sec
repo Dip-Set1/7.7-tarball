@@ -1,0 +1,44 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-22: Content={4403, 1109}
+00-23: Content={4398, 1105}
+00-24: Content={4394, 1107}
+00-25: Content={4410, 1111}
+01-23: Content={4404, 1100}
+01-24: Content={4410}
+01-25: Content={4397, 1102}
+02-23: Content={4395, 1100}
+02-24: Content={4394, 1106}
+02-25: Content={4405, 1110}
+03-23: Content={4402, 1109}
+03-24: Content={4394, 1110}
+20-07: Content={4397, 1108}
+20-08: Content={4403, 1103}
+20-09: Content={4407, 1111}
+21-02: Content={4408, 1108}
+21-03: Content={4397, 1103}
+21-04: Content={4405, 1103}
+21-05: Content={4394, 1103}
+21-06: Content={4394, 1103}
+21-07: Content={4405, 1104}
+21-08: Content={4397, 1106}
+21-09: Content={4408, 1110}
+22-02: Content={4396, 1100}
+22-03: Content={4405}
+22-04: Content={370}
+22-05: Content={4398}
+22-06: Content={4405, 2017 String="Mount Sternum"}
+22-07: Content={4408}
+22-08: Content={4408, 1102}
+23-02: Content={4410, 1109}
+23-03: Content={4405, 1101}
+23-04: Content={4408, 1105}
+23-05: Content={4397}
+23-06: Content={4407}
+23-07: Content={4394, 1106}
+23-08: Content={4400, 1110}
+24-04: Content={4406, 1109}
+24-05: Content={4406, 1101}
+24-06: Content={4409, 1101}
+24-07: Content={4406, 1110}

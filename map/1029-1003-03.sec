@@ -1,0 +1,35 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1029/1003/3
+
+28-24: Content={1296}
+28-25: Content={1294, 2656}
+28-26: Content={1294, 2908}
+28-27: Content={1739}
+28-28: Content={1739}
+28-29: Content={1294, 2908}
+28-30: Content={1294}
+28-31: Content={1299}
+29-24: Content={1295}
+29-25: ProtectionZone, Content={429, 2493}
+29-26: ProtectionZone, Content={429, 3583 Amount=4, 2659}
+29-27: ProtectionZone, Content={429, 2487}
+29-28: ProtectionZone, Content={429, 2488}
+29-29: ProtectionZone, Content={429, 2647}
+29-30: ProtectionZone, Content={429, 2493}
+29-31: Content={429, 1295}
+30-24: Content={1738}
+30-25: ProtectionZone, Content={429, 2494}
+30-26: ProtectionZone, Content={429, 3725 Amount=4, 2659}
+30-27: ProtectionZone, Content={429, 3098, 3287 Amount=14, 2659}
+30-28: ProtectionZone, Content={429, 3093 SavedExpireTime=1135, 3066, 2647}
+30-29: ProtectionZone, Content={429, 3097, 2647}
+30-30: ProtectionZone, Content={429, 2494}
+30-31: Content={429, 1738}
+31-24: Content={1295, 2910}
+31-25: ProtectionZone, Content={429, 3583 Amount=5, 2854 Content={3074, 3074, 3061, 3085 RemainingUses=200, 2968 KeyNumber=3940, 2970 KeyNumber=3802, 2971 KeyNumber=3702, 2391, 3586 Amount=4, 3017, 3655, 3655, 3738 Amount=1}, 2659}
+31-26: ProtectionZone, Content={429, 3048 RemainingUses=20, 3042 Amount=20, 2659}
+31-27: ProtectionZone, Content={429, 3044 Amount=2, 3069, 3481, 3481, 3034 Amount=1, 2659}
+31-28: ProtectionZone, Content={429, 3367}
+31-29: ProtectionZone, Content={429, 3077, 2970 KeyNumber=3800, 2667}
+31-30: ProtectionZone, Content={429, 3003, 3457, 2924 SavedExpireTime=297, 3313}
+31-31: Content={429, 1295}

@@ -1,0 +1,128 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1041/1005/5
+
+5-23: Content={3114 Amount=1, 2124}
+9-9: Content={4943}
+9-10: Content={1769}
+9-11: Content={1769}
+9-12: Content={1769}
+9-13: Content={1769}
+9-14: Content={1769}
+9-15: Content={1769}
+9-16: Content={4944}
+10-10: Content={4958}
+10-11: Content={4959}
+10-12: Content={4960}
+10-13: Content={4958, 4941}
+10-14: Content={4959}
+10-15: Content={4960}
+10-21: Content={4943}
+10-22: Content={1769}
+10-23: Content={1769}
+10-24: Content={4944}
+11-23: Content={4941}
+12-20: Refresh, 
+12-21: Refresh, 
+12-22: Refresh, 
+12-23: Refresh, 
+12-24: Refresh, Content={487}
+12-25: Refresh, Content={493, 2280, 2255, 2258}
+12-26: Refresh, Content={4920}
+12-27: Refresh, 
+13-20: Refresh, Content={487, 2255}
+13-21: Refresh, Content={493, 2280, 2255}
+13-22: Refresh, Content={493, 2280, 2255}
+13-23: Refresh, Content={493, 2280, 2255}
+13-24: Refresh, Content={498, 4930}
+13-25: Refresh, Content={486, 2124}
+13-26: Refresh, Content={486, 4917}
+13-27: Refresh, 
+14-9: Content={4943}
+14-10: Content={1769}
+14-11: Content={1769}
+14-12: Content={1769}
+14-13: Content={1769}
+14-14: Content={1769}
+14-15: Content={1769}
+14-16: Content={4944}
+14-20: Refresh, Content={4917}
+14-21: Refresh, Content={486, 2124}
+14-22: Refresh, Content={486}
+14-23: Refresh, Content={486, 4963}
+14-24: Refresh, Content={486, 4964}
+14-25: Refresh, Content={486}
+14-26: Refresh, Content={486, 4917}
+14-27: Refresh, 
+15-10: Content={4958}
+15-11: Content={4959}
+15-12: Content={4960}
+15-13: Content={4958, 4941}
+15-14: Content={4959}
+15-15: Content={4960}
+15-20: Refresh, Content={4917, 2255}
+15-21: Refresh, Content={486}
+15-22: Refresh, Content={486}
+15-23: Refresh, Content={486}
+15-24: Refresh, Content={486}
+15-25: Refresh, Content={486}
+15-26: Refresh, Content={486}
+15-27: Refresh, Content={2277, 2257, 2257}
+16-10: Refresh, Content={5001}
+16-11: Refresh, Content={4920}
+16-12: Refresh, Content={4920}
+16-13: Refresh, Content={2280, 2258}
+16-14: Refresh, Content={2280, 2258}
+16-15: Refresh, Content={4920, 2258}
+16-16: Refresh, Content={4920}
+16-17: Refresh, 
+16-20: Refresh, Content={2278}
+16-21: Refresh, Content={482}
+16-22: Refresh, Content={486}
+16-23: Refresh, Content={486}
+16-24: Refresh, ProtectionZone, Content={486, 5022 AbsTeleportDestination=-2010517994}
+16-25: Refresh, Content={486}
+16-26: Refresh, Content={486}
+16-27: Refresh, Content={2277, 2257}
+17-10: Refresh, Content={4917}
+17-11: Refresh, Content={408}
+17-12: Refresh, Content={408}
+17-13: Refresh, Content={408, 4963}
+17-14: Refresh, Content={408, 4964}
+17-15: Refresh, Content={408}
+17-16: Refresh, Content={408, 4917}
+17-17: Refresh, 
+17-20: Refresh, Content={4917, 2256}
+17-21: Refresh, Content={486}
+17-22: Refresh, Content={486}
+17-23: Refresh, Content={486, 4920}
+17-24: Refresh, Content={486}
+17-25: Refresh, Content={486}
+17-26: Refresh, Content={486, 4930}
+17-27: Refresh, Content={2257}
+18-10: Refresh, Content={4917}
+18-11: Refresh, Content={408}
+18-12: Refresh, Content={408}
+18-13: Refresh, Content={434}
+18-14: Refresh, Content={408}
+18-15: Refresh, Content={408}
+18-16: Refresh, Content={408, 4917}
+18-17: Refresh, 
+18-20: Content={2256}
+18-21: Content={2279, 2256}
+18-22: Content={2279, 2256}
+18-23: Content={2256}
+18-24: Content={2279, 2256}
+18-25: Content={2279, 2256}
+19-10: Refresh, Content={4917}
+19-11: Refresh, Content={408, 4920}
+19-12: Refresh, Content={408}
+19-13: Refresh, Content={408}
+19-14: Refresh, Content={408}
+19-15: Refresh, Content={408}
+19-16: Refresh, Content={408, 4930}
+19-17: Refresh, 
+20-11: Content={2256}
+20-12: Content={2279, 2256}
+20-13: Content={2279, 2256}
+20-14: Content={2279, 2256}
+20-15: Content={2279, 2256}

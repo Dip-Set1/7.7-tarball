@@ -1,0 +1,264 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1009/994/6
+
+5-0: Refresh, Content={1154}
+5-1: Content={5054}
+6-0: Refresh, Content={1152}
+6-1: Content={5052}
+7-0: Refresh, Content={1152}
+7-1: Content={5052}
+7-11: Content={1283}
+7-12: Content={1281}
+7-13: Content={1735}
+7-14: Content={1281, 2908}
+7-15: Content={1286}
+8-0: Refresh, Content={1152}
+8-1: Content={5052}
+8-11: Content={1282, 2664 RemainingExpireTime=552}
+8-12: ProtectionZone, Content={408, 2487}
+8-13: ProtectionZone, Content={408, 2488}
+8-14: ProtectionZone, Content={408, 2446, 2390, 2644}
+8-15: Content={408, 1282}
+9-0: Refresh, Content={1152}
+9-1: Content={5052}
+9-11: Content={1282}
+9-12: ProtectionZone, Content={408, 2449, 2387, 2667}
+9-13: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 3287 Amount=1, 2389, 2644}
+9-14: ProtectionZone, Content={408, 2935, 2443, 2393, 2667}
+9-15: Content={408, 1282}
+10-0: Refresh, Content={1152}
+10-1: Content={5052}
+10-5: Content={447}
+10-6: Content={2156, 441}
+10-7: Content={2156, 441}
+10-8: Content={2156, 441}
+10-9: Content={2156, 441}
+10-10: Content={2156, 441}
+10-11: Content={1290}
+10-12: Content={408, 1281}
+10-13: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\nPrincess Lizbeth"}
+10-14: Content={408, 1288}
+10-15: Content={408, 1287}
+10-16: Content={1281}
+10-17: Content={1281, 2908}
+10-18: Content={1735}
+10-19: Content={1281, 2601}
+10-20: Content={1286}
+11-0: Refresh, Content={1152}
+11-1: Content={5052}
+11-5: Content={2154, 439}
+11-6: Refresh, Content={106, 3657}
+11-7: Refresh, Content={106}
+11-8: Refresh, Content={106}
+11-9: Refresh, Content={106, 3657}
+11-10: Content={106, 2154, 439}
+11-11: Content={1282}
+11-12: ProtectionZone, Content={408, 2536}
+11-13: ProtectionZone, Content={408}
+11-14: Content={408, 1282}
+11-15: ProtectionZone, Content={408, 2438}
+11-16: ProtectionZone, Content={408, 2439}
+11-17: ProtectionZone, Content={408, 2440}
+11-18: ProtectionZone, Content={408}
+11-19: ProtectionZone, Content={408}
+11-20: Content={408, 1282}
+12-0: Content={5049}
+12-1: Content={5050}
+12-4: Content={447}
+12-5: Content={2154, 2156, 443}
+12-6: Refresh, Content={106}
+12-7: Refresh, Content={106}
+12-8: Refresh, Content={106, 3620}
+12-9: Refresh, Content={108}
+12-10: Content={106, 2154, 439}
+12-11: Content={1282}
+12-12: ProtectionZone, Content={408, 2359}
+12-13: ProtectionZone, Content={408}
+12-14: Content={408, 1282}
+12-15: ProtectionZone, Content={408, 2572}
+12-16: ProtectionZone, Content={408, 2575}
+12-17: ProtectionZone, Content={408, 2575}
+12-18: ProtectionZone, Content={408, 2575}
+12-19: ProtectionZone, Content={408, 2578}
+12-20: Content={408, 1282}
+13-4: Content={2154, 439}
+13-5: Content={432}
+13-6: Refresh, Content={106}
+13-7: Refresh, Content={109, 2370}
+13-8: Refresh, Content={106}
+13-9: Refresh, Content={106}
+13-10: Content={106, 2154, 439}
+13-11: Content={1734}
+13-12: ProtectionZone, Content={408, 2315}
+13-13: ProtectionZone, Content={408}
+13-14: ProtectionZone, Content={408, 1641}
+13-15: ProtectionZone, Content={408, 2573}
+13-16: ProtectionZone, Content={408, 2576, 2378}
+13-17: ProtectionZone, Content={408, 2576, 2315}
+13-18: ProtectionZone, Content={408, 2576, 2375}
+13-19: ProtectionZone, Content={408, 2579}
+13-20: Content={408, 1734}
+14-4: Content={2154, 439}
+14-5: Refresh, Content={408}
+14-6: Refresh, Content={106}
+14-7: Refresh, Content={106, 2371}
+14-8: Refresh, Content={106}
+14-9: Refresh, Content={108}
+14-10: Content={106, 2154, 439}
+14-11: Content={1282, 2910}
+14-12: ProtectionZone, Content={408}
+14-13: ProtectionZone, Content={408}
+14-14: Content={408, 1282, 2910}
+14-15: ProtectionZone, Content={408, 2574}
+14-16: ProtectionZone, Content={408, 2577}
+14-17: ProtectionZone, Content={408, 2577}
+14-18: ProtectionZone, Content={408, 2577, 2059}
+14-19: ProtectionZone, Content={408, 2580, 2059}
+14-20: Content={408, 1282}
+15-4: Content={2154, 2154, 439}
+15-5: Refresh, Content={106, 3617}
+15-6: Refresh, Content={106}
+15-7: Refresh, Content={106}
+15-8: Refresh, Content={106}
+15-9: Refresh, Content={106}
+15-10: Content={106, 2154, 439}
+15-11: Content={1290}
+15-12: Content={408, 1281}
+15-13: ProtectionZone, Content={408, 1639}
+15-14: Content={408, 1291}
+15-15: Content={408, 1281}
+15-16: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\nDeath'bardock"}
+15-17: Content={408, 1288}
+15-18: Content={408, 1281}
+15-19: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\nbabbul naiz"}
+15-20: Content={408, 1289}
+16-4: Content={2154, 2154, 439}
+16-5: Refresh, Content={106}
+16-6: Refresh, Content={109}
+16-7: Refresh, Content={106}
+16-8: Refresh, Content={106}
+16-9: Refresh, Content={109, 3617}
+16-10: Content={106, 2154, 439}
+16-11: Content={1282}
+16-12: ProtectionZone, Content={408}
+16-13: ProtectionZone, Content={408}
+16-14: Content={408, 1282, 2638}
+16-15: ProtectionZone, Content={408, 3045 RemainingUses=196, 3098, 3085 RemainingUses=181, 3418}
+16-16: ProtectionZone, Content={408, 2853}
+16-17: Content={408, 1282, 2656}
+16-18: ProtectionZone, Content={408, 3098, 3593, 3586 Amount=6, 2653}
+16-19: ProtectionZone, Content={408, 3053, 3738 Amount=1, 2647}
+16-20: Content={408, 1282}
+17-4: Content={2154, 439}
+17-5: Content={106, 2156, 441}
+17-6: Content={106, 2156, 441}
+17-7: Content={106, 2156, 2156, 441}
+17-8: Content={106, 2156, 441}
+17-9: Content={106, 2156, 441}
+17-10: Content={106, 2156, 2154, 443}
+17-11: Content={1282, 2910}
+17-12: ProtectionZone, Content={432}
+17-13: ProtectionZone, Content={408}
+17-14: Content={408, 1282, 2596}
+17-15: ProtectionZone, Content={408, 3280, 3297}
+17-16: ProtectionZone, Content={408, 2393, 3483, 3198 Charges=4}
+17-17: Content={408, 1282, 2659}
+17-18: ProtectionZone, Content={408, 3097, 3598 Amount=2, 3589 Amount=3, 3425, 2667}
+17-19: ProtectionZone, Content={408, 3046, 3347, 3409, 3548 Amount=1, 2644}
+17-20: Content={408, 1282}
+18-11: Content={1734}
+18-12: ProtectionZone, Content={408}
+18-13: ProtectionZone, Content={408}
+18-14: Content={408, 1282, 2910}
+18-15: ProtectionZone, Content={408, 3351, 3357, 3557}
+18-16: ProtectionZone, Content={408, 2493}
+18-17: Content={408, 1282, 2910}
+18-18: ProtectionZone, Content={408, 2497 String="Babbul Naiz"}
+18-19: ProtectionZone, Content={408, 3042 Amount=1, 3587 Amount=7, 3359, 3548 Amount=1}
+18-20: Content={408, 1734}
+19-11: Content={1282}
+19-12: ProtectionZone, Content={408, 2526}
+19-13: ProtectionZone, Content={408}
+19-14: Content={408, 1282, 2656}
+19-15: ProtectionZone, Content={408, 3077, 2857 Content={3457, 3003, 2880, 2880, 2880}, 2432}
+19-16: ProtectionZone, Content={408, 2494}
+19-17: Content={408, 1282}
+19-18: ProtectionZone, Content={408, 2498}
+19-19: ProtectionZone, Content={408, 2991, 3298 Amount=5, 2472}
+19-20: Content={408, 1282}
+20-11: Content={1284}
+20-12: Content={408, 1281}
+20-13: Content={408, 1735}
+20-14: Content={408, 1287}
+20-15: Content={408, 1281}
+20-16: Content={408, 1735}
+20-17: Content={408, 1287}
+20-18: Content={408, 1281}
+20-19: Content={408, 1735}
+20-20: Content={408, 1285}
+23-28: Content={1283}
+23-29: Content={1281}
+23-30: Content={1281}
+23-31: Content={1735}
+24-28: Content={1282}
+24-29: ProtectionZone, Content={408, 2487}
+24-30: ProtectionZone, Content={408, 2488}
+24-31: ProtectionZone, Content={408}
+25-28: Content={1734}
+25-29: ProtectionZone, Content={408}
+25-30: ProtectionZone, Content={408}
+25-31: ProtectionZone, Content={408}
+26-28: Content={1282, 2910}
+26-29: ProtectionZone, Content={408, 2487}
+26-30: ProtectionZone, Content={408, 2488}
+26-31: ProtectionZone, Content={408}
+27-13: Content={1283}
+27-14: Content={1281, 2659}
+27-15: Content={1281, 2908}
+27-16: Content={1735}
+27-17: Content={1281}
+27-18: Content={1286}
+27-28: Content={1290}
+27-29: Content={408, 1281}
+27-30: Content={408, 1281}
+27-31: Content={408, 1281}
+28-13: Content={1282, 2667}
+28-14: ProtectionZone, Content={429, 2957, 2469, 3591 Amount=10, 2659}
+28-15: ProtectionZone, Content={429, 3591 Amount=10, 2667}
+28-16: ProtectionZone, Content={429, 2487}
+28-17: ProtectionZone, Content={429, 2488}
+28-18: Content={429, 1282}
+28-28: Content={1282}
+28-29: ProtectionZone, Content={408, 1948}
+28-30: ProtectionZone, Content={408}
+28-31: ProtectionZone, Content={408}
+29-13: Content={1282, 2659}
+29-14: ProtectionZone, Content={429, 3350, 2469, 3591 Amount=17, 2667}
+29-15: ProtectionZone, Content={429, 3591 Amount=10, 2659}
+29-16: ProtectionZone, Content={429, 2487}
+29-17: ProtectionZone, Content={429, 2488}
+29-18: Content={429, 1282}
+29-28: Content={1290}
+29-29: ProtectionZone, Content={408, 1638}
+29-30: Content={408, 1288}
+29-31: ProtectionZone, Content={408, 1638}
+30-13: Content={1282, 2667}
+30-14: ProtectionZone, Content={429, 1781 Amount=100, 3591 Amount=10, 2659}
+30-15: ProtectionZone, Content={429, 3591 Amount=10, 2667}
+30-16: ProtectionZone, Content={429, 3591 Amount=10, 2659}
+30-17: ProtectionZone, Content={429, 3180 Charges=1, 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2314, 2667}
+30-18: Content={429, 1282}
+30-28: Content={1282}
+30-29: ProtectionZone, Content={408}
+30-30: Content={408, 1282}
+30-31: ProtectionZone, Content={408}
+31-13: Content={1734}
+31-14: ProtectionZone, Content={429, 1781 Amount=73, 3591 Amount=10, 2667}
+31-15: ProtectionZone, Content={429, 3591 Amount=10, 2659}
+31-16: ProtectionZone, Content={429, 2374, 3591 Amount=10, 2667}
+31-17: ProtectionZone, Content={429, 2968 KeyNumber=3940, 3576, 2853 Content={2853, 3425, 3349, 3578 Amount=2, 3483, 3492 Amount=89, 3578 Amount=100}, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2314, 2659}
+31-18: Content={429, 1734}
+31-28: Content={1282, 2910}
+31-29: ProtectionZone, Content={408, 2493}
+31-30: Content={408, 1282, 2910}
+31-31: ProtectionZone, Content={408, 2493}

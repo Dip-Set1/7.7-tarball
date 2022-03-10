@@ -1,0 +1,19 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1008/1010/5
+
+1-0: Content={2164}
+1-1: Content={2164}
+2-0: ProtectionZone, Content={429, 3415, 3271, 3301}
+2-1: Content={429, 2162}
+3-0: ProtectionZone, Content={429, 3279, 3073, 3454}
+3-1: Content={429, 2162}
+4-0: Content={429, 2164}
+4-1: Content={429, 2168}
+13-0: Content={2164}
+13-1: Content={2164}
+14-0: ProtectionZone, Content={429, 3051 SavedExpireTime=150, 2991, 3071}
+14-1: Content={429, 2162}
+15-0: ProtectionZone, Content={429, 3026 Amount=1}
+15-1: Content={429, 2162}
+16-0: Content={429, 2164}
+16-1: Content={429, 2168}

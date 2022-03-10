@@ -1,0 +1,29 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1040/1008/4
+
+0-23: Content={1127, 1102, 1100}
+1-23: Content={1127, 1109, 1102}
+25-27: Content={410, 2028}
+25-28: Content={410, 2028}
+25-29: Content={410, 2028}
+25-30: Content={410, 2028}
+26-27: Content={410, 2028}
+26-28: Content={410, 2028}
+26-29: Content={410, 1796}
+26-30: Content={410, 1796}
+26-31: Content={410, 2028}
+27-27: Content={410, 2028}
+27-28: Content={410, 1796}
+27-29: Content={410, 1796}
+27-30: Content={410, 2028}
+27-31: Content={410, 2028}
+28-27: Content={410, 2028}
+28-28: Content={410, 2028}
+28-29: Content={410, 2028}
+28-30: Content={410, 2028}
+28-31: Content={410, 2028}
+29-27: Content={410, 2028}
+29-28: Content={410, 1796}
+29-29: Content={410, 2028}
+29-30: Content={410, 2028}
+29-31: Content={410, 1796}

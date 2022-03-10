@@ -1,0 +1,29 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1013/987/5
+
+8-2: Content={3114 Amount=3, 2171}
+13-10: Content={4407, 4248 RemainingExpireTime=1364 Content={3114 Amount=2, 2853 Content={3277 Amount=1}}}
+13-11: Content={4407, 3114 Amount=2}
+14-6: Content={1114}
+14-7: Content={1112}
+14-8: Content={4403, 4657, 1123, 3267, 3267}
+14-9: Content={4405, 4657, 1114, 1124}
+14-10: Content={4400, 4661, 2888 PoolLiquidType=5 RemainingExpireTime=20, 1123, 4247 RemainingExpireTime=1460 Content={3352}, 4242 RemainingExpireTime=1108}
+14-11: Content={4404, 1114, 1124}
+15-6: Content={1113}
+15-7: Content={4394, 4658}
+15-8: Content={386}
+15-9: Content={385}
+15-10: Content={4401, 4656, 2891 PoolLiquidType=5 RemainingExpireTime=12, 4242 RemainingExpireTime=305}
+15-11: Content={4407, 1113}
+16-6: Content={1115}
+16-7: Content={4406, 4662, 1117}
+16-8: Content={4405, 4666, 4248 RemainingExpireTime=1782 Content={3358, 2853 Content={3277 Amount=1}}, 4242 RemainingExpireTime=285}
+16-9: Content={4398, 4664, 2888 PoolLiquidType=5 RemainingExpireTime=30, 4247 RemainingExpireTime=1470 Content={3114 Amount=1, 2853 Content={3277 Amount=1}}}
+16-10: Content={4397, 4660, 4248 RemainingExpireTime=1355 Content={3114 Amount=1, 2853 Content={3267}}, 4242 RemainingExpireTime=1131}
+16-11: Content={4404, 1113}
+17-7: Content={1115, 2928}
+17-8: Content={4398, 4662, 1112}
+17-9: Content={4403, 4660, 1112}
+17-10: Content={4394, 1112}
+17-11: Content={4398, 1116}

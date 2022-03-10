@@ -1,0 +1,35 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1004/1013/4
+
+28-24: Content={1155}
+28-25: Content={2156, 1154, 1154}
+28-26: Content={2156, 1154}
+28-27: Content={2156, 1154}
+28-28: Content={2156, 1154}
+28-29: Content={2156, 1154}
+28-30: Content={2156, 1154}
+28-31: Content={5054}
+29-24: Content={2154, 1153}
+29-25: ProtectionZone, Content={1152, 3620}
+29-26: ProtectionZone, Content={1152}
+29-27: ProtectionZone, Content={1152}
+29-28: ProtectionZone, Content={1152, 2359}
+29-29: ProtectionZone, Content={1152}
+29-30: Content={1152, 2154}
+29-31: Content={5052}
+30-24: Content={2154, 1153}
+30-25: Content={432}
+30-26: ProtectionZone, Content={1152}
+30-27: ProtectionZone, Content={950, 2360, 3656}
+30-28: ProtectionZone, Content={950, 2314, 3657}
+30-29: ProtectionZone, Content={950, 2358, 3654}
+30-30: Content={1152, 2154}
+30-31: Content={5052}
+31-24: Content={2154, 1153}
+31-25: ProtectionZone, Content={1152}
+31-26: ProtectionZone, Content={1152}
+31-27: ProtectionZone, Content={950, 2360, 3656}
+31-28: ProtectionZone, Content={950, 2314, 3657}
+31-29: ProtectionZone, Content={950, 2358, 3654}
+31-30: Content={1152, 2154}
+31-31: Content={5052}

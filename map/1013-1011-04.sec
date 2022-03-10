@@ -1,0 +1,135 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1013/1011/4
+
+16-8: Content={1296}
+16-9: Content={1294}
+16-10: Content={1294}
+16-11: Content={1301}
+16-12: Content={1294}
+16-13: Content={1294}
+16-14: Content={1301}
+16-15: Content={1294}
+16-16: Content={1294}
+16-17: Content={1294}
+16-18: Content={1299}
+17-8: Content={1295}
+17-9: ProtectionZone, Content={429, 3447 Amount=10}
+17-10: ProtectionZone, Content={429, 2493}
+17-11: Content={429, 1295}
+17-12: ProtectionZone, Content={429, 3578 Amount=25, 3577 Amount=6}
+17-13: ProtectionZone, Content={429, 2493}
+17-14: Content={429, 1295}
+17-15: ProtectionZone, Content={429}
+17-16: Content={438}
+17-17: ProtectionZone, Content={429}
+17-18: Content={429, 1295}
+18-8: Content={1295, 2910}
+18-9: ProtectionZone, Content={429, 3447 Amount=10}
+18-10: ProtectionZone, Content={429, 2494}
+18-11: Content={429, 1295, 2910}
+18-12: ProtectionZone, Content={429, 3271, 3301, 3066}
+18-13: ProtectionZone, Content={429, 2494}
+18-14: Content={429, 1295, 2910}
+18-15: ProtectionZone, Content={429}
+18-16: ProtectionZone, Content={429}
+18-17: ProtectionZone, Content={429}
+18-18: Content={429, 1295}
+19-8: Content={1295}
+19-9: ProtectionZone, Content={429, 3447 Amount=10}
+19-10: ProtectionZone, Content={429}
+19-11: Content={429, 1295}
+19-12: ProtectionZone, Content={429, 3350, 3447 Amount=100}
+19-13: ProtectionZone, Content={429, 3492 Amount=100}
+19-14: Content={429, 1295}
+19-15: ProtectionZone, Content={429}
+19-16: ProtectionZone, Content={429}
+19-17: ProtectionZone, Content={429, 2526}
+19-18: Content={429, 1295}
+20-8: Content={1303}
+20-9: Content={429, 1294}
+20-10: ProtectionZone, Content={429, 1639}
+20-11: Content={429, 1300, 2908}
+20-12: Content={429, 1294}
+20-13: ProtectionZone, Content={429, 1638 String="# Players allowed to open this door\nPatryk Najemnik\n"}
+20-14: Content={429, 1300}
+20-15: Content={429, 1294, 2908}
+20-16: ProtectionZone, Content={429, 1639}
+20-17: Content={429, 1294}
+20-18: Content={429, 1302}
+21-8: Content={1295}
+21-9: ProtectionZone, Content={429}
+21-10: ProtectionZone, Content={429}
+21-11: ProtectionZone, Content={429}
+21-12: ProtectionZone, Content={429}
+21-13: ProtectionZone, Content={429}
+21-14: ProtectionZone, Content={429}
+21-15: ProtectionZone, Content={429}
+21-16: ProtectionZone, Content={429}
+21-17: ProtectionZone, Content={429}
+21-18: Content={429, 1295}
+22-8: Content={1295, 2910}
+22-9: ProtectionZone, Content={429}
+22-10: ProtectionZone, Content={429}
+22-11: ProtectionZone, Content={429}
+22-12: ProtectionZone, Content={429}
+22-13: Content={429, 1303}
+22-14: ProtectionZone, Content={429, 1947}
+22-15: ProtectionZone, Content={429}
+22-16: ProtectionZone, Content={429}
+22-17: ProtectionZone, Content={429}
+22-18: Content={429, 1295}
+23-8: Content={1303}
+23-9: Content={429, 1294}
+23-10: Content={429, 1294}
+23-11: ProtectionZone, Content={429, 1638 String="# Players allowed to open this door\nMax De'Lidis"}
+23-12: Content={429, 1294, 2907}
+23-13: Content={429, 1304}
+23-14: Content={429, 1294}
+23-15: Content={429, 1294}
+23-16: ProtectionZone, Content={429, 1638 String="# Players allowed to open this door\nEddi"}
+23-17: Content={429, 1294, 2908}
+23-18: Content={429, 1302}
+24-8: Content={1295}
+24-9: ProtectionZone, Content={429, 2536}
+24-10: ProtectionZone, Content={429}
+24-11: ProtectionZone, Content={429}
+24-12: ProtectionZone, Content={429}
+24-13: Content={429, 1295, 2667}
+24-14: ProtectionZone, Content={429, 2535}
+24-15: ProtectionZone, Content={429, 3098, 3081 RemainingUses=5, 3042 Amount=8, 3075, 3279}
+24-16: ProtectionZone, Content={429, 3051, 3082 RemainingUses=50, 3320, 3279, 3297}
+24-17: ProtectionZone, Content={429, 3092, 3083 RemainingUses=150, 3298 Amount=4, 2667}
+24-18: Content={429, 1295}
+25-8: Content={1295}
+25-9: ProtectionZone, Content={429}
+25-10: ProtectionZone, Content={429}
+25-11: ProtectionZone, Content={429}
+25-12: ProtectionZone, Content={429}
+25-13: Content={429, 1295, 2656}
+25-14: ProtectionZone, Content={429, 2393, 2473 Content={3357, 3075}}
+25-15: ProtectionZone, Content={429, 3033 Amount=2, 3050, 3085 RemainingUses=138, 3385, 3322}
+25-16: ProtectionZone, Content={429, 3034 Amount=1, 3053 SavedExpireTime=590, 3046 SavedExpireTime=2936, 3381}
+25-17: ProtectionZone, Content={429, 3091, 3054 RemainingUses=200, 3557, 2656}
+25-18: Content={429, 1295}
+26-8: Content={1295}
+26-9: ProtectionZone, Content={429, 2487}
+26-10: ProtectionZone, Content={429, 2488}
+26-11: ProtectionZone, Content={429}
+26-12: ProtectionZone, Content={429}
+26-13: Content={429, 1295, 2659}
+26-14: ProtectionZone, Content={429, 2487}
+26-15: ProtectionZone, Content={429, 2488}
+26-16: ProtectionZone, Content={429, 3052, 3318, 3069, 3419}
+26-17: ProtectionZone, Content={429, 3093, 3084 RemainingUses=250, 3287 Amount=7, 3416, 2659}
+26-18: Content={429, 1295}
+27-8: Content={1297}
+27-9: Content={429, 1294}
+27-10: Content={429, 1294}
+27-11: Content={429, 1294}
+27-12: Content={429, 1294}
+27-13: Content={429, 1300}
+27-14: Content={429, 1294}
+27-15: Content={429, 1294}
+27-16: Content={429, 1294}
+27-17: Content={429, 1294}
+27-18: Content={429, 1298}

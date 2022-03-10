@@ -1,0 +1,69 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-19: ProtectionZone, Content={465}
+00-20: Refresh, ProtectionZone, Content={415, 1965}
+00-21: ProtectionZone, Content={415, 2198}
+00-22: ProtectionZone, Content={415, 1962}
+00-23: ProtectionZone, Content={415, 1962}
+00-24: ProtectionZone, Content={415, 1962}
+00-25: ProtectionZone, Content={415, 1962}
+00-26: ProtectionZone, Content={415, 2192}
+00-27: Refresh, ProtectionZone, Content={415, 1967}
+00-28: ProtectionZone, Content={451}
+01-19: ProtectionZone, Content={465}
+01-20: Refresh, ProtectionZone, Content={415, 2197}
+01-21: Refresh, ProtectionZone, Content={415, 1963}
+01-22: Refresh, ProtectionZone, Content={415, 1963}
+01-23: Refresh, ProtectionZone, Content={415, 1963}
+01-24: Refresh, ProtectionZone, Content={415, 1963}
+01-25: Refresh, ProtectionZone, Content={415, 1963}
+01-26: Refresh, ProtectionZone, Content={415, 1963}
+01-27: Refresh, ProtectionZone, Content={415, 2191}
+01-28: ProtectionZone, Content={451}
+02-19: ProtectionZone, Content={472}
+02-20: ProtectionZone, Content={467}
+02-21: ProtectionZone, Content={467}
+02-22: ProtectionZone, Content={467}
+02-23: ProtectionZone, 
+02-24: ProtectionZone, 
+02-25: ProtectionZone, 
+02-26: ProtectionZone, Content={467}
+02-27: ProtectionZone, Content={467}
+02-28: ProtectionZone, Content={474}
+16-23: ProtectionZone, Content={471}
+16-24: ProtectionZone, Content={466}
+16-25: ProtectionZone, Content={466}
+16-26: ProtectionZone, Content={466}
+16-27: ProtectionZone, Content={466}
+16-28: ProtectionZone, Content={473}
+17-23: ProtectionZone, Content={465}
+17-24: Refresh, ProtectionZone, Content={415, 2195}
+17-25: Refresh, ProtectionZone, Content={415, 1961}
+17-26: Refresh, ProtectionZone, Content={415, 1961}
+17-27: Refresh, ProtectionZone, Content={415, 2193}
+17-28: ProtectionZone, Content={451}
+18-23: ProtectionZone, Content={465}
+18-24: Refresh, ProtectionZone, Content={415, 1965}
+18-25: ProtectionZone, Content={415, 2220}
+18-26: ProtectionZone, Content={415, 2219}
+18-27: Refresh, ProtectionZone, Content={415, 1967}
+18-28: ProtectionZone, Content={451}
+19-23: ProtectionZone, Content={465}
+19-24: Refresh, ProtectionZone, Content={415, 1965}
+19-25: ProtectionZone, Content={415, 2221}
+19-26: ProtectionZone, Content={415, 2218}
+19-27: Refresh, ProtectionZone, Content={415, 1967}
+19-28: ProtectionZone, Content={451}
+20-23: ProtectionZone, Content={465}
+20-24: Refresh, ProtectionZone, Content={415, 2197}
+20-25: Refresh, ProtectionZone, Content={415, 1963}
+20-26: Refresh, ProtectionZone, Content={415, 1963}
+20-27: Refresh, ProtectionZone, Content={415, 2191}
+20-28: ProtectionZone, Content={451}
+21-23: ProtectionZone, Content={472}
+21-24: ProtectionZone, Content={467}
+21-25: ProtectionZone, Content={467}
+21-26: ProtectionZone, Content={467}
+21-27: ProtectionZone, Content={467}
+21-28: ProtectionZone, Content={474}

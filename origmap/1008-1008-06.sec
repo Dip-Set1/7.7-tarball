@@ -1,0 +1,47 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+22-00: Content={1281}
+22-01: Content={1286}
+23-00: ProtectionZone, Content={408, 2493}
+23-01: Content={408, 1282}
+24-00: ProtectionZone, Content={408, 2494}
+24-01: Content={408, 1282}
+25-00: ProtectionZone, Content={408}
+25-01: Content={408, 1282}
+26-00: ProtectionZone, Content={408}
+26-01: Content={408, 1282}
+27-00: Content={408, 1281}
+27-01: Content={408, 1285}
+28-07: Content={1296}
+28-08: Refresh, Content={1294}
+28-09: Content={2164}
+28-10: Content={2164}
+28-11: Content={1299}
+29-03: Content={1296}
+29-04: Refresh, Content={1294}
+29-05: Refresh, Content={1294}
+29-06: Refresh, Content={1294, 2931}
+29-07: Content={1298}
+29-08: Refresh, Content={408}
+29-09: Refresh, Content={408}
+29-10: Refresh, Content={408}
+29-11: Content={408, 1295}
+30-03: Refresh, Content={1295}
+30-04: Refresh, Content={408, 1948}
+30-05: Refresh, Content={408}
+30-06: Refresh, Content={408, 2471}
+30-07: Refresh, Content={408, 2471}
+30-08: Refresh, Content={408}
+30-09: Refresh, Content={408}
+30-10: Refresh, Content={408}
+30-11: Content={408, 1295}
+31-03: Refresh, Content={1295}
+31-04: Refresh, Content={408}
+31-05: Refresh, Content={408}
+31-06: Refresh, Content={408}
+31-07: Refresh, Content={408}
+31-08: Refresh, Content={408}
+31-09: Refresh, Content={408}
+31-10: Refresh, Content={408}
+31-11: Content={408, 1295}

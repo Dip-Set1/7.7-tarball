@@ -1,0 +1,75 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+14-14: Refresh, Content={3114 Amount=3, 2171}
+16-27: Content={1114}
+16-28: Content={1112}
+16-29: Content={4410, 1112}
+16-30: Content={1117}
+17-27: Content={1113}
+17-28: Refresh, Content={4407, 2491}
+17-29: Refresh, Content={4394, 2492}
+17-30: Content={4398, 1115}
+17-31: Content={1112}
+18-27: Content={1113}
+18-28: Refresh, Content={4399}
+18-29: Refresh, Content={4399}
+18-30: Refresh, Content={4403}
+18-31: Refresh, Content={4397}
+19-27: Content={1113}
+19-28: Refresh, Content={4396}
+19-29: Refresh, Content={4402}
+19-30: Refresh, Content={4394}
+19-31: Refresh, Content={4404}
+20-27: Content={1115}
+20-28: Content={4394, 1112}
+20-29: Refresh, Content={4395, 1105, 1123}
+20-30: Refresh, Content={4409, 1124}
+20-31: Content={4403, 1112}
+21-29: Refresh, Content={4409, 1109}
+21-30: Refresh, Content={4394, 1101}
+21-31: Refresh, Content={4396, 1101}
+22-12: Refresh, Content={3114 Amount=2, 2171}
+22-20: Content={1114}
+22-21: Content={1112}
+22-22: Content={4398, 1117}
+22-29: Content={467}
+23-19: Content={1114}
+23-20: Content={1116}
+23-21: Refresh, Content={4406, 1772, 3114 Amount=1}
+23-22: Content={4409, 1113}
+24-18: Content={1114}
+24-19: Content={1116}
+24-20: Refresh, Content={4402}
+24-21: Refresh, Content={4399}
+24-22: Content={4395, 1113}
+25-18: Content={1113}
+25-19: Refresh, Content={4403, 2489}
+25-20: Refresh, Content={4394}
+25-21: Refresh, Content={4407}
+25-22: Content={4397, 1113}
+26-18: Content={1113}
+26-19: Refresh, Content={4408, 2490}
+26-20: Refresh, Content={4408}
+26-21: Refresh, Content={4405}
+26-22: Refresh, Content={4394, 1107, 1125}
+26-23: Refresh, Content={4398, 1111}
+27-18: Content={1113}
+27-19: Refresh, Content={4407}
+27-20: Refresh, Content={4406}
+27-21: Refresh, Content={4396}
+27-22: Refresh, Content={4398, 1106, 1126}
+27-23: Refresh, Content={4406, 1110}
+28-18: Content={1115}
+28-19: Refresh, Content={4406, 1117}
+28-20: Refresh, Content={4399}
+28-21: Content={4406, 1114}
+28-22: Content={4408, 1116}
+28-23: Content={467}
+29-09: Refresh, Content={2171}
+29-19: Content={1115}
+29-20: Content={4407, 1112}
+29-21: Content={4404, 1116}
+31-29: Refresh, Content={1155}
+31-30: Refresh, Content={1154}
+31-31: Refresh, Content={1154}

@@ -1,0 +1,332 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1039/1014/6
+
+0-0: Content={429, 1735}
+0-1: Content={429, 1281}
+0-2: Content={429, 1291}
+0-3: Content={429, 1281}
+0-4: Content={429, 1281}
+0-5: Content={429, 1281, 2908}
+0-6: Content={429, 1281, 2667}
+0-7: Content={429, 1289}
+0-31: Refresh, Content={1153}
+1-2: Content={1282}
+1-3: ProtectionZone, Content={429, 2438}
+1-4: ProtectionZone, Content={429, 2439}
+1-5: ProtectionZone, Content={429, 2440}
+1-6: ProtectionZone, Content={429, 2446}
+1-7: Content={429, 1282}
+1-31: Refresh, Content={1153}
+2-2: Content={1282}
+2-3: ProtectionZone, Content={429, 2469 Content={3483, 3483, 2867 Content={2866 Content={3298 Amount=1, 3457}}}, 2314}
+2-4: ProtectionZone, Content={429, 3279, 2314}
+2-5: ProtectionZone, Content={429, 3046 SavedExpireTime=369, 2314}
+2-6: ProtectionZone, Content={429, 2853 Content={2853}, 2314}
+2-7: Content={429, 1282}
+2-31: Refresh, Content={1153}
+3-2: Content={1282, 2910}
+3-3: ProtectionZone, Content={429, 3029 Amount=2, 3563, 2314}
+3-4: ProtectionZone, Content={429, 2659}
+3-5: ProtectionZone, Content={429, 2659, 3449 Amount=4}
+3-6: ProtectionZone, Content={429, 2866 Content={3003, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2659, 2659}
+3-7: Content={429, 1734}
+3-31: Refresh, Content={1153}
+4-2: Content={1734}
+4-3: ProtectionZone, Content={429, 3568, 2314}
+4-4: ProtectionZone, Content={429, 2659}
+4-5: ProtectionZone, Content={429, 2659, 2659}
+4-6: ProtectionZone, Content={429, 2659}
+4-7: Content={429, 1282}
+4-31: Refresh, Content={1153}
+5-0: Content={441}
+5-1: Content={441}
+5-2: Content={1282}
+5-3: ProtectionZone, Content={429, 2842, 2314}
+5-4: ProtectionZone, Content={429, 2659, 2659, 2659}
+5-5: ProtectionZone, Content={429, 2659}
+5-6: ProtectionZone, Content={429, 3076, 2659, 2659, 2659, 2869 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+5-7: Content={429, 1734}
+5-13: Content={1283}
+5-14: Content={1281}
+5-15: Content={1281, 2604}
+5-16: Content={1735}
+5-17: Content={1281, 2908}
+5-18: Content={1288}
+5-19: Content={1281}
+5-20: Content={1281, 2908}
+5-21: Content={1281}
+5-22: Content={1281, 2908}
+5-23: Content={1286}
+5-31: Refresh, Content={1153}
+6-0: Content={432}
+6-1: Refresh, Content={408}
+6-2: ProtectionZone, Content={408, 1641 String="# Players allowed to open this door\nPerdril\nsir oyster bar\njulius'rotch\nsorata wingxz\nsir garmu\n"}
+6-3: ProtectionZone, Content={429, 2659}
+6-4: ProtectionZone, Content={429, 3069, 2659}
+6-5: ProtectionZone, Content={429, 2659}
+6-6: ProtectionZone, Content={429, 2537}
+6-7: Content={429, 1282}
+6-13: Content={1282}
+6-14: Content={429, 2493}
+6-15: Content={429, 2911, 2469}
+6-16: Content={429, 2360}
+6-17: Content={429, 2319}
+6-18: Content={429, 1282}
+6-19: Content={429, 2472}
+6-20: Content={429, 3434, 2319}
+6-21: Content={429, 3387, 2319}
+6-22: Content={429, 3297, 3284 RemainingUses=1, 2319}
+6-23: Content={429, 1282}
+6-31: Content={5048}
+7-0: Content={408, 1281, 2907}
+7-1: ProtectionZone, Content={408, 1639 String="# Players allowed to open this door\nfire jeck"}
+7-2: Content={408, 1291}
+7-3: Content={429, 1281}
+7-4: Content={429, 1281, 2908}
+7-5: ProtectionZone, Content={429, 1639 String="# Players allowed to open this door\nPerdril\nsir garmu\n", 2659}
+7-6: Content={429, 1281}
+7-7: Content={429, 1289}
+7-13: Content={1282}
+7-14: Content={429, 2494}
+7-15: Content={429}
+7-16: Content={429}
+7-17: Content={429}
+7-18: Content={429, 1632}
+7-19: Content={429}
+7-20: Content={429}
+7-21: Content={429}
+7-22: Content={429}
+7-23: Content={429, 1282}
+8-0: ProtectionZone, Content={429, 3042 Amount=1, 3448 Amount=1, 3449 Amount=3, 2659}
+8-1: ProtectionZone, Content={429, 3042 Amount=1, 3448 Amount=1, 3449 Amount=2, 2659}
+8-2: Content={429, 1282}
+8-3: ProtectionZone, Content={429, 4839, 2469 Content={2868}, 2314}
+8-4: ProtectionZone, Content={429, 2659}
+8-5: ProtectionZone, Content={429, 2659}
+8-6: ProtectionZone, Content={429, 2434 Content={2865 Content={2871 Content={2868, 2854 Content={2854}, 2854, 2854, 2854, 2866, 2854 Content={2854, 2869 Content={2854 Content={2854 Content={2854}}}}, 2854, 2854, 2854, 2854, 2854, 2854}}, 2868 Content={2854 Content={2870 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854}}}}}}}, 3425, 2854 Content={2869 Content={2871 Content={2868 Content={2854 Content={2871 Content={2868 Content={2854 Content={2868 Content={2854 Content={2867 Content={2865 Content={2871 Content={2866 Content={2854 Content={2868 Content={2854 Content={2868 Content={2867 Content={2866 Content={2868 Content={2868 Content={2866 Content={2868 Content={2871 Content={2867 Content={2869 Content={2869 Content={2871}}}}}}}}}}}}}}}}}}}}}}}}}}}, 3003, 3456, 3457, 3457, 3457, 3003, 3003, 3003, 3456}, 2858, 2469 Content={2853, 2871 Content={3180 Charges=3, 3180 Charges=3, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2}, 3180 Charges=1}, 2872, 2853}}}
+8-7: Content={429, 1282}
+8-13: Content={1290}
+8-14: Content={429, 1281}
+8-15: Content={429, 1281}
+8-16: Content={429, 1288}
+8-17: Content={429, 1281}
+8-18: Content={429, 1287}
+8-19: Content={429, 1281}
+8-20: Content={429, 1288}
+8-21: Content={429, 1281}
+8-22: Content={429, 1628}
+8-23: Content={429, 1289}
+9-0: ProtectionZone, Content={429, 3042 Amount=1, 3448 Amount=1, 3449 Amount=3, 2659}
+9-1: ProtectionZone, Content={429, 3051, 3081 RemainingUses=5, 2659}
+9-2: Content={429, 1282}
+9-3: ProtectionZone, Content={429, 4839, 2469 Content={2866}, 2314}
+9-4: ProtectionZone, Content={429, 3568, 2659}
+9-5: ProtectionZone, Content={429, 2659}
+9-6: ProtectionZone, Content={429, 2659}
+9-7: Content={429, 1282}
+9-13: Content={1282, 2909}
+9-14: Content={429, 2487}
+9-15: Content={429, 2488}
+9-16: Content={429, 1282}
+9-20: Content={1282}
+9-21: Content={432}
+9-22: Content={429}
+9-23: Content={429, 1282}
+10-0: ProtectionZone, Content={429, 3071, 3448 Amount=1, 3449 Amount=3, 2659}
+10-1: ProtectionZone, Content={429, 3049 SavedExpireTime=598, 3065, 2659}
+10-2: Content={429, 1282, 2910}
+10-3: ProtectionZone, Content={429, 2469 Content={2868 Content={2868}}, 2314}
+10-4: ProtectionZone, Content={429, 3568, 2659}
+10-5: ProtectionZone, Content={429, 2495 String="Perdril"}
+10-6: ProtectionZone, Content={429, 2496}
+10-7: Content={429, 1734}
+10-13: Content={1734}
+10-14: Content={429, 2472}
+10-15: Content={429}
+10-16: Content={429, 1734}
+10-20: Content={1734}
+10-21: Content={429, 2914, 2473}
+10-22: Content={429}
+10-23: Content={429, 1734}
+11-0: ProtectionZone, Content={429, 3448 Amount=1, 3449 Amount=3, 2659}
+11-1: ProtectionZone, Content={429, 2537, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}
+11-2: Content={429, 1282}
+11-3: ProtectionZone, Content={429, 2025, 2659, 2667, 2659}
+11-4: ProtectionZone, Content={429, 3568, 2659}
+11-5: ProtectionZone, Content={429, 2495 String="Sir Garmu"}
+11-6: ProtectionZone, Content={429, 2496}
+11-7: Content={429, 1282}
+11-13: Content={1282}
+11-14: Content={429, 2535}
+11-15: Content={429}
+11-16: Content={429, 1282}
+11-20: Content={1282, 2910}
+11-21: Content={429, 2473, 2473}
+11-22: Content={429}
+11-23: Content={429, 1282}
+12-0: Content={429, 1735}
+12-1: Content={429, 1281}
+12-2: Content={429, 1287}
+12-3: Content={429, 1281}
+12-4: Content={429, 1281}
+12-5: Content={429, 1735}
+12-6: Content={429, 1281}
+12-7: Content={429, 1285}
+12-13: Content={1290}
+12-14: Content={429, 1281}
+12-15: Content={429, 1629}
+12-16: Content={429, 1287, 2908}
+12-17: Content={1281, 2601}
+12-18: Content={1735}
+12-19: Content={1735}
+12-20: Content={1287, 2601}
+12-21: Content={429, 1281, 2908}
+12-22: Content={429, 1629}
+12-23: Content={429, 1289}
+13-13: Content={1282}
+13-14: Content={429, 2572, 2982}
+13-15: Content={429, 2575}
+13-16: Content={429, 2575, 2360}
+13-17: Content={429, 2575, 2319}
+13-18: Content={429, 2575, 2358}
+13-19: Content={429, 2575, 2360}
+13-20: Content={429, 2575, 2319}
+13-21: Content={429, 2575, 2358}
+13-22: Content={429, 2578}
+13-23: Content={429, 1282}
+14-13: Content={1282, 2910}
+14-14: Content={429, 2574, 2319}
+14-15: Content={429, 2577}
+14-16: Content={429, 2577}
+14-17: Content={429, 2577}
+14-18: Content={429, 2577}
+14-19: Content={429, 2577}
+14-20: Content={429, 2577}
+14-21: Content={429, 2577}
+14-22: Content={429, 2580}
+14-23: Content={429, 1282}
+15-13: Content={1284}
+15-14: Content={429, 1281}
+15-15: Content={429, 1281}
+15-16: Content={429, 1735}
+15-17: Content={429, 1281}
+15-18: Content={429, 1735}
+15-19: Content={429, 1735}
+15-20: Content={429, 1281}
+15-21: Content={429, 1735}
+15-22: Content={429, 1281}
+15-23: Content={429, 1285}
+19-0: Content={1283}
+19-1: Content={1281, 2653}
+19-2: Content={1281, 2664 RemainingExpireTime=400}
+19-3: Content={1735}
+19-4: Content={1281}
+19-5: Content={1281}
+19-6: Content={1288}
+19-7: Content={1281, 2639}
+19-8: Content={1735}
+19-9: Content={1281, 2653}
+19-10: Content={1286}
+20-0: Content={1282, 2653}
+20-1: ProtectionZone, Content={409, 3507 String="savage here" Editor="Savage Saint", 3503, 3350, 3447 Amount=92, 3418}
+20-2: ProtectionZone, Content={409, 2866 Content={2854}, 2481, 2667, 2667, 2667, 2667, 2667, 2667, 2667}
+20-3: ProtectionZone, Content={409, 2438 Content={2469 Content={3552, 3384}, 4268, 3504 Content={3504, 3504, 3504, 3504, 3504}, 2854 Content={3265, 3301, 3357, 3425, 3425, 3425}, 2854 Content={3732 Amount=12, 3596 Amount=14, 3601 Amount=14, 3586 Amount=22, 3584 Amount=10, 3598 Amount=10, 3725 Amount=1, 3588 Amount=54, 3595 Amount=12, 3594, 3579 Amount=3, 3606 Amount=10, 3590 Amount=58, 3602 Amount=7, 3598 Amount=35, 3587 Amount=8, 3597 Amount=8, 3585 Amount=24}}}
+20-4: ProtectionZone, Content={409, 2439 Content={2870 Content={2868 Content={3030 Amount=1, 2953, 3004, 3007, 3084 RemainingUses=250, 3097, 3093}, 2854 Content={2866 Content={3492 Amount=1, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}, 2866 Content={2871}, 2866 Content={2871 Content={3505 String="1.- Gusanitos.\n2.-Backpack's\n3.-Cartas de amorrrr (iuuuiuuu)\n4.-Mugrero\n5.-Valuables\n6.-Runas\n7.-Herramientas\n8.-Llaves\n9.-Armas\n10.-Armaduras\n11.-Escudos\n12.-Amuletosy anillos.! :D\nchanguuuuuuuuuuu..! :D t amooo stas bn mensithooo\n:P\n :****\n" Editor="Ruby'moon", 3505 String="manito:\n\nhay te deje unos pokitos bolts espero y te sirvan\n\n\ntu hermanita ari ya subi de lvl  =)\nsoy  55\n" Editor="Arianza", 3506 String="Venganzza\nDarashia\n\nula! karlitus!! ilu ilu ilu amiguishu! espero ke esta navidad la pases muy bn en kompañia de personas ke te kieren muxito komo io jojoj :> ke santa te traiga muxos regalitos por ke eres un niño muy wenu ke se porta komo un angelito vdd? 0 x) te kieru niño! kdt\n\natte: Ruby'moon (Karix HeRe) :*\n\n                                                        24/Dic/05" Editor="Ruby'moon", 3506 String="Venganzza\ndarashia\n\nhOla changuu ei ocupo ablar qontigO! esqe es de una qosa qe no c qe aser i ps te qiero qontaaar! para qe tu me digas qe aga o no c ! S:S:S:S: bueno metete al msn siempre qe agarres la qompuu! espero qe la leas! :******** ba baii  ! tqmmmmmmmmmmmmm! changuuuuuuuuuu! :D:**\natte .- changuuuu! D: <<<- jijiji! :******** bObzitha heree! =))\n", 3505 String="...venganzza atacked Chipi Gambler...\n19:59 Strider kiros: duel later\n20:00 Venganzza: =(\n...venganzza atacked wookles...\n20:01 Strider kiros: I SAD NO DUEL \n (default)\nI used sd in venganzza and \n20:06 You lose 21 hitpoints due to an attack by Venganzza.\n...venganzza atacked anelya, than Sarius Natax\n20:06 Strider kiros: who dont want to see leave (default)\n...venganzza atacked Chipi Gambler and wasnt in line...\n...than Chipi Gambler started duel with venganzza...\n.20:07 Anelya: ITS UNFAIR FOR STRIDER\n20:07 Strider kiros: leave\n20:07 Strider kiros: carlos\n20:07 Strider kiros: u arent understangind" Editor="Antanis", 3506 String="Yagacsa Reevolution\nDarashia\n\nEres una nakoteeeeeee -.- wanna die?\njojojo vas a ver kbron cuando te vea!!\nxD jajaja sbs menso\n\natte:\naLe ^^", 3505 String="Hi love!\n\nI'm realy sorry... i didnt know that you didnt like people lvling up your char.. i wanted to make a surprise for you... i was only trying to help... anyway, i only did 27%, and i can pay for the bolts i spend... i'm realy sorry... plz dont get mad at me....\nWith love\nyours\nCamila (a.k.a. Mel)", 2856 Content={3507 String="Venganzza\nDarachia\n", 3505 String="Hi my love!\n\nI'm coming back... just needed to do something... i love you very much... remember, you and me forever... here a little present for the decoration of our house...\nI love Carliños\n\nCamila (a.k.a. Mel Yask)"}, 3505 String="\n\n               UN REGALILLO, ME LO DIO UN HUNTER, Y UN WEY KE LO MATARON LOS CYCLOPES XS\n                                         BYE\nAtt. Calirikur Antront", 3507 String="changuu te amo i te extraño musho!=(( c-ya amor besothes!^^\ncuidece\n\n\n=(", 3505 String="ei changu t amo felizitame a tu mamii.! :*** me duele la qavesa ia me voi a dormir.! :*** t amoo\n\nCHANGUUUU SI NO TOY PS NO TOI ME JUI A PINTAR LA CASA DE LA AWE HABER SI HOY TERMINO Y ME DA LANIUX PA LA PREMMY XD KE IA HASTA LE PIENSO COMPRAR PQ IA NO JUEGO NAMAS TOY PARADO I PS ATI CASI NI TE VEO PERO WENO, TE KERU CHANGU I CUANDO T BEA T VOI A CARGAR :D JOJOJO\nPD. IA NO SEAS TAN FASTIDIOSA Y DAME UN BESITO xD\n\nYAGA HERE PLX\n\naa changu te hize el desert quest :D you are rich :D\n\nhttp://photobucket.com/albums/v688/yagacsa/\n \n\nei changuuu plz plz qita esa fotoo.! D: salga fatal.! plz plz.! luego te doi una para qe pongas! pero qitalaaa salE.!¡? bai t amo al rato me metoo.! :******* i io t amo maas! ^^  aaah y tY.! :D\n", 3505 String="ei changu namas te escribo pa decirte ke te amo nu chingaso y ya jojojo\n\nte kero mucho cuidate plx :**\n\n\njojojojo io t amooo maas ei x qe te saliste.!¡? ¬¬ bai :** alomejor mañana iebamos a arreglar la qompu .! ='( :**************************t amooooo.! :D 1 montooonaal.! ^^ :**", 3505 String="Eii.! changU eRmOsO.! boi a iR a lA plaIA.!\ni ps no c a qE orA baIA a rrEgreZar.! =(( alomEhoR qomo aLAs 6 dE aqa 7 dE aia.! o noC pEro tE amo hErmoSO changU.! :************** vEsoz tC :D baii amur.! a ia bndi i nOmas.! te compRe 1 bp d´uh´z.!\nchangu nu enquentrO una bP de uh´s qe tenIA.! =(( en mi muEble<<---d la FloR.! :S bai t amo.!\nme la robaroon.! =(( ia nimodoo .!-.- ai t dejo qomida en el refri.! :*** t amo.!\nbusqa en mi qosa esa i no stan mis uh´s.! =(( qe ratas.! la vdd .! baii t amo.! ai stan tus qosas down.! :*** t amo en el refri sta la qomida qiero qe qomas amor.! t amooo.! :D :****", 2815 String="changu =((\naier mi apa c enojo conmigo i me dijo apagaa esa compu o t la desconepto i io O.O pro porke io ke hize y me dice nomas tas de webon y no haces nada i io le dije pro si io te impermiabilize alla arriba i c me keda biendo y me dice apagala cabron o te la apago io i ps ia la tube ke apagar i medijo k no la keria prendida despues de las 10 de la nochie\n =((( muajaja pero no hay pdo luego se le olvida siempre me dice lo mismo...\n\noie entre con tu monita para sacarte pero vi k ia t sacaron.. t amuuuuu", 3505 String="yaga:\n\nno seas flojote canijoo kikiriki jejejeje no kieros huevones aki jeje tkm vine y tu tabas con el yoyin bien parriba jiji jejeXD\n05:49 You advanced from Level 31 to Level 32.\n\nno kise pasar ke supieras manito tkm\ntu hermanita ARi la mas bonita\n\n=******", 3506 String="Bobzitha\nab'Dendriel\n\n\nHola changuuuuuuuuu te keru :D", 3506 String="Bobzitha\nab'dendriel\n\nhola changu llegue a las 4 de la \"fiesta \" o lo ke sea ke halla sido XD\n\nte keru\n\ny ps perdon por dejarte solitaajeje y  de rato vamos a pelonesjaja\n \ny t cuento k isimos :S\n\nyagacsa :D"}, 3506 String="Bobzitha\nab'dendriel\n\nhola changu llegue a las 4 de la \"fiesta \" o lo ke sea ke halla sido XD\n\nte keru\n\ny ps perdon por dejarte solitaajeje y  de rato vamos a pelonesjaja\n \ny t cuento k isimos :S\n\nyagacsa :D", 3506 String="Bobzitha\nab'dendriel\n\nhola changu llegue a las 4 de la \"fiesta \" o lo ke sea ke halla sido XD\n\nte keru\n\ny ps perdon por dejarte solitaajeje y  de rato vamos a pelonesjaja\n \ny t cuento k isimos :S\n\nyagacsa :D", 3506 String="Bobzitha\nab'dendriel\n\nhola changu llegue a las 4 de la \"fiesta \" o lo ke sea ke halla sido XD\n\nte keru\n\ny ps perdon por dejarte solitaajeje y  de rato vamos a pelonesjaja\n \ny t cuento k isimos :S\n\nyagacsa :D", 3506 String="Bobzitha\nab'dendriel\n\nhola changu llegue a las 4 de la \"fiesta \" o lo ke sea ke halla sido XD\n\nte keru\n\ny ps perdon por dejarte solitaajeje y  de rato vamos a pelonesjaja\n \ny t cuento k isimos :S\n\nyagacsa :D", 3507 String="changu te tardaste 100 años eee\n\nia me dormi ¬¬\nte keru mañana te veo\n\nte amu" Editor="Ruby'moon", 2815 String="changuuuuuuuuuuuuuu te keruuuuuuu\nchanguuuuuuuuuuuuuu t amuuuuu..! :D\n-.-! -.-! :D\n\n=ooooo wtf te amuuuuuuuuuuu!! :D\n jahjahjahajh io mas.!\n :D", 2815 String="ei changuuuu.! :D\nstoi en un pinche siver sarro ia me boi aber si entro en mi qasa baii tC :**** t qeruuuu tq cuidas en heros ehh.! :********PPPPP baiii t amoooo :D", 3505 String="Bo bo\n \nyaga tqeruuu.!:D\nio mas bobzitha\nno io mas yagacsa.!:D\n\n=o\n\nio te keru mas ke a mis ojos\n\njhajhajahjahaj  naqo.!:D\nnakusha tu xD\nio tmb.!\n:D\n\noie changu ke kressssss\nkee.!:D\n\nte amuuuuuuu y t kiero ver en rl y cuando t vea t voy a dar un beso :*P\nkjahajhajhajhajah\ntu bias disho k me ibas a cargar \n\nsi pro tamben un besito :D o no kere?\nsiiiiiiii.!:D\n\n:DDDDDDDDDDDDDDDDDDDDDDDDDDD\npero i o t cargo tmb.!:D saalE.1¿?\n\njajaja ps haber si puedes :P\n\noie cuanto mides?\n1.90\n\n1.90????? tasloca\nkjahjahjah nooo mido komo 1.65 algo asi.! noc la vdd mañana me mido.!:P\n\njaja tas chaparrita :D:D:D\nio mido 1.73 xD\n=((( \nbueno la vdd noc mañana me mido salE.!   :D\ncon una regla ._.\njhajahjahjahahjah noo.! jajahjahjah  imaginate.! jahjahjah:P\n\n=(((((((((((((((((((((((((\n\n:***************P\n\n=((((((((((((((((((((((((((((((((\n\nia ermositho.! :D no stes asiii tu sabes k t qeruuuuuuuuu..! :*PPPPPPPPP \n\nps si pro =((", 3505 String="changu!\n\nni t despediste bn de mi nomas me dijiste bai i io ahi dandot besos como menso\n\nwrwrwrwr -.-! no me simpatsas eeeeeeeeee! tirate a un pozo changu!\n\nweno etc..\n\noy ando bn cagado (ke raro) tal vez d rato ni entre a juegar ps porke ia stoy hasta el webo de este juego aasi k nos vemus pasadu mañana pero no t espantes la vdd no creo durar tanto sin jugar jajaaja no me gusta pero tiene algo ke no se pero no puedo dejar d jugarlo o.O?\n\nweno amur te keru! i ia manda al choriz a akel animal! now or hunted !!\n\n-.-\n\nte keru baitelas \n\n:***", 3505 String="ei changu mañana entras temprano ia me vooiii bai tC :**** tqeruuuu\n\nei temprano ehh\n\ni ps si no me qrees ps np\n=((\n", 3505 String="eaeaea changu eso qiere desir qe ia bamos a tener qasa.!!? :D \nei changuu t amoooo.! D: cn todo mi qorazooön.! ;D ^^ mañana te metes tempranithoo (viernes.! ) buenoo t amoo  i ia pnse bn i ps qe tiene qe me mate zara.! D: un duel pero sin magia asi como si fuera el tibia detmach o algo asi i ia lo juge changu aste un mono aii.! :P io ia tngo una mona.! ^^ boi a empesar a jugar aia.! :D bueno bai t amooo :D pero qlaro no me boi a retirar de aqi :P baii changuu presioso.! :D\n\npD.! no dejes tus gusanos regados en la qasa plz.! :**PPP", 3505 String="Ei changu eske aier me sali asi x k e estaba mi papa .:!:S peroo tu sabEs k te aMu changU i si metEte plZ.:..! d perdida al mSn.! plz.! =(((\nt boi a xtrañAR mi changU preciOzoo:! :D \nt amuuuu ^^ bai tC presiozo i luEgo lo manDo al choRIz salE.!¡? bai t  aMuuuu.!\nson las 2 d la tarde aka i me akabo d lebantar ..!:P bai t amO..! :******PPPP", 3505 String="oiE ia convensi a hypnoz d k no c baia.!:D x) bai changuuu.!:D tqeru\n:******\noiE changu ban a iebar a arreglar la kompu bai tC tqeruu changu bai me  pelie cn sigma x lo d (chnaguuu here) :S bueno kien sabe kuando me den la kompu.! bai tqeruu :*P", 3505 String="Esto es un compromiso:\n\nYagi ira al cyber de ari.. y arreglara las computadoras gratis.. firma de ke no sepuede hechar para atras jaja ntc\n\nme has caido muy bien y espero ke todolo ke kieres se te cumpla y conceda.. jejeje cuidate siempre.. tkm  amiguito\n\n=* Ari" Editor="Ruby'moon", 3505 String="**changu tu ghost esta en el en en esa kosa dnde estan los espejos kuida musho a los niños plz! i k no c peleen i si c pelean diles k les boi a pegar  :P bueno changuuuu tqmm t amuu mi changu miaduu :D ojala k me den rapido mi compu bueno bai t amuuu i t boi a xtrañar.! pd changu tu barril :S c be feuu.! bueno bai t amuuu.!:D :*PPPPPPPPPP   t qeruuuuuuuuu.! i ben a mzt i si no me dan rapido la compu ps tendre k ir a civer.!:S \nbueno bai t amuuuuuuu changuuuuuuuu tC .! pd moriiii.!  =(( me mato un gs..! D: ¬¬ i tmb fui a dragones pero no mori :P bueno baaaaai t amuuuuuuuu.!:D cuidate musho .!:D D: :*PPPPPPPPPP  ah i asle d comer a los bebes ok.!¡? baiii.!:D", 3505 String="Yagita:\n\n=******\n\nmanito duerme bonito te kiero mucho y sabes soy feliz porke te tengo a ti en mi vida tambien.. y ke bueno ke ya somos hermanitos de tibia te kelo muchote y cuidate por siempre y para siempre..\n\n=**** mañana te espero ok... te cuidas.. besitos de tu hermanita  \n\nAri  =******" Editor="Ruby'moon", 2815 String="changuu ia vendi la bp de arrows aki te dejo tu feriaaaaa te mochas comprame algo jejeje :P\n\n\nte keru :D bai", 2815 String="\nchanguuu te amoooo plx si ves esto rayale aki pa saber k lo leiste =(\n\n\nD:\n", 3507 String="changu t keru \nchanGu t amuu.!\n:D\nakenuuuuuuuu\nio t amu :D\nio dije primeruuu.!"}, 2865 Content={3114 Amount=30, 3039, 2957, 2868 Content={2667, 2667, 2667, 2872 Content={2948, 2948, 4871, 4871, 3077}, 3078, 3078, 3078, 3078, 3078, 2667, 2667, 2667, 2667, 2667}, 3741 Amount=6, 2865 Content={3077, 3077, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3061, 3207 Amount=1, 3039, 3658, 3658, 3658, 3658, 3658, 3658, 2635, 3463, 3738 Amount=1}, 2870 Content={3077, 3077, 3039, 2843, 3735 Amount=9, 3078, 2906}, 2868 Content={2949, 2953, 2954, 2957, 2955, 2952, 2950, 2949, 2949, 2815, 2953, 2954, 2957, 2949, 2955, 2955, 2952, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3061, 2829 String="Suns and Stars, Part II\nVery basic rituals depend on the influences of dawn and dusk, or of night and day. Other, more complex rituals may only be performed at very specific times, perhaps even at a specific hour. Other rituals that are more complex still are bound to specific days, and to specific times as well. In fact, some individual spells can only be performed once a year or once every other year, while the most powerful of rituals may only be carried out during stellar constellations that are so incredibly rare that centuries may pass before the ritual can be performed again. Given the power and knowledge of the ancients it seems reasonable to assume that they have prepared rituals whose time has not even come to this very day. Since most of the ancient races have disappeared from the lands it is well possible that some of the rituals are still be buried in some long forgotten ruin, while others might actually be in the possession of some surviving heir of one of the ancient races.\nWho knows. The astrological knowledge of the ancients is yet to be rediscovered. We are perfectly positive that some of the discoveries we have made can be considered as the groundwork for further, more elaborate theories which one day might rival that of the ancients. Still, it would be an immense progress if we could rediscover some of the ancients' lost astrological writings."}, 2854 Content={3039, 3469, 3123, 3467, 2865 Content={2950, 2853 Content={2906, 3463, 3004, 2989}, 2839, 2856 Content={2858}, 3078}, 3209, 3739 Amount=2, 2826 String="Tales of Tibia"}, 2861 Content={3078, 3209, 2833 String="Report 27AAF36\nAlthough offered with the best intentions, the reward the tradesmen from Venore had put on monkey tails was revoked after a while. Even though many adventurers and soldiers of fortune had been able to pick up their rewards, the situation was worse than ever as the ape raids came even more frequently and ferociously. The loss of lives and the senseless destruction of property had increased enormously. Sadly Jorgin Beargin, the spokesman of the Venoran traders, was called back to Venore to report about the recent losses.\nThe traders are now asking us to keep adventurers from provoking the ape men in any way. I fear we cannot offer much assistance in that matter since those \"tail hunters\" are numerous and usually well armed but we will try our best.\n", 2818 Editor="Venganzza", 2870 Content={2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977}}, 3467, 3459, 3740 Amount=20}, 2872 Content={2865 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3155 Charges=1, 3148 Charges=3, 3155 Charges=1, 3155 Charges=1, 3172 Charges=2, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3}, 2867 Content={3192 Charges=1, 3166 Charges=2, 3190 Charges=4, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2866 Content={3148 Charges=3, 3188 Charges=3, 3180 Charges=3, 3149 Charges=2, 3188 Charges=3, 3188 Charges=2, 3190 Charges=4, 3190 Charges=3, 3166 Charges=2, 3166 Charges=4}, 2866 Content={3190 Charges=4, 3190 Charges=4, 3197 Charges=2, 3197 Charges=3, 3197 Charges=3, 3197 Charges=2, 3176 Charges=3, 3197 Charges=3, 3188 Charges=2, 3188 Charges=3, 3180 Charges=3}, 2868 Content={3197 Charges=2, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 2868 Content={3152 Charges=1, 3165 Charges=1, 3195 Charges=2, 3164 Charges=3, 3179 Charges=3, 3153 Charges=1, 2867 Content={3203 Charges=2, 3192 Charges=2, 3173 Charges=2, 3166 Charges=1, 3176 Charges=4, 3189 Charges=3, 3197 Charges=1, 3149 Charges=2, 3160 Charges=1, 3155 Charges=1, 3200 Charges=3, 3190 Charges=4, 3166 Charges=2, 3177 Charges=1, 3188 Charges=3, 3174 Charges=5, 3191 Charges=2, 3198 Charges=5, 3180 Charges=4, 3172 Charges=3}}, 2867 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2869 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 2857 Content={3172 Charges=1, 3172 Charges=1, 3172 Charges=3}}, 2869 Content={3003, 3003, 2869 Content={2869 Content={2870 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046}, 3046, 3046, 3046, 3046, 3046, 3046, 3046 SavedExpireTime=1382, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 3003, 3483, 3456, 3059, 3059, 3330, 3003, 3003, 2920 SavedExpireTime=257, 3483}, 3003, 3003, 3457, 3456, 3330, 3330, 3059, 3059, 3453, 3483, 3483, 2901, 3330}, 2871 Content={2969 KeyNumber=3033, 2865 Content={2970 KeyNumber=3801, 2970 KeyNumber=3800, 2970 KeyNumber=3802, 2969 KeyNumber=3033, 2970 KeyNumber=3012, 2972 KeyNumber=3980, 2970 KeyNumber=3899, 2970 KeyNumber=3142, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2969 KeyNumber=3650, 2970 KeyNumber=4503, 2969 KeyNumber=5010, 2969 KeyNumber=3650, 2969 KeyNumber=4055, 2970 KeyNumber=3301, 2970 KeyNumber=3303, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2969 KeyNumber=5000}, 2970 KeyNumber=4502, 2970 KeyNumber=4503, 2970 KeyNumber=4501, 2969 KeyNumber=3302, 2970 KeyNumber=3303, 2970 KeyNumber=3301, 2972 KeyNumber=3304, 2970 KeyNumber=4503, 2973 KeyNumber=3520, 2969 KeyNumber=3600, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 2969 KeyNumber=4055, 2969 KeyNumber=5000, 2969 KeyNumber=3008, 2970 KeyNumber=3800, 2969 KeyNumber=3005, 2973 KeyNumber=3520}, 2868 Content={3297, 3279, 3279, 3279, 3279, 3301, 3304, 3074, 2865 Content={3271, 2865 Content={2869 Content={2854 Content={2868 Content={3271, 3285, 3293}, 3316, 3313, 3327, 3338}, 3316, 3336, 3313, 3338, 3307}, 3330, 3289, 3310, 3310, 3292}, 3271, 3271, 3271, 3307, 3307, 3307, 3283, 3350, 3316, 3292, 3292, 3316, 3293}, 3311, 3327, 3291, 3304, 3317}, 2854 Content={3572, 2868 Content={3384, 2854 Content={3576, 3576, 3576}, 3384, 3384, 3384, 3384, 3384, 3384, 3384}, 3551, 3563, 3403, 3379, 3403, 3403, 3403}, 2865 Content={3425, 3425, 3425, 3429, 2869 Content={3425, 3412, 3421, 3441, 3425, 3421, 3409, 3409}}}, 2868 Content={3287 Amount=15, 3298 Amount=79}, 2870 Content={3349, 3349, 3349, 3349, 3350, 3350, 3350, 3350, 3350, 3350, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}}
+20-5: ProtectionZone, Content={409, 2440 Content={3277 Amount=39, 2854 Content={2865 Content={2866 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}}}}
+20-6: Content={409, 1282, 2910}
+20-7: ProtectionZone, Content={409, 3077, 3297, 3429, 2667}
+20-8: ProtectionZone, Content={438}
+20-9: ProtectionZone, Content={409, 3077, 3297, 3429, 2667}
+20-10: Content={409, 1282}
+21-0: Content={1282, 2910}
+21-1: ProtectionZone, Content={409, 3026 Amount=2}
+21-2: ProtectionZone, Content={409, 3033 Amount=5}
+21-3: ProtectionZone, Content={409, 3027 Amount=3}
+21-4: ProtectionZone, Content={409, 3077, 3349, 3032 Amount=1, 2903}
+21-5: ProtectionZone, Content={409, 3077, 3277 Amount=1}
+21-6: ProtectionZone, Content={409, 1640 String="# Players allowed to open this door\nsarius natax\nangar toryor\ntenartus dala\nStatic Ekiz"}
+21-7: ProtectionZone, Content={409, 3077, 3297, 3429, 2667}
+21-8: ProtectionZone, Content={409, 3077, 3297, 3429, 2667}
+21-9: ProtectionZone, Content={409, 3077, 3297, 3429, 2667}
+21-10: Content={409, 1734}
+22-0: Content={1734}
+22-1: ProtectionZone, Content={409, 2497 String="Tenartus Dala"}
+22-2: ProtectionZone, Content={409, 2493}
+22-3: Content={409, 1283}
+22-4: Content={409, 1281}
+22-5: Content={409, 1735}
+22-6: Content={409, 1287}
+22-7: Content={409, 1288}
+22-8: ProtectionZone, Content={409, 1638 String="# Players allowed to open this door\nsarius natax\nangar toryor\ntenartus dala\nStatic Ekiz\n"}
+22-9: Content={409, 1281, 2908}
+22-10: Content={409, 1289}
+23-0: Content={1282}
+23-1: ProtectionZone, Content={409, 2498}
+23-2: ProtectionZone, Content={409, 2494}
+23-3: Content={409, 1282}
+23-7: Content={1282, 2653}
+23-8: ProtectionZone, Content={409, 3114 Amount=10, 2667}
+23-9: ProtectionZone, Content={409, 2982, 2667}
+23-10: Content={409, 1282}
+24-0: Content={1290}
+24-1: Content={409, 1281}
+24-2: Content={409, 1281}
+24-3: Content={409, 1289}
+24-7: Content={1282, 2640}
+24-8: ProtectionZone, Content={409, 3074, 3114 Amount=10, 2667, 2667}
+24-9: ProtectionZone, Content={409, 2904, 2667}
+24-10: Content={409, 1734}
+25-0: Content={1282}
+25-1: ProtectionZone, Content={409, 2487}
+25-2: ProtectionZone, Content={409, 2488}
+25-3: Content={409, 1282}
+25-7: Content={1734}
+25-8: ProtectionZone, Content={409, 3075, 3114 Amount=10, 2667}
+25-9: ProtectionZone, Content={409, 2982, 2667}
+25-10: Content={409, 1734}
+26-0: Content={1282, 2910}
+26-1: ProtectionZone, Content={409, 2935, 3059, 2316}
+26-2: ProtectionZone, Content={409, 2866 Content={3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147}, 3583 Amount=4, 2667}
+26-3: Content={409, 1284}
+26-4: Content={1281, 2908}
+26-5: Content={1735}
+26-6: Content={1288}
+26-7: Content={1285, 2908}
+26-8: ProtectionZone, Content={409, 3072, 3114 Amount=10, 2667}
+26-9: ProtectionZone, Content={409, 2904, 2667}
+26-10: Content={409, 1282}
+27-0: Content={1734}
+27-1: ProtectionZone, Content={409, 2497 String="Levian Alderi"}
+27-2: ProtectionZone, Content={409, 3416, 2667}
+27-3: ProtectionZone, Content={409, 2572, 3505 String=">>  Items  de la parte baja de la Vila <<\n** Los Items de el cuarto no fueron contados ya que solo levian y tenartus tienen acceso a el cuarto.\n\nIntevtario: 6 de Abril de 2006\n\n4 - Hydra Eggs\n8 - Blood Herb\n2 - SnakeBit rod\n1 - Moonlight Rod\n1 - Volcanic Rod\n1 - Tempest Rod\n1 - Quagmire Rod\n4 - Serpent Sword\n1 - phoenix egg\n1 - life wand\n2 - Wand of Vortex\n2 - Wand of Dragonbreath\n1 - Wand of Plague\n1 - Wand of Cosmic Energy\n4 - Wand of Inferno\n1 - Knight Armor\n2 - Mistyc Turbants\n2 - Scarf\n5 - Snoowballs\n2 - Coco Boots\n1 - Plate Leg\n1 - Leopard Armor\n1 - Dark Helmet\n1 - Skull Staff\n1 - strange helmet\n2 - Dwarven Shield\n\n>>>>>>>>>>>>>> Food  <<<<<<<<<<\n\n1 - Bp of Draggy Ham\n2 - Bp of Verduras" Editor="Levian Alderi"}
+27-4: ProtectionZone, Content={409, 2575, 2442 Content={2871 Content={2871 Content={3035 Amount=100, 3043 Amount=2, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3382, 2864 Content={2864 Content={3084 RemainingUses=250}, 3081 RemainingUses=5, 3084 RemainingUses=231, 3081 RemainingUses=4, 3057, 3081 RemainingUses=5, 3083 RemainingUses=150, 3084 RemainingUses=250}, 3385, 3567, 3071, 3079, 3420, 3026 Amount=4, 3027 Amount=4, 3034 Amount=1, 3033 Amount=25, 3042 Amount=8, 3032 Amount=3}, 2854 Content={2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2867 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2871 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}, 2867 Content={3350, 3449 Amount=40}, 2854 Content={3164 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3166 Charges=4}, 2854 Content={3046, 3046, 3046 SavedExpireTime=1320, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 2854 Content={3046 SavedExpireTime=2997, 3046, 3046, 2866 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}}, 2869 Content={2868 Content={3049, 3007, 3053 SavedExpireTime=573, 3051, 3051 SavedExpireTime=68, 3053, 3050, 3097 SavedExpireTime=3598, 3097}, 3098, 3098, 3098, 3098, 3098, 3098, 3098, 3050, 3050 SavedExpireTime=980, 3050 SavedExpireTime=1793, 3050, 3050, 3048 RemainingUses=20, 3049, 3053, 3097, 3051 SavedExpireTime=442, 3097, 3051 SavedExpireTime=431}, 2854 Content={3092, 3092, 3092, 3092, 3092}}}
+27-5: ProtectionZone, Content={409, 2578, 2442 Content={2853 Content={2866 Content={2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2866 Content={2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866}}, 2868 Content={3282, 3282, 3409, 3409, 3313}, 2868 Content={3076, 3076, 2867 Content={3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301}, 2870 Content={2854 Content={2854 Content={2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656}, 2659, 2659, 2659, 2656, 2656}}, 2854 Content={3003, 3456, 3003, 3456, 3456, 3310, 3457, 3457, 3457}, 2854 Content={3208, 3509, 2906, 2957, 2953, 3290, 2955, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2955}, 2854 Content={2970 KeyNumber=4503, 2970 KeyNumber=4502, 2853 Content={2853 Content={2970 KeyNumber=4501, 2969 KeyNumber=5010, 2970 KeyNumber=4601, 2972 KeyNumber=3304}, 2969 KeyNumber=3620, 2969 KeyNumber=4055, 2969 KeyNumber=3004, 2969 KeyNumber=3002, 2969 KeyNumber=3007, 2969 KeyNumber=3001, 2969 KeyNumber=3003}, 2970 KeyNumber=3303, 2970 KeyNumber=3301, 2969 KeyNumber=3302, 2969 KeyNumber=3650, 2969 KeyNumber=3008, 2969 KeyNumber=3650, 2969 KeyNumber=4600, 2970 KeyNumber=4601, 2973 KeyNumber=3520, 2970 KeyNumber=4503, 2969 KeyNumber=4600, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 2970 KeyNumber=4601, 2969 KeyNumber=4603, 2969 KeyNumber=4603, 2973 KeyNumber=3520}, 2854 Content={2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864}}, 2869 Content={3589 Amount=1, 2970 KeyNumber=3899, 3114 Amount=8, 3585 Amount=1, 3590 Amount=1, 3587 Amount=1, 3593, 3592, 3537, 3537, 3537, 3543, 3543, 3543}}}
+27-6: Content={409, 1282}
+27-7: ProtectionZone, Content={409, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2366, 2667}
+27-8: ProtectionZone, Content={409, 3073, 3192 Charges=1, 3114 Amount=10, 2667}
+27-9: ProtectionZone, Content={409, 2982, 2667}
+27-10: Content={409, 1282}
+28-0: Content={1282}
+28-1: ProtectionZone, Content={409, 2498}
+28-2: ProtectionZone, Content={409, 2866 Content={3572, 3071, 3007, 3351, 3357, 3557, 2868 Content={2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3457, 3051, 2853 Content={3155 Charges=1, 3155 Charges=1, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}}, 2667}
+28-3: ProtectionZone, Content={409, 2574, 3505 String=">>>>>>>>>>>  Runas <<<<<<<<<<<<\n\n45 Bps de UH  3k c/u  \n33 Bps de Hmm 2k cu\n20 Bps de GFB 3k c/u\n0 Bps de Explo 4k c/u\n1 Bp de SD 5.5k c/u" Editor="Levian Alderi"}
+28-4: ProtectionZone, Content={409, 2577}
+28-5: ProtectionZone, Content={409, 2580}
+28-6: ProtectionZone, Content={409, 1640 String="# Players allowed to open this door\nsarius natax\nangar toryor\ntenartus dala\nStatic Ekiz\n"}
+28-7: ProtectionZone, Content={409, 3114 Amount=10, 2667, 2656, 2667, 2667}
+28-8: ProtectionZone, Content={409, 3070, 3114 Amount=10, 2667}
+28-9: ProtectionZone, Content={409, 2904, 2667}
+28-10: Content={409, 1282}
+29-0: Content={1284}
+29-1: Content={409, 1281}
+29-2: Content={409, 1281}
+29-3: Content={409, 1281}
+29-4: Content={409, 1735}
+29-5: Content={409, 1281}
+29-6: Content={409, 1287}
+29-7: Content={409, 1281}
+29-8: Content={409, 1281}
+29-9: Content={409, 1735}
+29-10: Content={409, 1285}
+31-0: Content={1127, 1772}
+31-1: Content={1127}

@@ -1,0 +1,29 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+01-14: Content={1770}
+01-20: Content={1770}
+02-14: Content={4945}
+02-15: Content={4953}
+02-20: Content={4945}
+02-21: Content={4953}
+02-25: Content={1770}
+03-14: Content={4945}
+03-15: Content={4953}
+03-20: Content={4945}
+03-21: Content={4953}
+03-25: Content={4945}
+03-26: Content={4953}
+04-14: Content={4945}
+04-15: Content={4953, 1748}
+04-20: Content={4945}
+04-21: Content={4953, 1748}
+04-25: Content={4945}
+04-26: Content={4953, 1748}
+05-14: Content={4945}
+05-15: Content={4953}
+05-20: Content={4945}
+05-21: Content={4953}
+05-25: Content={4946}
+06-14: Content={4946}
+06-20: Content={4946}

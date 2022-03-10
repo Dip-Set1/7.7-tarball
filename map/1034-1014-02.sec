@@ -1,0 +1,34 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1034/1014/2
+
+2-18: Content={231, 1108}
+2-19: Content={231, 1103}
+2-20: Content={231, 1111}
+3-18: Content={231, 1100}
+3-19: Content={231}
+3-20: Content={231, 1107}
+3-21: Content={231, 1111}
+4-18: Content={231, 1100}
+4-19: Content={231}
+4-20: Content={231, 1106}
+4-21: Content={231, 1110}
+5-17: Content={231, 1108}
+5-18: Content={231, 1104}
+5-19: Content={231}
+5-20: Content={231, 1102}
+6-16: Content={231, 1108}
+6-17: Content={231, 1104}
+6-18: Content={231}
+6-19: Content={231}
+6-20: Content={231, 1102}
+7-16: Content={231, 1109}
+7-17: Content={231, 1105}
+7-18: Content={231}
+7-19: Content={231, 1106}
+7-20: Content={231, 1110}
+8-17: Content={231, 1100}
+8-18: Content={231}
+8-19: Content={231, 1102}
+9-17: Content={231, 1109}
+9-18: Content={231, 1101}
+9-19: Content={231, 1110}

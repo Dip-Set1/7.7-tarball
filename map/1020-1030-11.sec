@@ -1,0 +1,11 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1020/1030/11
+
+0-30: Content={2152}
+0-31: Content={2152}
+1-30: Content={2152}
+1-31: Content={2152}
+30-30: Content={2152}
+30-31: Content={2152}
+31-30: Content={2152}
+31-31: Content={2152}

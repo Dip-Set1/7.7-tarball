@@ -1,0 +1,27 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1009/1001/5
+
+0-29: Content={2154, 1153}
+0-30: ProtectionZone, Content={1152, 2904}
+0-31: ProtectionZone, Content={1152, 2656}
+1-29: Content={2154, 1153}
+1-30: ProtectionZone, Content={1152, 2935, 2827 String="Will the world never learn?\nThat pompous coxcomb of an ambassador dared to speak as though his king was equal to our pharaoh! We were shocked by the sheer impertinence of his speech! The fool! How confused he looked when he realised our disapproving silence. I am convinced he had spoken to some of those filthy heretics before he went to see his majesty. I know there are some although none of them would dare to make his blasphemous opinions known in the public. How could the mighty pharaoh not ignore this ambitious fool and his futile plans. How haughtily he walked around in our beautiful Ankrahmun, mocking our true religion with his silly questions. Of course, he got nowhere and he seemed to give up in the end. But did the wisdom offered to him enlighten his blind soul? I think not. So full of himself was he, so firm in his heretic opinions and yet such a slave to his flesh - how could he understand that which is true and holy? People like him are both a curse and a blessing to us, the children of enlightenment. They may insult and provoke us with their ignorance, yet it is when we meet fools like him that we realise the full extent of the glorious state of enlightenment we live in. Far from ascension though we are, we have been granted the opportunity to achieve what will be forever denied to people like him - divinity!", 2316}
+1-31: ProtectionZone, Content={1152, 2656}
+2-29: Content={2154, 1153}
+2-30: ProtectionZone, Content={1152, 2991}
+2-31: ProtectionZone, Content={1152, 2656}
+3-29: Content={2154, 1153}
+3-30: ProtectionZone, Content={1152, 3069, 2366}
+3-31: ProtectionZone, Content={1152, 2656}
+4-29: Content={2154, 1153}
+4-30: ProtectionZone, Content={1152, 2935, 3574, 2316}
+4-31: ProtectionZone, Content={1152, 2656}
+5-29: Content={2154, 1153}
+5-30: ProtectionZone, Content={1152, 2904}
+5-31: ProtectionZone, Content={1152, 2656}
+6-29: Content={2154, 1153}
+6-30: Content={1152, 2156}
+6-31: Content={1152, 2156}
+7-29: Content={5048}
+7-30: Content={5049}
+7-31: Content={5049}

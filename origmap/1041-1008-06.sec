@@ -1,0 +1,23 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-21: Refresh, Content={410, 1102, 1109}
+00-25: Refresh, Content={410, 1100}
+00-26: Refresh, Content={410}
+00-27: Content={410}
+00-28: Content={410, 1106}
+00-29: Refresh, Content={410, 1110}
+01-25: Refresh, Content={410, 1100}
+01-26: Refresh, Content={410}
+01-27: Refresh, Content={410}
+01-28: Refresh, Content={410, 1102}
+02-24: Refresh, Content={410, 1108}
+02-25: Refresh, Content={410, 1104}
+02-26: Refresh, Content={410}
+02-27: Refresh, Content={410, 1106}
+02-28: Refresh, Content={410, 1110}
+03-23: Refresh, Content={410, 1103, 1109}
+03-24: Refresh, Content={410, 1104, 1101}
+03-25: Refresh, Content={410, 1101}
+03-26: Refresh, Content={410, 1101}
+03-27: Refresh, Content={410, 1110}

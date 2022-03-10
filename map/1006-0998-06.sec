@@ -1,0 +1,50 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1006/998/6
+
+0-0: Refresh, Content={4529, 1111, 1283}
+0-14: Refresh, Content={448}
+0-15: Refresh, Content={442}
+0-16: Refresh, Content={442}
+0-17: Refresh, Content={442}
+0-18: Refresh, Content={449}
+0-19: Refresh, ProtectionZone, Content={4918}
+0-20: Refresh, ProtectionZone, Content={408}
+0-21: Refresh, ProtectionZone, Content={408}
+0-22: Refresh, ProtectionZone, Content={408}
+0-23: Refresh, ProtectionZone, Content={408, 4918}
+1-0: Refresh, Content={4515, 1107, 1283, 3654}
+1-1: Refresh, Content={4522, 1111, 1283, 3655}
+1-14: Refresh, 
+1-15: Refresh, 
+1-16: Refresh, 
+1-17: Refresh, 
+1-18: Refresh, 
+1-19: Refresh, ProtectionZone, Content={4905}
+1-20: Refresh, ProtectionZone, Content={432}
+1-21: Refresh, ProtectionZone, Content={408}
+1-22: Refresh, ProtectionZone, Content={408}
+1-23: Refresh, ProtectionZone, Content={408, 5004}
+2-0: Refresh, Content={4515}
+2-1: Refresh, Content={4517, 1107}
+2-2: Refresh, Content={4515, 1103}
+2-3: Refresh, Content={4515, 1103, 3682}
+2-4: Refresh, Content={4515, 1111, 3682}
+2-8: Refresh, Content={4515, 1108, 3682}
+2-9: Refresh, Content={4515, 1111, 3681}
+2-19: Refresh, ProtectionZone, Content={4905}
+2-20: Refresh, ProtectionZone, Content={408, 4904}
+2-21: Refresh, ProtectionZone, Content={408, 4904}
+2-22: Refresh, ProtectionZone, Content={408, 4904}
+2-23: Refresh, ProtectionZone, Content={4908}
+3-0: Refresh, Content={4515, 1101, 1283, 3654}
+3-1: Refresh, Content={4522, 1101, 1283, 3655, 3657}
+3-2: Refresh, Content={4529, 1101, 1283}
+3-3: Refresh, Content={4515, 1105, 1283, 3654}
+3-4: Refresh, Content={4518, 1110, 3682}
+3-8: Refresh, Content={4515, 1109, 3681}
+3-9: Refresh, Content={4517, 1107, 1105, 3682}
+3-10: Refresh, Content={4522, 1111, 3682}
+3-21: Content={4968}
+4-3: Refresh, Content={4527, 1102, 1109}
+4-9: Refresh, Content={4521, 1109, 3681}
+4-10: Refresh, Content={4529, 1110, 3682}

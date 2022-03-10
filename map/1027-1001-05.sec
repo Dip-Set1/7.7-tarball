@@ -1,0 +1,149 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1027/1001/5
+
+6-1: Content={1296}
+6-2: Content={1294}
+6-3: Content={1294}
+6-4: Content={1294}
+6-5: Content={1294}
+6-6: Content={1299}
+7-0: Content={2184}
+7-1: Content={1295, 2184}
+7-2: Content={408, 2471}
+7-3: Content={408, 2471, 2471}
+7-4: Content={408, 2471, 2471}
+7-5: Content={408, 2471, 2471}
+7-6: Content={408, 1295}
+8-1: Content={1295}
+8-2: Content={408, 2471}
+8-3: Content={408}
+8-4: Content={408, 2471}
+8-5: Content={408, 2471, 2471}
+8-6: Content={408, 1295}
+9-1: Content={1295, 2909}
+9-2: Content={408, 2471}
+9-3: Content={408}
+9-4: Content={408}
+9-5: Content={408, 2471, 2471}
+9-6: Content={408, 1295}
+10-1: Content={1295}
+10-2: Content={408}
+10-3: Content={408}
+10-4: Content={408}
+10-5: Content={408, 2471}
+10-6: Content={408, 1295}
+11-1: Content={1295}
+11-2: Content={432}
+11-3: Content={408, 1948}
+11-4: Content={408, 2471}
+11-5: Content={408, 2471}
+11-6: Content={408, 1295}
+12-1: Content={1297}
+12-2: Content={408, 1294}
+12-3: Content={408, 1294}
+12-4: Content={408, 1294}
+12-5: Content={408, 1294}
+12-6: Content={408, 1298}
+19-1: Content={1296}
+19-2: Content={1294}
+19-3: Content={1294}
+19-4: Content={1294}
+19-5: Content={1294}
+19-6: Content={1299}
+20-0: Content={2184}
+20-1: Content={1295, 2184}
+20-2: Content={432}
+20-3: Content={408, 1948}
+20-4: Content={408, 2893}
+20-5: Content={408, 2893}
+20-6: Content={408, 1295}
+21-1: Content={1295}
+21-2: Content={408}
+21-3: Content={408}
+21-4: Content={408}
+21-5: Content={408, 2893}
+21-6: Content={408, 1295}
+22-1: Content={1295, 2909}
+22-2: Content={408}
+22-3: Content={408}
+22-4: Content={408}
+22-5: Content={408, 2893}
+22-6: Content={408, 1295}
+23-1: Content={1295}
+23-2: Content={408}
+23-3: Content={408, 2893}
+23-4: Content={408, 2893}
+23-5: Content={408, 2893}
+23-6: Content={408, 1295}
+24-1: Content={1295}
+24-2: Content={408, 2524}
+24-3: Content={408, 2893}
+24-4: Content={408, 2893}
+24-5: Content={408, 2893}
+24-6: Content={408, 1295}
+25-1: Content={1297}
+25-2: Content={408, 1294}
+25-3: Content={408, 1294}
+25-4: Content={408, 1294}
+25-5: Content={408, 1294}
+25-6: Content={408, 1298}
+27-17: Content={1296}
+27-18: Content={1294, 2656}
+27-19: Content={1294, 2656}
+27-20: Content={1739}
+27-21: Content={1294, 2656}
+27-22: Content={1299}
+27-25: Content={1296}
+27-26: Content={1294, 2667}
+27-27: Content={1294, 2632}
+27-28: Content={1739}
+27-29: Content={1294, 2667}
+27-30: Content={1299}
+28-17: Content={1295, 2656}
+28-18: ProtectionZone, Content={411}
+28-19: ProtectionZone, Content={429, 3279}
+28-20: ProtectionZone, Content={429, 3279}
+28-21: ProtectionZone, Content={429, 3147, 2523, 2867 Content={2969 KeyNumber=3620, 2969 KeyNumber=3650, 2917, 2917 SavedExpireTime=2999, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977}, 2867 Content={3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594, 3594}}
+28-22: Content={429, 1295}
+28-25: Content={1295, 2667}
+28-26: ProtectionZone, Content={411}
+28-27: ProtectionZone, Content={429, 3034 Amount=2, 3450 Amount=1, 3659, 2393, 2656}
+28-28: ProtectionZone, Content={429, 3034 Amount=2, 3450 Amount=1, 3659, 2393, 2656}
+28-29: ProtectionZone, Content={429, 2466 Content={3737 Amount=1, 2469 Content={2854 Content={2842, 3066, 3085 RemainingUses=49, 3658, 3447 Amount=4, 3072, 3066}, 3503 Content={3287 Amount=1}, 2871 Content={3505, 3658, 2854 Content={2842, 2842}, 2393, 3668, 3505 Editor="Darely"}, 2854 Content={2866, 2871, 2854, 2854}, 2857 Content={2866 Content={2991, 2867 Content={2867 Content={3659, 3659, 3659, 3659, 3659, 3659, 3659, 3659, 3659, 3659, 3659, 3659, 3659, 3659, 3659, 3659, 2856 Content={3507 String="Para: Abril con mucho amor.\nDe: Pepe" Editor="Amrel", 3659, 3659, 2856 Content={3505 String="Abril:\n\nAunque llevamos poco tiempo de conocernos, creo que nso hemos encontardo muy bien y eso me gusta, como ya le dije a pepe, esta carta se queda corta a comparacion de lo que desearia regalarles y de lo que me han dado, pero es solo una manera de expreasarles quelos tengo en mi corazon como grandes amigos. Feliz navidad y Prospero año 2006\n\nTu amigo.\nMartin" Editor="Hao Azakura", 2981, 3505 String="bueno tia esto es para usted con  cariño es pokito pero lo ke me gusta es el presente ke llevo en mi corazon paselo bien esta navidad yo aka nomas la e pasado un poko mal por ke atropellaron a mi papa y esta en cama en mi casita pero eso es otro punto.....\npero muchas gracias por todo te kiero mucho tia nunka te olvidare estas en mi corazon eres linda y vella de corazon y  fisika mente y  diskulpa por lo de ayer lo ke paso me siento mal por eso bueno mi tia feliz navidad y un prospero año nuevo ^^ te kiero un besito =** \n\nfeliz navidad......sirick pragos and darely =)" Editor="Sirick Pragos", 3505 String="Mi vida, solo keria agradecerte por llegar a mi vida, y dejarme entrar en tu corazon, kiero decirte ke eres lo mas valioso en mi vida y ke te amo muchisimo, espero de todo corazon estar mucho mucho tiempo a tu lado ....\n\nEspero ke pases una muy feliz navidad, junto con las personas ke te kieren, ke aunke yo este muy lejos estare siempre mi vida, pensando en ti.\n\n                                \n                                  Con todo mi amor..\n                                         Pepe Lerma.\n\n" Editor="Amrel", 3659}, 3658}, 3659, 3659, 3659}, 3659, 3659, 3659, 3659, 3659, 3658, 3659, 3658, 3658, 3659, 3659, 3659, 3658, 3658, 3659, 3658, 3658, 3658}, 2667, 2667, 2667, 2667, 2667, 2659, 2659, 2659, 2650, 2650, 2650}}}, 3164 Charges=1, 2869}, 2656, 2656, 2656}
+28-30: Content={429, 1295}
+29-17: Content={1738}
+29-18: ProtectionZone, Content={429, 2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}
+29-19: ProtectionZone, Content={429, 3323}
+29-20: ProtectionZone, Content={429, 3323}
+29-21: ProtectionZone, Content={429, 3160 Charges=1, 2869, 2523 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+29-22: Content={429, 1738}
+29-25: Content={1738}
+29-26: ProtectionZone, Content={429, 3034 Amount=2, 3450 Amount=1, 3659, 2393, 2656}
+29-27: ProtectionZone, Content={429, 3034 Amount=2, 3450 Amount=1, 3659, 2393, 2656}
+29-28: ProtectionZone, Content={429, 3034 Amount=2, 3450 Amount=1, 3659, 2393, 2656}
+29-29: ProtectionZone, Content={429, 3287 Amount=3, 3725 Amount=21, 3350, 3409, 2868, 2854, 2857 Content={3293, 3503 Content={2856 Content={2869 Content={3447 Amount=100}, 3505 String="Con mucho cariño y amor te dejo esto aqui esperano que los puedas usar :) te amo Pp siempre lo sentire asi en mi corazon....\nQuisiera poder saber de ti :(\n\n                                   \n\n                                                    Abril Castro" Editor="Darely"}, 3507 String="setushe shir\nvenore\n"}, 3552, 3003, 3293, 3412, 3457, 3003}, 3034 Amount=2, 3450 Amount=1, 3659, 2393, 2656}
+29-30: Content={429, 1295}
+30-17: Content={1295, 2910}
+30-18: ProtectionZone, Content={429, 2867 Content={3177 Charges=1, 3177 Charges=1, 3188 Charges=2, 3189 Charges=3, 3166 Charges=3, 3189 Charges=2}}
+30-19: ProtectionZone, Content={429}
+30-20: ProtectionZone, Content={429}
+30-21: ProtectionZone, Content={429, 3191 Charges=1, 2867, 2523}
+30-22: Content={429, 1295}
+30-25: Content={1295, 2910}
+30-26: ProtectionZone, Content={429, 2935, 3069, 2969 KeyNumber=5010, 3039, 3291, 2316}
+30-27: ProtectionZone, Content={429, 3034 Amount=2, 3450 Amount=1, 3659, 2393, 2656}
+30-28: ProtectionZone, Content={429, 3034 Amount=2, 3450 Amount=1, 3659, 2393, 2656}
+30-29: ProtectionZone, Content={429, 3415, 3034 Amount=2, 3659, 3450 Amount=1, 2393, 2656}
+30-30: Content={429, 1738}
+31-17: Content={1295, 2656}
+31-18: ProtectionZone, Content={429, 2867 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}
+31-19: ProtectionZone, Content={429, 2867 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}
+31-20: ProtectionZone, Content={429, 3198 Charges=5, 2868, 2523 Content={2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}
+31-21: ProtectionZone, Content={429, 3155 Charges=1, 2870, 2523}
+31-22: Content={429, 1295}
+31-25: Content={1295, 2667}
+31-26: ProtectionZone, Content={429, 2487}
+31-27: ProtectionZone, Content={429, 2488}
+31-28: ProtectionZone, Content={429, 2991, 3034 Amount=2, 3450 Amount=1, 3659, 2393, 2656}
+31-29: ProtectionZone, Content={429, 2976}
+31-30: Content={429, 1295}

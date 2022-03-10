@@ -1,0 +1,9 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-21: ProtectionZone, Content={472}
+00-22: ProtectionZone, Content={467}
+00-23: ProtectionZone, Content={467}
+00-24: ProtectionZone, Content={467}
+00-25: ProtectionZone, Content={467}
+00-26: ProtectionZone, Content={474}

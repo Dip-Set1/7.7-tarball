@@ -1,0 +1,19 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+26-00: Content={1127}
+26-01: Content={1127}
+26-02: Content={1127}
+26-03: Content={1127}
+27-00: Content={1127}
+27-01: Content={1127}
+27-02: Content={1127}
+27-03: Content={1127}
+28-00: Content={1127}
+28-01: Content={1127, 1796}
+28-02: Content={1127}
+28-03: Content={1127}
+29-00: Content={1127, 1822}
+29-01: Content={1127}
+29-02: Content={1127}
+29-03: Content={1127}

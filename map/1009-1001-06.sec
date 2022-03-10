@@ -1,0 +1,33 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1009/1001/6
+
+0-29: Content={1295, 2909}
+0-30: ProtectionZone, Content={408}
+0-31: ProtectionZone, Content={408}
+1-29: Content={1295}
+1-30: ProtectionZone, Content={408}
+1-31: ProtectionZone, Content={408}
+2-29: Content={1303}
+2-30: Content={408, 1294}
+2-31: Content={408, 1294}
+3-29: Content={1295}
+3-30: ProtectionZone, Content={408, 2487}
+3-31: ProtectionZone, Content={408, 2488}
+4-29: Content={1295, 2910}
+4-30: ProtectionZone, Content={408}
+4-31: ProtectionZone, Content={408}
+5-29: Content={1295}
+5-30: ProtectionZone, Content={408, 3577 Amount=8}
+5-31: ProtectionZone, Content={408, 2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3412, 3291, 3507 String="Diego-totoso\nHunt Here\nLeave" Editor="Diego-totoso"}}
+6-29: Content={1303}
+6-30: Content={408, 1294}
+6-31: Content={408, 1294}
+7-29: Content={2154, 439}
+7-30: ProtectionZone, Content={408}
+7-31: Content={434}
+8-29: Content={2154, 439}
+8-30: ProtectionZone, Content={408}
+8-31: ProtectionZone, Content={408}
+9-29: Content={448}
+9-30: Content={2159, 442}
+9-31: Content={2157, 442}

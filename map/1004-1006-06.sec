@@ -1,0 +1,75 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1004/1006/6
+
+8-7: Refresh, Content={1127}
+9-4: Refresh, Content={1127, 3683}
+9-5: Refresh, Content={1127, 3657}
+9-6: Refresh, Content={1127, 3655}
+9-7: Refresh, Content={1127, 3683}
+9-8: Refresh, Content={1127}
+10-3: Refresh, Content={1127}
+10-4: Refresh, Content={1127, 3684}
+10-5: Refresh, Content={1127, 3683, 3655}
+10-6: Refresh, Content={1127, 3654}
+10-7: Refresh, Content={1127, 3657}
+11-2: Refresh, Content={1127, 1815, 3655}
+11-3: Refresh, Content={1127, 3683}
+11-4: Refresh, Content={1127, 3683}
+11-5: Refresh, Content={1127}
+11-6: Refresh, Content={1127, 3657}
+12-2: Refresh, Content={1127}
+12-3: Refresh, Content={1127, 1816, 3655}
+12-4: Refresh, Content={1127}
+12-5: Refresh, Content={1127, 1796, 3654}
+13-3: Refresh, Content={1127, 3657}
+13-4: Refresh, Content={1127, 3683}
+16-14: Refresh, Content={1127}
+17-14: Refresh, Content={1127}
+17-15: Refresh, Content={1127, 3654}
+17-16: Refresh, Content={1127}
+17-17: Refresh, Content={1127}
+17-18: Refresh, Content={1127}
+18-14: Refresh, Content={1127, 1799}
+18-15: Refresh, Content={1127, 1800}
+18-16: Refresh, Content={1127, 1787}
+18-17: Refresh, Content={1127, 1789}
+18-18: Refresh, Content={1127, 1810}
+18-19: Refresh, Content={1127}
+19-14: Refresh, Content={1127, 3655}
+19-15: Refresh, Content={1127}
+19-16: Refresh, Content={1127, 1788, 3654}
+19-17: Refresh, Content={1127, 1790}
+19-18: Refresh, Content={1127}
+19-19: Refresh, Content={1127, 1817}
+20-14: Refresh, Content={1127, 3655}
+20-15: Refresh, Content={1127, 3683}
+20-16: Refresh, Content={1127, 3655}
+20-17: Refresh, Content={1127, 1792, 3655}
+20-18: Refresh, Content={1127}
+20-19: Refresh, Content={1127}
+21-15: Refresh, Content={1127}
+21-16: Refresh, Content={1127, 3655}
+21-17: Refresh, Content={1127, 1793, 3655}
+21-18: Refresh, Content={1127}
+21-19: Refresh, 
+22-17: Refresh, Content={1127}
+22-18: Refresh, Content={1127}
+22-19: Refresh, 
+22-31: Refresh, Content={1127}
+23-17: Refresh, Content={1127}
+23-18: Refresh, Content={1127, 3681}
+23-19: Refresh, 
+23-29: Refresh, Content={1127, 1794}
+23-30: Refresh, Content={1127}
+23-31: Refresh, Content={1127, 1799}
+24-17: Refresh, Content={1127, 3681}
+24-18: Refresh, Content={1127, 3681}
+24-19: Refresh, 
+24-28: Refresh, Content={1127}
+24-29: Refresh, Content={1127, 3654}
+24-30: Refresh, Content={1127, 1795}
+24-31: Refresh, Content={1127, 3655, 3654}
+25-29: Refresh, Content={1127}
+25-30: Refresh, Content={1127, 3655}
+25-31: Refresh, Content={1127}
+26-31: Refresh, Content={1127}

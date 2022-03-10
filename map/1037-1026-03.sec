@@ -1,0 +1,20 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1037/1026/3
+
+9-0: ProtectionZone, Content={466}
+9-1: ProtectionZone, Content={473}
+10-0: Refresh, ProtectionZone, Content={415}
+10-1: ProtectionZone, Content={451}
+11-0: Refresh, ProtectionZone, Content={415}
+11-1: ProtectionZone, Content={451}
+12-0: Refresh, ProtectionZone, Content={415}
+12-1: ProtectionZone, Content={451}
+13-0: ProtectionZone, Content={467}
+13-1: ProtectionZone, Content={474}
+31-0: ProtectionZone, Content={466}
+31-1: ProtectionZone, Content={473}
+31-19: ProtectionZone, Content={471}
+31-20: ProtectionZone, Content={466}
+31-21: ProtectionZone, Content={466}
+31-22: ProtectionZone, Content={466}
+31-23: ProtectionZone, Content={473}

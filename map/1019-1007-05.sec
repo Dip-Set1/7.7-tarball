@@ -1,0 +1,48 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1019/1007/5
+
+6-1: Content={1296}
+6-2: Content={1299}
+7-1: Content={1303}
+7-2: Refresh, Content={408, 1300}
+7-3: Refresh, Content={1294}
+7-4: Content={1299}
+7-24: Content={1155}
+7-25: Content={1154}
+7-26: Refresh, Content={1154}
+7-27: Content={5054}
+8-1: Refresh, Content={1295}
+8-2: Refresh, Content={408, 1948}
+8-3: Refresh, Content={408}
+8-4: Content={408, 1295}
+8-24: Content={1153}
+8-25: Refresh, Content={1152, 2012 String="Point of no return!"}
+8-26: Refresh, Content={1152}
+8-27: Content={451}
+9-1: Refresh, Content={1295}
+9-2: Refresh, Content={432}
+9-3: Refresh, Content={408}
+9-4: Content={408, 1738}
+9-24: Content={5048}
+9-25: Refresh, Content={5047}
+9-26: Refresh, Content={1152}
+9-27: Content={5052}
+10-1: Content={1297}
+10-2: Content={408, 1294}
+10-3: Content={408, 1294}
+10-4: Content={408, 1298}
+10-23: Refresh, Content={1155}
+10-24: Refresh, Content={1154}
+10-25: Refresh, Content={1153, 1154}
+10-26: Refresh, Content={1152}
+10-27: Content={5052}
+11-23: Refresh, Content={1153}
+11-24: Refresh, Content={1156}
+11-25: Refresh, Content={1152}
+11-26: Refresh, Content={1152}
+11-27: Content={5052}
+12-23: Content={5048}
+12-24: Content={5049}
+12-25: Content={5049}
+12-26: Content={5049}
+12-27: Content={5050}

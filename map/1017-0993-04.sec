@@ -1,0 +1,80 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1017/993/4
+
+11-28: Content={4518, 1108}
+11-29: Content={4522, 1103}
+11-30: Content={4519, 1111}
+12-28: Content={4518, 1109}
+12-29: Content={4515, 1105}
+12-30: Content={4517}
+12-31: Content={4526, 1111}
+13-29: Content={4530, 1100}
+13-30: Content={4519}
+13-31: Content={4515, 1102, 3462}
+14-5: Content={4517, 1108}
+14-6: Content={4520, 1111}
+14-29: Content={4525, 1109}
+14-30: Content={4515, 1105}
+14-31: Content={4515, 1107}
+15-4: Content={4525, 1108}
+15-5: Content={4516, 1104}
+15-6: Content={4517, 1102, 3267}
+15-30: Content={4515, 1100}
+15-31: Content={4515}
+16-4: Content={4519, 1100}
+16-5: Content={4515, 1106}
+16-6: Content={4519, 1110}
+16-30: Content={4515, 1109, 3462}
+16-31: Content={4521, 1105}
+17-3: Content={4515, 1108}
+17-4: Content={4515, 1104, 3507 String="zenos elvia \nab'dendriel\n\n\n\n\n" Editor="Zenos Elvia"}
+17-5: Content={4515, 1102, 3112}
+17-31: Content={4515, 1109}
+18-2: Content={4515, 1108}
+18-3: Content={4515, 1104, 3507 String="Jhos\nab'dendriel" Editor="Jhos"}
+18-4: Content={4529, 1106, 3267}
+18-5: Content={4515, 1110}
+19-2: Content={4525, 1100}
+19-3: Content={4526}
+19-4: Content={4515, 1102}
+20-2: Content={4515, 1100}
+20-3: Content={4515, 3120}
+20-4: Content={4515, 1102, 2816 String="This was a bad day! \n\nI lost my key to the crypts below while I was fishing in the port. This is especially bad because those trolls hid my precious trumpet somewhere down there.", 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}
+21-2: Content={4515, 1100}
+21-3: Content={4526, 3120, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}
+21-4: Content={4515, 1102, 3120, 3120}
+22-1: Content={4528, 1108}
+22-2: Content={4515, 1104}
+22-3: Content={4515, 3507 String="Alni Herk \nAb'Dendriel", 3120}
+22-4: Content={4518, 1102}
+23-1: Content={4515, 1100}
+23-2: Content={4518, 3120}
+23-3: Content={4524, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}
+23-4: Content={4515, 1102}
+24-1: Content={4515, 1100}
+24-2: Content={4515}
+24-3: Content={4515, 1106}
+24-4: Content={4515, 1110}
+25-1: Content={4527, 1100, 2984}
+25-2: Content={4517, 3504}
+25-3: Content={4515, 1102}
+26-1: Content={4515, 1100}
+26-2: Content={4526}
+26-3: Content={4515, 1102}
+27-1: Content={4515, 1100}
+27-2: Content={4515, 3507 String="xerlix\ncarlin\n\n" Editor="Yundrod Umenigros"}
+27-3: Content={4518, 1102}
+28-1: Content={4516, 1100}
+28-2: Content={4523, 3120, 3507 String="Dark amandha\nHunting here\nmatado ciclopes y el ds\npero voy ala tienda no tardo " Editor="Dark amandha"}
+28-3: Content={4515, 1102}
+29-1: Content={4515, 1100}
+29-2: Content={4518, 2853}
+29-3: Content={4515, 1102, 3507 String="mistrz seba\ncarlin" Editor="Kavon Ikar"}
+30-0: Content={4515, 1108}
+30-1: Content={4515, 1104}
+30-2: Content={4520}
+30-3: Content={4515, 1102}
+31-0: Content={4525, 1100}
+31-1: Content={4526}
+31-2: Content={4528}
+31-3: Content={4515, 1102}

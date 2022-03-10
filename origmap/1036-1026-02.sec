@@ -1,0 +1,24 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-08: ProtectionZone, Content={465}
+00-09: Refresh, ProtectionZone, Content={415, 1965}
+00-10: Refresh, ProtectionZone, Content={1316, 1326, 1312}
+00-11: Refresh, ProtectionZone, Content={1316, 1312}
+00-12: ProtectionZone, Content={1316, 1315}
+00-13: Refresh, ProtectionZone, Content={415, 1967}
+00-14: ProtectionZone, Content={451}
+01-08: ProtectionZone, Content={465}
+01-09: Refresh, ProtectionZone, Content={415, 2197}
+01-10: Refresh, ProtectionZone, Content={415, 1963}
+01-11: Refresh, ProtectionZone, Content={415, 1963}
+01-12: Refresh, ProtectionZone, Content={415, 1963}
+01-13: Refresh, ProtectionZone, Content={415, 2191}
+01-14: ProtectionZone, Content={451}
+02-08: ProtectionZone, Content={472}
+02-09: ProtectionZone, Content={467}
+02-10: ProtectionZone, Content={467}
+02-11: ProtectionZone, Content={467}
+02-12: ProtectionZone, Content={467}
+02-13: ProtectionZone, Content={467}
+02-14: ProtectionZone, Content={474}

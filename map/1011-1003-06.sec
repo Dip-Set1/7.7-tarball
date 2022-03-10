@@ -1,0 +1,48 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1011/1003/6
+
+0-1: Content={1127, 1779}
+1-1: Content={4515, 1108, 1778}
+1-2: Content={4522, 1111, 3384, 3504 Content={3504, 3504 Content={3507 String="Soul-reaverr\nThais" Editor="Clonux"}}, 3504 Content={3507 String="mela tyron\nthais" Editor="Mela Tyron"}, 3504 Content={3507 String="Mela Tyron\nthais" Editor="Mela Tyron"}}
+2-1: Content={4515, 1100, 3504 Content={3507 String="eria zulis\nthais" Editor="Eria Zulis"}, 2473, 3504 Content={3507 String="knight alexsinho\nthais\n" Editor="Knight Alexsinho"}, 3504 Content={3507 String="tiimmy torner\nthais\n" Editor="Tiimmy Torner"}, 2471, 3504 Content={3507 String="jemes\nthais" Editor="Chimera magoo"}, 3503, 3503, 3507 String="Incal Chokobola\nThais" Editor="Kalimerette"}
+2-2: Content={4519, 1107, 3504 Content={3507 String="gerry chokobola\nthais" Editor="Curador Chokobola"}, 3504 Content={3507 String="kowachii\nthais" Editor="Youn Zateus"}, 3336, 3504 Content={3507 String="shod\nthais" Editor="Angel of Trust"}, 3504 Content={3504 Content={3507 String="Chimera magoo\nThais\n" Editor="Saz Lak"}, 3507 String="Luke Piojoso\nThais\n" Editor="Kodenika Veweapidi"}}
+2-3: Content={4515, 1103, 3504, 3504 Content={3507 String="Shirex Aelex\nThais" Editor="Lock Dirule"}, 3504, 3504, 3507}
+2-4: Content={4515, 1103, 2473, 2473, 2473, 2473, 2473, 3504, 3504, 3504, 3504, 2471, 3504 Content={3507 String="Davon Zeth\nthais"}, 3504 Content={3507 String="soul of zanera\nthais"}, 3504 Content={3507 String="Rastery\nThais" Editor="Dragor Darksoul"}}
+2-5: Content={4515, 1103, 1776}
+2-6: Content={4515, 1111, 1774}
+3-1: Content={4527, 1100, 3504, 3504, 2473, 2473, 3504 Content={3507 String="nalgotass\nthais" Editor="Nalgotass"}, 3504, 2471, 3504 Content={3507 String="Merdokus\nThais" Editor="Robusland"}, 3504 Content={3507 String="Arpelto solta\nthais" Editor="Mivervi Wymiralana"}}
+3-2: Content={4515, 3504 Content={3507 String="teddy lexus\nthais\n" Editor="Fert Nekos"}, 3504, 3504 Content={3507 String="tiimmy torner \nthais\n" Editor="Crosty'Demon"}, 3504 Content={3507 String="katana renae\ndarashia\n" Editor="Katana Renae"}, 3504}
+3-3: Content={4527, 3504, 3457, 3003, 3504, 3504, 3504, 3504, 3507 String="knight dani master\nthais" Editor="Knight dani master", 2853 Content={2853}, 3607, 3031 Amount=1, 2853 Content={3308}, 3362}
+3-4: Content={4523, 2473, 2473, 3504 Content={3507 String="kill emoatreyu: \n" Editor="Toxin Carnage"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}, 3507 String="grodap knight\nthais\n" Editor="Grodap Knight"}, 3504, 3504, 3504, 3582 Amount=3, 3411, 3504, 3056 RemainingUses=197, 3316}
+3-5: Content={4515, 1775}
+3-6: Content={4525, 1102, 1773}
+4-0: Content={4515, 1108, 1777}
+4-1: Content={4515, 1104, 3504, 3504 Content={3507 Editor="Verix Feler"}, 3504, 3504, 3577 Amount=2, 3582 Amount=2}
+4-2: Content={4518, 3504, 3504 Content={3507 String="Flor Mas Bella Del Ejido\nThais" Editor="Wally Legend"}, 3504 Content={3286, 3507 String="Chris Kenned\nThais" Editor="Orimu Sider"}, 3504 Content={3504 Content={3507 String="Healdir\nThais\n" Editor="Healdir"}}, 3031 Amount=2, 3504}
+4-3: Content={4515, 1772}
+4-4: Content={4515, 3504 Content={3504, 2853 Content={2853}, 3507 String="grodap knight\nthais\n" Editor="Grodap Knight"}, 2473, 2473, 2854, 2854, 3504 Content={3507 String="Damon Sion\nThais" Editor="Aqua Hulcus"}, 3316}
+4-5: Content={4516, 3504, 3504, 3504 Content={3504 Content={3507 String="Selvaman\nCarlin\n" Editor="Selvaman"}, 3507 String="Selvaman\nThais" Editor="Selvaman"}, 3577 Amount=1}
+4-6: Content={4515, 1102, 2913, 2473, 2473, 3504 Content={3507 String="rewolwerowiec johny\nthais" Editor="Shahal of hell"}, 3378}
+5-0: Content={4515, 1104, 3504, 3504, 2471}
+5-1: Content={4515, 3504, 3507 Editor="Tobiasz Morderca", 3504}
+5-2: Content={4528, 3410, 2913, 3504 Content={3507 String="corxk\nthais" Editor="Corxk"}, 3504, 3349, 3504, 2853 Content={3003}}
+5-3: Content={4515, 1783}
+5-4: Content={4518, 1785}
+5-5: Content={4515, 3285}
+5-6: Content={4515, 1102, 3504, 3504, 3504, 3504 Content={3507 String="Lucky elo\nthais" Editor="Aqua Hulcus"}, 3507 String="nuggeteer\nthais" Editor="Jib Assasin"}
+6-0: Content={4522, 1101, 3277 Amount=2, 2471, 3504 Content={3507 String="dragirakos tyrox\nthais" Editor="Aiyana Jurias"}, 3582 Amount=17, 3507 Editor="Tobiasz Morderca"}
+6-1: Content={4517, 1101, 3112, 3504}
+6-2: Content={4515, 1105, 3504, 3507 String="Akon Ador\nthais" Editor="Xaks", 2853, 3557, 3504 Content={3507 String="Fujiyaro\nThais" Editor="Fujiyaro"}}
+6-3: Content={4515, 1784}
+6-4: Content={4515, 1786}
+6-5: Content={4515, 1796}
+6-6: Content={4529, 1107, 3504 Content={3507 String="thor'sir\nthais" Editor="Sir'Lana"}, 2874, 3504 Content={3504 Content={3507 String="rubrah\nthais" Editor="Rubrah"}}, 3504 Content={3507 String="Lord Van dido\nthais" Editor="Furio Magon"}, 3504 Content={3507 String="Lord Van dido\nthais" Editor="Jers Lerth"}, 2854 Content={3031 Amount=15, 2853 Content={3358, 3275}, 3447 Amount=26, 3447 Amount=100, 3447 Amount=100}}
+6-7: Content={4523, 1111, 2471 Content={2853, 2471, 2471, 2471, 2471}, 3492 Amount=3, 3504, 3267}
+7-2: Content={4515, 1109, 3504, 2853, 2853}
+7-3: Content={4527, 1101, 3504}
+7-4: Content={4515, 1101, 3504 Content={2853, 3507 String="dragirakos tyrox \nthais" Editor="Dragirakos Tyrox"}}
+7-5: Content={4515, 1101, 3135, 3144}
+7-6: Content={4521, 1101}
+7-7: Content={4515, 1110, 2853, 3582 Amount=1, 3504 Content={3507 String="zeuz'crow\nthais" Editor="Thor'sir"}, 2874, 3426, 3507 String="Legendario Mago Azul\nThais" Editor="Ganico Dobilia", 3507 String="Legendario Mago Azul\nThais" Editor="Ganico Dobilia", 3507 String="ghost vampire\nthais\n" Editor="Porton Lord", 3507 Editor="Porton Lord"}
+8-3: Content={1127, 1792}
+9-3: Content={1127, 1793}

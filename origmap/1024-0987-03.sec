@@ -1,0 +1,47 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+28-00: Refresh, Content={410}
+28-01: Refresh, Content={410}
+28-02: Refresh, Content={410}
+28-03: Refresh, Content={410}
+28-04: Refresh, Content={410}
+28-05: Refresh, Content={410}
+28-06: Refresh, Content={410}
+28-07: Refresh, Content={410}
+28-08: Refresh, Content={410}
+28-09: Refresh, Content={410}
+28-10: Refresh, Content={410, 3654}
+29-00: Refresh, Content={410, 1796}
+29-01: Refresh, Content={410, 1270}
+29-02: Refresh, Content={410, 1270}
+29-03: Refresh, Content={410, 1270}
+29-04: Refresh, Content={410, 1270}
+29-05: Refresh, Content={410, 1270}
+29-06: Refresh, Content={410, 1270}
+29-07: Refresh, Content={410, 1270}
+29-08: Refresh, Content={410, 1275}
+29-09: Refresh, Content={410}
+29-10: Refresh, Content={410}
+30-00: Refresh, Content={410, 1796}
+30-01: Refresh, Content={410, 1794}
+30-02: Refresh, Content={410}
+30-03: Refresh, Content={410}
+30-04: Refresh, Content={410}
+30-05: Refresh, Content={410}
+30-06: Refresh, Content={410}
+30-07: Refresh, Content={410}
+30-08: Refresh, Content={410, 1271}
+30-09: Refresh, Content={410}
+30-10: Refresh, Content={410}
+31-00: Refresh, Content={410, 1795}
+31-01: Refresh, Content={410, 1822}
+31-02: Refresh, Content={410, 1795}
+31-03: Refresh, Content={410}
+31-04: Refresh, Content={410, 1270}
+31-05: Refresh, Content={410, 1270}
+31-06: Refresh, Content={410, 1275}
+31-07: Refresh, Content={410}
+31-08: Refresh, Content={410, 1271}
+31-09: Refresh, Content={410}
+31-10: Refresh, Content={410}

@@ -1,0 +1,19 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1038/1014/2
+
+0-2: Content={1314}
+0-3: ProtectionZone, Content={409, 1947}
+0-4: Refresh, ProtectionZone, Content={409}
+0-5: Refresh, ProtectionZone, Content={409}
+0-6: Refresh, ProtectionZone, Content={409, 1841}
+0-7: Refresh, ProtectionZone, Content={409, 1949}
+0-8: Refresh, ProtectionZone, Content={409, 1841}
+0-9: Content={409, 1306}
+1-2: Content={1308}
+1-3: Content={409, 1305}
+1-4: Content={409, 1305}
+1-5: Content={409, 1305}
+1-6: Content={409, 1305}
+1-7: Content={409, 1305}
+1-8: Content={409, 1305}
+1-9: Content={409, 1309}

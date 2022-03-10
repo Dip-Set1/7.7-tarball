@@ -1,0 +1,402 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1039/1012/6
+
+0-11: Content={1283}
+0-12: Content={1281}
+0-13: Content={1281}
+0-14: Content={1735}
+0-15: Content={1281}
+0-16: Content={1288}
+0-17: Content={1281}
+0-18: Content={1281, 2659}
+0-19: Content={1281, 2908}
+0-20: Content={1735}
+0-21: Content={1281, 2659}
+0-22: Content={1288}
+0-23: Content={1281}
+0-24: Content={1281}
+0-25: Content={1735}
+0-26: Content={1281}
+0-27: Content={1286}
+1-11: Content={1282}
+1-12: ProtectionZone, Content={429, 2497 String="Daerien Arilles"}
+1-13: ProtectionZone, Content={429, 3574, 2434 Content={3035 Amount=35}}
+1-14: ProtectionZone, Content={429, 3574, 2434}
+1-15: ProtectionZone, Content={429, 2497 String="Raistlen Majere"}
+1-16: Content={429, 1282}
+1-17: ProtectionZone, Content={429, 2541, 2469 Content={2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}
+1-18: ProtectionZone, Content={429, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3003, 3042 Amount=1, 2314, 2659}
+1-19: ProtectionZone, Content={429, 2485 Content={2871 Content={2871 Content={2854, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3349}}, 2659}
+1-20: ProtectionZone, Content={429, 2442 Content={2854 Content={2854}, 2859 Content={2853 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}, 2870 Content={2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2866 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}, 2869 Content={2868, 2867 Content={2868}}, 2871 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 3425, 3425, 3425, 2866 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3042 Amount=1}, 2659}
+1-21: ProtectionZone, Content={429, 3042 Amount=1, 3034 Amount=2, 3298 Amount=15, 2314, 2659}
+1-22: Content={429, 1282}
+1-23: ProtectionZone, Content={429, 3007, 3007, 2842, 2314, 2659}
+1-24: ProtectionZone, Content={429, 3034 Amount=1, 3007, 2968 KeyNumber=3940, 3322, 2659}
+1-25: ProtectionZone, Content={429, 2495 String="Sorata Wingxz"}
+1-26: ProtectionZone, Content={429, 2496}
+1-27: Content={429, 1282}
+2-11: Content={1282, 2910}
+2-12: ProtectionZone, Content={429, 2498}
+2-13: ProtectionZone, Content={429}
+2-14: ProtectionZone, Content={429}
+2-15: ProtectionZone, Content={429, 2498}
+2-16: Content={429, 1282, 2659}
+2-17: ProtectionZone, Content={429, 3429, 3271, 2314, 2659}
+2-18: ProtectionZone, Content={429, 3065, 3042 Amount=1, 3351, 2656, 3492 Amount=2, 3450 Amount=4, 3059, 2659}
+2-19: ProtectionZone, Content={429, 3062, 3042 Amount=1, 3271, 3574, 3042 Amount=1, 3033 Amount=1, 2659}
+2-20: ProtectionZone, Content={429, 3279, 2659}
+2-21: ProtectionZone, Content={429, 3042 Amount=1, 3034 Amount=1, 3042 Amount=1, 3034 Amount=1, 3298 Amount=1, 3042 Amount=1, 3039, 2659}
+2-22: Content={429, 1282, 2909}
+2-23: ProtectionZone, Content={429, 2854 Content={3582 Amount=47, 3369, 3003, 3282, 3349, 3282, 3507, 3503, 3093 SavedExpireTime=1228, 3324, 3031 Amount=42, 3031 Amount=100, 3446 Amount=28, 3031 Amount=100, 3031 Amount=100, 3035 Amount=1}, 2659}
+2-24: ProtectionZone, Content={429, 2866 Content={3031 Amount=29, 2991, 3046}, 3078, 3583 Amount=1, 2659}
+2-25: ProtectionZone, Content={429, 3373, 2659}
+2-26: ProtectionZone, Content={429, 3034 Amount=1, 3287 Amount=100, 2314, 2659}
+2-27: Content={429, 1282}
+3-11: Content={1734}
+3-12: ProtectionZone, Content={429, 2472 Content={2866 Content={2853 Content={3277 Amount=66, 3277 Amount=100, 3003}, 2866 Content={3377, 3374, 3292, 3505 String="muted ahahahhaa" Editor="Bobziitha", 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}}
+3-13: ProtectionZone, Content={429}
+3-14: ProtectionZone, Content={429}
+3-15: ProtectionZone, Content={429}
+3-16: Content={429, 1282, 2659}
+3-17: ProtectionZone, Content={429, 2469 Content={3357, 3357, 3357, 3457, 3372, 3003, 3349, 2854 Content={3456, 3270, 2853 Content={2656, 3446 Amount=51, 3413}, 2866 Content={3492 Amount=91, 2854 Content={3409, 3285, 3367, 3282, 3285}, 2866 Content={3384, 3457, 3148 Charges=3, 3304, 3211}}, 3291, 3492 Amount=2, 3311, 3410}}, 2659, 2659}
+3-18: ProtectionZone, Content={429, 3576, 3034 Amount=1, 3723 Amount=100, 3034 Amount=1, 3033 Amount=1, 3046 SavedExpireTime=18, 2656}
+3-19: ProtectionZone, Content={429, 3074, 3093, 3042 Amount=1, 3034 Amount=1, 3076, 3034 Amount=2, 3042 Amount=1, 2656}
+3-20: ProtectionZone, Content={429, 3287 Amount=30, 2656}
+3-21: ProtectionZone, Content={429, 3449 Amount=4, 3077, 2842 String="savage flame is hunting here \nrespect plz" Editor="Savage Flame", 2656}
+3-22: ProtectionZone, Content={429, 1641 String="# Players allowed to open this door\nsir oyster bar"}
+3-23: ProtectionZone, Content={429, 3097, 3034 Amount=1, 3007, 2957, 3568, 2656}
+3-24: ProtectionZone, Content={429, 3007, 2972 KeyNumber=3980, 3349, 3007, 2656}
+3-25: ProtectionZone, Content={429, 3318, 3007, 3046 SavedExpireTime=122, 2656}
+3-26: ProtectionZone, Content={429, 3034 Amount=1, 3014, 3287 Amount=100, 2314, 2656}
+3-27: Content={429, 1734}
+4-11: Content={1282}
+4-12: ProtectionZone, Content={429, 2472 Content={2869 Content={2867}}}
+4-13: ProtectionZone, Content={429}
+4-14: ProtectionZone, Content={429}
+4-15: ProtectionZone, Content={429}
+4-16: Content={429, 1282, 2659}
+4-17: ProtectionZone, Content={429, 3034 Amount=1, 3033 Amount=1, 3081 RemainingUses=5, 3271, 2314, 2659}
+4-18: ProtectionZone, Content={429, 2853 Content={3582 Amount=2}, 2656}
+4-19: ProtectionZone, Content={429, 2480 Content={3035 Amount=6, 3031 Amount=85, 2868 Content={2870 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2853 Content={3578 Amount=91, 3578 Amount=90, 2853 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}, 2865 Content={2867 Content={2867}}, 3503 Content={3507}, 3504 Content={2868 Content={3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100}, 2870 Content={3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100}, 2866 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}, 2469 Content={3457, 3003, 3357, 3069, 2853 Content={3042 Amount=1, 2920 SavedExpireTime=230, 2920, 2920, 2920, 2920}, 3457, 3003, 3003, 3003, 2866 Content={2853 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}, 2659}
+4-20: ProtectionZone, Content={429, 3457, 3044 Amount=3, 4839, 3027 Amount=1, 3042 Amount=1, 3034 Amount=1, 2659}
+4-21: ProtectionZone, Content={429, 3034 Amount=2, 3271, 2314, 2659}
+4-22: Content={429, 1282}
+4-23: ProtectionZone, Content={429, 3082 RemainingUses=50, 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2314, 2659}
+4-24: ProtectionZone, Content={429, 2865 Content={2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}, 3035 Amount=41, 3007, 3049 SavedExpireTime=34, 2659}
+4-25: ProtectionZone, Content={429, 2495 String="Anuso"}
+4-26: ProtectionZone, Content={429, 2496}
+4-27: Content={429, 1282}
+5-11: Content={1290}
+5-12: Content={429, 1281}
+5-13: Content={429, 1281}
+5-14: ProtectionZone, Content={429, 1638 String="# Players allowed to open this door\nRaistlen Majere\nEldom Sephir"}
+5-15: Content={429, 1281, 2907}
+5-16: Content={429, 1291}
+5-17: Refresh, Content={429, 1281}
+5-18: ProtectionZone, Content={429, 1639 String="# Players allowed to open this door\nsir oyster bar\nperdril"}
+5-19: Refresh, Content={429, 1281}
+5-20: Content={429, 1735}
+5-21: Content={429, 1281}
+5-22: Content={429, 1291}
+5-23: Content={429, 1281}
+5-24: Content={429, 1281, 2656}
+5-25: Content={429, 1281, 2908}
+5-26: Content={429, 1281, 2647}
+5-27: Content={429, 1289}
+6-11: Content={1282}
+6-12: ProtectionZone, Content={429, 3317, 2314}
+6-13: ProtectionZone, Content={429}
+6-14: ProtectionZone, Content={429}
+6-15: ProtectionZone, Content={429}
+6-16: Refresh, Content={429, 1282}
+6-17: Content={432}
+6-18: Refresh, Content={408}
+6-19: Content={440}
+6-22: Content={1282}
+6-23: ProtectionZone, Content={429, 2535, 3284 RemainingUses=1, 3369, 3042 Amount=61}
+6-24: ProtectionZone, Content={429, 3014, 3590 Amount=10, 2469, 2667}
+6-25: ProtectionZone, Content={429, 3049 SavedExpireTime=132, 3071, 3590 Amount=10, 2469, 2667}
+6-26: ProtectionZone, Content={429, 3082 RemainingUses=50, 3590 Amount=10, 2473, 2656}
+6-27: Content={429, 1282}
+7-11: Content={1282, 2910}
+7-12: ProtectionZone, Content={429, 3582 Amount=45, 2469}
+7-13: ProtectionZone, Content={429}
+7-14: ProtectionZone, Content={429}
+7-15: ProtectionZone, Content={429}
+7-16: ProtectionZone, Content={429, 1640 String="# Players allowed to open this door\nRaistlen Majere\nCaramen Majere\nKeara Astin\nDratalius Maximus\nDevious Dozer\nEldom Sephir\nLady Crysania Majere\nLaran Nephus\nMagic Fungus"}
+7-17: Refresh, Content={408}
+7-18: Refresh, Content={408}
+7-19: Content={440}
+7-22: Content={1282, 2656}
+7-23: ProtectionZone, Content={429, 3280, 3381, 3590 Amount=10, 2473, 2647}
+7-24: ProtectionZone, Content={429, 2667}
+7-25: ProtectionZone, Content={429, 2667}
+7-26: ProtectionZone, Content={429, 3071, 3371, 3590 Amount=10, 2473, 2656}
+7-27: Content={429, 1282}
+8-11: Content={1734}
+8-12: ProtectionZone, Content={429, 3582 Amount=45, 2469 Content={2853}}
+8-13: ProtectionZone, Content={429}
+8-14: ProtectionZone, Content={429}
+8-15: ProtectionZone, Content={429}
+8-16: Refresh, Content={429, 1282}
+8-17: Content={442}
+8-18: Content={442}
+8-19: Content={449}
+8-22: Content={1734}
+8-23: ProtectionZone, Content={429, 3081 RemainingUses=5, 3590 Amount=10, 2473, 2868 Content={3097, 3091, 2853 Content={2866 Content={3082 RemainingUses=50, 2868 Content={3026 Amount=1, 3032 Amount=6, 3033 Amount=12, 3557, 3297, 3369, 3318, 3428, 3356, 3416, 3295, 3557, 3370, 3322, 3318, 3027 Amount=1, 3210, 3323}, 3083 RemainingUses=150, 3572, 3084 RemainingUses=250, 3083 RemainingUses=150, 3084 RemainingUses=250}, 4839, 4839, 3007, 3097, 3050, 3007, 3007}, 3050, 3051 SavedExpireTime=595, 3050, 3097, 3097, 3097, 3097, 3097, 3092, 3097, 3097, 3097 SavedExpireTime=3553, 3092}, 2647}
+8-24: ProtectionZone, Content={429, 2667}
+8-25: ProtectionZone, Content={429, 2667}
+8-26: ProtectionZone, Content={429, 3093 SavedExpireTime=1380, 3039, 3590 Amount=10, 2473, 2656}
+8-27: Content={429, 1282}
+9-11: Content={1734}
+9-12: ProtectionZone, Content={429, 3582 Amount=45, 2469}
+9-13: ProtectionZone, Content={429}
+9-14: ProtectionZone, Content={429}
+9-15: ProtectionZone, Content={429}
+9-16: Content={429, 1734}
+9-22: Content={1734}
+9-23: ProtectionZone, Content={429, 3081 RemainingUses=5, 3590 Amount=10, 2473, 2647}
+9-24: ProtectionZone, Content={429, 2667}
+9-25: ProtectionZone, Content={429, 2667}
+9-26: ProtectionZone, Content={429, 3093, 3039, 3590 Amount=10, 2473, 2656}
+9-27: Content={429, 1734}
+10-11: Content={1282, 2910}
+10-12: ProtectionZone, Content={429, 3441, 2314}
+10-13: ProtectionZone, Content={429}
+10-14: ProtectionZone, Content={429}
+10-15: ProtectionZone, Content={429}
+10-16: Content={429, 1282}
+10-19: Content={447}
+10-20: Content={441}
+10-21: Content={441}
+10-22: Content={1282, 2910}
+10-23: ProtectionZone, Content={429, 3280, 3381, 3590 Amount=6, 2473, 2647}
+10-24: ProtectionZone, Content={429, 2667}
+10-25: ProtectionZone, Content={429, 2667}
+10-26: ProtectionZone, Content={429, 3071, 3419, 3590 Amount=10, 2473, 2656}
+10-27: Content={429, 1282}
+11-11: Content={1282}
+11-12: ProtectionZone, Content={429, 2535}
+11-13: ProtectionZone, Content={429}
+11-14: ProtectionZone, Content={429}
+11-15: ProtectionZone, Content={429}
+11-16: Content={429, 1282}
+11-19: Content={439}
+11-20: Content={432}
+11-21: Refresh, Content={408}
+11-22: ProtectionZone, Content={408, 1641}
+11-23: ProtectionZone, Content={429, 3582 Amount=51, 2853 Content={3582 Amount=49, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100}, 2864 Content={2868 Content={2871 Content={3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100}}, 2853 Content={2871 Content={3147, 3147, 3147, 2866, 2869, 2872 Content={3457}}, 3457, 3483, 2814 String="I hate all humans! I will build a home and stay underground forever, they don't deserve my return!\n\nThe Beholders are my only friends. They respect me. I belong to them now. \nIn my dreams they have shown me the path to this underground base. When I sleep I can hear them whispering in my mind promises about eternal existence and immortality. My friends can feel my hunger for revenge on humanity and will supply me with the means to punish them an all living beings. \nNever again I will wear that fancy armor and black shall be the color of my revenge.   U U  anarkus gay." Editor="Perdril", 3456, 3483, 3003, 3483}, 2857 Content={2872 Content={2866 Content={2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}}}, 2647}
+11-24: ProtectionZone, Content={429, 2667}
+11-25: ProtectionZone, Content={429, 2667}
+11-26: ProtectionZone, Content={429, 3039, 3590 Amount=10, 2473, 2656}
+11-27: Content={429, 1282}
+12-11: Content={1290}
+12-12: Content={429, 1281}
+12-13: Content={429, 1281}
+12-14: Content={429, 1281, 2907}
+12-15: Content={429, 1281}
+12-16: Content={429, 1291}
+12-17: Content={1281}
+12-18: Content={1281}
+12-19: Content={1735}
+12-20: Content={408, 1281, 2908}
+12-21: ProtectionZone, Content={408, 1639}
+12-22: Content={408, 1291}
+12-23: Content={429, 1281}
+12-24: Content={429, 1281, 2647}
+12-25: ProtectionZone, Content={429, 1638}
+12-26: Content={429, 1281, 2907}
+12-27: Content={429, 1289}
+13-11: Content={1282}
+13-12: ProtectionZone, Content={429}
+13-13: ProtectionZone, Content={429}
+13-14: ProtectionZone, Content={429}
+13-15: ProtectionZone, Content={429}
+13-16: Content={429, 1282}
+13-17: ProtectionZone, Content={429}
+13-18: ProtectionZone, Content={429}
+13-19: ProtectionZone, Content={429}
+13-20: ProtectionZone, Content={429}
+13-21: ProtectionZone, Content={429, 3277 Amount=1}
+13-22: Content={429, 1282}
+13-23: ProtectionZone, Content={429, 3198 Charges=5, 3590 Amount=10, 2469 Content={2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2867 Content={2867 Content={2868 Content={2867 Content={2871 Content={2869 Content={2867 Content={2867 Content={2866 Content={2867 Content={2867 Content={2854 Content={2871 Content={2872 Content={2868 Content={2866 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2469 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2469, 2647}
+13-24: ProtectionZone, Content={429, 2667}
+13-25: ProtectionZone, Content={429, 2667}
+13-26: ProtectionZone, Content={429, 3449 Amount=100, 3590 Amount=10, 2469 Content={3449 Amount=64, 3449 Amount=100, 3449 Amount=100}, 2469, 2656}
+13-27: Content={429, 1282}
+14-11: Content={1282, 2910}
+14-12: ProtectionZone, Content={429}
+14-13: ProtectionZone, Content={429}
+14-14: ProtectionZone, Content={429}
+14-15: ProtectionZone, Content={429}
+14-16: Content={429, 1282, 2910}
+14-17: ProtectionZone, Content={429}
+14-18: ProtectionZone, Content={429}
+14-19: ProtectionZone, Content={429}
+14-20: ProtectionZone, Content={429}
+14-21: ProtectionZone, Content={429}
+14-22: Content={429, 1282, 2910}
+14-23: ProtectionZone, Content={429, 3200 Charges=3, 3590 Amount=10, 2469 Content={2869 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2866 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2867 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}}, 2469, 2647}
+14-24: ProtectionZone, Content={429, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3200 Charges=2, 3200 Charges=3, 3200 Charges=2}, 2667}
+14-25: ProtectionZone, Content={429, 2667}
+14-26: ProtectionZone, Content={429, 3191 Charges=2, 3590 Amount=11, 2469 Content={2870 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}, 2469, 2656}
+14-27: Content={429, 1282}
+15-11: Content={1734}
+15-12: ProtectionZone, Content={429, 2493}
+15-13: ProtectionZone, Content={429, 2493}
+15-14: ProtectionZone, Content={429}
+15-15: ProtectionZone, Content={429}
+15-16: ProtectionZone, Content={429, 1640}
+15-17: ProtectionZone, Content={429}
+15-18: ProtectionZone, Content={429}
+15-19: ProtectionZone, Content={429}
+15-20: ProtectionZone, Content={429}
+15-21: ProtectionZone, Content={429, 2866 Content={3147, 3147, 2866 Content={3147, 3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}
+15-22: Content={429, 1282, 2656}
+15-23: ProtectionZone, Content={429, 2493}
+15-24: ProtectionZone, Content={429, 2497 String="Anarkus'rotch"}
+15-25: ProtectionZone, Content={429, 2667}
+15-26: ProtectionZone, Content={429, 3160 Charges=1, 3590 Amount=10, 2469 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2473 Content={2469 Content={2469 Content={2469}}}}, 2469, 2656}
+15-27: Content={429, 1734}
+16-11: Content={1282}
+16-12: ProtectionZone, Content={429, 2494}
+16-13: ProtectionZone, Content={429, 2494}
+16-14: ProtectionZone, Content={429}
+16-15: ProtectionZone, Content={429}
+16-16: Content={429, 1282}
+16-17: ProtectionZone, Content={429}
+16-18: ProtectionZone, Content={429}
+16-19: ProtectionZone, Content={429}
+16-20: ProtectionZone, Content={429}
+16-21: ProtectionZone, Content={429, 2537}
+16-22: Content={429, 1282}
+16-23: ProtectionZone, Content={429, 2494}
+16-24: ProtectionZone, Content={429, 2498}
+16-25: ProtectionZone, Content={429, 3043 Amount=13, 3590 Amount=10, 2469, 2667}
+16-26: ProtectionZone, Content={429, 3155 Charges=1, 3590 Amount=10, 2469 Content={2854 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2867 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}, 2469, 2656}
+16-27: Content={429, 1282}
+17-11: Content={1284}
+17-12: Content={429, 1281}
+17-13: Content={429, 1281}
+17-14: Content={429, 1735}
+17-15: Content={429, 1281}
+17-16: Content={429, 1287}
+17-17: Content={429, 1281}
+17-18: Content={429, 1281}
+17-19: Content={429, 1735}
+17-20: Content={429, 1735}
+17-21: Content={429, 1281}
+17-22: Content={429, 1287}
+17-23: Content={429, 1281}
+17-24: Content={429, 1281}
+17-25: Content={429, 1735}
+17-26: Content={429, 1281}
+17-27: Content={429, 1285}
+23-16: Content={1283}
+23-17: Content={1281}
+23-18: Content={1281, 2638}
+23-19: Content={1735}
+23-20: Content={1281, 2908}
+23-21: Content={1288}
+23-22: Content={1281}
+23-23: Content={1281, 2659}
+23-24: Content={1281, 2638}
+23-25: Content={1735}
+23-26: Content={1281, 2908}
+23-27: Content={1286}
+24-16: Content={1282}
+24-17: ProtectionZone, Content={408, 2495 String="Acid Sky"}
+24-18: ProtectionZone, Content={408, 2496}
+24-19: ProtectionZone, Content={408, 2866, 3003, 3505 String="Feliz mes bb, apenas van 2 pero serán mas ;).\nT amo bb, eres lo mejor ke me ha pasado, gracias por estos 2 meses y espero que sean 2 décadas o bueno, toda la vida ya que :P\nthks amor =*\n\npishy \ny pisha\n\n                                                 02/04/06" Editor="Hypnoz", 2469 Content={3449 Amount=6, 2871 Content={3367, 3367, 3271, 3353, 3271, 3353, 3353, 3353, 3353, 3046, 3353, 3046, 3028 Amount=2, 3046}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5}, 2856 Content={3505 String="Esto es para mi bb precioxa, para ti amor, t amo bb eres lo mejor, y usalas bn para ke no t maten xke si no me vo a enojar >:) o usalas pa matar a alguien y me das loot xD\n\nT amo bb ;*\nPisy y Pisha 4ver ^^" Editor="Hypnoz", 3658, 2866 Content={3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3}}, 2868 Content={3492 Amount=35, 3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2870 Content={2868, 2854, 2865}}}
+24-20: ProtectionZone, Content={408, 4839, 2434}
+24-21: Content={408, 1282, 2659}
+24-22: ProtectionZone, Content={408, 2487}
+24-23: ProtectionZone, Content={408, 2488}
+24-24: ProtectionZone, Content={408, 2903, 3074, 3588 Amount=50, 3568, 2659}
+24-25: ProtectionZone, Content={408, 2903, 2991, 2842, 2368, 2659}
+24-26: ProtectionZone, Content={408, 2903, 3061, 2992 Amount=4, 2469, 2659}
+24-27: Content={408, 1282}
+25-16: Content={1282, 2910}
+25-17: ProtectionZone, Content={408, 3043 Amount=1, 3505 String="03/05/06 07:40 a.m. mas tiempo? weno, ps ya ke >.< todo lo ke nos keda d vida bb, me lo kiero pasar contigo, t amo ;*\n\n06/05/06 01:21a.m. t amo bb, ni jui a hydras pero weno xD t amo muito ;*\n\n06/05/06 ;*\n\n08/05/06 11:42 te taba sperando xD pero no llegasttt .. y ya me dio sueño y ps mañana hay k levantarse temprano, mañana paso x ti pisho ;*\n\n09/05/06 01:52p.m. me voy ya pisha d rato regreso haha ;*\n\n12/05/06 11:22 pm Te amo pisho ;*\n\n15/05/06 02:34 a.m. Te amo pisha ;*" Editor="Hypnoz", 3505 String="    /xX\\ Bitácora del Capitan: /Xx\\\n\n11/04/06 - 11:40 CL, esperando a Pishy                                   TkeroMuito ;*\n\n12/04/06 - 8.25 Ire a Dragys BB ;*\n\n13/04/06 - 01:49 Fui a jugar retas de AA con venganzza y veckter, a ver si sigo jugando si no me fui a mimir ;*\n\n13/04/06 - 04:59 a.m. Ya me jui a mimir bb, t kiero mil ;* on ta mi pisha ;_; t amo bb ;*\n\n14/04/06 - 12:34 -.-' tngo sueño ... tkmil bb ;*\n\n15/04/06 - 03:15a.m. Me voy a mimir, t extraño muxo >.< ojalá todo haya salido bn en heros, t amo ;*\n\n15/04/06 - 4:47 am me mori :'(((((((((((((((((((((((((((((((((( naah puro pedo jajaaj me voy a dormir ... bb y thnx x el regalito .. t k mil ;****\n\n16/04/06 - 05:05 a.m. me fui a mimir, después de haber ido un rato a hydras xD, al rato t hablo :p, tkmil ;*\n\n16/04/06 - 10:48p.m. tuvo chido el dia en la playa bb me la pasé bn, thks x invitarme tkmil ;*\n\n17/04/06 - cuando keras :p jajaja ;* aunk ami no me gusta ir a la playa >.< tkmil bb ;*\n\n19/04/06 01:45 a.m. fui hackeado bb, checa tus cosas por favor, a mi me kitaron mi ekipo nada mas >.< pero por fa checa y dime ke fue lo ke perdiste para recuperarlas, t amo bb ;*\n\n20/04/06 09:33 a.m. t amo bb, me gustó mucho el msg, yo tmb t extraño muxo ;*\ntkmil bb ;***\n\n22/04/06 01:06 a.m. Feliz cumpleaños bb ! tkm ;* puedo ser el chambelán en estos xv años tuyos? :$ , t amo bb ;*\n\n22/04/06 08:52 .am. jajajajajja ;*** Claro y en los que siguen Tmb :p k dices? :P \n\n23/04/06 06:08 a.m. claro ke si bb, kiero tar contigo siempre :$, t amo bb ;*\n\n24/04/06 9:12 Hola BB ;D t Acabas d ir y t scribo sto solo para decirt k t kero mil, tu lo sabes ;*\n\n27/04/06 10:11 p.m. T amo bb, mi hermana va a hacer un trabajo, si no t veo d rato, t veo mañana, tkmli ;*\n\n28/04/06 12.28 am Al rato paso x ti bb \n;*\n\n28/04/06 03:44 a.m. 03:44 You advanced from Level 59 to Level 60. para ti bb ;*\n\n01/04/06 t amo bb ;*\n\n02/04/06 7:28 a.m. 3 meses juntados ya bb xD, t amo eres lo mejor amor, ke sean 3 décadas neh? ;*\n\n02/04/06 7:07 más neh ?" Editor="Acid Sky", 2441 Content={2857 Content={3028 Amount=1, 3299, 2854 Content={3033 Amount=1, 3032 Amount=1, 3447 Amount=20, 3585 Amount=2, 3046, 3007, 3046, 3046, 3027 Amount=2, 3042 Amount=7, 2866 Content={2867 Content={2871 Content={3358, 3358, 3358, 3413, 2920 SavedExpireTime=173, 2853 Content={3349, 3448 Amount=2, 2874, 2874, 3448 Amount=5}}, 3457, 3003}, 2972 KeyNumber=3980, 2969 KeyNumber=3620, 2970 KeyNumber=3899}, 3583 Amount=13}, 2866 Content={3590 Amount=10, 3505 String="WE SOLO QIEREO DECIRT Q NO ENTRARE A JUGAR BN BN A lvl UP X Q LA PINCHE MAKINA DE MIARDA NO SIRVE Y 100PRE TIENE LAG Y ASI NO PUEDO JUGAR BN WE!!!!SUBE D lvl TU WE PRO EL DINERO Q JUNTES GUARDALO WE PARA JUNTAR VARO!!!Y COMPRAR MEJOR EKIPO!!!PRO JUNTA PRIMERO WE!NO TE METAS EN P2 CON ROXER WE NI CON LUTH SENORI NO MATES A NADIE WE X Q LA GUILD TRAES P2 Y CUALQIER COSITA PUM...HUNTED!!!ASI Q NO T HAGAS PK Y CUIDA MUCHO A ROXER!!!PLX!!..." Editor="Hypnoz", 2856 Content={3505 String="Pa' Pisho de la Pisha :p\n\nt kero mil8mil BB ;* y k no t kiten el v shield xk t puteo !! ¬¬\n\ncon cariño ... Acid jijiji" Editor="Acid Sky"}, 3084 RemainingUses=250, 2933, 4839, 3004, 3279, 3599 Amount=8, 3540, 3359, 3046, 3046, 3046, 3046 SavedExpireTime=2999, 2865 Content={2866 Content={2854 Content={2865, 2866, 2871 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2854, 2869 Content={2871, 2871, 2869, 2869, 2869}}, 2865, 2866 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3305, 3046, 3046, 3590 Amount=71, 3046, 2656, 2667, 2667, 2656, 2656, 2667, 2656, 2667, 2656, 3046, 3590 Amount=100, 3590 Amount=100, 2868 Content={2656, 2667, 2667, 2656, 2656, 2667, 2656, 2667, 2656, 2667, 2667, 2667, 2667, 2656, 2656, 2656, 2656, 2667, 2656, 2667}}}}, 2859 Content={3449 Amount=100, 3449 Amount=100, 2393, 3191 Charges=2, 3190 Charges=4, 3191 Charges=1, 3449 Amount=100}, 2872 Content={2872, 2870, 2867, 2869 Content={2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869}, 2854 Content={2854}, 2868 Content={2868, 2868, 2868, 2868, 2868, 2868}, 2865 Content={2865 Content={2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865}}, 2866, 2871, 2857}, 2871 Content={3505 String="1.-Equipo\n2.-Hachas\n3.-Crossbows,spears,bolts...paladin plx \n4.-Espadas\n5.-Escudos\n6.-Armaduras\n7.-Legs\n8.-Cascos\n9.-Clubs\n10.-Rods y Wands" Editor="Lady Amargada", 2854 Content={3556, 3483, 3483, 3483, 3456, 3483, 3003, 3003, 3483, 3059, 3483, 3483, 3059, 3483, 2871 Content={3046 SavedExpireTime=1666, 3046, 3046, 3046, 3046, 3046, 3046 SavedExpireTime=22, 3046 SavedExpireTime=87, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 2866 Content={3003, 3046 SavedExpireTime=2999, 3483, 3483, 3003, 3003, 3483, 3483}}, 2854 Content={3328, 3318, 3313, 3316}, 2868 Content={3446 Amount=62, 3350, 3449 Amount=39, 3350, 3298 Amount=14, 3448 Amount=9, 3287 Amount=5, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2854 Content={3271, 3284 RemainingUses=1, 3299, 3299, 3265, 3307, 3119, 3285, 3285, 3285}, 2868 Content={3436, 3428, 3409, 3409, 3409, 3409, 3409, 3409, 3441, 3441}, 2869 Content={3359, 3359, 3359, 3568, 3359, 3359, 3359, 3565, 3359}, 2868 Content={3372, 3557, 3372, 3372, 3372, 3372, 3558}, 2871 Content={3353, 3373, 3373, 3391, 3369, 3353, 3351, 3351, 3574, 3384}, 2854 Content={3279, 3324, 3327, 3327, 3322, 3279, 3270, 3336, 3279, 3282, 3279, 3305, 3289, 3311}, 2866 Content={3072, 3073, 3070, 3071, 3074, 3073, 3075}}, 2871 Content={3505 String="1.-Runas Adorno :D\n2.-Tonterías (Postman Quest)\n3.-Llaves\n4.-Quests Items\n5.-Anillos\n6.-Amuletos, Collares, adornillos x\n7.-Cosas para la casa\n8.-Comida" Editor="Hypnoz", 2867 Content={3188 Charges=3, 3188 Charges=1, 3197 Charges=2, 3188 Charges=3, 3197 Charges=2, 3148 Charges=3, 3189 Charges=3, 3198 Charges=5}, 2871 Content={3105, 3104, 3105, 3120, 3104}, 2869 Content={2868 Content={2969 KeyNumber=3033, 2969 KeyNumber=5010, 2972 KeyNumber=3304, 2969 KeyNumber=3001, 2969 KeyNumber=3002, 2969 KeyNumber=3003, 2969 KeyNumber=3004, 2969 KeyNumber=3005, 2969 KeyNumber=3033, 2969 KeyNumber=3008, 2969 KeyNumber=3006, 2970 KeyNumber=3899}, 2970 KeyNumber=3802, 2970 KeyNumber=3801, 2970 KeyNumber=3800, 2972 KeyNumber=3980, 2969 KeyNumber=3620, 2969 KeyNumber=3033, 2969 KeyNumber=3007, 2970 KeyNumber=3142, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=3650, 2969 KeyNumber=3666, 2969 KeyNumber=3667, 2969 KeyNumber=3302, 2969 KeyNumber=3033, 2970 KeyNumber=3301, 2970 KeyNumber=3303, 2969 KeyNumber=5010, 2973 KeyNumber=3520}, 2868 Content={2957, 3576}, 2854 Content={3051, 3051, 3053, 3093, 3007, 3007, 3097, 3097, 3007, 3049, 2868 Content={3007, 3007, 3007, 3092, 3007, 3007, 3007, 2866 Content={3007, 3092, 3092, 3092, 3092, 3050, 3050, 3050, 3092, 3051 SavedExpireTime=58, 3007, 3050, 3093 SavedExpireTime=1090, 3093 SavedExpireTime=952, 3004, 3004, 3004, 3004, 3049 SavedExpireTime=192, 3093}, 3097 SavedExpireTime=3516, 3007, 3053 SavedExpireTime=30, 3004, 3004, 3004, 3004, 3004, 3097, 3097, 3097, 3097}, 3093, 3049 SavedExpireTime=245, 3093, 3097, 3093, 3007, 3097, 3097, 3049 SavedExpireTime=55}, 2854 Content={2871 Content={2854 Content={3572, 3083 RemainingUses=150, 2871 Content={2854 Content={2854 Content={3062, 3076, 3056 RemainingUses=200, 3081 RemainingUses=5, 3061, 3056 RemainingUses=200, 3056 RemainingUses=200, 3045 RemainingUses=200, 3056 RemainingUses=200, 3505 String="wey ahi te mando estas bps de hmm para hoy ya van 9 bps cone stas\n\n\n\n\n                                   sinceramente tuyo\n                                      Draggy Gambler\n\nabre la puerta dl cuartito .. keria dormir mi monita ;_;" Editor="Hypnoz", 3054 RemainingUses=200, 3082 RemainingUses=50, 3084 RemainingUses=250}, 3028 Amount=1, 3017, 3025, 4871, 3572, 3572, 3084 RemainingUses=250, 3077, 3056 RemainingUses=200, 3085 RemainingUses=200, 3042 Amount=100, 3033 Amount=52, 3032 Amount=42, 3029 Amount=4, 3042 Amount=4, 3030 Amount=2, 2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low.", 2830 String="Maps of the magic web\nWritten by Gargail\n\n*You see several maps with red lines and golden points on them*", 3076}, 3017, 3017, 3114 Amount=10, 3017, 3044 Amount=1, 3017, 3017, 3017, 3017, 3082 RemainingUses=50, 3082 RemainingUses=50, 3056 RemainingUses=200, 3017, 3017, 3017, 3027 Amount=9, 3017, 3572, 3572}, 3572, 3572, 3572, 3572, 3572, 3077, 3572, 3085 RemainingUses=200, 3082 RemainingUses=45, 3572, 3572, 3084 RemainingUses=214, 3014, 3081 RemainingUses=5, 3505 String="JOto esta es la casa tengo 2 meses de renta para que qui guardes las cosas \nCHTM we jaja", 3084 RemainingUses=250, 3008}, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3012, 3740 Amount=1, 2902, 3017, 3084 RemainingUses=250, 3084 RemainingUses=250, 3062, 3062, 3056 RemainingUses=200, 3054 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250, 3056 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3084 RemainingUses=250}, 3045 RemainingUses=200, 3017, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3084 RemainingUses=250, 3012, 3056 RemainingUses=200, 3078, 3506 String="hypnoz\nDarashia\n\nHi love!\nHow are you? I'm a little busy this week so i won't be playing, but i show up now and then to look my mail...I hope you're all fine (you and carlos). Don't let him get in trouble...How is our guild? Everybody is fine?\nHow is your life? Are you studyind too much? Well, i have to go now, my books are yelling at me to come back...\nBe save\n\nBye cariño\nCamila Caminha (Mel yask)", 3505 String="manito:\nte kiero muchote aunke no lo creas te extraño kreo ke noshemos distanciado y eso me hace sentirme muy triste peor tampoco significa ke te he dejado de kerer recuerdad ke siempre sere tu hermanita consentida\n\nari =*********\n\n\njajajaja yaga was here" Editor="Acid Sky", 3505 String="a little present for you :)\nKiss Kiss\nCamila (deli yask)", 3012, 3008, 3045 RemainingUses=200, 3008, 3017, 2991, 3054 RemainingUses=118}, 2868 Content={2843, 2854 Content={2866 Content={3506 String="patty of zanera\nAB'DENDRIEL \n\npequeña patty te extraño ojala y estes leyendo esta carta me gusto estar contiguo. solo queda una pregunta qeu aser si tu todavia no tienes novio ¿QUIERES SER MI NOVIA DE TIBIA?\n\natte.moville", 3062, 3061, 2949, 2667, 2659, 2667, 2667, 2667, 2394, 2949, 3039}, 2394, 2667, 2667, 2667, 2659, 3538, 3541, 3544, 3034 Amount=1, 3061, 2821 String="How to conjure monsters that you don´t need?\n by Prophet\n\n...", 2821 String="The riddle\n\nOnce upon a time, there have been a knight, a druid, a paladin and a sorcerer that survived the great battle upon the fields of glory. Some of them were wounded, some not. All were deadly tired. They had to escape from a hord of orcs, a whole tribe with more then 35 fighters. Late in the night, they came to a huge bridge, or at least the rest of a once mighty bridge. It was small and seemed to be not very save. The sorcerer screamed some loud and mighty words and for a second the bridge glew in a blue light.\n \"I see\"  the sorcerer said, \"that this bridge will break down and fall into the water within 60 minutes. So we have to hurry up. It will only hold two of us at the same time and it is a long bridge. The wounded knight will need 25 minutes to go over the bridge, and it will take me 20. The paladin can go faster, so he will be on the other side within 10 minutes.\" \nPointing at the druid he said: \"And you can use your spell to move faster. You will need only 5 minutes.\"\n \"Ok then, let´s go! Don´t waste time\" shouted the knight and started to go. But then he stopped. \"I can´t see anything. The bridge is dangerous. We will need your magic light wand to cross it. Without light we will fall down in the cold and deep water. So always someone has to return to bring back the wand of light to the others.\"\n \"What shall we do now?\" asked the paladin \"How can we all reach the other side before the evil orcs will get us? I have no arrow left and we can´t fight them! In which order we have to pass the bridge? Who should go first?\"\nThe druid started to grumbel: \"Let me say k for knight, d for druid, s for sorcerer, p for paladin. hmmm.... and now let me thing: \n\ndk-d-dp- \n\nand hmmmm nonono.\n\n\nHmmmmmmmmmmmmmmmmmmm.\"\n\"Got it!\" the sorcerer screamed. \"Let´s run!\"\n\n", 2656, 2667, 2659, 3658}, 2392, 2393, 2393, 2392, 2392, 2392, 2394, 2667, 2394, 2394, 2394, 2394, 2394, 2394, 2398}, 2865 Content={3590 Amount=52, 3595 Amount=5, 3587 Amount=3, 3597 Amount=6, 3591 Amount=5, 3590 Amount=100, 3598 Amount=15, 2874 ContainerLiquidType=9, 2874 ContainerLiquidType=9, 2874 ContainerLiquidType=9, 3595 Amount=5, 3600 Amount=20, 3590 Amount=100}}}}
+25-18: ProtectionZone, Content={408, 3061, 2393, 3598 Amount=1, 3033 Amount=1}
+25-19: ProtectionZone, Content={408, 3447 Amount=70, 3372, 3042 Amount=1, 3032 Amount=2, 3046 SavedExpireTime=260, 3046 SavedExpireTime=2999, 3050}
+25-20: ProtectionZone, Content={408, 2866 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3447 Amount=9}
+25-21: Content={408, 1282, 2910}
+25-22: ProtectionZone, Content={408, 2903, 3058, 3074, 3588 Amount=50, 2469 Content={2865 Content={3537, 3537, 3537, 3473, 3114 Amount=8, 2970 KeyNumber=3142, 3008, 3409, 3283, 2843, 2853 Content={3543, 3543, 3537}, 3483, 3308}}, 2659}
+25-23: ProtectionZone, Content={408, 2903, 2991, 3074, 3588 Amount=50, 3568, 2659}
+25-24: ProtectionZone, Content={408, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2903, 2991, 3074, 3588 Amount=50, 3568, 2659}
+25-25: ProtectionZone, Content={408, 2903, 2991, 2842, 2316, 2659}
+25-26: ProtectionZone, Content={408, 2903, 3061, 2992 Amount=4, 2469 Content={2865 Content={2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2868 Content={2656, 2656, 2656, 2656, 2667, 2656, 2667, 2866 Content={2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2667, 2667, 2667}, 2656, 2647, 2647, 2647, 2644}, 2650, 2659, 2659}, 2869 Content={3017, 3045 RemainingUses=200, 2981, 3472, 2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low.", 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2819 String="There is a whole family of those Beholders here. They do not seem to mind me.. \nI often have strange dreams in which those creatures talk to me using their eyes. But those are only nightmares for sure.\n\nI found a small underground stream where I can get water from, so I can survive down here.\n\nI've given up hope for my men to come looking for me. Pah, humans.. they are probably not even thinking about me anymore.", 3661, 3738 Amount=1}}, 2659}
+25-27: Content={408, 1282}
+26-16: Content={1734}
+26-17: ProtectionZone, Content={408, 2495 String="Hypnoz"}
+26-18: ProtectionZone, Content={408, 2496}
+26-19: ProtectionZone, Content={408}
+26-20: ProtectionZone, Content={408, 3190 Charges=2, 2432 Content={3504 Content={4295 Content={3505 String="There is a letter for you in dp my fchhh\n\nMiss you \n\nCamila" Editor="Hypnoz", 3505 String="inche hypnoz  ia meteme al guild !!!!!!!!!" Editor="Hypnoz", 3505 String="hypnoz\nthings are missing in my house again (vegeta's house) ... plx find out who it was... or i'll put a price on the head of their chars...\n\nCamila" Editor="Hypnoz"}, 4290 Content={2853 Content={2917 SavedExpireTime=2291, 2917 SavedExpireTime=2288, 2917 SavedExpireTime=2288, 2853 Content={2917 SavedExpireTime=2330, 2917 SavedExpireTime=2331, 2917 SavedExpireTime=2332, 2917 SavedExpireTime=2330, 2917 SavedExpireTime=2343, 2917 SavedExpireTime=2331, 2911 SavedExpireTime=2347, 2911 SavedExpireTime=2348}, 2853 Content={2917 SavedExpireTime=2313, 2917 SavedExpireTime=2316, 2917 SavedExpireTime=2315, 2917 SavedExpireTime=2320, 2917 SavedExpireTime=2882, 2917 SavedExpireTime=2341, 2917 SavedExpireTime=2338, 2917 SavedExpireTime=2329}, 2853 Content={2917 SavedExpireTime=2302, 2917 SavedExpireTime=2302, 2917 SavedExpireTime=2306, 2917 SavedExpireTime=2311, 2917 SavedExpireTime=2307, 2919, 2917 SavedExpireTime=2318, 2917 SavedExpireTime=2317}, 2853 Content={2917 SavedExpireTime=2289, 2917 SavedExpireTime=2296, 2917 SavedExpireTime=2299, 2917 SavedExpireTime=2294, 2917 SavedExpireTime=2299, 2917, 2917, 2917}}, 2853 Content={2853 Content={3287 Amount=1, 3336, 3449 Amount=5, 3085 RemainingUses=200}, 2853 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3551, 3551}, 3505 String="wey soy el sir moppetir me hackeron y me quitaron todo aparte me mataron wey por mamadas por favor te pido que em des una plate armor despues te la repongo ok es que me robaon todod mi equipo y mi loot me hackearon todo espues te lo repongo ok gracias amigo.\n\natte: sir moppetir" Editor="Hypnoz", 3505 String="Theres a letter for you in your dp\n\nCamila (a.k.a. Deli Yask)" Editor="Hypnoz", 3505 String="There's a letter in your dp...\nCamilinha" Editor="Hypnoz", 3506 String="Hypnoz\nDarashia\nLast week i was sad cos i was acused of being with you and Carlos for things...i got sad cos i never asked anything and i give everything i have happyly... but theres one thing i cant let it pass without...loyalty...i'm a loyal person and i cant be false...i hate the way you act with me everytime i complain about something...today was the second time...its going to be like this everytime i think diferent from you? Cos if thats the case, i wanna know now...\ntruely hurt\nyours\nCamila"}, 2481 Content={3504 Content={3289, 3289, 2867 Content={3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658}, 3507 String="Chipi Gambler\ndarashia\n"}, 3483, 3289, 2472 Content={2867 Content={3544, 3541, 3541, 3541}}, 2815 String="we, ya no compres hmm's ya todo ta listo io llego y compro comida para ir...y te recomiendo ke vayas a minos we a los chafones, io me encontré un loot y casi 1 k xD ta chidillo we ok? cya P.D. vendes el d hamer, minimo 3k xD" Editor="Acid Sky", 2854 Content={3535, 3538, 3535, 3535, 3536, 3542, 3536, 3536, 3546, 3541, 3541, 3539, 3541, 3541}}, 3504 Content={2659, 2659, 2659}, 3504 Content={2865 Content={3283, 2977, 2977, 4285 Content={2853 Content={3492 Amount=98, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}, 3483, 3483, 3456, 3594, 2977, 3451, 2949, 2833 String="Report 67ZUFL90\nDeath caused by venomous local animals and by enemies using poisonous weapons against us are becoming more and more common. The traders of Venore gladly offered a vast supply of antidotes and suggested forming a monopoly to ensure the quality of the products and to stop scammers before their adulterated potions cause the deaths of innocents.", 3287 Amount=1, 3277 Amount=3}}, 3504 Content={2865 Content={2653, 2653, 2653, 2653, 2653, 2653, 2653, 2656, 2656, 2656, 2656, 2656, 2667, 2656, 2667, 2667, 2667}, 2865 Content={2667, 2656, 2656, 2656, 2656, 2667, 2667, 2667, 2656, 2656, 2667, 2667, 2656, 2667, 2656, 2656, 2667, 2656, 2656, 2667}}, 3504 Content={2853 Content={2853 Content={3410, 2853 Content={3286, 3410, 3354, 3410, 3358, 3354, 3410}}}, 2853 Content={2853 Content={3410, 3410, 3410, 3354, 3358, 3410, 3410, 3286}, 3410, 3358, 3358, 3358, 3410}}}, 2859 Content={3505 String="Hello my love!\n\nCheck your ghost, its a little dirrefent! I love you and i'll miss you always...\n\nKisses\n\nDeli Yask (Camila)\n", 3506 String="hypnoz\ndarashia\nSince you're my bf now, i have some things to tell you...\nWho am i out sifde of tibia? Well, i'm a very calm person, which is why i like tibia so much. here i can stay at home, distract myself and meet peple. I used to be a very popular girl, hang out with the \"hi-hop\" people, to frequent the best places in town...but i guess i got sick of it, sick of the people in those \nplaces, sick of the shallownwss, especially after my parents death.\n\nI always liked videogames. I got my first when i was 6, an Atari :) (space invators, pittfall, remember ?). After that i had a Sega. You pretty much can say that i suffer from \"Peter Pan \nSyndrome\", and never grow up when the subject is videogames and cartoons (love the old ones).\n\nAs i told you, i'm a lawyer. I always liked those hard-to-solve problems, the complicate questions, \"the tird way\", and most of all, to win. So, be a lawyer turned out to be a perfect career for me.\n\nDon't start to think that i'm one of those people who do anything to win.   I'm not like that. I'm sagaciuos, but not unscrupulous. I'm a loyal person, not just to my friends, but to everybody. I'm not rich, but have a very nice life. Have my own house, finish college, was able to buy all my book for college (i love books, love to study). My real life is pretty much like tibia, i'm not rich or strong, but i'm very generous, smart and have just enough money and things to party with my friends.\n\nI love dogs so much that i have 3 and named my chars after then: Deli (nick for Adelaide - the brown labrador), Lia (nick for Australia - the golden retriever) and Mel (nick for Melbourne - The black labrador)\n\nIlove movies, have a large colletion of dvd's. You can say that i'm a \"premiun account\" in Blockbuster. Do you remember \"Friday the 13th\"? I have the whole colletion, i'm a big fan of Jason. Sorry about that, i can't help it, i was born in the 80's. It's hard to run away from your roots :). \nthats all for now\nwith love\nDeli", 3505 String="Hi honey\nJust a little thing for you\n\nWith love\nDeli" Editor="Acid Sky", 3425, 3732 Amount=1}, 2867 Content={2856 Content={2865 Content={3658, 3658}, 3585 Amount=1}, 2856 Content={2865 Content={2865, 2393, 2393, 2393}, 3056 RemainingUses=200}, 2393, 2949, 2393, 3668, 3668, 2393, 2866 Content={2868 Content={2866 Content={3305, 3353, 3282, 3353, 3282, 3305, 3282, 3377, 3282}, 3282, 3282, 3353, 3353, 3377, 3377, 3377, 3305, 3377, 3305, 3305, 3282, 3353, 3377, 3377, 3353, 3305, 3305, 3377}, 2871 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2867 Content={3463}, 2867 Content={2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393}, 2647, 2650, 2393, 3504 Content={2853 Content={2853 Content={3358, 3358, 3286, 3410, 3410, 3410, 3358, 3410}, 2853 Content={2853 Content={3354}, 2853 Content={3264, 3358, 3358, 3410, 3286, 3358, 3410, 3286}}}}, 3287 Amount=2, 3298 Amount=1, 3056 RemainingUses=200, 2393, 3273, 2393, 2667, 2853 Content={2853 Content={2853 Content={2853 Content={3352, 2853 Content={3286, 3286, 3410, 3352, 3286, 3410, 3354, 3354}}}}}, 2659, 2653, 2656}}, 3504 Content={3504 Content={3503 Content={3504 Content={3503}}}, 3503 Content={3504 Content={3507 String="hypnoz\ndarashia"}, 3507 String="Brollin\nankrahmun"}, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504}, 2469 Content={3658, 3659, 3658, 3658, 2872 Content={3597 Amount=1, 3593}, 2868 Content={2867 Content={3188 Charges=3, 3180 Charges=3, 3188 Charges=3, 3148 Charges=3, 3180 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=4, 3180 Charges=4, 3180 Charges=4}, 2866 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=1, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}}}}, 3598 Amount=5}
+26-21: Content={408, 1282, 2659}
+26-22: ProtectionZone, Content={408, 2495 String="Afronovita Il"}
+26-23: ProtectionZone, Content={408, 2496}
+26-24: ProtectionZone, Content={408, 2903, 3074, 3588 Amount=49, 3568, 2659}
+26-25: ProtectionZone, Content={408, 2903, 2991, 2842 String="              Te amo Fabiola\n\n             Siempre sera asi :D mi amor", 2369, 2659}
+26-26: ProtectionZone, Content={408, 2903, 3061, 2992 Amount=4, 2469, 2659}
+26-27: Content={408, 1734}
+27-16: Content={1290}
+27-17: Content={408, 1281}
+27-18: Content={408, 1281}
+27-19: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\nacid sky\n"}
+27-20: Content={408, 1281, 2908}
+27-21: Content={408, 1291}
+27-22: Content={408, 1281}
+27-23: Content={408, 1281, 2640}
+27-24: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\nDragoon Wake"}
+27-25: Content={408, 1281, 2908}
+27-26: Content={408, 1281}
+27-27: Content={408, 1289}
+28-16: Content={1282}
+28-17: ProtectionZone, Content={408, 2536, 3092 SavedExpireTime=565, 3734 Amount=1, 2854, 2866, 2871}
+28-18: ProtectionZone, Content={408, 2961}
+28-19: ProtectionZone, Content={408}
+28-20: ProtectionZone, Content={408}
+28-21: Content={408, 1282}
+28-22: ProtectionZone, Content={408, 2535, 3492 Amount=2, 3034 Amount=1, 3732 Amount=8, 4839, 3160 Charges=2, 2977, 3234}
+28-23: ProtectionZone, Content={408}
+28-24: ProtectionZone, Content={408}
+28-25: ProtectionZone, Content={408, 3147, 2854, 2469 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+28-26: ProtectionZone, Content={408, 3200 Charges=3, 2868, 2469}
+28-27: Content={408, 1282}
+29-16: Content={1282}
+29-17: ProtectionZone, Content={408}
+29-18: ProtectionZone, Content={408}
+29-19: ProtectionZone, Content={408}
+29-20: ProtectionZone, Content={408, 2376}
+29-21: Content={408, 1282, 2656}
+29-22: ProtectionZone, Content={408}
+29-23: ProtectionZone, Content={408}
+29-24: ProtectionZone, Content={408, 2903, 2991, 2376}
+29-25: ProtectionZone, Content={408}
+29-26: ProtectionZone, Content={408, 3176 Charges=4, 2866, 2469 Content={2854 Content={3177 Charges=1, 3177 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+29-27: Content={408, 1282}
+30-16: Content={1734}
+30-17: ProtectionZone, Content={408}
+30-18: ProtectionZone, Content={408}
+30-19: ProtectionZone, Content={408, 3583 Amount=2}
+30-20: ProtectionZone, Content={408, 3017, 3059, 2314}
+30-21: Content={408, 1282, 2664 RemainingExpireTime=128}
+30-22: ProtectionZone, Content={408}
+30-23: ProtectionZone, Content={408, 2903, 2991, 2374}
+30-24: ProtectionZone, Content={408, 3492 Amount=2, 3034 Amount=1, 4839, 3424, 3314, 3313, 3734 Amount=1, 2315}
+30-25: ProtectionZone, Content={408, 2903, 2991, 2375}
+30-26: ProtectionZone, Content={408, 3191 Charges=2, 2867, 2469 Content={3190 Charges=1, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}}
+30-27: Content={408, 1734}
+31-16: Content={1282, 2910}
+31-17: ProtectionZone, Content={408}
+31-18: ProtectionZone, Content={408}
+31-19: ProtectionZone, Content={408}
+31-20: ProtectionZone, Content={408, 2377}
+31-21: Content={408, 1282, 2910}
+31-22: ProtectionZone, Content={408}
+31-23: ProtectionZone, Content={408}
+31-24: ProtectionZone, Content={408, 2903, 2991, 2377}
+31-25: ProtectionZone, Content={408}
+31-26: ProtectionZone, Content={408, 3178 Charges=1, 2865, 2469 Content={3172 Charges=1}}
+31-27: Content={408, 1282}

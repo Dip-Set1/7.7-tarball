@@ -1,0 +1,12 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+26-25: Refresh, Content={408}
+26-26: Refresh, Content={408}
+26-27: Refresh, Content={408}
+27-25: Refresh, Content={408}
+27-26: Content={432}
+27-27: Refresh, Content={408}
+28-25: Refresh, Content={408}
+28-26: Refresh, Content={408}
+28-27: Refresh, Content={408}

@@ -1,0 +1,85 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1030/1003/3
+
+0-24: Content={1295, 2656}
+0-25: ProtectionZone, Content={429, 4839, 2659}
+0-26: ProtectionZone, Content={429, 2991, 3658, 3658, 3734 Amount=1, 2659}
+0-27: ProtectionZone, Content={429, 2853, 2659}
+0-28: ProtectionZone, Content={429, 3091, 3092 SavedExpireTime=970, 4839, 2659}
+0-29: ProtectionZone, Content={429, 2394, 2647}
+0-30: ProtectionZone, Content={429, 3367, 3283, 3074}
+0-31: Content={429, 1295}
+1-24: Content={1303}
+1-25: Content={429, 1294}
+1-26: Content={429, 1294, 2907}
+1-27: ProtectionZone, Content={429, 1638 String="# Players allowed to open this door\ncofre endo\nendo carik\nbrocholas\nbrocholas kitad\nLycomedes the cold-hearted"}
+1-28: Content={429, 1301}
+1-29: Content={429, 1294}
+1-30: Content={429, 1294, 2908}
+1-31: Content={429, 1302}
+2-24: Content={1295}
+2-25: ProtectionZone, Content={411}
+2-26: ProtectionZone, Content={429}
+2-27: ProtectionZone, Content={429}
+2-28: Content={429, 1295}
+2-29: ProtectionZone, Content={429, 3357, 3598 Amount=100, 3447 Amount=100}
+2-30: ProtectionZone, Content={429, 3190 Charges=3, 2991, 3190 Charges=4, 3277 Amount=25}
+2-31: Content={429, 1295}
+3-24: Content={1738}
+3-25: ProtectionZone, Content={429}
+3-26: ProtectionZone, Content={429}
+3-27: ProtectionZone, Content={429}
+3-28: ProtectionZone, Content={429, 1640 String="# Players allowed to open this door\nnoleay tanto\ncir gonn"}
+3-29: ProtectionZone, Content={429, 3065, 3449 Amount=31}
+3-30: ProtectionZone, Content={429, 2991, 3349}
+3-31: Content={429, 1738}
+4-24: Content={1297}
+4-25: Content={429, 1294}
+4-26: Content={429, 1739}
+4-27: Content={429, 1294}
+4-28: Content={429, 1300}
+4-29: Content={429, 1294}
+4-30: Content={429, 1739}
+4-31: Content={429, 1298}
+7-21: Content={1296}
+7-22: Content={1294}
+7-23: Content={1294}
+7-24: Content={1294}
+7-25: Content={1294}
+7-26: Content={1299}
+8-21: Content={1295}
+8-22: Content={408}
+8-23: Content={408}
+8-24: Content={408}
+8-25: Content={408}
+8-26: Content={408, 1295}
+9-21: Content={1295}
+9-22: Content={408}
+9-23: Content={408}
+9-24: Content={408}
+9-25: Content={408}
+9-26: Content={408, 1295}
+10-21: Content={1295, 2909}
+10-22: Content={408}
+10-23: Content={408}
+10-24: Content={408}
+10-25: Content={408}
+10-26: Content={408, 1295}
+11-21: Content={1295}
+11-22: Content={432}
+11-23: Content={408}
+11-24: Content={408}
+11-25: Content={408}
+11-26: Content={408, 1295}
+12-21: Content={1295}
+12-22: Content={408, 1948}
+12-23: Content={408}
+12-24: Content={408}
+12-25: Content={408}
+12-26: Content={408, 1295}
+13-21: Content={1297}
+13-22: Content={408, 1294}
+13-23: Content={408, 1294}
+13-24: Content={408, 1294}
+13-25: Content={408, 1294}
+13-26: Content={408, 1298}

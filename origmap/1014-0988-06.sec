@@ -1,0 +1,64 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-30: Content={1127}
+00-31: Refresh, Content={1127, 1787}
+01-30: Content={1127}
+01-31: Refresh, Content={1127, 1788}
+02-30: Refresh, Content={1127, 1772, 3654}
+02-31: Refresh, Content={1127, 1792}
+03-29: Refresh, Content={1127, 1772, 3655}
+03-30: Refresh, Content={1127, 1791}
+03-31: Refresh, Content={1127, 1793, 3654}
+04-29: Refresh, Content={1127, 1776}
+04-30: Refresh, Content={1127, 1774, 3655}
+05-29: Refresh, Content={1127, 1775}
+05-30: Refresh, Content={1127, 1773}
+06-29: Refresh, Content={1127, 1772}
+06-30: Refresh, Content={1127, 1817}
+26-00: Content={1286}
+26-09: Refresh, Content={1127, 1783, 3655}
+26-10: Refresh, Content={1127, 1785}
+26-11: Refresh, Content={1127, 1772, 3655}
+27-00: Content={408, 1282}
+27-09: Refresh, Content={1127, 1784}
+27-10: Refresh, Content={1127, 1786}
+27-11: Refresh, Content={1127, 1803}
+27-19: Refresh, Content={1127, 1787, 3655}
+27-20: Refresh, Content={1127, 1789}
+27-21: Refresh, Content={1127, 1772}
+28-00: Content={408, 1282}
+28-09: Refresh, 
+28-10: Refresh, Content={1127, 1803}
+28-11: Refresh, Content={1127, 1803}
+28-12: Refresh, Content={1127, 1772, 3655}
+28-13: Refresh, Content={1127}
+28-19: Refresh, Content={1127, 1788}
+28-20: Refresh, Content={1127, 1790, 3655}
+28-21: Refresh, Content={1127, 1791}
+29-00: Content={408, 1734}
+29-09: Refresh, 
+29-10: Refresh, Content={1127}
+29-11: Refresh, Content={1127}
+29-12: Refresh, Content={1127}
+29-13: Refresh, Content={1127, 1772, 3654}
+29-19: Content={1127}
+29-20: Refresh, Content={1127, 1779, 3655}
+29-21: Refresh, Content={1127, 1792, 3654}
+29-22: Refresh, Content={1127, 1776}
+29-23: Refresh, Content={1127, 1774}
+30-00: Content={408, 1734}
+30-09: Refresh, Content={1127, 1813}
+30-10: Refresh, Content={1127, 1814}
+30-11: Refresh, Content={1127, 1810}
+30-12: Refresh, Content={1127, 1810}
+30-20: Refresh, Content={1127, 1778, 3655}
+30-21: Refresh, Content={1127, 1793}
+30-22: Refresh, Content={1127, 1775}
+30-23: Refresh, Content={1127, 1773}
+31-00: Content={408, 1734}
+31-09: Refresh, Content={1127}
+31-10: Refresh, Content={1127}
+31-11: Refresh, Content={1127, 1810}
+31-22: Refresh, Content={1127, 1772}
+31-23: Refresh, 

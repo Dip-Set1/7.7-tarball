@@ -1,0 +1,183 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1010/1003/6
+
+0-18: Content={4459}
+0-19: Content={4457}
+0-20: Content={4457}
+0-21: Content={4457}
+0-22: Content={4457}
+1-18: Content={4458}
+1-19: Content={1099, 1081}
+1-20: Content={1099}
+1-21: Content={1099}
+1-22: Content={1099, 1082}
+1-23: Content={4457}
+1-24: Content={4457}
+1-25: Content={4457}
+2-19: Content={4458}
+2-20: Content={1099, 1081}
+2-21: Content={1099}
+2-22: Content={1099}
+2-23: Content={1099}
+2-24: Content={1099}
+2-25: Content={1099, 1085}
+3-20: Content={4458}
+3-21: Content={1099, 1081}
+3-22: Content={1099, 1081}
+3-23: Content={1099, 1081}
+3-24: Content={1099, 1085}
+4-21: Refresh, Content={4518, 1108, 4461}
+4-22: Refresh, Content={4515, 1103, 4461}
+4-23: Refresh, Content={4515, 1103, 4461}
+4-24: Refresh, Content={4526, 1111, 4461}
+5-11: Refresh, Content={4515, 1108}
+5-12: Refresh, Content={4515, 1103}
+5-13: Refresh, Content={4515, 1111}
+5-21: Refresh, Content={4515, 1100}
+5-22: Refresh, Content={4521}
+5-23: Refresh, Content={4526}
+5-24: Refresh, Content={4515, 1102}
+6-10: Refresh, Content={4515, 1108, 3621}
+6-11: Refresh, Content={4515, 1104}
+6-12: Refresh, Content={4515, 1797}
+6-13: Refresh, Content={4515, 1102}
+6-21: Refresh, Content={4515, 1109}
+6-22: Refresh, Content={4520, 1105}
+6-23: Refresh, Content={4529}
+6-24: Refresh, Content={4526, 1102}
+7-9: Refresh, Content={4515, 1108, 3681}
+7-10: Refresh, Content={4524, 1104, 1792}
+7-11: Refresh, Content={4515}
+7-12: Refresh, Content={4515, 1798}
+7-13: Refresh, Content={4525, 1102}
+7-22: Refresh, Content={4515, 1109}
+7-23: Refresh, Content={4525, 1105, 1792}
+7-24: Refresh, Content={4515, 1102}
+8-8: Refresh, Content={4405, 1772}
+8-9: Refresh, Content={4527, 1100, 3684}
+8-10: Refresh, Content={4517, 1793}
+8-11: Refresh, Content={4527, 3622}
+8-12: Refresh, Content={4515}
+8-13: Refresh, Content={4515, 1102}
+8-23: Refresh, Content={4524, 1100, 1793}
+8-24: Refresh, Content={4515, 1102, 1779}
+9-9: Refresh, Content={4515, 1109, 3682}
+9-10: Refresh, Content={4515, 1105, 3615}
+9-11: Refresh, Content={4519, 1787}
+9-12: Refresh, Content={4515, 1789}
+9-13: Refresh, Content={4515, 1102}
+9-23: Refresh, Content={4518, 1109, 3681}
+9-24: Refresh, Content={4515, 1110, 1778}
+10-10: Refresh, Content={4515, 1109, 3699}
+10-11: Refresh, Content={4519, 1105, 1788}
+10-12: Refresh, Content={4515, 1790}
+10-13: Refresh, Content={4515, 1107}
+10-14: Refresh, Content={4515, 1111}
+11-11: Refresh, Content={4519, 1109, 3682}
+11-12: Refresh, Content={4515, 1105, 3681}
+11-13: Refresh, Content={4517, 1106, 1796}
+11-14: Refresh, Content={4518, 1110}
+12-12: Refresh, Content={4515, 1109}
+12-13: Refresh, Content={4515, 1110}
+13-26: Refresh, Content={4394, 1108}
+13-27: Refresh, Content={4405, 1111}
+14-24: Refresh, Content={4409, 1108}
+14-25: Refresh, Content={4394, 1103}
+14-26: Refresh, Content={4406, 1104}
+14-27: Refresh, Content={4394, 1102}
+15-23: Refresh, Content={4399, 1108}
+15-24: Refresh, Content={4394, 1104}
+15-25: Refresh, Content={4397, 1787}
+15-26: Refresh, Content={4410, 1789}
+15-27: Refresh, Content={4406, 1102}
+16-22: Refresh, Content={4394, 1108}
+16-23: Refresh, Content={4405, 1104}
+16-24: Refresh, Content={4399, 1791}
+16-25: Refresh, Content={4406, 1788}
+16-26: Refresh, Content={4407, 1790}
+16-27: Refresh, Content={4401, 1107}
+16-28: Refresh, Content={4394, 1111}
+17-21: Refresh, Content={4405, 1103, 1109}
+17-22: Refresh, Content={4405, 1101, 1104}
+17-23: Refresh, Content={4399, 1101}
+17-24: Refresh, Content={4409, 1101}
+17-25: Refresh, Content={4399, 1106, 1105}
+17-26: Refresh, Content={4403, 1101}
+17-27: Refresh, Content={4395, 1101}
+17-28: Refresh, Content={4397, 1110}
+18-25: Refresh, Content={4406, 1102, 1109}
+18-26: Content={467}
+18-27: Content={467}
+18-28: Content={467}
+21-8: Content={1127, 1772}
+22-6: Content={4527, 1108, 3577 Amount=3, 2913, 3504 Content={3504 Content={3507 String="bubi isoulto\nthais" Editor="Mushroom Chewer"}, 3507 String="Frodo el dark\nthais\n" Editor="Frodo el dark"}, 3504 Content={3507 String="Borrale al'chosto\nthais\n" Editor="Marcus Flynn"}, 3273, 3316, 3446 Amount=2, 2854, 3504 Content={3504 Content={3507 String="piroma karie\nthais" Editor="Aryn Vica"}, 3507 String="piroma karie\nthais" Editor="Igidan Kilin"}, 3504, 2854 Content={3577 Amount=1, 3582 Amount=2}, 3577 Amount=3}
+22-7: Content={4522, 1103, 2913, 3504 Content={3504, 3507 String="tomacito\nthais" Editor="Tomacito"}, 3504 Content={3504}, 3577 Amount=1, 3582 Amount=2, 3504, 3504, 3504, 3504 Content={3507 String="Magon Ikashis\nthais" Editor="Kuras Elin"}, 3504 Content={3507 String="Anelya \nThais" Editor="Anelya"}, 3504 Content={3507 String="piroma karie\nthais" Editor="Igidan Kilin"}, 3504}
+22-8: Content={4515, 1103, 3577 Amount=10}
+22-9: Content={4515, 1111, 3492 Amount=1, 3466, 3470, 3472, 3464, 2874, 3559, 2853, 3577 Amount=3, 3582 Amount=5}
+23-5: Content={4530, 1108, 3504 Content={3507 String="maguita of zanera\nthais" Editor="Omar The Grifo"}, 3504 Content={3504 Content={3507 String="Makaduende Junior\nThais\n" Editor="Protector de makaduende"}, 3507 String="Lord-music\nThais" Editor="Lord-music", 2853}, 2473, 3273, 3504}
+23-6: Content={4515, 1104, 2471, 3504, 3582 Amount=11}
+23-7: Content={4521, 3504, 3031 Amount=1, 3504 Content={3507 String="Cheves\nThais" Editor="Knight xaroz"}}
+23-8: Content={4515, 3621}
+23-9: Content={4517, 1102, 3577 Amount=1, 3582 Amount=3, 3378, 3582 Amount=2, 3577 Amount=3, 3582 Amount=1, 3377, 3582 Amount=10}
+24-5: Content={4515, 1100, 1777}
+24-6: Content={4518, 3614}
+24-7: Content={4515, 2853}
+24-8: Content={4515, 3507 String="hamz ascetic\nthais" Editor="Hamz Ascetic"}
+24-9: Content={4518, 1107, 3577 Amount=2}
+24-10: Content={4515, 1103, 3113}
+24-11: Content={4520, 1111, 2920 SavedExpireTime=117, 3577 Amount=1}
+24-24: Refresh, Content={4515, 1108, 1792}
+24-25: Content={4515, 1111, 4459}
+24-26: Content={4457}
+25-5: Content={4521, 1109, 3504, 2881, 3504, 3504, 3504, 2872 Content={3577 Amount=5}, 3504 Content={3507 String="leon die\nthais" Editor="Kren Vysielas"}, 3504, 3504, 2924 SavedExpireTime=80, 2853, 3504, 2472, 3504, 3504, 3504}
+25-6: Content={4522, 1101, 3504 Content={3507 String="Lukasz Olasi\nthais" Editor="Gustaw zabijaka"}, 3504, 3504, 2471, 2471, 3456}
+25-7: Content={4515, 1105, 3504 Content={3504 Content={3507 String="Gustaw zabijaka\nthais" Editor="Xares San"}, 3504 Content={3507 String="thadorah guton\nthais" Editor="Thadorah Guton"}, 3504 Content={3507 String="Thadorah Guton\nthais" Editor="Kaskafa"}, 3504 Content={3504 Content={3503 Content={3507 String="Cadan Galix\n\nThais" Editor="Cadan Galix", 2853}, 3504, 3504, 3504, 3507 String="Ksiaze Luki\nThais" Editor="Lukasz Druidos"}, 3507 String="Gownos \nThais\n" Editor="Ronus Amorin"}, 3504 Content={3507 String="Kamilus of zenera\nThais" Editor="Kamilus of zenera"}}, 3277 Amount=3, 3582 Amount=1, 3577 Amount=3, 3582 Amount=3}
+25-8: Content={4524, 3615}
+25-9: Content={4515, 1106, 4459}
+25-10: Content={4515, 1101, 4457}
+25-11: Content={4529, 1101, 1107, 4457}
+25-12: Content={4522, 1110, 1103, 4457}
+25-13: Content={4457}
+25-22: Refresh, Content={4515, 1108, 1787}
+25-23: Refresh, Content={4515, 1103, 1789}
+25-24: Refresh, Content={4525, 1104, 1793}
+25-25: Refresh, Content={4515, 1102, 4458}
+25-26: Content={1099, 1085}
+26-7: Content={4515, 1100, 3577 Amount=2, 3582 Amount=3}
+26-8: Content={4515, 3577 Amount=2, 3003, 3008, 3377}
+26-9: Content={4528, 1102, 4458}
+26-10: Content={1099}
+26-11: Content={1099}
+26-12: Content={1099}
+26-13: Content={1099, 1082}
+26-22: Refresh, Content={4519, 1100, 1788}
+26-23: Refresh, Content={4528, 1790}
+26-24: Refresh, Content={4529}
+26-25: Refresh, Content={4515, 1102}
+27-7: Content={4521, 1109, 2473 Content={2471}, 3003, 3504 Content={3507 String="delta frost\nthais" Editor="Jaksonsomson"}, 3507 String="Kravis Sullivan\nThais\n \n" Editor="Lady Mariwana"}
+27-8: Content={4522, 1105, 2471, 3504, 3276}
+27-9: Content={4515, 1102, 4458}
+27-10: Content={1099}
+27-11: Content={1099}
+27-12: Content={1099}
+27-13: Content={1099, 1085}
+27-22: Refresh, Content={4515, 1109}
+27-23: Refresh, Content={4515, 1105}
+27-24: Refresh, Content={4515}
+27-25: Refresh, Content={4528, 1102}
+28-8: Content={4524, 1109, 3582 Amount=3, 2473, 2473, 2473, 2473, 3272, 3552}
+28-9: Content={4521, 1110, 4458}
+28-10: Content={1099, 1081}
+28-11: Content={1099, 1081}
+28-12: Content={1099, 1085}
+28-23: Refresh, Content={4515, 1109, 1772}
+28-24: Content={4515, 1101, 4459}
+28-25: Content={4515, 1110, 4457}
+28-26: Content={4457}
+28-27: Content={4457}
+28-28: Content={4457}
+29-24: Content={4458}
+29-25: Content={1099, 1083}
+29-26: Content={1099, 1083}
+29-27: Content={1099, 1081}
+29-28: Content={1099, 1085}

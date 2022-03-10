@@ -1,0 +1,21 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1016/1024/3
+
+12-14: Content={4943}
+12-15: Content={1769}
+12-16: Content={1769}
+12-17: Content={4944}
+13-15: Content={4957}
+13-16: Content={4957, 1748}
+18-14: Content={4943}
+18-15: Content={1769}
+18-16: Content={1769}
+18-17: Content={4944}
+19-15: Content={4957}
+19-16: Content={4957, 1748}
+24-14: Content={4943}
+24-15: Content={1769}
+24-16: Content={1769}
+24-17: Content={4944}
+25-15: Content={4957}
+25-16: Content={4957, 1748}

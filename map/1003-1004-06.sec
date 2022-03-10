@@ -1,0 +1,150 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1003/1004/6
+
+0-0: Refresh, Content={4396, 1104}
+0-1: Refresh, Content={4406, 3655}
+0-2: Refresh, Content={4409}
+0-3: Refresh, Content={4395}
+0-4: Refresh, Content={4397, 1102}
+0-8: Refresh, 
+0-9: Refresh, 
+0-10: Refresh, 
+0-19: Refresh, Content={1127}
+1-0: Refresh, Content={4402, 1101}
+1-1: Refresh, Content={4409, 1101}
+1-2: Refresh, Content={4407, 1105, 3683}
+1-3: Refresh, Content={4409, 1796}
+1-4: Refresh, Content={4403, 1102, 3681}
+1-8: Refresh, 
+1-9: Refresh, 
+1-10: Refresh, 
+1-19: Refresh, Content={1127, 3681}
+1-20: Refresh, Content={1127}
+1-21: Refresh, Content={1127, 1797}
+1-22: Refresh, Content={1127}
+1-23: Refresh, Content={1127}
+1-24: Refresh, Content={1127, 3684}
+2-0: Content={4457}
+2-1: Content={4457}
+2-2: Content={4403, 1109, 4457}
+2-3: Content={4405, 1101, 1101, 1086}
+2-4: Refresh, Content={4403, 1102, 1105}
+2-9: Refresh, 
+2-10: Refresh, 
+2-11: Refresh, 
+2-20: Refresh, Content={1127}
+2-21: Refresh, Content={1127, 1798}
+2-22: Refresh, Content={1127, 1772}
+2-23: Refresh, Content={1127}
+2-24: Refresh, Content={1127, 1797}
+2-25: Refresh, Content={1127}
+3-0: Content={1099}
+3-1: Content={1099}
+3-2: Content={1099}
+3-3: Content={1099, 1082}
+3-4: Refresh, Content={4399, 1100, 1102}
+3-8: Refresh, 
+3-9: Refresh, 
+3-10: Refresh, 
+3-11: Content={1281}
+3-12: Refresh, 
+3-21: Refresh, Content={1127}
+3-22: Refresh, Content={1127}
+3-23: Refresh, Content={1127, 3683}
+3-24: Refresh, Content={1127, 1798}
+3-25: Refresh, Content={1127}
+4-0: Content={1099}
+4-1: Content={1099}
+4-2: Content={1099}
+4-3: Content={1099, 1082}
+4-4: Refresh, Content={4409, 1100, 1102, 3683}
+4-21: Refresh, Content={1127}
+4-22: Refresh, Content={1127, 3681}
+4-23: Refresh, Content={1127, 3655}
+4-24: Refresh, Content={1127, 3683}
+4-25: Refresh, Content={1127, 1791}
+5-0: Content={1099}
+5-1: Content={1099}
+5-2: Content={1099}
+5-3: Content={1099, 1082}
+5-4: Content={4394, 1100, 1107, 3426, 3273, 3378, 3562, 3605 Amount=1, 2853, 2853, 3426, 3426, 2853, 2853, 3376, 3277 Amount=1, 2922 SavedExpireTime=36, 3277 Amount=1}
+5-5: Content={4402, 1111, 1772}
+5-21: Refresh, Content={1127, 3684}
+5-22: Refresh, Content={1127, 1799}
+5-23: Refresh, Content={1127, 1800, 3655, 3655}
+5-24: Refresh, Content={1127, 1817, 3655, 3655}
+5-25: Refresh, Content={1127}
+6-0: Content={1099}
+6-1: Content={1099}
+6-2: Content={1099}
+6-3: Content={1099, 1082}
+6-4: Content={4408, 1100, 3361, 3378, 3605 Amount=1, 3376, 3274, 3268, 3412, 3277 Amount=3, 2853, 3378, 2853, 2816 String="taka arash ouk karak minotaur \nbatash ferut ouk taka \nminotaur karakim kiskesh \nORC BUTA BANA \nBUTA BANA", 2473, 3336, 3448 Amount=4, 3376, 3354, 3561, 2821 String="Hardek *\nBozo *\nSam ****\nOswald \nPartos ***\nQuentin *\nTark ***\nHarsky ***\nStutch *\nFerumbras * \nFrodo ** \nNoodles **** \n", 3562, 2471, 2471, 2473, 2970 KeyNumber=4601, 3378, 3378, 3272, 2473, 2473, 2473, 3448 Amount=4, 3447 Amount=10}
+6-5: Content={4397, 1102, 1796}
+6-21: Refresh, Content={1127}
+6-22: Refresh, Content={1127}
+6-23: Refresh, Content={1127, 3681}
+6-24: Refresh, Content={1127}
+7-0: Content={1099, 1081}
+7-1: Content={1099, 1081}
+7-2: Content={1099, 1081}
+7-3: Content={1099, 1085}
+7-4: Content={4405, 1100, 3336, 2873, 3378, 2853, 2853, 2853, 3447 Amount=10, 3003, 3457, 3114 Amount=1, 2984, 2922 SavedExpireTime=1, 3378, 3378, 2853, 2853, 2853, 3426, 3378, 2853, 2471 Content={2854}, 3336, 3272, 3447 Amount=12, 3031 Amount=29, 3354, 3376, 3559, 3003, 2853 Content={3447 Amount=10, 3448 Amount=4}, 3374, 3292}
+7-5: Content={4397, 1102, 1797}
+7-22: Refresh, Content={1127}
+8-1: Content={4406, 1108, 2853, 2853, 2853, 3135, 2853, 2924 SavedExpireTime=38, 3374, 2853, 2853, 3277 Amount=1, 3426, 2853, 2853, 2853, 3272, 2853, 2853, 2853, 3135, 3358, 3483, 2471, 2473, 3276, 2816 String="taka arash ouk karak minotaur \nbatash ferut ouk taka \nminotaur karakim kiskesh \nORC BUTA BANA \nBUTA BANA", 2873, 2873, 3426, 2853, 2853, 2853, 3264, 2816 String="taka arash ouk karak minotaur \nbatash ferut ouk taka \nminotaur karakim kiskesh \nORC BUTA BANA \nBUTA BANA", 3376, 3378, 2853 Content={3447 Amount=12}, 3355, 3492 Amount=15, 3379, 2853, 2853, 3138, 2882, 3135, 3135, 2881, 3135, 3272, 3135, 3361, 3457, 2873, 2873, 2853 Content={2853 Content={2853}}, 2873, 2853, 2881, 2873, 2873, 2853, 2853, 3135, 3376, 3412, 2920 SavedExpireTime=255, 3361, 2873 ContainerLiquidType=1}
+8-2: Content={4394, 1103, 2853, 2853, 3412}
+8-3: Content={4397, 1103, 1103, 3272, 3292, 2853, 3135, 2473, 2473, 2473, 2473, 2473, 2853, 2873 ContainerLiquidType=1}
+8-4: Content={4408, 1104, 3681}
+8-5: Content={4398, 1102, 1798, 3274, 3292, 3447 Amount=3, 3354, 3426, 3270, 3336, 3378, 3607, 3273, 3457, 3426, 3412, 3577 Amount=1, 3561, 2924 SavedExpireTime=264, 3031 Amount=3, 3447 Amount=1, 3367, 3426, 2920 SavedExpireTime=249, 2970 KeyNumber=4601, 3456, 3286, 2854, 3562, 3378, 2853 Content={2853 Content={3426, 2853, 2853 Content={3426, 3355, 3273, 3273, 3426, 3426, 3274}, 2853 Content={3361, 3274}, 2853 Content={3274, 3274}, 3268}, 3412, 3412, 3274, 3412, 3412, 3412}, 2853 Content={3561, 3561, 3561, 3561, 3561}, 2854, 2856, 3336, 2924 SavedExpireTime=216, 3270, 3483, 3003, 3336, 3031 Amount=1, 3276, 2984, 2472, 3588 Amount=1}
+9-1: Content={4405, 1109, 3135, 3447 Amount=20, 3273, 2853, 2853, 3273, 3264, 2853, 3378, 2816 String="Omark ikem goshak ba batuk \nBooz karek utash gort mora \nouk bota bana ikem", 3272, 3447 Amount=3, 3492 Amount=10, 3135, 2853, 2853, 2853, 2853, 2873, 3426, 3412, 2873, 2853, 3355, 2873}
+9-2: Content={4408, 1105, 2853, 3003, 3336}
+9-3: Content={4403, 1817}
+9-4: Content={4397, 3684}
+9-5: Content={4404, 1107, 1106, 1779}
+9-6: Content={4399, 1103, 1110, 3447 Amount=31, 3308, 2471, 2816 String="The War over the Creation BOOK FOUR\n\nThe good Gods created and threw race after race into the struggle about the world. All of them were defeated! Almost\neveryone of the old races, which we know only as the Ancients, was defeated and buried by the sands of the time, because\nthey were no match to the agressive rage and the emotionless intrepidity of their opponents. \nAccording to our knowledge, only the delicate elves in their cities deep in the forests and the dwarves in their fortresses deep\nunder the mountains survived the corpse wars, although at some campfires rumors are spread about other races, created by\nboth sides for this unholy war, and of which some individuals are said to still be around. \nJust as strong and powerful as these peoples were, they were one-sided and of little flexibility. Worse still: Some creatures\nsuccumbed to the temptations of Zathroth about power and great knowledge. They switched sides, and rumor has it that the\nmost powerful of the Ancients were hurled out of this world by the good Gods for their betrayal to suffer eternally in the sphere,\nwhich was created in order to punish them for their misdeeds, and changed to what nowadays is called the daemons. \nAll their magic, which was probably given to the old peoples in excess, could not make them victorious, and they and their\nbuildings disappeared gradually from the face of Tibia.", 3426, 3003, 3378, 3374, 3274, 3273, 3447 Amount=10, 2473 Content={2853}, 2924 SavedExpireTime=197, 2853 Content={3582 Amount=12}, 2924 SavedExpireTime=136, 2920 SavedExpireTime=106, 2856, 3367, 3374, 3367, 2473, 2473, 2473, 2815 String="puto el q lea este papel\n" Editor="Colin Arus", 3509, 2878, 3577 Amount=4, 3354, 3412, 2924 SavedExpireTime=14, 2853, 3447 Amount=12, 3378, 3376, 3378, 3274, 3136, 3552, 3003, 3292, 2905, 3492 Amount=11, 3293, 1782, 3378, 3483, 2854, 3448 Amount=4, 3447 Amount=32, 3607, 3270, 3031 Amount=2, 2853 Content={3276, 3276}, 3277 Amount=1, 2984, 3492 Amount=58, 3376, 3283, 3447 Amount=12, 3412, 3426, 3378, 3135, 2905, 2920 SavedExpireTime=424, 2873, 2924 SavedExpireTime=295, 3453, 3354, 3552, 3358, 3272, 3378, 3457, 3552, 3552, 3426, 3277 Amount=3, 2856, 3483, 3264, 3483, 2821 String="Hardek *\nBozo *\nSam ****\nOswald \nPartos ***\nQuentin *\nTark ***\nHarsky ***\nStutch *\nFerumbras * \nFrodo ** \nNoodles **** \n", 3559, 3412, 2920, 2920 SavedExpireTime=283, 3492 Amount=47, 3293, 2854 Content={3268, 3003, 3378, 3273, 3352, 3354, 3277 Amount=9, 3276, 3456}, 3003, 3031 Amount=1, 2853, 2853, 3378, 3300, 3453, 3268, 3483, 3138, 3492 Amount=71, 3272, 3270, 3003, 3376, 3354, 2854 Content={2920 SavedExpireTime=488, 3457, 3367, 3031 Amount=12, 2920 SavedExpireTime=561, 3411, 3577 Amount=2, 2920, 3003}, 3293, 2854 Content={3430, 3362, 3358, 3374, 3300, 3276, 3031 Amount=98, 2853 Content={2920, 2920, 3031 Amount=100, 2970 KeyNumber=4601, 3483}, 3457, 3003}, 2920 SavedExpireTime=337, 3448 Amount=20, 3447 Amount=87, 3379, 2969 KeyNumber=4603, 2969 KeyNumber=4600, 2969 KeyNumber=4603, 3003, 3552, 3270, 3268, 3274, 3292, 3277 Amount=1, 3378, 2853, 2853, 2924 SavedExpireTime=157, 2472, 3286, 3506 String="Treasure of captain Iglue", 3605 Amount=1, 3277 Amount=1, 3270, 2905, 2969 KeyNumber=4603, 3483, 3367, 3336, 3308, 2874, 3378, 2969 KeyNumber=4600, 2969 KeyNumber=4600, 2924 SavedExpireTime=170, 2922 SavedExpireTime=274, 2854, 3378}
+10-2: Content={4405, 1100, 3681}
+10-3: Content={4394, 1776}
+10-4: Content={4394, 1106, 1774}
+10-5: Content={4410, 1110, 1778}
+11-2: Content={4394, 1109, 3135, 3031 Amount=4}
+11-3: Content={4406, 1105, 1106, 1105, 1106, 1775}
+11-4: Content={4397, 1110, 1773}
+12-3: Content={4406, 1102, 1109, 1772}
+22-1: Content={1127, 3655}
+22-2: Content={1127}
+22-3: Content={1127}
+23-0: Content={1127}
+23-1: Content={1127, 1797}
+23-2: Content={1127, 3655, 3654}
+23-3: Content={1127}
+24-0: Content={1127, 3654}
+24-1: Content={1127, 1798}
+24-2: Content={1127, 3654}
+25-21: Content={1127}
+25-22: Content={1127}
+26-20: Content={1127}
+26-21: Content={1127}
+26-22: Content={1127, 1796}
+26-23: Content={1127}
+26-24: Content={1127}
+27-20: Content={1127}
+27-21: Content={1127, 1796}
+27-22: Content={1127}
+27-23: Content={1127}
+27-24: Content={1127, 1796}
+28-20: Content={1127}
+28-21: Content={1127}
+28-22: Content={1127, 1817}
+28-23: Content={1127, 1796}
+28-24: Content={1127, 1817}
+29-20: Content={1127}
+29-21: Content={1127, 1796}
+29-22: Content={1127, 1796}
+29-23: Content={1127, 1796}
+29-24: Content={1127, 1796}
+30-21: Content={1127, 1796}
+30-22: Content={1127}
+30-23: Content={1127, 1796}
+30-24: Content={1127}
+31-22: Content={1127}
+31-23: Content={1127, 1796}

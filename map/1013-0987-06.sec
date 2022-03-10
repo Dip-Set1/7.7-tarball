@@ -1,0 +1,55 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1013/987/6
+
+8-2: Refresh, Content={1283, 3114 Amount=1, 3116, 3115}
+12-9: Content={1114}
+12-10: Content={1112}
+12-11: Content={1117}
+13-7: Content={1114}
+13-8: Content={1112}
+13-9: Content={1116}
+13-10: Content={4406, 2489}
+13-11: Content={4398, 1113}
+13-12: Content={4394, 1103}
+13-13: Content={4397, 1111}
+14-6: Content={1114}
+14-7: Content={1116}
+14-8: Content={4402, 4657}
+14-9: Content={4401, 4657}
+14-10: Content={4409, 4661, 2490}
+14-11: Content={4409, 1113}
+14-12: Content={4407}
+14-13: Content={4406, 1102}
+15-6: Content={1113, 2929}
+15-7: Content={4406, 4659}
+15-8: Content={4407, 4666}
+15-9: Content={386}
+15-10: Content={4404, 4656}
+15-11: Content={4405, 1125}
+15-12: Content={4394, 2853}
+15-13: Content={4407, 1102, 3267, 3267}
+16-6: Content={1115}
+16-7: Content={4409, 1117}
+16-8: Content={4406, 4662, 2853 Content={3577 Amount=3}}
+16-9: Content={4406, 4659}
+16-10: Content={4402, 4660}
+16-11: Content={4408, 1126}
+16-12: Content={4394}
+16-13: Content={4405, 1102, 4242 RemainingExpireTime=235}
+17-7: Content={1115}
+17-8: Content={4406, 1112}
+17-9: Content={4406, 1112}
+17-10: Content={4402, 1112}
+17-11: Content={4408, 1116}
+17-12: Content={4406, 4663}
+17-13: Content={4394, 4657, 1107, 4242 RemainingExpireTime=1645, 4242 RemainingExpireTime=825}
+17-14: Content={4406, 4661, 1111, 2888 PoolLiquidType=5 RemainingExpireTime=5, 4247 RemainingExpireTime=1445, 4242 RemainingExpireTime=255}
+18-9: Content={4399, 1109}
+18-10: Content={4398, 1101}
+18-11: Content={4408, 1101}
+18-12: Content={4405, 4658, 1105}
+18-13: Content={411}
+18-14: Content={4409, 4656, 1102, 4248 RemainingExpireTime=1327 Content={3114 Amount=1, 2853 Content={3277 Amount=1}}, 3114 Amount=1}
+19-12: Content={4394, 4662, 1109, 4248 RemainingExpireTime=1747, 4248 RemainingExpireTime=1319 Content={3114 Amount=2, 2853 Content={3267}}, 3358}
+19-13: Content={4397, 4659, 1101, 4247 RemainingExpireTime=1433 Content={3114 Amount=2, 3352}, 4242 RemainingExpireTime=1669}
+19-14: Content={4399, 4660, 1110}

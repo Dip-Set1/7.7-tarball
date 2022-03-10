@@ -1,0 +1,64 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1014/988/6
+
+0-30: Content={1127}
+0-31: Refresh, Content={1127, 1787}
+1-30: Content={1127}
+1-31: Refresh, Content={1127, 1788}
+2-30: Refresh, Content={1127, 1772, 3654}
+2-31: Refresh, Content={1127, 1792}
+3-29: Refresh, Content={1127, 1772, 3655}
+3-30: Refresh, Content={1127, 1791}
+3-31: Refresh, Content={1127, 1793, 3654}
+4-29: Refresh, Content={1127, 1776}
+4-30: Refresh, Content={1127, 1774, 3655}
+5-29: Refresh, Content={1127, 1775}
+5-30: Refresh, Content={1127, 1773}
+6-29: Refresh, Content={1127, 1772}
+6-30: Refresh, Content={1127, 1817}
+26-0: Content={1286}
+26-9: Refresh, Content={1127, 1783, 3655}
+26-10: Refresh, Content={1127, 1785}
+26-11: Refresh, Content={1127, 1772, 3655}
+27-0: Content={408, 1282}
+27-9: Refresh, Content={1127, 1784}
+27-10: Refresh, Content={1127, 1786}
+27-11: Refresh, Content={1127, 1803}
+27-19: Refresh, Content={1127, 1787, 3655}
+27-20: Refresh, Content={1127, 1789}
+27-21: Refresh, Content={1127, 1772}
+28-0: Content={408, 1282}
+28-9: Refresh, 
+28-10: Refresh, Content={1127, 1803}
+28-11: Refresh, Content={1127, 1803}
+28-12: Refresh, Content={1127, 1772, 3655}
+28-13: Refresh, Content={1127}
+28-19: Refresh, Content={1127, 1788}
+28-20: Refresh, Content={1127, 1790, 3655}
+28-21: Refresh, Content={1127, 1791}
+29-0: Content={408, 1734}
+29-9: Refresh, 
+29-10: Refresh, Content={1127}
+29-11: Refresh, Content={1127}
+29-12: Refresh, Content={1127}
+29-13: Refresh, Content={1127, 1772, 3654}
+29-19: Content={1127}
+29-20: Refresh, Content={1127, 1779, 3655}
+29-21: Refresh, Content={1127, 1792, 3654}
+29-22: Refresh, Content={1127, 1776}
+29-23: Refresh, Content={1127, 1774}
+30-0: Content={408, 1734}
+30-9: Refresh, Content={1127, 1813}
+30-10: Refresh, Content={1127, 1814}
+30-11: Refresh, Content={1127, 1810}
+30-12: Refresh, Content={1127, 1810}
+30-20: Refresh, Content={1127, 1778, 3655}
+30-21: Refresh, Content={1127, 1793}
+30-22: Refresh, Content={1127, 1775}
+30-23: Refresh, Content={1127, 1773}
+31-0: Content={408, 1734}
+31-9: Refresh, Content={1127}
+31-10: Refresh, Content={1127}
+31-11: Refresh, Content={1127, 1810}
+31-22: Refresh, Content={1127, 1772}
+31-23: Refresh, 

@@ -1,0 +1,396 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1021/989/6
+
+0-6: Refresh, Content={1282}
+0-7: Refresh, Content={4522, 1105, 2321, 3059}
+0-8: Refresh, Content={4515, 2472}
+0-9: Refresh, Content={4515}
+0-10: Refresh, Content={4518, 2323}
+0-11: Refresh, Content={4529}
+0-12: Refresh, Content={4515}
+0-13: Refresh, Content={4518}
+0-14: Content={4515, 1106, 1734}
+0-15: Refresh, Content={4518, 1101}
+0-16: Refresh, Content={4515, 1101}
+0-17: Refresh, Content={4515, 1110}
+1-6: Content={1284}
+1-7: Refresh, Content={4520, 1100, 1286}
+1-8: Refresh, Content={4515, 1105, 2321, 2874}
+1-9: Refresh, Content={4515, 2320, 2874}
+1-10: Refresh, Content={4515, 2327}
+1-11: Refresh, Content={4522}
+1-12: Refresh, Content={4524}
+1-13: Refresh, Content={4515, 2526}
+1-14: Content={4515, 1102, 1734}
+1-15: Refresh, Content={1771}
+1-16: Refresh, Content={1771}
+2-7: Content={4515, 1109, 1284}
+2-8: Content={4527, 1101, 1281}
+2-9: Content={4515, 1101, 1735}
+2-10: Refresh, Content={4515, 1105, 1281}
+2-11: Refresh, Content={4523, 1281}
+2-12: Content={4521, 1735}
+2-13: Refresh, Content={4526, 1106, 1281}
+2-14: Content={4526, 1110, 1285}
+2-15: Refresh, Content={1771}
+2-16: Refresh, Content={1771}
+2-23: Content={1283}
+2-24: Content={1281, 2659}
+2-25: Content={1735}
+2-26: Content={1281, 2908}
+2-27: Content={1735}
+2-28: Content={1281, 2605 String="flakitaaaa!! te kiero muchooooo muchoooo :*** muak!    ñeñeñe\n" Editor="Knight'Hype"}
+2-29: Content={1286}
+3-10: Refresh, Content={4518, 1109}
+3-11: Refresh, Content={4520, 1101}
+3-12: Refresh, Content={4529, 1101}
+3-13: Refresh, Content={4519, 1110}
+3-14: Refresh, Content={1771}
+3-15: Refresh, Content={1771}
+3-16: Refresh, Content={1771}
+3-22: Content={1283}
+3-23: Content={1285}
+3-24: ProtectionZone, Content={408, 3349, 3446 Amount=72, 2853 Content={3031 Amount=34, 3031 Amount=100, 3031 Amount=100}, 2314, 3603 Amount=1}
+3-25: Content={408, 1282, 2659}
+3-26: ProtectionZone, Content={408, 3029 Amount=1, 3033 Amount=27, 3198 Charges=5, 2485 Content={3031 Amount=49, 3092, 3349, 3017, 3017, 3017, 3195 Charges=2, 3179 Charges=3}}
+3-27: ProtectionZone, Content={408, 3077, 3446 Amount=1, 2485 Content={2854, 2868 Content={2667, 2393, 2667, 2667, 2393, 3736 Amount=5, 2667, 2393, 2667, 2393, 2667, 2393, 2667, 2401, 2667, 2667, 2401, 2401, 2868 Content={3668, 2667, 2868 Content={2667, 2667, 2667, 2667, 2401, 2656, 2644, 2653, 2656, 2647, 2667, 2865 Content={2667, 2401, 2983, 2401, 2983, 3590 Amount=5, 3591 Amount=79}, 3585 Amount=12, 3736 Amount=1, 2401}, 2667, 2667, 2400, 2400, 2667, 2667, 2667, 2400, 2667, 2400, 2667, 2667, 2667, 2667}}}}
+3-28: ProtectionZone, Content={408, 3028 Amount=1, 3027 Amount=5, 3155 Charges=1, 2485}
+3-29: Content={408, 1282}
+4-15: Refresh, Content={1771}
+4-16: Refresh, Content={1771}
+4-22: Content={1282, 2664 RemainingExpireTime=33}
+4-23: ProtectionZone, Content={408, 2025, 3603 Amount=1}
+4-24: ProtectionZone, Content={408, 3349, 3349, 3349, 3034 Amount=1, 3603 Amount=1, 2394}
+4-25: ProtectionZone, Content={408, 1640 String="# Players allowed to open this door\nknight'hypes housemaid\nlaliyo saint"}
+4-26: ProtectionZone, Content={408, 2853, 3507 String="Guerrero-maximo\nab'dendriel" Editor="Wachimorri la vaca copiona", 3071, 3028 Amount=1, 3042 Amount=1, 3061}
+4-27: ProtectionZone, Content={408, 2853, 2874, 3071, 3028 Amount=1, 3042 Amount=1, 3061}
+4-28: ProtectionZone, Content={408, 2853, 3071, 3028 Amount=1, 3042 Amount=1, 3061}
+4-29: Content={408, 1734}
+5-15: Refresh, Content={1771}
+5-16: Refresh, Content={1771}
+5-22: Content={1734}
+5-23: ProtectionZone, Content={408, 2935, 2374, 3603 Amount=1}
+5-24: ProtectionZone, Content={408, 2869 Content={3190 Charges=4, 3190 Charges=4, 3190 Charges=2}, 2854 Content={3160 Charges=1, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3147, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3034 Amount=1, 3603 Amount=1, 2394}
+5-25: Content={408, 1282, 2659}
+5-26: ProtectionZone, Content={408, 2324, 2853, 3583 Amount=28, 3034 Amount=1, 3029 Amount=1, 3028 Amount=1, 3077, 3061, 3659}
+5-27: ProtectionZone, Content={408, 2322, 2853, 3074, 3243, 3034 Amount=1, 3077, 3061, 3659}
+5-28: ProtectionZone, Content={408, 2325, 2853, 3034 Amount=1, 3077, 3061, 3659}
+5-29: Content={408, 1282}
+6-15: Refresh, Content={1771}
+6-16: Refresh, Content={1771}
+6-22: Content={1282, 2910}
+6-23: ProtectionZone, Content={408, 2433 Content={2868 Content={3076, 2870 Content={3174 Charges=3, 3174 Charges=5, 3164 Charges=1, 3174 Charges=5}, 3349}, 2865 Content={3039, 2848, 2826 String="Battletactics for Mages [III]\nby Zun Su\n\n*The book is about the various spontanous spells. It deals mostly with the destructive spells like fire wave, energy beam and the deadly energy wave. It shows how to hit a moving target with high precision. The various healing spells and the importance of the magic shield are also mentioned. It also has an appendix.*", 2819 String="Dear Gelunidas,\nI request that you send me the twinkiller-rune I ordered some moths ago imediately. If I am convinced that they work as promised I will order them in greater numbers. They might be handy in my next shemes. As this letter should show you, the tales of my death are wildly exagerated. I hope you and your warlock brethren did not think you get of the hook that easy? If you don't work on the stuff I ordered and I do not recive the stuff I ordered in time, be prepared for a visit. You won't like me new friends that I would introduce to you.\n\nFerumbars", 3062, 3461, 3456, 2389, 2397}, 3034 Amount=2, 3051 SavedExpireTime=578, 2865 Content={3034 Amount=1, 3147, 3147, 3603 Amount=7, 3198 Charges=5, 3492 Amount=48, 2854, 2869, 2865}, 2865 Content={2973 KeyNumber=3520, 2865 Content={2969 KeyNumber=4600, 3050, 3097, 3097 SavedExpireTime=1908, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 3097 SavedExpireTime=3581, 3483, 2970 KeyNumber=3802, 2970 KeyNumber=3012, 2973 KeyNumber=3520, 2969 KeyNumber=3008, 2969 KeyNumber=3006, 2969 KeyNumber=3004, 2969 KeyNumber=3005, 2969 KeyNumber=3003, 2969 KeyNumber=3001, 2969 KeyNumber=3002, 2969 KeyNumber=3007, 2970 KeyNumber=3899}, 3349, 3077, 2949, 3308, 3007, 3308, 3097 SavedExpireTime=3406, 3007, 3007, 2868 Content={3078, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 3456, 3308}, 2869 Content={2397, 2397, 2397, 2397, 2397, 2397, 2397, 2853 Content={3504 Content={3504 Content={2853, 2853, 2853, 3504 Content={3507 Editor="Amervar"}, 3504 Content={3507 String="hay'ek\nab'dendriel" Editor="Robertha Pardo"}, 3504 Content={3507 String="edwiat tefura\nab'dendriel" Editor="Talus Wook"}, 3504 Content={3507 String="edwiat tefura\nab'dendriel" Editor="Talus Wook"}, 3504 Content={3507 String="Mati-ziom\nab'dendriel" Editor="Meth Cybarina"}, 2853, 3507 String="sir ones de'siant\nab'dendriel" Editor="Sir Ones de'Siant"}, 3504 Content={2853, 2853, 2875, 3507 String="Ekiriari Crows\nab'dendriel"}, 2853 Content={3017, 3293, 2853, 2853}, 3507 String="Zork Darck\nab'dendriel" Editor="Zork Darck"}, 3572, 3384, 3078, 3148 Charges=2, 3266}, 2853 Content={2397, 3504 Content={3507 String="Sox Safadox\nab'dendriel" Editor="Sox Safadox", 2853, 3507 String="Antu labib\nAb'dendriel\n" Editor="Dark yeka", 3507 String="antu labib\nab'dendriel\n" Editor="Dark yeka", 3507 String="antu labib\nab'dendriel" Editor="Mehp", 2853}, 3504 Content={3504, 3507 String="Lolo Trufel\nab'dendriel" Editor="Lolo Trufel", 3504, 3507 String="Sox Safadox\nab'dendriel" Editor="Sox Safadox", 2853, 2853, 2853, 2853, 2853}}, 3039, 3349}, 2472 Content={2650, 2650, 2650, 2650, 3277 Amount=70}, 2868 Content={2397, 2650, 2650, 2650, 3349, 3552, 3483, 3266, 3308, 3046 SavedExpireTime=1419, 2969 KeyNumber=3033}}}
+6-24: ProtectionZone, Content={408, 2869 Content={2869 Content={2870 Content={2869 Content={2869 Content={2870 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3034 Amount=1, 3603 Amount=1, 2394}
+6-25: ProtectionZone, Content={408, 1640 String="# Players allowed to open this door\nknight'hypes housemaid\nlaliyo saint\nzaida lo"}
+6-26: ProtectionZone, Content={408, 2853, 3297, 3029 Amount=1, 2992 Amount=1, 3603 Amount=1, 2394}
+6-27: ProtectionZone, Content={408, 2853, 3029 Amount=1, 2992 Amount=1, 3603 Amount=1, 2394}
+6-28: ProtectionZone, Content={408, 3507 String="peto simpson\nAb'Dendriel" Editor="Peto de Asgar", 3061, 3297, 3029 Amount=1, 2992 Amount=1, 3603 Amount=1, 2394}
+6-29: Content={408, 1282}
+7-15: Refresh, Content={1771}
+7-16: Refresh, Content={1771}
+7-22: Content={1734}
+7-23: ProtectionZone, Content={408, 2499 String="Knight'Hype"}
+7-24: ProtectionZone, Content={408, 2500}
+7-25: Content={408, 1282, 2910}
+7-26: ProtectionZone, Content={408, 3504 Content={3504 Content={3507 String="cardo zort\nab'dendriel" Editor="Cardo Zort"}, 3504 Content={2853, 3507 String="Tears of Fallen Angel\nab'dendriel" Editor="Tears of Fallen Angel"}, 3504, 3507 String="wkurzony ziom\nthais" Editor="Wkurzony ziom"}, 3053 SavedExpireTime=571, 2991, 3603 Amount=1, 2394}
+7-27: ProtectionZone, Content={408, 2853, 2991, 3603 Amount=1, 2394}
+7-28: ProtectionZone, Content={408, 2991, 3603 Amount=1, 2394}
+7-29: Content={408, 1734}
+8-15: Refresh, Content={1771}
+8-16: Refresh, Content={1771}
+8-22: Content={1284}
+8-23: Refresh, Content={408, 1281}
+8-24: Refresh, Content={408, 1281}
+8-25: Refresh, Content={408, 1287}
+8-26: Content={408, 1735}
+8-27: ProtectionZone, Content={408, 1639 String="# Players allowed to open this door\nzhane of heavens\nsean goldzco\nknight'hypes housemaid\nlaliyo saint\nZaida Lo"}
+8-28: Content={408, 1735}
+8-29: Content={408, 1285}
+8-30: Content={450}
+9-10: Refresh, 
+9-11: Refresh, Content={1771}
+9-12: Refresh, Content={1771}
+9-13: Refresh, Content={1771}
+9-14: Refresh, Content={1771}
+9-15: Refresh, Content={1771}
+9-16: Refresh, Content={1771}
+9-17: Refresh, Content={1771}
+9-18: Refresh, Content={1771}
+9-19: Refresh, Content={1771}
+9-20: Refresh, Content={1771}
+9-21: Refresh, Content={1771}
+9-22: Refresh, Content={1771}
+9-23: Refresh, Content={1771}
+9-24: Refresh, Content={1771}
+9-25: Refresh, Content={408}
+9-26: Refresh, Content={408}
+9-27: Refresh, Content={408}
+9-28: Refresh, Content={408}
+9-29: Refresh, Content={408}
+9-30: Refresh, Content={1771}
+9-31: Refresh, Content={1771}
+10-10: Refresh, 
+10-11: Refresh, Content={1771}
+10-12: Refresh, Content={1771}
+10-13: Refresh, Content={1771}
+10-14: Refresh, Content={1771}
+10-15: Refresh, Content={1771}
+10-16: Refresh, Content={1771}
+10-17: Refresh, Content={1771}
+10-18: Refresh, Content={1771}
+10-19: Refresh, Content={1771}
+10-20: Refresh, Content={1771}
+10-21: Refresh, Content={1771}
+10-22: Refresh, Content={1771}
+10-23: Refresh, Content={1771}
+10-24: Refresh, Content={1771}
+10-25: Refresh, Content={408}
+10-26: Refresh, Content={408}
+10-27: Refresh, Content={408}
+10-28: Refresh, Content={408}
+10-29: Refresh, Content={408}
+10-30: Refresh, Content={1771}
+10-31: Refresh, Content={1771}
+11-10: Refresh, 
+11-11: Refresh, Content={1771}
+11-12: Refresh, Content={1771}
+11-24: Content={448}
+11-25: Content={442}
+11-26: Content={442}
+11-27: Content={442}
+11-28: Content={442}
+11-29: Content={442}
+11-30: Content={449}
+12-6: Refresh, Content={1283}
+12-7: Refresh, Content={1281}
+12-8: Refresh, Content={1735}
+12-9: Refresh, Content={1281}
+12-10: Refresh, Content={1281}
+12-11: Refresh, Content={1771}
+12-12: Refresh, Content={1771}
+13-6: Refresh, Content={1282}
+13-7: Refresh, Content={408, 2435}
+13-8: Refresh, Content={408}
+13-9: Refresh, Content={408, 2438}
+13-10: Refresh, Content={408, 2440}
+13-11: Refresh, Content={408}
+13-12: Refresh, Content={408, 1282}
+14-6: Refresh, Content={1282}
+14-7: Refresh, Content={408, 2436 Content={2816 String="The Teshial were never fighters. They retreated in the early days of war to hidden refuges, not as a whole caste but only in small family groups. Their hideouts were additionally protected by strong illusionary magic and offered them peace from the madness around them. These elves developed due to meditation and a special philosophy in the art of dream magic, dramatically enhancing their initial abilities in the decades. So they began to exist almost permanently in a state of dreams, only rarely appearing now and then amidst the other elves to give them advice and try to convince some of them to join their way of life. As the war grew more and more fierce these visits became less and less frequent until they were almost a myth, even for elvenkind. In the new awakening of the world they were some of the first to appear, apparently far less disoriented then other beings. Many races welcomed their help, but their teachings seldom found dedicated listeners. After they taught a part of their secrets to some humans they found worthy, they had to see their pupils tortured by developments they judged themselves guilty of.  Also, other elves put pressure on the humans to give up the secrets of dreams.  They withdrew from the world of mortals and it is rumored they have physically entered the realm of dreams. \nThe Teshial are 'typical' in appearance for elves, but they could create the illusion of almost any appearance if they so choose. Some people even say that due to their enormous control of dreams they could shape their children as they wish, giving them human or even orcish appearance. On the other hand, even people who come up with such theories go silent when asked why an elf should choose to have a child that looks that way. \n"}}
+14-8: Refresh, Content={408}
+14-9: Refresh, Content={408}
+14-10: Refresh, Content={408}
+14-11: Refresh, Content={408}
+14-12: Refresh, Content={408, 1734}
+15-6: Refresh, Content={1282}
+15-7: Refresh, Content={408, 2437}
+15-8: Refresh, Content={408}
+15-9: Refresh, Content={408}
+15-10: Refresh, Content={432}
+15-11: Refresh, Content={408}
+15-12: Refresh, Content={408, 1734}
+16-0: Refresh, Content={1771}
+16-1: Refresh, Content={1771}
+16-2: Refresh, Content={1771}
+16-3: Refresh, Content={1771}
+16-4: Refresh, Content={1771}
+16-5: Refresh, Content={1771}
+16-6: Refresh, Content={1771}
+16-7: Refresh, Content={408}
+16-8: Refresh, Content={408}
+16-9: Refresh, Content={408, 2435}
+16-10: Refresh, Content={408}
+16-11: Refresh, Content={408}
+16-12: Refresh, Content={408, 1282}
+17-0: Refresh, Content={1771}
+17-1: Refresh, Content={1771}
+17-2: Refresh, Content={1771}
+17-3: Refresh, Content={1771}
+17-4: Refresh, Content={1771}
+17-5: Refresh, Content={1771}
+17-6: Refresh, Content={1771}
+17-7: Refresh, Content={408}
+17-8: Refresh, Content={408}
+17-9: Refresh, Content={408, 2436 Content={2816 String="The Cenath were the most lucky of the elves. They lived in a hidden valley in a handful of cities, far away from the rages of war. As things turned bad for the elves much of their artifacts, artwork and books were brought to theese cities.  Live went on as usual for some time, the elves minding only their own business, as if pretending there was no war at all. Of course the war found them at last. In an frantic attempt to rescue their lives and even their accustomed way of life the elves begun to weave powerfull spells. Many of their best magicians litteraly 'burnt out' in the process but finally the elves succeeded. The whole valley was torn out of the known world ... And this was bitterly needed in a world that was only stormy darkness around the elven valley. They created a artificial light and even created weather. There they lived for hundreds of years, studying and practicing magic, mainly to manipulate and reproduce efects of natue to enhance their lives. ", 2816 String="Then something happened. The dimension that harboured the elven valley began to collapse. Pice for pice their land was torn away and the wisest of the elves found out that the valley would ultimately 'fall' back in the world it belonged to. Great efforts were undertaken to prevent it. All were futile. As this was recognized it was almost too late. All magic was concentraded to preserve the lives of the elves. Protective shells were created, spells to deflect damage, enchantements to keep harm away. The 'return' was aweful. Almost half of the elves perished. All of the valley and its wonders were destroyed. Almost nothing remained. Artifacts and books shattered and burnt alike. The battered elves retreated and begun to wander aimlessly through the lands, until they encountered scouts of the Deraisim who led them to the safety of their woods. At first they were disgusted by the primitive lifestyle of their brethren, but soon they decided they had to guide and lead them back to true values of elvenkind. So one of their encampements was choosen as new home for the elvenkind and the city of Ab'Dendriel was founded.\n"}}
+17-10: Refresh, Content={408}
+17-11: Refresh, Content={408}
+17-12: Refresh, Content={408, 1734}
+18-6: Refresh, Content={1282}
+18-7: Refresh, Content={408, 2435}
+18-8: Refresh, Content={408}
+18-9: Refresh, Content={408, 2437}
+18-10: Refresh, Content={408}
+18-11: Refresh, Content={408}
+18-12: Refresh, Content={408, 1734}
+19-6: Refresh, Content={1282}
+19-7: Refresh, Content={408, 2437}
+19-8: Refresh, Content={408}
+19-9: Refresh, Content={408, 2435}
+19-10: Refresh, Content={408}
+19-11: Refresh, Content={408, 1283}
+19-12: Refresh, Content={408, 1285}
+20-6: Refresh, Content={1282}
+20-7: Refresh, Content={408, 2435 Content={2816 String="The elves are able to manipulate their unborn children by some kind of dream magic. This magic changes appearance and personality slightly, allowing elven parents to give birth to 'wish-kids'. In their shared dreams the elven parents seem to sculpture their child like a piece of art. Though most of the dream magic of the past is long forgotten, this rudimentary magic seems to be natural to the elves. It is possible to 'choose' things like hair or eye color and even gender. Even slight changes of the physique are possible, though considerable changes take place in the span of generations. Wise men assume this ability was a 'gift' of the gods to make more adaptable tools for the elves' war. But the mentality of the elves did not allow them to form their children in a 'convenient' way. Since most of this magic is instinctual, they form their children in an aesthetic way. On the other hand, what is seen as aesthetic is based on the philosophy of the parents and so their background changes this view dramatically. This is even more evident in the castes that were separated in the war. "}}
+20-8: Refresh, Content={408}
+20-9: Refresh, Content={408, 2436 Content={2816 String="Manasphere?\nby Othis Ethna\n\nI don't want to minimize the value of <name of first author>'s work. But to me it lacks any proof! Thus Ashkil's explanation is as good as the idea that the beings are producing the mana themselfes! And what about the \"planet is surrounded\"-statement? How should he know without leaving this planet? Either there's another (now lost) book that deals with the experiments and their results, or the whole \"manasphere\" is only an unproofable theory!"}}
+20-10: Refresh, Content={408}
+20-11: Refresh, Content={408, 1734}
+20-12: Refresh, 
+20-20: Refresh, 
+20-21: Refresh, 
+20-22: Refresh, 
+20-23: Refresh, 
+20-24: Refresh, 
+20-25: Refresh, Content={355, 1114}
+20-26: Refresh, Content={355, 1112}
+20-27: Refresh, Content={355, 1117}
+20-28: Refresh, Content={355, 1782, 1782}
+20-29: Refresh, 
+20-30: Refresh, 
+20-31: Refresh, 
+21-6: Refresh, Content={1282}
+21-7: Refresh, Content={408, 2437 Content={2816 String="As intensely as the orcs hate all other races, they share a feeling of community. The orcs can sense, to some extent, the feelings of other orcs. The shamans develop this ability to such an extent, that they can sense the innermost potential of newborn orc whelps. All newborn are tested and the shamans decide a future function in orcish society. The whelps are fed differently, raised differently, and educated differently. Wise men of other races say that such behavior is similar to some insects, such as bees, and through their empathetic bond might share a kind of 'hive-mind', so they refer to orc communities as hives. The chief of a hive owns a big harem of women who have no other function than to pleasure him and give birth to new orcs. These orcish matrons are usually incredibly big and fat, almost not able to walk on their own. Where 'normal' orcwomen function as laborer and craftwomen and give birth to two to three orcs in their lives, these female orcs are only reproductive machinery, giving birth to about six whelps each half year. Orcs are usually contend with their place in orcish society and only the leaders fight each other on purpose. Rarely will an orc raise a weapon against another orc, even if they are not of the same hive. Rivalry between hives is usually dissolved through a fight of their leaders and the victorious hive absorbs the other one. Now and then, when a new strong warrior reaches maturity he challenges the old leader for a fight of supremacy. Sometimes though, when the hive becomes too big for the area it occupies, such a warrior senses somehow that its time to move on. Then he and a few other orcs leave the hive in peace to settle somewhere else. This unique culture, together with its fertility, makes the orcs the most formidable threat to all other tibian communities. "}}
+21-8: Refresh, Content={408}
+21-9: Refresh, Content={408, 2437}
+21-10: Refresh, Content={408}
+21-11: Refresh, Content={408, 1282}
+21-12: Refresh, 
+21-20: Refresh, 
+21-21: Refresh, 
+21-22: Refresh, 
+21-23: Refresh, 
+21-24: Refresh, Content={355, 1114}
+21-25: Refresh, Content={355, 1116}
+21-26: Refresh, Content={351, 1772}
+21-27: Refresh, Content={354, 1115}
+21-28: Refresh, Content={355, 1117}
+21-29: Refresh, Content={355}
+21-30: Refresh, 
+21-31: Refresh, 
+22-6: Refresh, Content={1284}
+22-7: Refresh, Content={408, 1281}
+22-8: Refresh, Content={408, 1735}
+22-9: Refresh, Content={408, 1281}
+22-10: Refresh, Content={408, 1735}
+22-11: Refresh, Content={408, 1285}
+22-12: Refresh, 
+22-20: Refresh, 
+22-21: Refresh, 
+22-22: Refresh, Content={355, 1114}
+22-23: Refresh, Content={355, 1112}
+22-24: Refresh, Content={352, 1116}
+22-25: Refresh, Content={355, 1787}
+22-26: Refresh, Content={355, 1789}
+22-27: Refresh, Content={355, 1796}
+22-28: Refresh, Content={353, 1115}
+22-29: Refresh, Content={355, 1112}
+22-30: Refresh, Content={355, 1117}
+22-31: Refresh, Content={355, 1781 Amount=1}
+23-20: Refresh, Content={355, 1114}
+23-21: Refresh, Content={355, 1112}
+23-22: Refresh, Content={355, 1116}
+23-23: Refresh, Content={354, 1794}
+23-24: Refresh, Content={355, 1777}
+23-25: Refresh, Content={355, 1788}
+23-26: Refresh, Content={352, 1790}
+23-27: Refresh, Content={353, 1796}
+23-28: Refresh, Content={352, 1777}
+23-29: Refresh, Content={355, 1772}
+23-30: Refresh, Content={355, 1115}
+23-31: Refresh, Content={355, 1117}
+24-20: Refresh, Content={355, 1113}
+24-21: Refresh, Content={355, 1772}
+24-22: Refresh, Content={352, 1791}
+24-23: Refresh, Content={354, 1772}
+24-24: Refresh, Content={351, 1795}
+24-25: Refresh, Content={351, 1796}
+24-26: Refresh, Content={355}
+24-27: Refresh, Content={355}
+24-28: Refresh, Content={355, 1810}
+24-29: Refresh, Content={351, 1791}
+24-30: Refresh, Content={354, 1796}
+24-31: Refresh, Content={355, 1113}
+25-20: Refresh, Content={355, 1113}
+25-21: Refresh, Content={354, 1776}
+25-22: Refresh, Content={355, 1774}
+25-23: Refresh, Content={355}
+25-24: Refresh, Content={355}
+25-25: Refresh, Content={355}
+25-26: Refresh, Content={353}
+25-27: Refresh, Content={355}
+25-28: Refresh, Content={351}
+25-29: Refresh, Content={354, 1794}
+25-30: Refresh, Content={353, 1791}
+25-31: Refresh, Content={355, 1113}
+26-20: Refresh, Content={355, 1113}
+26-21: Refresh, Content={351, 1775}
+26-22: Refresh, Content={355, 1773}
+26-23: Refresh, Content={352}
+26-24: Refresh, Content={355}
+26-25: Refresh, Content={386}
+26-26: Refresh, Content={355}
+26-27: Refresh, Content={355}
+26-28: Refresh, Content={355}
+26-29: Refresh, Content={355}
+26-30: Refresh, Content={355, 1795}
+26-31: Refresh, Content={352, 1113}
+27-20: Refresh, Content={355, 1115}
+27-21: Refresh, Content={355, 1117}
+27-22: Refresh, Content={352, 1779}
+27-23: Refresh, Content={355}
+27-24: Refresh, Content={351}
+27-25: Refresh, Content={355}
+27-26: Refresh, Content={354}
+27-27: Refresh, Content={385}
+27-28: Refresh, Content={352}
+27-29: Refresh, Content={355, 1822}
+27-30: Refresh, Content={351, 1796}
+27-31: Refresh, Content={355, 1113}
+28-20: Refresh, Content={355}
+28-21: Refresh, Content={352, 1113}
+28-22: Refresh, Content={355, 1778}
+28-23: Refresh, Content={355, 1810}
+28-24: Refresh, Content={355}
+28-25: Refresh, Content={353}
+28-26: Refresh, Content={354}
+28-27: Refresh, Content={355}
+28-28: Refresh, Content={352, 1792}
+28-29: Refresh, Content={353, 1822}
+28-30: Refresh, Content={355, 1772}
+28-31: Refresh, Content={355, 1113}
+29-20: Refresh, 
+29-21: Refresh, Content={355, 1115}
+29-22: Refresh, Content={355, 1117}
+29-23: Refresh, Content={351, 1777}
+29-24: Refresh, Content={355, 1787}
+29-25: Refresh, Content={353, 1789}
+29-26: Refresh, Content={355}
+29-27: Refresh, Content={355}
+29-28: Refresh, Content={353, 1793}
+29-29: Refresh, Content={351, 1791}
+29-30: Refresh, Content={355, 1114}
+29-31: Refresh, Content={354, 1116}
+30-20: Refresh, 
+30-21: Refresh, Content={355, 1796}
+30-22: Refresh, Content={355, 1113}
+30-23: Refresh, Content={355, 1772}
+30-24: Refresh, Content={354, 1788}
+30-25: Refresh, Content={351, 1790}
+30-26: Refresh, Content={353, 1783}
+30-27: Refresh, Content={351, 1785}
+30-28: Refresh, Content={355, 1772}
+30-29: Refresh, Content={355, 1114}
+30-30: Refresh, Content={352, 1116}
+30-31: Refresh, Content={355, 1797}
+31-20: Refresh, 
+31-21: Refresh, 
+31-22: Refresh, Content={353, 1115}
+31-23: Refresh, Content={353, 1112}
+31-24: Refresh, Content={354, 1112}
+31-25: Refresh, Content={355, 1117}
+31-26: Refresh, Content={352, 1784}
+31-27: Refresh, Content={355, 1786}
+31-28: Refresh, Content={351, 1114}
+31-29: Refresh, Content={354, 1116}
+31-30: Refresh, Content={355, 1799}
+31-31: Refresh, Content={355, 1796}

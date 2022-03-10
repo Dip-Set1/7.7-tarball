@@ -1,0 +1,37 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1033/1027/4
+
+16-0: ProtectionZone, Content={466}
+16-1: ProtectionZone, Content={466}
+16-2: ProtectionZone, Content={473}
+17-0: Refresh, ProtectionZone, Content={415, 1961}
+17-1: Refresh, ProtectionZone, Content={415, 2193}
+17-2: ProtectionZone, Content={451}
+18-0: ProtectionZone, Content={415, 2194}
+18-1: Refresh, ProtectionZone, Content={415, 1967}
+18-2: ProtectionZone, Content={451}
+19-0: ProtectionZone, Content={415, 1966}
+19-1: Refresh, ProtectionZone, Content={415, 1967}
+19-2: ProtectionZone, Content={451}
+20-0: ProtectionZone, Content={415, 1966}
+20-1: Refresh, ProtectionZone, Content={415, 1967}
+20-2: ProtectionZone, 
+21-0: ProtectionZone, Content={415, 1966}
+21-1: Refresh, ProtectionZone, Content={415, 1967}
+21-2: ProtectionZone, 
+22-0: ProtectionZone, Content={415, 1966}
+22-1: Refresh, ProtectionZone, Content={415, 1967}
+22-2: ProtectionZone, 
+23-0: ProtectionZone, Content={415, 1966}
+23-1: Refresh, ProtectionZone, Content={415, 1967}
+23-2: ProtectionZone, Content={451}
+24-0: ProtectionZone, Content={415, 2192}
+24-1: Refresh, ProtectionZone, Content={415, 1967}
+24-2: ProtectionZone, Content={451}
+25-0: Refresh, ProtectionZone, Content={415, 1963}
+25-1: Refresh, ProtectionZone, Content={415, 2191}
+25-2: ProtectionZone, Content={451}
+26-0: ProtectionZone, Content={467}
+26-1: ProtectionZone, Content={467}
+26-2: ProtectionZone, Content={474}
+31-20: Content={1770}

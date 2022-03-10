@@ -1,0 +1,46 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-20: Content={1734}
+00-21: Content={409}
+00-22: Content={409}
+00-23: Content={409}
+00-24: Content={409}
+00-25: Content={409, 2435}
+00-26: Content={409}
+00-27: Content={409, 2435}
+00-28: Content={409}
+00-29: Content={409, 1734, 2712}
+00-30: Content={409, 2983}
+00-31: Content={409, 2162}
+01-20: Content={1734}
+01-21: Content={409}
+01-22: Content={413}
+01-23: Content={409}
+01-24: Content={409}
+01-25: Content={409, 2436}
+01-26: Content={409}
+01-27: Content={409, 2436}
+01-28: Content={409}
+01-29: Content={409, 1290, 2707}
+01-30: Content={409, 2164}
+01-31: Content={409, 2168}
+02-20: Content={1284}
+02-21: Content={409, 1286}
+02-22: Content={409, 2435}
+02-23: Content={409}
+02-24: Content={409}
+02-25: Content={409}
+02-26: Content={409}
+02-27: Content={409}
+02-28: Content={409}
+02-29: Content={409, 1282, 2611, 2706}
+03-21: Content={1284}
+03-22: Content={409, 1281, 2703}
+03-23: Content={409, 1281, 2709}
+03-24: Content={409, 1735, 2713}
+03-25: Content={409, 1281, 2709}
+03-26: Content={409, 1735, 2713}
+03-27: Content={409, 1281, 2709}
+03-28: Content={409, 1281, 2709}
+03-29: Content={409, 1285, 2711}

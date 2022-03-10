@@ -1,0 +1,13 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+06-00: Content={1769}
+06-01: Content={1769}
+06-02: Content={4944}
+07-00: Content={4957}
+07-01: Content={4957, 1748}
+11-00: Content={1769}
+11-01: Content={1769}
+11-02: Content={4944}
+12-00: Content={4957}
+12-01: Content={4957, 1748}

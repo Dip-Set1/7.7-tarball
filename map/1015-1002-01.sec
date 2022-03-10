@@ -1,0 +1,44 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1015/1002/1
+
+0-22: Content={4403, 1109}
+0-23: Content={4398, 1105}
+0-24: Content={4394, 1107}
+0-25: Content={4410, 1111}
+1-23: Content={4404, 1100}
+1-24: Content={4410}
+1-25: Content={4397, 1102}
+2-23: Content={4395, 1100}
+2-24: Content={4394, 1106}
+2-25: Content={4405, 1110}
+3-23: Content={4402, 1109}
+3-24: Content={4394, 1110}
+20-7: Content={4397, 1108}
+20-8: Content={4403, 1103}
+20-9: Content={4407, 1111}
+21-2: Content={4408, 1108}
+21-3: Content={4397, 1103}
+21-4: Content={4405, 1103}
+21-5: Content={4394, 1103}
+21-6: Content={4394, 1103}
+21-7: Content={4405, 1104}
+21-8: Content={4397, 1106}
+21-9: Content={4408, 1110}
+22-2: Content={4396, 1100}
+22-3: Content={4405}
+22-4: Content={370}
+22-5: Content={4398}
+22-6: Content={4405, 2017 String="Mount Sternum"}
+22-7: Content={4408}
+22-8: Content={4408, 1102}
+23-2: Content={4410, 1109}
+23-3: Content={4405, 1101}
+23-4: Content={4408, 1105}
+23-5: Content={4397}
+23-6: Content={4407}
+23-7: Content={4394, 1106}
+23-8: Content={4400, 1110}
+24-4: Content={4406, 1109}
+24-5: Content={4406, 1101}
+24-6: Content={4409, 1101}
+24-7: Content={4406, 1110}

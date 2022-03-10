@@ -1,0 +1,51 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1037/1014/2
+
+26-2: Content={1307}
+26-3: Refresh, Content={1305}
+26-4: Refresh, Content={1305}
+26-5: Refresh, Content={1305, 2931}
+26-6: Refresh, Content={1305}
+26-7: Refresh, Content={1305, 2931}
+26-8: Refresh, Content={1305}
+26-9: Content={1310}
+27-2: Refresh, Content={1306}
+27-3: Refresh, ProtectionZone, Content={409}
+27-4: Refresh, ProtectionZone, Content={409}
+27-5: Refresh, ProtectionZone, Content={409}
+27-6: Refresh, ProtectionZone, Content={409}
+27-7: Refresh, ProtectionZone, Content={409}
+27-8: Refresh, ProtectionZone, Content={409}
+27-9: Content={409, 1306}
+28-2: Refresh, Content={1306}
+28-3: Refresh, ProtectionZone, Content={409}
+28-4: ProtectionZone, Content={438}
+28-5: Refresh, ProtectionZone, Content={409}
+28-6: Refresh, ProtectionZone, Content={409}
+28-7: Refresh, ProtectionZone, Content={409}
+28-8: Refresh, ProtectionZone, Content={409}
+28-9: Content={409, 1306}
+29-2: Refresh, Content={1306, 2929}
+29-3: Refresh, ProtectionZone, Content={409}
+29-4: Refresh, ProtectionZone, Content={409}
+29-5: Refresh, ProtectionZone, Content={409}
+29-6: Refresh, ProtectionZone, Content={409}
+29-7: Refresh, ProtectionZone, Content={409}
+29-8: Refresh, ProtectionZone, Content={409}
+29-9: Content={409, 1306}
+30-2: Refresh, Content={1306}
+30-3: Refresh, ProtectionZone, Content={409}
+30-4: Refresh, ProtectionZone, Content={409}
+30-5: Refresh, ProtectionZone, Content={409}
+30-6: Refresh, ProtectionZone, Content={409, 2012 String="Enter the teleporter to become a citizen of Darashia!"}
+30-7: Refresh, ProtectionZone, Content={409}
+30-8: Refresh, ProtectionZone, Content={409}
+30-9: Content={409, 1306}
+31-2: Refresh, Content={1306, 2929}
+31-3: Refresh, ProtectionZone, Content={409}
+31-4: Refresh, ProtectionZone, Content={409}
+31-5: Refresh, ProtectionZone, Content={409}
+31-6: Refresh, ProtectionZone, Content={409, 2110}
+31-7: Refresh, ProtectionZone, Content={409}
+31-8: Refresh, ProtectionZone, Content={409, 2110}
+31-9: Content={409, 1306}

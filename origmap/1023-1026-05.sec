@@ -1,0 +1,47 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+20-03: Content={3798, 3856}
+20-04: Content={3798, 3850}
+20-05: Content={3858}
+21-02: Content={3856}
+21-03: Content={3801, 3861}
+21-04: Content={3796, 3868}
+21-05: Content={3863}
+21-06: Content={3798, 3850}
+21-07: Content={3858}
+22-01: Content={3856}
+22-02: Content={3861}
+22-03: Content={3864}
+22-04: Content={3794, 3849}
+22-05: Content={3862}
+22-06: Content={3778, 3866}
+22-07: Content={3800, 3863}
+22-08: Content={3784, 3858}
+22-09: Content={3788}
+23-01: Content={3793, 3852}
+23-02: Content={3790, 3865}
+23-03: Content={3789, 3851}
+23-04: Content={3799}
+23-05: Content={3789, 3852}
+23-06: Content={3786, 3867}
+23-07: Content={3787, 3867}
+23-08: Content={3788, 3851}
+24-01: Content={3793, 3855}
+24-02: Content={3803, 3862}
+24-03: Content={3863}
+24-04: Content={3779, 3850}
+24-05: Content={3788, 3864}
+24-06: Content={3849}
+24-07: Content={3782, 3849}
+24-08: Content={3859}
+25-02: Content={3855}
+25-03: Content={3862}
+25-04: Content={3778, 3865}
+25-05: Content={3851}
+26-03: Content={3852}
+26-04: Content={3779, 3869}
+26-05: Content={3802, 3851}
+27-03: Content={3855}
+27-04: Content={3782, 3849}
+27-05: Content={3782, 3859}

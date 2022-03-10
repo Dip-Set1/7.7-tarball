@@ -1,0 +1,16 @@
+ID              = 8949785
+Name            = "Trenk potter"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = 128-114-0-114-0
+CurrentOutfit   = 128-114-0-114-0
+LastLogin       = 1131240193
+LastLogout      = 1131240296
+StartPosition   = [0,0,0]
+CurrentPosition = [0,0,0]
+PlayerkillerEnd = 0
+
+
+Spells      = {}
+QuestValues = {}
+Murders     = {}

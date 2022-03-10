@@ -1,0 +1,51 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+26-02: Content={1307}
+26-03: Refresh, Content={1305}
+26-04: Refresh, Content={1305}
+26-05: Refresh, Content={1305, 2931}
+26-06: Refresh, Content={1305}
+26-07: Refresh, Content={1305, 2931}
+26-08: Refresh, Content={1305}
+26-09: Content={1310}
+27-02: Refresh, Content={1306}
+27-03: Refresh, ProtectionZone, Content={409}
+27-04: Refresh, ProtectionZone, Content={409}
+27-05: Refresh, ProtectionZone, Content={409}
+27-06: Refresh, ProtectionZone, Content={409}
+27-07: Refresh, ProtectionZone, Content={409}
+27-08: Refresh, ProtectionZone, Content={409}
+27-09: Content={409, 1306}
+28-02: Refresh, Content={1306}
+28-03: Refresh, ProtectionZone, Content={409}
+28-04: ProtectionZone, Content={438}
+28-05: Refresh, ProtectionZone, Content={409}
+28-06: Refresh, ProtectionZone, Content={409}
+28-07: Refresh, ProtectionZone, Content={409}
+28-08: Refresh, ProtectionZone, Content={409}
+28-09: Content={409, 1306}
+29-02: Refresh, Content={1306, 2929}
+29-03: Refresh, ProtectionZone, Content={409}
+29-04: Refresh, ProtectionZone, Content={409}
+29-05: Refresh, ProtectionZone, Content={409}
+29-06: Refresh, ProtectionZone, Content={409}
+29-07: Refresh, ProtectionZone, Content={409}
+29-08: Refresh, ProtectionZone, Content={409}
+29-09: Content={409, 1306}
+30-02: Refresh, Content={1306}
+30-03: Refresh, ProtectionZone, Content={409}
+30-04: Refresh, ProtectionZone, Content={409}
+30-05: Refresh, ProtectionZone, Content={409}
+30-06: Refresh, ProtectionZone, Content={409, 2012 String="Enter the teleporter to become a citizen of Darashia!"}
+30-07: Refresh, ProtectionZone, Content={409}
+30-08: Refresh, ProtectionZone, Content={409}
+30-09: Content={409, 1306}
+31-02: Refresh, Content={1306, 2929}
+31-03: Refresh, ProtectionZone, Content={409}
+31-04: Refresh, ProtectionZone, Content={409}
+31-05: Refresh, ProtectionZone, Content={409}
+31-06: Refresh, ProtectionZone, Content={409, 2110}
+31-07: Refresh, ProtectionZone, Content={409}
+31-08: Refresh, ProtectionZone, Content={409, 2110}
+31-09: Content={409, 1306}

@@ -1,0 +1,102 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1004/1011/4
+
+2-16: Content={447}
+2-17: Content={2156, 441}
+2-18: Content={2156, 441}
+2-19: Content={2156, 441}
+2-20: Content={2156, 441}
+2-21: Content={2156, 441}
+2-22: Content={2156, 441}
+2-23: Content={2156, 441}
+2-24: Content={450}
+3-16: Content={2154, 439}
+3-17: ProtectionZone, Content={106, 3034 Amount=1, 3734 Amount=1, 3589 Amount=10, 2469, 3589 Amount=10, 2469, 2469}
+3-18: ProtectionZone, Content={108, 3034 Amount=1, 3424, 3589 Amount=10, 2469, 3589 Amount=10, 2469}
+3-19: ProtectionZone, Content={106, 2376}
+3-20: ProtectionZone, Content={108, 2376}
+3-21: ProtectionZone, Content={106, 2376}
+3-22: ProtectionZone, Content={108, 3034 Amount=1, 3424, 3589 Amount=10, 2469, 3589 Amount=10, 2469}
+3-23: ProtectionZone, Content={106, 3034 Amount=1, 3734 Amount=1, 3589 Amount=10, 2469, 3589 Amount=10, 2469, 2469}
+3-24: Content={2158, 440}
+4-16: Content={2154, 439}
+4-17: ProtectionZone, Content={106, 3034 Amount=1, 3424, 3589 Amount=10, 2469, 3589 Amount=10, 2469}
+4-18: ProtectionZone, Content={109}
+4-19: ProtectionZone, Content={108}
+4-20: ProtectionZone, Content={109}
+4-21: ProtectionZone, Content={108}
+4-22: ProtectionZone, Content={108}
+4-23: ProtectionZone, Content={109, 3034 Amount=1, 3424, 3589 Amount=10, 2469, 3589 Amount=10, 2469}
+4-24: Content={2155, 440}
+5-16: Content={2154, 439}
+5-17: ProtectionZone, Content={108, 2374}
+5-18: ProtectionZone, Content={108}
+5-19: ProtectionZone, Content={106}
+5-20: ProtectionZone, Content={108}
+5-21: ProtectionZone, Content={108}
+5-22: ProtectionZone, Content={106}
+5-23: ProtectionZone, Content={106, 2375}
+5-24: Content={2155, 440}
+6-16: Content={2154, 439}
+6-17: ProtectionZone, Content={106, 3034 Amount=1, 3039, 3450 Amount=10, 3589 Amount=10, 2469, 3589 Amount=10, 2469}
+6-18: ProtectionZone, Content={108}
+6-19: ProtectionZone, Content={106}
+6-20: ProtectionZone, Content={108}
+6-21: ProtectionZone, Content={109}
+6-22: ProtectionZone, Content={109}
+6-23: ProtectionZone, Content={108, 3034 Amount=1, 3039, 3450 Amount=10, 3589 Amount=10, 2469, 3589 Amount=10, 2469}
+6-24: Content={2155, 440}
+7-16: Content={2154, 439}
+7-17: ProtectionZone, Content={108, 3034 Amount=1, 3734 Amount=1, 3589 Amount=10, 2469, 3589 Amount=10, 2469, 2469}
+7-18: ProtectionZone, Content={109}
+7-19: ProtectionZone, Content={109}
+7-20: ProtectionZone, Content={106}
+7-21: ProtectionZone, Content={108}
+7-22: ProtectionZone, Content={108}
+7-23: ProtectionZone, Content={108, 3034 Amount=1, 3734 Amount=1, 3589 Amount=10, 2469, 3589 Amount=10, 2469, 2469}
+7-24: Content={2155, 440}
+8-16: Content={2154, 439}
+8-17: ProtectionZone, Content={108, 3034 Amount=1, 3039, 3450 Amount=10, 3589 Amount=10, 2469, 3589 Amount=10, 2469}
+8-18: ProtectionZone, Content={106}
+8-19: ProtectionZone, Content={108}
+8-20: ProtectionZone, Content={109}
+8-21: ProtectionZone, Content={108}
+8-22: ProtectionZone, Content={109}
+8-23: ProtectionZone, Content={106, 3034 Amount=1, 3039, 3450 Amount=10, 3589 Amount=10, 2469, 3589 Amount=10, 2469}
+8-24: Content={2155, 440}
+9-16: Content={2154, 439}
+9-17: ProtectionZone, Content={411}
+9-18: ProtectionZone, Content={109}
+9-19: ProtectionZone, Content={106}
+9-20: ProtectionZone, Content={108}
+9-21: ProtectionZone, Content={108}
+9-22: ProtectionZone, Content={106}
+9-23: ProtectionZone, Content={108, 2375}
+9-24: Content={2155, 440}
+10-16: Content={2154, 439}
+10-17: ProtectionZone, Content={108, 3034 Amount=1, 3424, 3589 Amount=10, 2469, 3589 Amount=10, 2469}
+10-18: ProtectionZone, Content={106}
+10-19: ProtectionZone, Content={108}
+10-20: ProtectionZone, Content={109}
+10-21: ProtectionZone, Content={108}
+10-22: ProtectionZone, Content={108}
+10-23: ProtectionZone, Content={106, 3034 Amount=1, 3424, 3589 Amount=10, 2469, 3589 Amount=10, 2469}
+10-24: Content={2155, 440}
+11-16: Content={2154, 439}
+11-17: ProtectionZone, Content={106, 3034 Amount=1, 3734 Amount=1, 3589 Amount=10, 2469, 3589 Amount=10, 2469, 2469}
+11-18: ProtectionZone, Content={106, 3034 Amount=1, 3424, 3589 Amount=10, 2469, 3589 Amount=10, 2469}
+11-19: ProtectionZone, Content={108, 2377}
+11-20: ProtectionZone, Content={108, 2377}
+11-21: ProtectionZone, Content={108, 2377}
+11-22: ProtectionZone, Content={106, 3034 Amount=1, 3424, 3589 Amount=10, 2469, 3589 Amount=10, 2469}
+11-23: ProtectionZone, Content={108, 3034 Amount=1, 3734 Amount=1, 3589 Amount=10, 2469, 3589 Amount=10, 2469, 2469}
+11-24: Content={2155, 440}
+12-16: Content={448}
+12-17: Content={2159, 442}
+12-18: Content={2157, 442}
+12-19: Content={2157, 442}
+12-20: Content={2157, 442}
+12-21: Content={2157, 442}
+12-22: Content={2157, 442}
+12-23: Content={2157, 442}
+12-24: Content={449}

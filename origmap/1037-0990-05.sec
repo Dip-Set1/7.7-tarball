@@ -1,0 +1,41 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+08-00: Refresh, Content={410, 4456, 1823}
+08-01: Refresh, 
+08-02: Refresh, Content={410, 4456, 4445, 1799}
+08-03: Refresh, 
+09-00: Refresh, Content={410, 4452}
+09-01: Refresh, Content={410, 4448}
+09-02: Refresh, Content={410, 4452, 4449}
+09-03: Refresh, Content={410, 4448}
+09-04: Content={410, 4448, 1271}
+10-00: Refresh, Content={410}
+10-01: Refresh, Content={410}
+10-02: Refresh, Content={410, 4451}
+10-03: Refresh, Content={410, 4446}
+10-04: Refresh, Content={410, 4446, 1271}
+11-00: Refresh, Content={385}
+11-01: Refresh, Content={410}
+11-02: Refresh, Content={410, 4455, 1794}
+11-03: Refresh, 
+11-04: Refresh, 
+12-00: Refresh, Content={410}
+12-01: Refresh, Content={410, 1274}
+12-02: Refresh, 
+12-03: Refresh, 
+13-00: Refresh, Content={410, 1796}
+13-01: Refresh, Content={410, 4447}
+13-02: Refresh, 
+14-00: Refresh, Content={410}
+14-01: Refresh, Content={410, 4447, 1948}
+14-02: Refresh, 
+15-00: Refresh, Content={410}
+15-01: Refresh, Content={410, 4447}
+15-02: Refresh, 
+15-03: Refresh, Content={410, 1794}
+16-00: Refresh, Content={410, 1270}
+16-01: Refresh, Content={410, 4446, 4452}
+16-02: Refresh, Content={410, 4446, 4448}
+16-03: Refresh, Content={410, 4446, 4448, 1823}
+16-04: Content={410, 1274}

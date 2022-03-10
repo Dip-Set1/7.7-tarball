@@ -1,0 +1,410 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1020/990/6
+
+0-8: Content={439}
+0-9: Content={408}
+0-10: ProtectionZone, Content={408, 1641 String="# Players allowed to open this door\nDrakes'Lord\nSorcerer Drakes\n"}
+0-11: ProtectionZone, Content={408, 3457, 3661, 3576, 2659}
+0-12: ProtectionZone, Content={408, 3323, 3433, 3010, 3052, 3052 SavedExpireTime=1082, 2957, 2659, 2865 Content={2865 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}
+0-13: ProtectionZone, Content={408, 3160 Charges=1, 3160 Charges=1, 3042 Amount=1, 3449 Amount=3, 3738 Amount=1, 2659}
+0-14: ProtectionZone, Content={408, 3061, 2443 Content={2868 Content={3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2659}
+0-15: Content={408, 1734}
+0-26: Refresh, 
+0-27: Refresh, 
+0-28: Refresh, Content={2174}
+0-29: Refresh, Content={408}
+0-30: Refresh, Content={408}
+0-31: Refresh, Content={408, 2174}
+1-8: Content={439}
+1-9: Content={408}
+1-10: Content={408, 1734}
+1-11: ProtectionZone, Content={408, 3736 Amount=1, 2374, 2853 Content={3551, 3012, 3012, 3457, 2955, 3050 SavedExpireTime=1794}, 2659}
+1-12: ProtectionZone, Content={408, 3076, 3031 Amount=2, 2397, 2315, 2659}
+1-13: ProtectionZone, Content={408, 2499 String="Rage Drake"}
+1-14: ProtectionZone, Content={408, 2500}
+1-15: Content={408, 1734}
+1-26: Refresh, 
+1-27: Refresh, 
+1-28: Refresh, Content={2174}
+1-29: Refresh, Content={408}
+1-30: Refresh, Content={408}
+1-31: Refresh, Content={408, 2174}
+2-8: Content={439}
+2-9: Content={408}
+2-10: Content={408, 1284}
+2-11: Refresh, Content={408, 1281}
+2-12: Content={408, 1735}
+2-13: Content={408, 1281}
+2-14: Content={408, 1735}
+2-15: Content={408, 1285}
+2-26: Refresh, Content={2171}
+2-27: Refresh, Content={2172}
+2-28: Refresh, Content={2173}
+2-29: Refresh, Content={408}
+2-30: Refresh, Content={408}
+2-31: Refresh, Content={408, 2174}
+3-8: Content={448}
+3-9: Refresh, Content={1771}
+3-10: Refresh, Content={1771}
+3-26: Refresh, Content={2174}
+3-27: Refresh, Content={408}
+3-28: Refresh, Content={408}
+3-29: Refresh, Content={408}
+3-30: Refresh, Content={408}
+3-31: Refresh, Content={408, 2174}
+4-0: Refresh, Content={1771}
+4-1: Refresh, Content={1771}
+4-2: Refresh, Content={1771}
+4-3: Refresh, Content={1771}
+4-4: Refresh, Content={1771}
+4-5: Refresh, Content={1771}
+4-6: Refresh, Content={1771}
+4-7: Refresh, Content={1771}
+4-8: Refresh, Content={1771}
+4-9: Refresh, Content={1771}
+4-10: Refresh, Content={1771}
+4-26: Refresh, Content={2174}
+4-27: Refresh, Content={408}
+4-28: Refresh, Content={408}
+4-29: Refresh, Content={408}
+4-30: Refresh, Content={408}
+4-31: Refresh, Content={408, 2174}
+5-0: Refresh, Content={1771}
+5-1: Refresh, Content={1771}
+5-2: Refresh, Content={1771}
+5-3: Refresh, Content={1771}
+5-4: Refresh, Content={1771}
+5-5: Refresh, Content={1771}
+5-6: Refresh, Content={1771}
+5-7: Refresh, Content={1771}
+5-8: Refresh, Content={1771}
+5-9: Refresh, Content={1771}
+5-10: Refresh, Content={1771}
+5-26: Refresh, Content={2174}
+5-27: Refresh, Content={408}
+5-28: Refresh, Content={408}
+5-29: Refresh, Content={432}
+5-30: Refresh, Content={408}
+5-31: Refresh, Content={408, 2174}
+6-26: Refresh, Content={2174}
+6-27: Refresh, Content={408}
+6-28: Refresh, Content={408}
+6-29: Refresh, Content={408}
+6-30: Refresh, Content={408}
+6-31: Refresh, Content={408, 2174}
+7-26: Refresh, Content={2174}
+7-27: Refresh, Content={408, 2172}
+7-28: Refresh, Content={408, 2172}
+7-29: Refresh, Content={408}
+7-30: Refresh, Content={408}
+7-31: Refresh, Content={408, 2174}
+8-26: Refresh, 
+8-27: Refresh, 
+8-28: Refresh, Content={2174}
+8-29: Refresh, Content={408}
+8-30: Refresh, Content={408}
+8-31: Refresh, Content={408, 2174}
+9-26: Refresh, 
+9-27: Refresh, 
+9-28: Refresh, Content={2174}
+9-29: Refresh, Content={408, 2172}
+9-30: Refresh, Content={408, 2172}
+9-31: Refresh, Content={408, 2173}
+13-0: Content={441}
+13-1: Content={441}
+13-2: Content={441}
+13-3: Content={441}
+13-4: Content={441}
+13-5: Content={441}
+13-6: Content={441}
+13-7: Content={441}
+13-8: Content={441}
+13-9: Content={441}
+13-10: Content={441}
+13-11: Content={441}
+13-12: Content={441}
+13-13: Content={450}
+14-0: Refresh, Content={408}
+14-1: Refresh, Content={408}
+14-2: Refresh, Content={408}
+14-3: Refresh, Content={408}
+14-4: Refresh, Content={408}
+14-5: Refresh, Content={408}
+14-6: Refresh, Content={408}
+14-7: Refresh, Content={408}
+14-8: Refresh, Content={408}
+14-9: Refresh, Content={408}
+14-10: Refresh, Content={408}
+14-11: Refresh, Content={408}
+14-12: Refresh, Content={408}
+14-13: Content={440}
+15-0: Refresh, Content={457}
+15-1: Refresh, Content={457}
+15-2: Refresh, Content={457, 1283}
+15-3: Refresh, Content={457}
+15-4: Refresh, Content={457}
+15-5: Refresh, Content={457}
+15-6: Refresh, Content={457}
+15-7: Refresh, Content={457, 1283}
+15-8: Refresh, Content={457}
+15-9: Refresh, Content={457}
+15-10: Refresh, Content={457, 1283}
+15-11: Refresh, Content={461}
+15-12: Refresh, Content={408}
+15-13: Content={440}
+16-0: Refresh, Content={462}
+16-1: Refresh, Content={458}
+16-2: Refresh, Content={458}
+16-3: Refresh, Content={458}
+16-4: Refresh, Content={458}
+16-5: Refresh, Content={458}
+16-6: Refresh, Content={458}
+16-7: Refresh, Content={458}
+16-8: Refresh, Content={458}
+16-9: Refresh, Content={458}
+16-10: Refresh, Content={460}
+16-11: Refresh, Content={455}
+16-12: Refresh, Content={408}
+16-13: Content={440}
+17-0: Refresh, Content={455}
+17-1: Refresh, Content={459}
+17-2: Refresh, Content={457}
+17-3: Refresh, Content={457}
+17-4: Refresh, Content={457}
+17-5: Refresh, Content={457}
+17-6: Refresh, Content={457}
+17-7: Refresh, Content={457}
+17-8: Refresh, Content={457}
+17-9: Refresh, Content={461}
+17-10: Refresh, Content={456}
+17-11: Refresh, Content={455}
+17-12: Refresh, Content={408}
+17-13: Content={440}
+18-0: Refresh, Content={455}
+18-1: Refresh, Content={456}
+18-2: Refresh, Content={454}
+18-3: Refresh, Content={459}
+18-4: Refresh, Content={461}
+18-5: Refresh, Content={454}
+18-6: Refresh, Content={459}
+18-7: Refresh, Content={461}
+18-8: Refresh, Content={454}
+18-9: Refresh, Content={455}
+18-10: Refresh, Content={456, 1283}
+18-11: Refresh, Content={455}
+18-12: Refresh, Content={408}
+18-13: Content={440}
+19-0: Refresh, Content={455}
+19-1: Refresh, Content={456}
+19-2: Refresh, Content={454}
+19-3: Refresh, Content={456}
+19-4: Refresh, Content={455}
+19-5: Refresh, Content={454}
+19-6: Refresh, Content={456}
+19-7: Refresh, Content={455}
+19-8: Refresh, Content={454}
+19-9: Refresh, Content={455}
+19-10: Refresh, Content={456}
+19-11: Refresh, Content={455}
+19-12: Refresh, Content={408}
+19-13: Content={440}
+20-0: Refresh, Content={455}
+20-1: Refresh, Content={456}
+20-2: Refresh, Content={454}
+20-3: Refresh, Content={460}
+20-4: Refresh, Content={462}
+20-5: Refresh, Content={458}
+20-6: Refresh, Content={460}
+20-7: Refresh, Content={462}
+20-8: Refresh, Content={454}
+20-9: Refresh, Content={455}
+20-10: Refresh, Content={456}
+20-11: Refresh, Content={455}
+20-12: Refresh, Content={408}
+20-13: Content={440}
+21-0: Refresh, Content={455}
+21-1: Refresh, Content={456}
+21-2: Refresh, Content={454}
+21-3: Refresh, Content={454}
+21-4: Refresh, Content={455}
+21-5: Refresh, Content={454}
+21-6: Refresh, Content={456}
+21-7: Refresh, Content={454}
+21-8: Refresh, Content={454}
+21-9: Refresh, Content={455}
+21-10: Refresh, Content={456}
+21-11: Refresh, Content={455}
+21-12: Refresh, Content={408}
+21-13: Content={440}
+22-0: Refresh, Content={455}
+22-1: Refresh, Content={456}
+22-2: Refresh, Content={454}
+22-3: Refresh, Content={459}
+22-4: Refresh, Content={461}
+22-5: Refresh, Content={457}
+22-6: Refresh, Content={459}
+22-7: Refresh, Content={461}
+22-8: Refresh, Content={454}
+22-9: Refresh, Content={455}
+22-10: Refresh, Content={456}
+22-11: Refresh, Content={455}
+22-12: Refresh, Content={408}
+22-13: Content={440}
+23-0: Refresh, Content={455}
+23-1: Refresh, Content={456}
+23-2: Refresh, Content={454}
+23-3: Refresh, Content={456}
+23-4: Refresh, Content={455}
+23-5: Refresh, Content={454}
+23-6: Refresh, Content={456}
+23-7: Refresh, Content={455}
+23-8: Refresh, Content={454}
+23-9: Refresh, Content={455}
+23-10: Refresh, Content={456, 1283}
+23-11: Refresh, Content={455}
+23-12: Refresh, Content={408}
+23-13: Content={440}
+24-0: Refresh, Content={455}
+24-1: Refresh, Content={456}
+24-2: Refresh, Content={454}
+24-3: Refresh, Content={460}
+24-4: Refresh, Content={462}
+24-5: Refresh, Content={454}
+24-6: Refresh, Content={460}
+24-7: Refresh, Content={462}
+24-8: Refresh, Content={454}
+24-9: Refresh, Content={455}
+24-10: Refresh, Content={456}
+24-11: Refresh, Content={455}
+24-12: Refresh, Content={408}
+24-13: Content={440}
+25-0: Refresh, Content={455}
+25-1: Refresh, Content={460}
+25-2: Refresh, Content={458}
+25-3: Refresh, Content={458}
+25-4: Refresh, Content={458}
+25-5: Refresh, Content={458}
+25-6: Refresh, Content={458}
+25-7: Refresh, Content={458}
+25-8: Refresh, Content={458}
+25-9: Refresh, Content={462}
+25-10: Refresh, Content={456}
+25-11: Refresh, Content={455}
+25-12: Refresh, Content={408}
+25-13: Content={440}
+26-0: Refresh, Content={461}
+26-1: Refresh, Content={457}
+26-2: Refresh, Content={457, 1283}
+26-3: Refresh, Content={457}
+26-4: Refresh, Content={457}
+26-5: Refresh, Content={457}
+26-6: Refresh, Content={457}
+26-7: Refresh, Content={457, 1283}
+26-8: Refresh, Content={457}
+26-9: Refresh, Content={457}
+26-10: Refresh, Content={459, 1283}
+26-11: Refresh, Content={455}
+26-12: Refresh, Content={408}
+26-13: Content={440}
+27-0: Refresh, Content={458}
+27-1: Refresh, Content={458}
+27-2: Refresh, Content={458}
+27-3: Refresh, Content={458}
+27-4: Refresh, Content={458}
+27-5: Refresh, Content={458}
+27-6: Refresh, Content={458}
+27-7: Refresh, Content={458}
+27-8: Refresh, Content={458}
+27-9: Refresh, Content={458}
+27-10: Refresh, Content={458}
+27-11: Refresh, Content={462}
+27-12: Refresh, Content={408}
+27-13: Content={440}
+28-0: Refresh, Content={408}
+28-1: Refresh, Content={408}
+28-2: Refresh, Content={408}
+28-3: Refresh, Content={408}
+28-4: Refresh, Content={408}
+28-5: Refresh, Content={408}
+28-6: Refresh, Content={408}
+28-7: Refresh, Content={408}
+28-8: Refresh, Content={408}
+28-9: Refresh, Content={408}
+28-10: Refresh, Content={408}
+28-11: Refresh, Content={408}
+28-12: Refresh, Content={408}
+28-13: Content={440}
+28-15: Refresh, 
+28-16: Refresh, 
+28-17: Refresh, 
+28-18: Refresh, 
+28-19: Refresh, 
+28-20: Refresh, 
+28-21: Refresh, 
+28-22: Refresh, 
+28-23: Refresh, 
+29-0: Content={442}
+29-1: Refresh, Content={442}
+29-2: Refresh, Content={442}
+29-3: Refresh, Content={442}
+29-4: Refresh, Content={442}
+29-5: Refresh, Content={442}
+29-6: Refresh, Content={442}
+29-7: Refresh, Content={442}
+29-8: Refresh, Content={1771}
+29-9: Refresh, Content={1771}
+29-10: Refresh, Content={442}
+29-11: Refresh, Content={442}
+29-12: Refresh, Content={442}
+29-13: Content={449}
+29-15: Refresh, 
+29-16: Refresh, Content={408, 2157, 2155}
+29-17: Refresh, Content={408, 2157}
+29-18: Refresh, Content={408, 2157}
+29-19: Refresh, Content={408, 2157}
+29-20: Refresh, Content={408, 2157}
+29-21: Refresh, Content={408, 2157}
+29-22: Refresh, Content={408, 2157}
+29-23: Refresh, Content={408, 2160}
+30-1: Refresh, 
+30-2: Refresh, 
+30-3: Refresh, 
+30-4: Refresh, 
+30-5: Refresh, 
+30-6: Refresh, 
+30-7: Refresh, 
+30-8: Refresh, Content={1771}
+30-9: Refresh, Content={1771}
+30-10: Refresh, 
+30-11: Refresh, 
+30-12: Refresh, 
+30-15: Refresh, Content={1283}
+30-16: Refresh, Content={408, 1281}
+30-17: Refresh, Content={408, 1281}
+30-18: Refresh, Content={408, 1281}
+30-19: Refresh, Content={408, 1629}
+30-20: Refresh, Content={408, 1629}
+30-21: Refresh, Content={408, 1281}
+30-22: Refresh, Content={408, 1281}
+30-23: Refresh, Content={408, 1286, 2154}
+31-1: Refresh, 
+31-2: Refresh, 
+31-3: Refresh, 
+31-4: Refresh, 
+31-5: Refresh, 
+31-6: Refresh, 
+31-7: Refresh, 
+31-8: Refresh, Content={1771}
+31-9: Refresh, Content={1771}
+31-10: Refresh, 
+31-11: Refresh, 
+31-12: Refresh, 
+31-15: Refresh, Content={1282, 2599}
+31-16: Refresh, Content={409, 2487}
+31-17: Refresh, Content={409, 2488}
+31-18: Refresh, Content={409, 2434}
+31-19: Refresh, Content={409}
+31-20: Refresh, Content={409}
+31-21: Refresh, Content={409, 2434 Content={2816 String="The Kuridai caste lives in caves beneath the surface and they are the workers. \nThe Deraisim caste lives on the ground and are great hunters and farmers. \nThe Cenath caste lives on the heights of the trees and are great wielders of magic. "}}
+31-22: Refresh, Content={409, 2434}
+31-23: Refresh, Content={409, 1282}

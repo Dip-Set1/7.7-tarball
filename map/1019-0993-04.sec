@@ -1,0 +1,17 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1019/993/4
+
+0-6: Content={4518, 1109}
+0-7: Content={4515, 1101}
+0-8: Content={4516, 1101}
+0-9: Content={4524, 1105, 3337}
+0-10: Content={4515}
+0-11: Content={4523, 2853 Content={2853}}
+0-12: Content={4519, 3267}
+0-13: Content={4515, 1106}
+0-14: Content={4515, 1110}
+1-9: Content={4526, 1109}
+1-10: Content={4529, 1101}
+1-11: Content={4518, 1101}
+1-12: Content={4515, 1101, 3267}
+1-13: Content={4527, 1110}

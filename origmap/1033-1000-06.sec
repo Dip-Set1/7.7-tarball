@@ -1,0 +1,35 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-28: Content={4519, 1100}
+00-29: Content={4515}
+00-30: Content={4515}
+00-31: Content={4515, 1102}
+01-28: Content={4515, 1100}
+01-29: Content={4527}
+01-30: Content={4522}
+01-31: Content={4515, 1107}
+02-26: Content={4525, 1108, 3691}
+02-27: Content={4524, 1103}
+02-28: Content={4515, 1104}
+02-29: Content={4515}
+02-30: Content={4515}
+02-31: Content={4525, 1106}
+03-26: Content={4526, 1100, 3696}
+03-27: Content={4522}
+03-28: Content={593}
+03-29: Content={4515}
+03-30: Content={4515, 1106, 3696}
+03-31: Content={4515, 1110, 3696}
+04-26: Content={4518, 1100}
+04-27: Content={4523}
+04-28: Content={4515}
+04-29: Content={4523, 1106}
+04-30: Content={4515, 1110}
+05-26: Content={4515, 1100}
+05-27: Content={4515}
+05-28: Content={4521, 1106}
+05-29: Content={4515, 1110}
+06-26: Content={4519, 1109, 3693}
+06-27: Content={4515, 1101}
+06-28: Content={4515, 1110, 3696}

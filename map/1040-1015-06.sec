@@ -1,0 +1,82 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1040/1015/6
+
+0-2: Content={4951}
+1-2: Content={4951}
+2-2: Content={4951}
+3-0: Refresh, ProtectionZone, 
+3-1: Refresh, ProtectionZone, Content={4937}
+3-2: Refresh, ProtectionZone, Content={4952, 4936}
+3-3: Refresh, ProtectionZone, 
+3-4: Refresh, ProtectionZone, 
+4-0: Refresh, ProtectionZone, Content={486, 4938}
+4-1: Refresh, ProtectionZone, Content={486, 3490}
+4-2: Refresh, ProtectionZone, Content={486}
+4-3: Refresh, ProtectionZone, Content={4933}
+4-4: Refresh, ProtectionZone, 
+5-0: Refresh, ProtectionZone, Content={486}
+5-1: Refresh, ProtectionZone, Content={486}
+5-2: Refresh, ProtectionZone, Content={482}
+5-3: Refresh, ProtectionZone, Content={486}
+5-4: Refresh, ProtectionZone, Content={4933}
+6-0: Refresh, ProtectionZone, Content={486}
+6-1: Refresh, ProtectionZone, Content={486}
+6-2: Refresh, ProtectionZone, Content={486}
+6-3: Refresh, ProtectionZone, Content={486}
+6-4: Refresh, ProtectionZone, Content={486, 4931}
+7-0: Refresh, ProtectionZone, Content={486}
+7-1: Refresh, ProtectionZone, Content={486, 4940}
+7-2: Refresh, ProtectionZone, Content={486}
+7-3: Refresh, ProtectionZone, Content={486}
+7-4: Refresh, ProtectionZone, Content={486, 4917, 4982}
+8-0: Refresh, ProtectionZone, Content={486}
+8-1: Refresh, ProtectionZone, Content={486}
+8-2: Refresh, ProtectionZone, Content={486, 4756}
+8-3: Refresh, ProtectionZone, Content={486, 4754}
+8-4: Refresh, ProtectionZone, Content={486, 4917, 4982}
+8-5: Content={4973}
+9-0: Refresh, ProtectionZone, Content={486}
+9-1: Refresh, ProtectionZone, Content={486}
+9-2: Refresh, ProtectionZone, Content={486, 4751}
+9-3: Refresh, ProtectionZone, Content={486, 4749}
+9-4: Refresh, ProtectionZone, Content={486, 4917}
+10-0: Refresh, ProtectionZone, Content={486, 4754}
+10-1: Refresh, ProtectionZone, Content={486}
+10-2: Refresh, ProtectionZone, Content={486, 4755}
+10-3: Refresh, ProtectionZone, Content={486, 4753}
+10-4: Refresh, ProtectionZone, Content={486, 4917}
+11-0: Refresh, ProtectionZone, Content={486, 4753}
+11-1: Refresh, ProtectionZone, Content={486}
+11-2: Refresh, ProtectionZone, Content={486}
+11-3: Refresh, ProtectionZone, Content={486}
+11-4: Refresh, ProtectionZone, Content={486, 4917, 4988}
+12-0: Refresh, ProtectionZone, Content={486}
+12-1: Refresh, ProtectionZone, Content={486, 4940}
+12-2: Refresh, ProtectionZone, Content={486}
+12-3: Refresh, ProtectionZone, Content={486, 3639}
+12-4: Refresh, ProtectionZone, Content={486, 4917}
+13-0: Refresh, ProtectionZone, Content={486}
+13-1: Refresh, ProtectionZone, Content={486}
+13-2: Refresh, ProtectionZone, Content={486, 5002}
+13-3: Refresh, ProtectionZone, Content={486, 4904}
+13-4: Refresh, ProtectionZone, Content={486, 4919}
+14-0: Refresh, ProtectionZone, Content={486}
+14-1: Refresh, ProtectionZone, Content={486}
+14-2: Refresh, ProtectionZone, Content={486}
+14-3: Refresh, ProtectionZone, Content={486, 2471}
+14-4: Refresh, ProtectionZone, Content={486, 4905}
+15-0: Refresh, ProtectionZone, Content={486}
+15-1: Refresh, ProtectionZone, Content={486}
+15-2: Refresh, ProtectionZone, Content={486}
+15-3: Refresh, ProtectionZone, Content={486, 2471, 2471}
+15-4: Refresh, ProtectionZone, Content={486, 4905}
+16-0: Refresh, ProtectionZone, Content={486, 4904}
+16-1: Refresh, ProtectionZone, Content={486, 4904}
+16-2: Refresh, ProtectionZone, Content={486, 4904}
+16-3: Refresh, ProtectionZone, Content={486, 4904}
+16-4: Refresh, ProtectionZone, Content={4908}
+17-0: ProtectionZone, 
+17-1: ProtectionZone, Content={4968}
+17-2: ProtectionZone, 
+17-3: ProtectionZone, 
+17-4: ProtectionZone, 

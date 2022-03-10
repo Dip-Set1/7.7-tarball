@@ -1,0 +1,31 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1035/989/14
+
+10-20: Content={1272}
+10-25: Content={1272}
+11-21: Refresh, Content={410}
+11-22: Refresh, Content={410}
+11-23: Refresh, Content={410}
+11-24: Refresh, Content={410}
+11-25: Refresh, Content={410}
+12-21: Refresh, Content={410}
+12-22: Refresh, Content={410}
+12-23: Refresh, Content={413}
+12-24: Refresh, Content={410}
+12-25: Refresh, Content={410}
+13-21: Refresh, Content={410}
+13-22: Refresh, Content={410}
+13-23: Refresh, Content={410}
+13-24: Refresh, Content={410}
+13-25: Refresh, Content={410}
+14-21: Refresh, Content={410}
+14-22: Refresh, Content={410}
+14-23: Refresh, Content={410, 1947}
+14-24: Refresh, Content={410}
+14-25: Refresh, Content={410}
+15-20: Content={1272}
+15-21: Refresh, Content={410}
+15-22: Refresh, Content={410}
+15-23: Refresh, Content={410}
+15-24: Refresh, Content={410}
+15-25: Refresh, Content={410, 1272}

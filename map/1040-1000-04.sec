@@ -1,0 +1,27 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1040/1000/4
+
+10-0: Content={1294}
+10-1: Content={1299}
+11-0: ProtectionZone, Content={408}
+11-1: Content={408, 1295}
+12-0: ProtectionZone, Content={408}
+12-1: Content={408, 1295}
+13-0: ProtectionZone, Content={408}
+13-1: Content={408, 1295}
+14-0: ProtectionZone, Content={408, 2488}
+14-1: Content={408, 1295}
+15-0: Content={408, 1294}
+15-1: Content={408, 1298}
+19-0: Content={1294}
+19-1: Content={1299}
+20-0: ProtectionZone, Content={408, 2488}
+20-1: Content={408, 1295}
+21-0: ProtectionZone, Content={408}
+21-1: Content={408, 1295}
+22-0: ProtectionZone, Content={408}
+22-1: Content={408, 1295}
+23-0: ProtectionZone, Content={408}
+23-1: Content={408, 1295}
+24-0: Content={408, 1294}
+24-1: Content={408, 1298}

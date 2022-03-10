@@ -1,0 +1,19 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1017/995/4
+
+28-0: Content={466}
+29-0: Content={4515, 1103}
+29-1: Content={4515, 1103}
+29-2: Content={4527, 1111}
+30-0: Content={4515}
+30-1: Content={4519}
+30-2: Content={4522, 1107}
+30-3: Content={4522, 1103}
+30-4: Content={4521, 1111, 4122 RemainingExpireTime=908}
+31-0: Content={4515}
+31-1: Content={4515, 3681}
+31-2: Content={4515, 3681}
+31-3: Content={4521}
+31-4: Content={4515, 1107, 3337, 3267}
+31-5: Content={4515, 1103}
+31-6: Content={4515, 1111}

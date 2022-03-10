@@ -1,0 +1,6 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-10: Refresh, ProtectionZone, Content={415}
+00-11: Refresh, ProtectionZone, Content={415}
+00-12: Refresh, ProtectionZone, Content={415}

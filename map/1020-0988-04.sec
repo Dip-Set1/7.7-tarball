@@ -1,0 +1,148 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1020/988/4
+
+14-22: Content={1283}
+14-23: Content={1281}
+14-24: Content={1281, 2907}
+14-25: Content={1735}
+14-26: Content={1281}
+14-27: Content={1286}
+15-22: Content={1282}
+15-23: ProtectionZone, Content={408}
+15-24: ProtectionZone, Content={408, 2647}
+15-25: ProtectionZone, Content={408, 2491}
+15-26: ProtectionZone, Content={408, 2492}
+15-27: Content={408, 1282}
+16-22: Content={1734}
+16-23: ProtectionZone, Content={408}
+16-24: ProtectionZone, Content={408, 2647}
+16-25: ProtectionZone, Content={408, 2491}
+16-26: ProtectionZone, Content={408, 2492}
+16-27: Content={408, 1734}
+17-22: Content={1734}
+17-23: ProtectionZone, Content={408}
+17-24: ProtectionZone, Content={408}
+17-25: ProtectionZone, Content={408, 2469, 3277 Amount=1, 3031 Amount=24, 3031 Amount=80}
+17-26: ProtectionZone, Content={408}
+17-27: Content={408, 1734}
+18-17: Content={1283}
+18-18: Content={1281}
+18-19: Content={1281, 2908}
+18-20: Content={1735}
+18-21: Content={1281}
+18-22: Content={1289}
+18-23: ProtectionZone, Content={408}
+18-24: ProtectionZone, Content={408, 2975}
+18-25: ProtectionZone, Content={408, 2472, 3374, 2935}
+18-26: ProtectionZone, Content={408, 3487}
+18-27: Content={408, 1282}
+19-17: Content={1282}
+19-18: ProtectionZone, Content={408, 3659, 2376, 2667}
+19-19: ProtectionZone, Content={408, 2935, 3590 Amount=20, 2434 Content={3291, 2816 String="The Kuridai caste lives in caves beneath the surface and they are the workers. \nThe Deraisim caste lives on the ground and are great hunters and farmers. \nThe Cenath caste lives on the heights of the trees and are great wielders of magic. "}, 2656}
+19-20: ProtectionZone, Content={408, 2491}
+19-21: ProtectionZone, Content={408, 2492}
+19-22: Content={408, 1290}
+19-23: Refresh, Content={408, 1281}
+19-24: Refresh, Content={408, 1281}
+19-25: ProtectionZone, Content={408, 1639}
+19-26: Refresh, Content={408, 1281}
+19-27: Content={408, 1289}
+20-17: Content={1734}
+20-18: ProtectionZone, Content={408, 3725 Amount=6, 3591 Amount=20, 2315}
+20-19: ProtectionZone, Content={408, 2853 Content={3582 Amount=69, 3291, 3577 Amount=74}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3031 Amount=13, 3446 Amount=40, 3446 Amount=100}, 3658, 3033 Amount=1, 3042 Amount=1, 3406, 2656}
+20-20: ProtectionZone, Content={408, 2499 String="Mare Trek"}
+20-21: ProtectionZone, Content={408, 2500}
+20-22: Refresh, Content={408, 1282}
+20-23: Refresh, Content={408}
+20-24: Refresh, Content={432}
+20-25: Refresh, Content={408}
+20-26: Refresh, Content={408}
+20-27: Content={408, 1282}
+21-17: Content={1734}
+21-18: ProtectionZone, Content={408, 3658, 2377, 2667}
+21-19: ProtectionZone, Content={408, 3032 Amount=1, 3042 Amount=1, 3391, 2656}
+21-20: ProtectionZone, Content={408, 3658, 2650}
+21-21: ProtectionZone, Content={408, 3668, 2393, 2659}
+21-22: Refresh, Content={408, 1282, 2910}
+21-23: Refresh, Content={408}
+21-24: Refresh, Content={408}
+21-25: Refresh, Content={408}
+21-26: Refresh, Content={408, 2526}
+21-27: Content={408, 1734}
+22-17: Content={1282}
+22-18: ProtectionZone, Content={408, 3576, 2667}
+22-19: ProtectionZone, Content={408, 3033 Amount=1, 3042 Amount=1, 3574, 2650}
+22-20: ProtectionZone, Content={408, 3658, 2650}
+22-21: ProtectionZone, Content={408, 3668, 2393, 2659}
+22-22: ProtectionZone, Content={408, 1641}
+22-23: Refresh, Content={408}
+22-24: Content={408, 1283}
+22-25: Content={408, 1281}
+22-26: Content={408, 1281}
+22-27: Content={408, 1289}
+23-17: Content={1290}
+23-18: Content={408, 1281}
+23-19: Content={408, 1281, 2908}
+23-20: Content={408, 1281}
+23-21: Content={408, 1281}
+23-22: Refresh, Content={408, 1289}
+23-23: Refresh, Content={408}
+23-24: Content={408, 1282}
+23-25: ProtectionZone, Content={408}
+23-26: ProtectionZone, Content={408}
+23-27: Content={408, 1282}
+24-17: Content={1282}
+24-18: ProtectionZone, Content={408, 3447 Amount=1, 2366, 2647}
+24-19: ProtectionZone, Content={408, 3085 RemainingUses=200, 2647}
+24-20: ProtectionZone, Content={408, 2866 Content={3286, 3286, 3411, 3411, 3286, 3286}, 2853, 3061, 2647}
+24-21: ProtectionZone, Content={408, 2647}
+24-22: ProtectionZone, Content={408, 1641 String="# Players allowed to open this door\nThorman Of Zanera\nZim zaqwe\neno ziom"}
+24-23: Refresh, Content={408}
+24-24: ProtectionZone, Content={408, 1640}
+24-25: ProtectionZone, Content={408}
+24-26: ProtectionZone, Content={408}
+24-27: Content={408, 1282}
+25-17: Content={1734}
+25-18: ProtectionZone, Content={408, 2315, 3299, 3207 Amount=1, 3454, 2647}
+25-19: ProtectionZone, Content={408, 3565, 2647}
+25-20: ProtectionZone, Content={408, 3447 Amount=98, 2647}
+25-21: ProtectionZone, Content={408, 2647}
+25-22: Content={408, 1290}
+25-23: Content={408, 1281}
+25-24: Content={408, 1285, 2908}
+25-25: ProtectionZone, Content={408}
+25-26: ProtectionZone, Content={408}
+25-27: Content={408, 1734}
+26-17: Content={1734}
+26-18: ProtectionZone, Content={408, 2991, 2647}
+26-19: ProtectionZone, Content={408, 4277, 3448 Amount=11, 2647}
+26-20: ProtectionZone, Content={408, 2491}
+26-21: ProtectionZone, Content={408, 2492}
+26-22: Content={408, 1282}
+26-23: ProtectionZone, Content={408, 2489}
+26-24: ProtectionZone, Content={408}
+26-25: ProtectionZone, Content={408}
+26-26: ProtectionZone, Content={408}
+26-27: Content={408, 1282}
+27-17: Content={1282}
+27-18: ProtectionZone, Content={408, 2865, 2865, 2854}
+27-19: ProtectionZone, Content={408, 3283, 2647}
+27-20: ProtectionZone, Content={408, 2491}
+27-21: ProtectionZone, Content={408, 2492}
+27-22: Content={408, 1282}
+27-23: ProtectionZone, Content={408, 2490}
+27-24: ProtectionZone, Content={408}
+27-25: ProtectionZone, Content={408}
+27-26: ProtectionZone, Content={408}
+27-27: Content={408, 1734}
+28-17: Content={1284}
+28-18: Content={408, 1281}
+28-19: Content={408, 1735}
+28-20: Content={408, 1735}
+28-21: Content={408, 1281}
+28-22: Content={408, 1287}
+28-23: Content={408, 1281}
+28-24: Content={408, 1281}
+28-25: Content={408, 1735}
+28-26: Content={408, 1735}
+28-27: Content={408, 1285}

@@ -1,0 +1,46 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1013/1002/5
+
+18-7: Content={4407, 1108}
+18-8: Content={4409, 1103}
+18-9: Content={4402, 1111}
+19-6: Content={4394, 1108}
+19-7: Content={4402, 1104}
+19-8: Content={4407, 3684}
+19-9: Content={4405, 1107}
+19-10: Content={4408, 1111}
+20-6: Content={4403, 1109}
+20-7: Content={4404, 1105}
+20-8: Content={4399}
+20-9: Content={4399}
+20-10: Content={4399, 1102}
+21-7: Content={4399, 1109}
+21-8: Content={4396, 1105}
+21-9: Content={4409, 1106, 3411}
+21-10: Content={4397, 1110}
+22-8: Content={4407, 1109}
+22-9: Content={4406, 1110}
+28-0: Content={4407, 1108, 3410}
+28-1: Content={4407, 1103, 3355, 3507 String="aarcia\nthais\n" Editor="Lord Dark Ontoc", 3412, 3277 Amount=2, 3410}
+28-2: Content={4399, 1103}
+28-3: Content={4402, 1103, 3294, 3378}
+28-4: Content={4403, 1103, 3355, 3355, 3376}
+28-5: Content={4405, 1111, 3577 Amount=2, 3138, 2913, 3376, 2913, 3355, 3507 String="zarius thill\nthais" Editor="Zatron Nekorel"}
+29-0: Content={4409, 1100}
+29-1: Content={4406}
+29-2: Content={4397, 1796}
+29-3: Content={4400}
+29-4: Content={4397, 2913, 3376}
+29-5: Content={4405, 1102, 3582 Amount=3, 3447 Amount=23, 2913, 3138, 3378, 3138, 3336, 3410}
+30-0: Content={4405, 1100}
+30-1: Content={4405, 1796}
+30-2: Content={4394, 1796}
+30-3: Content={4403}
+30-4: Content={4397}
+30-5: Content={4394, 1102, 3135, 3376, 3378, 3140, 3376, 3138, 3426, 3410, 3577 Amount=1}
+31-0: Content={4405, 1100}
+31-1: Content={4405, 1796}
+31-2: Content={4394, 1796}
+31-3: Content={4407, 1796}
+31-4: Content={4394, 1796}
+31-5: Content={4398, 1102, 3378, 2853, 3140, 3376, 3135, 3376, 3410, 3426}

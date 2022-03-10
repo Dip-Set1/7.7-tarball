@@ -1,0 +1,25 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1005/994/5
+
+27-0: Refresh, 
+27-1: Refresh, 
+27-2: Refresh, 
+27-28: Content={1114}
+28-0: Refresh, 
+28-1: Refresh, 
+28-2: Refresh, 
+29-0: Refresh, Content={410}
+29-1: Refresh, Content={410}
+29-2: Refresh, Content={410}
+29-3: Content={410}
+29-4: Content={410}
+30-0: Refresh, Content={410}
+30-1: Refresh, Content={410, 2900 PoolLiquidType=5}
+30-2: Refresh, Content={410}
+30-3: Content={410}
+30-4: Content={410}
+31-0: Refresh, Content={410}
+31-1: Refresh, Content={410}
+31-2: Refresh, Content={410}
+31-3: Content={410}
+31-4: Content={410, 2900 PoolLiquidType=5}

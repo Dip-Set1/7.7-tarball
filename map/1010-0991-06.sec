@@ -1,0 +1,46 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1010/991/6
+
+6-11: Content={4518, 1108, 2875}
+6-12: Content={4515, 1103}
+6-13: Content={4515, 1111}
+7-8: Content={4518, 1108, 1101}
+7-9: Content={4525, 1103, 1105, 3682}
+7-10: Content={4515, 1103, 3504, 3504, 3504 Content={3507 String="raider the paladim\ncarlin" Editor="Raider the Paladim"}, 3138, 3138, 3138}
+7-11: Content={4530, 1104}
+7-12: Content={4515, 3681}
+7-13: Content={4515, 1107, 3462, 2875}
+7-14: Content={4522, 1103, 2473}
+7-15: Content={4520, 1103}
+7-16: Content={4526, 1111, 2473}
+8-9: Content={4515, 1100}
+8-10: Content={4515, 2913}
+8-11: Content={4525, 3682}
+8-12: Content={4515, 3114 Amount=6}
+8-13: Content={4515}
+8-14: Content={4515, 3507 String="PUJARE AHI PUJARE" Editor="Kongol Stronger", 2919, 3507 String="oxxos\ncarlin" Editor="Oxxos"}
+8-15: Content={4515, 3683}
+8-16: Content={4515, 1107, 2473}
+8-17: Content={4529, 1111}
+9-9: Content={4515, 1109}
+9-10: Content={4515, 1105}
+9-11: Content={4515, 3683}
+9-12: Content={4525, 3682}
+9-13: Content={4522, 3699}
+9-14: Content={4515, 3681}
+9-15: Content={4525}
+9-16: Content={4524, 1106}
+9-17: Content={4530, 1110}
+10-10: Content={4515, 1109, 2471}
+10-11: Content={4515, 1105}
+10-12: Content={4515, 3681}
+10-13: Content={4529, 3504, 3504 Content={3507 String="mistrz seba\ncarlin" Editor="Arron Cafoldir"}, 3504 Content={3507 String="gloome\ncarlin\n" Editor="Demon ceck"}, 3504, 3504, 3504, 3504}
+10-14: Content={4515}
+10-15: Content={4519, 1106}
+10-16: Content={4515, 1110, 3507 String="lucia khan\ncarlin" Editor="Lucia Khan"}
+11-11: Content={4515, 1109}
+11-12: Content={4515, 1101}
+11-13: Content={4515, 1101, 3136}
+11-14: Content={4515, 1106, 1105, 3682}
+11-15: Content={4522, 1110}
+12-14: Content={4515, 1110, 1100}

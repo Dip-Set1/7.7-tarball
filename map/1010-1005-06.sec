@@ -1,0 +1,192 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1010/1005/6
+
+0-5: Refresh, Content={1295}
+0-6: Content={432}
+0-7: Refresh, Content={408}
+0-8: Refresh, Content={408}
+0-9: Refresh, Content={408}
+0-10: Content={408, 1296}
+0-11: Content={408, 1294}
+0-12: Content={408, 1294}
+0-13: Content={408, 1294}
+0-14: Content={408, 1294}
+0-15: Content={408, 2164}
+0-16: Content={408, 1294}
+0-17: Content={408, 1294}
+0-18: Content={408, 1294}
+0-19: Content={408, 1294}
+0-20: Content={408, 1294}
+0-21: Content={408, 2164}
+0-22: Content={408, 1294}
+0-23: Content={408, 1294}
+0-24: Content={408, 1294}
+0-25: Content={408, 1294}
+0-26: Content={408, 1294}
+0-27: Content={408, 1294}
+0-28: Content={408, 2164}
+0-29: Content={408, 2164}
+0-30: Content={408, 2164}
+0-31: Content={408, 2164}
+1-5: Content={1297}
+1-6: Content={408, 1294}
+1-7: Content={408, 1294}
+1-8: Content={408, 2164}
+1-9: Content={408, 1294}
+1-10: Content={408, 1298}
+8-0: Content={4521, 1111, 3274, 3582 Amount=1, 2853, 2853, 3577 Amount=2, 3504 Content={3507 String="shadow'mad\nthais" Editor="Pargon"}, 3504 Content={3507 String="Mandalorian Druid\nThais" Editor="Mandalorian Druid"}}
+9-0: Content={4515, 1107, 3681}
+9-1: Content={4515, 1111, 2853, 2853, 2472, 3509}
+9-5: Content={4526, 1108, 3504, 3504 Content={3507 String="acid chross\nthais\n" Editor="Tovo knight"}}
+9-6: Content={4518, 1103, 2471, 3504, 3504 Content={3507 String="shadow'mad\nthais" Editor="Pargon"}, 3504 Content={3507 String="Kron Deth\nThais" Editor="Fury Ice"}, 3504 Content={3507 String="gelin-cabron\nthais" Editor="Elder-Loca"}}
+9-7: Content={4522, 1103, 3699}
+9-8: Content={4523, 1103, 3504 Content={3507 String="elpotosinoo\nthais" Editor="Ranchorje-inlaw"}, 3503, 3504 Content={2853, 3507 String="Zarius thill\nTHAIS" Editor="Zarius thill"}, 3504 Content={3507 String="Zarius thill\nthais\ndmfpfkp" Editor="Zarius thill"}, 3504, 3504, 3504 Content={3507 String="jasaic lowin\nthais" Editor="Jasaic Lowin"}, 3504 Content={3507 String="Eze Taz Lokote \nthais\n" Editor="Eze Taz Lokote"}}
+9-9: Content={4515, 1103, 1787}
+9-10: Content={4515, 1111, 1789}
+10-0: Content={4515, 3504}
+10-1: Content={4515, 1107, 3003, 3504, 3504 Content={3507 String="Lock Dirule\nThais" Editor="Shirex Aelex"}}
+10-2: Content={4523, 1103, 3682}
+10-3: Content={4515, 1103, 3504 Content={3507 String="Zenmuron\nthais" Editor="Zenmuron"}, 3504, 3507 String="Xavier the Savior\nThaishhkhjk" Editor="Adis Laus"}
+10-4: Content={4527, 1103, 3582 Amount=1, 3412, 3507 String="la chacha de tompson el papa\n" Editor="Alexander Zalobok", 2471, 2473 Content={2469}, 2473}
+10-5: Content={4525, 1104, 3507 String="thor'sir\nthais" Editor="Zeuz'Crow", 3504 Content={3507 String="shadow'mad\nthais" Editor="Pargon"}}
+10-6: Content={4522, 2853, 3504 Content={3507 String="pyster\nthais\n"}, 3504 Content={3507 String="Shaszer\nThais" Editor="Shaszer"}, 3507 String="Carnivore\nthais" Editor="Ia'age"}
+10-7: Content={4528, 3504 Content={3504 Content={3507 String="Pyster\nThais\n"}, 3504 Content={3507 String="rambo toluca\nthais\n" Editor="Emece"}, 3507 String="rambo toluca\nthais" Editor="Emece"}, 3504, 3362}
+10-8: Content={4515, 3504, 3504, 3504, 3577 Amount=1}
+10-9: Content={4515, 1788}
+10-10: Content={4515, 1102, 1790}
+11-0: Content={4515, 2853, 2853 Content={2853}}
+11-1: Content={4515, 2853, 3376}
+11-2: Content={4518, 3577 Amount=1, 2839 String="puto el ke lo leea\n" Editor="Cesar salmeron"}
+11-3: Content={4518, 3504 Content={3507 String="kleo xirion\nthais\n" Editor="Kleo Xirion"}}
+11-4: Content={4515, 3681}
+11-5: Content={4515, 2853, 3504}
+11-6: Content={4521, 3504, 3504 Content={3507 String="kagin genka\nthais" Editor="Aleamor Darlakelf"}, 3504 Content={3507 String="hell zide\nthais\n" Editor="Chaplin Caguamas"}, 3577 Amount=5}
+11-7: Content={4518}
+11-8: Content={4523, 3504 Content={3504, 3504 Content={3504 Content={3507 String="ushi the druid\nthais" Editor="Ushi the druid"}, 3507 String="Venus de'montecristo\nthais" Editor="Venus de'montecristo"}, 3504 Content={3507 String="oxxos\nthais" Editor="Oxxos"}}, 3504 Content={3507 String="Menorox\nThais" Editor="Penerax of Markiz Amon"}, 3504 Content={3504 Content={3507 String="Incal\nThais" Editor="Fantasy Traveler"}}, 3504, 3504 Content={3507 String="aldayus kateme\nthais" Editor="Babbul of Zanera"}, 2853, 3577 Amount=1}
+11-9: Content={4515, 1106, 3682}
+11-10: Content={4515, 1110, 3681}
+12-0: Content={4521, 1101, 3465, 3277 Amount=2}
+12-1: Content={4515, 1101}
+12-2: Content={4515, 1101, 3504 Content={3507 String="Adelayda\nThais\n165gp\n" Editor="Smarollokus"}, 3504 Content={3507 String="Werdi of eh\nthais"}, 3504 Content={3507 String="yesay leonheart\nthais\n" Editor="Flor Rubio"}, 3504 Content={3507 String="Roxer Senori\nThais\n" Editor="Guller"}, 2853 Content={2853}}
+12-3: Content={4529, 1101, 3577 Amount=1, 2853 Content={2853 Content={2853, 2853}}}
+12-4: Content={4515, 1101, 3504, 3457}
+12-5: Content={4527, 1105, 2471, 2471 Content={2473, 2473 Content={3504}, 2471 Content={2473, 2471}, 2471}, 3577 Amount=2}
+12-6: Content={4515, 2471, 3378}
+12-7: Content={4515, 3504 Content={3507 String="exanatra\nthais" Editor="Mellow Cakes", 2853 Content={3507 String="shirex aelex\nThais" Editor="Lock Dirule"}, 3507 String="Talan Alis\nThais" Editor="Szalony policiant"}, 2924 SavedExpireTime=54, 3267}
+12-8: Content={4517, 3504 Content={3507 String="Kaleztry\nThais" Editor="Jorgito The Guerrero Luz"}, 3504 Content={3507 String="Boembaa\nthais"}, 3504, 3504 Content={2853, 3507 String="Joni-ciro\nThais" Editor="Joni-ciro"}, 3504, 3504, 3504 Content={3507 String="torlan raya\nthais" Editor="Warrior justicier"}, 3504 Content={3507 String="Zaitoo\nthais" Editor="Shadow Spinal"}, 3285, 2854}
+12-9: Content={4522, 1102, 3504, 3504 Content={3507 String="boricua-soldier\nthais" Editor="Skrakz"}, 3504 Content={3507 String="Boricua-Soldier\nThais" Editor="Gaia Lancaster Master Oz"}, 3504 Content={3507 String="shadow'mad\nthais" Editor="Dziutrix"}, 3504, 3504}
+13-5: Content={4515, 1109}
+13-6: Content={4515, 1101, 3699}
+13-7: Content={4521, 1105, 3682}
+13-8: Content={4526, 1106, 3504, 3504, 3504, 3507}
+13-9: Content={4515, 1110, 3504 Content={3507 String="magik shaman\nthais" Editor="Grim Reepar"}, 3504 Content={3507 String="Boidkan of Sacrifice\ndarashia" Editor="Drakesito"}, 3430, 3286}
+14-7: Content={4528, 1109, 3507 String="jajajajjajajajajajajaj" Editor="Semetin", 3504 Content={3507 Editor="Azraehl"}, 3504 Content={3504 Content={3507 String="Mimee\nthais\nhola hermana como as estado aqui te mando esta paquete" Editor="Fire of halcon"}, 3507 String="bensola of zanera\nthaisjkl" Editor="Farkost Onosla"}, 3504 Content={3507 String="Boricua-Soldier\nThais" Editor="Lady Barvy Almighty"}, 3504, 3577 Amount=2}
+14-8: Content={4515, 1110, 2853, 3504, 3504, 3577 Amount=2, 3362, 2969 KeyNumber=4600}
+20-19: Content={1296}
+20-20: Refresh, Content={1294}
+20-21: Content={1739}
+20-22: Refresh, Content={1294}
+20-23: Refresh, Content={1294, 2908}
+20-24: Refresh, Content={1294}
+20-25: Content={1739}
+20-26: Refresh, Content={1294}
+20-27: Content={1299}
+21-19: Refresh, Content={1295}
+21-20: Refresh, Content={408, 2487}
+21-21: Refresh, Content={408, 2488}
+21-22: Refresh, Content={408, 2472}
+21-23: Refresh, Content={408, 2487}
+21-24: Refresh, Content={408, 2488}
+21-25: Refresh, Content={408, 2487}
+21-26: Refresh, Content={408, 2488}
+21-27: Content={408, 1295}
+22-19: Refresh, Content={1295}
+22-20: Refresh, Content={408, 2472}
+22-21: Refresh, Content={408}
+22-22: Refresh, Content={408}
+22-23: Refresh, Content={408}
+22-24: Refresh, Content={408}
+22-25: Refresh, Content={408}
+22-26: Refresh, Content={408, 2472}
+22-27: Content={408, 1295}
+23-19: Refresh, Content={1295}
+23-20: Refresh, Content={408, 2487}
+23-21: Refresh, Content={408, 2488}
+23-22: Refresh, Content={408}
+23-23: Refresh, Content={408, 3510}
+23-24: Refresh, Content={408}
+23-25: Refresh, Content={408, 2487}
+23-26: Refresh, Content={408, 2488}
+23-27: Content={408, 1295}
+24-19: Refresh, Content={1295}
+24-20: Refresh, Content={408, 2472}
+24-21: Refresh, Content={408}
+24-22: Refresh, Content={408}
+24-23: Refresh, Content={408}
+24-24: Refresh, Content={408}
+24-25: Refresh, Content={408}
+24-26: Refresh, Content={408, 2472}
+24-27: Content={408, 1295}
+25-19: Content={1303}
+25-20: Content={408, 1301}
+25-21: Content={408, 1301}
+25-22: Refresh, Content={408, 1294}
+25-23: Refresh, Content={408, 1294, 2908}
+25-24: Refresh, Content={408, 1629}
+25-25: Refresh, Content={408, 1294}
+25-26: Refresh, Content={408, 1294}
+25-27: Content={408, 1302}
+26-19: Content={1303}
+26-20: Refresh, Content={408, 1300}
+26-21: Content={408, 1947}
+26-22: Refresh, Content={408}
+26-23: Refresh, Content={408}
+26-24: Refresh, Content={408}
+26-25: Refresh, Content={408, 2434}
+26-26: Refresh, Content={408, 2434}
+26-27: Content={408, 1295}
+27-19: Refresh, Content={1295}
+27-20: Refresh, Content={408}
+27-21: Refresh, Content={408}
+27-22: Refresh, Content={408}
+27-23: Refresh, Content={408}
+27-24: Refresh, Content={408}
+27-25: Refresh, Content={408}
+27-26: Refresh, Content={408}
+27-27: Content={408, 1295}
+28-19: Content={1303}
+28-20: Refresh, Content={408, 1294}
+28-21: Refresh, Content={408, 1628 KeyholeNumber=30}
+28-22: Refresh, Content={408, 1294, 2908}
+28-23: Content={408, 1299}
+28-24: Refresh, Content={408}
+28-25: Refresh, Content={408, 2360}
+28-26: Refresh, Content={408, 2319}
+28-27: Content={408, 1295}
+29-19: Refresh, Content={1295}
+29-20: Refresh, Content={408}
+29-21: Refresh, Content={408}
+29-22: Refresh, Content={408}
+29-23: Refresh, Content={408, 1295, 2909}
+29-24: Refresh, Content={408}
+29-25: Refresh, Content={408, 2360}
+29-26: Refresh, Content={408, 2319}
+29-27: Content={408, 1295}
+30-19: Refresh, Content={1295, 2597 String="Restricted Area!"}
+30-20: Refresh, Content={408}
+30-21: Content={434}
+30-22: Refresh, Content={408}
+30-23: Refresh, Content={408, 1295}
+30-24: Refresh, Content={408}
+30-25: Refresh, Content={408, 2472}
+30-26: Refresh, Content={408, 2472}
+30-27: Content={408, 1295}
+31-19: Content={1297}
+31-20: Content={408, 1294}
+31-21: Content={408, 1294}
+31-22: Content={408, 1294}
+31-23: Content={408, 1300}
+31-24: Content={408, 1294}
+31-25: Content={408, 1294}
+31-26: Content={408, 1294}
+31-27: Content={408, 1298}

@@ -1,0 +1,19 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+19-14: Content={2166}
+19-15: Content={2164}
+19-16: Content={2164}
+19-17: Content={2164}
+20-14: Content={2162}
+20-15: ProtectionZone, Content={411}
+20-16: ProtectionZone, Content={429}
+20-17: Content={429, 2162}
+21-14: Content={2162}
+21-15: ProtectionZone, Content={429}
+21-16: ProtectionZone, Content={429}
+21-17: Content={429, 2162}
+22-14: Content={2162}
+22-15: Content={429, 2164}
+22-16: Content={429, 2164}
+22-17: Content={429, 2168}

@@ -1,0 +1,83 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+04-01: Refresh, 
+04-02: Refresh, Content={1296}
+04-03: Refresh, Content={1294}
+04-04: Refresh, Content={1294}
+04-05: Refresh, Content={1294}
+04-06: Refresh, Content={1299}
+05-01: Refresh, 
+05-02: Refresh, Content={1295}
+05-03: Refresh, Content={429}
+05-04: Refresh, Content={429}
+05-05: Refresh, Content={429}
+05-06: Refresh, Content={429, 1295}
+06-01: Refresh, 
+06-02: Refresh, Content={1295}
+06-03: Refresh, Content={429, 1948}
+06-04: Refresh, Content={429}
+06-05: Refresh, Content={429}
+06-06: Refresh, Content={429, 1295}
+07-01: Refresh, 
+07-02: Refresh, Content={1295}
+07-03: Refresh, Content={429}
+07-04: Refresh, Content={432}
+07-05: Refresh, Content={429}
+07-06: Refresh, Content={429, 1295}
+08-01: Refresh, 
+08-02: Refresh, Content={1297}
+08-03: Refresh, Content={429, 1294}
+08-04: Refresh, Content={429, 1294}
+08-05: Refresh, Content={429, 1294}
+08-06: Refresh, Content={429, 1298}
+11-00: Refresh, Content={1272}
+12-00: Refresh, Content={436, 1272}
+13-00: Refresh, Content={436, 1272}
+14-00: Refresh, Content={436, 1271, 5068}
+15-00: Refresh, Content={436, 1271, 5068}
+16-00: Refresh, Content={436, 1271}
+17-00: Refresh, Content={436, 1272}
+18-00: Refresh, Content={436, 1272}
+19-00: Refresh, 
+19-01: Refresh, 
+19-02: Refresh, 
+19-03: Refresh, 
+19-04: Refresh, 
+19-05: Refresh, 
+19-06: Refresh, 
+20-00: Refresh, 
+20-01: Refresh, 
+20-02: Refresh, Content={1296}
+20-03: Refresh, Content={1294}
+20-04: Refresh, Content={1294}
+20-05: Refresh, Content={1294}
+20-06: Refresh, Content={1299}
+21-00: Refresh, 
+21-01: Refresh, 
+21-02: Refresh, Content={1295}
+21-03: Refresh, Content={429}
+21-04: Refresh, Content={429}
+21-05: Refresh, Content={429}
+21-06: Refresh, Content={429, 1295}
+22-00: Refresh, 
+22-01: Refresh, 
+22-02: Refresh, Content={1295}
+22-03: Refresh, Content={429, 1948}
+22-04: Refresh, Content={432}
+22-05: Refresh, Content={429}
+22-06: Refresh, Content={429, 1295}
+23-00: Refresh, 
+23-01: Refresh, 
+23-02: Refresh, Content={1295}
+23-03: Refresh, Content={429}
+23-04: Refresh, Content={429}
+23-05: Refresh, Content={429}
+23-06: Refresh, Content={429, 1295}
+24-00: Refresh, 
+24-01: Refresh, 
+24-02: Refresh, Content={1297}
+24-03: Refresh, Content={429, 1294}
+24-04: Refresh, Content={429, 1294}
+24-05: Refresh, Content={429, 1294}
+24-06: Refresh, Content={429, 1298}

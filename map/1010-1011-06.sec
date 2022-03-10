@@ -1,0 +1,150 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1010/1011/6
+
+2-28: Content={4515, 1108, 3582 Amount=2, 3031 Amount=1, 2853, 2853, 3274, 3274, 2853, 3294, 3274, 3559, 3559, 3559, 3559, 3559, 3559, 3274, 2473, 2473, 3577 Amount=6, 3504, 3504, 2473, 3504, 2473, 2473, 2473, 3274, 3354, 2853, 2853 Content={2853 Content={2853}}, 2471, 2471 Content={2853}}
+2-29: Content={4515, 1111, 3504 Content={3507 String="Darkwarrior\nthais\n" Editor="Darkwarrior"}, 3504 Content={3507 String="frozth\nthais\n" Editor="Frozth"}, 3504 Content={3507 Editor="Catxo", 3507 String="Rusha sorcerer\nthais" Editor="Rusha sorcerer", 3507 String="sung feler\nthais" Editor="Sung feler"}, 3504, 3504 Content={3507 String="pavalonegro\nthais" Editor="Pavalonegro"}, 3358, 3264, 3286, 3504, 3504, 3504, 3410, 2853, 2853, 3559, 3559, 2913, 2853, 2471, 3031 Amount=1, 3135, 3504 Content={2473}, 3504, 2471, 3274, 3358, 3410, 3377, 2853, 2853, 3559, 3559, 2853, 2853, 3559, 3410, 3410, 3410, 2473, 2473, 2471, 2471, 3483, 2853, 2853, 3559, 3410, 3504 Content={2880, 2880, 2880, 2880, 2880, 2880, 2880, 2880, 2880}, 2471, 2853, 2853, 2473, 2473, 2473, 3430}
+3-27: Content={4515, 1108, 2853, 3031 Amount=1, 2853, 3412, 3003, 2853, 3559, 3274, 3274, 3274, 3135, 3559, 3410, 2473, 2473, 3410, 3358}
+3-28: Content={4518, 1104, 3286, 2853, 2473, 3559, 3274, 3457, 3559, 3559, 2853, 3559, 3031 Amount=1, 2473, 2473, 2471, 3559, 3559, 3559, 3268, 3457, 3274, 3274, 3294, 3135, 2853, 2853 Content={3578 Amount=7, 3577 Amount=1, 3582 Amount=2}, 3378, 3410, 3559, 3286, 3559, 3559, 3358, 3577 Amount=3, 2853 Content={3267, 3267, 3267, 3267}, 3504, 3559, 3559, 3504, 3410, 3358, 3358, 3410}
+3-29: Content={4528, 1102, 2853, 3559, 2471, 3352, 3504, 3504 Content={3483, 3358, 3003, 3507 String="Wally legend\nThais" Editor="Isadora hijo de galaxia"}, 3274, 2853, 3352, 3276, 3559, 2473, 3358, 2853, 3559, 3352, 2473, 3031 Amount=1, 2473, 3264, 3358, 3264, 3354, 3559, 3457, 3352, 2853, 3410, 3031 Amount=5, 2471, 3410, 3559, 3577 Amount=4, 3559, 2853, 3559, 3430, 3559, 2913, 3559, 3559, 2471, 3457, 3274, 3274, 3504 Content={3504 Content={3507 String="druida del temple\nthais" Editor="Corxk"}}, 2473, 2473, 2473}
+3-30: Content={4406, 1108, 1110, 3559, 2853, 3264, 3358, 3274, 3559, 3559, 3274, 3274, 2853, 2853, 3286, 3457, 3559, 2853, 3559, 3286, 3276, 3358, 3559, 3559, 2471 Content={2853 Content={2853, 2853, 2853 Content={3559, 3559}}, 2853 Content={2853, 2853, 2853, 2853, 2853}, 3559, 3559, 3376, 3559, 3559}, 2853, 3264, 3274, 3358, 3410, 3358, 2853, 3354, 3274, 3410, 3286, 3352, 3457, 3410, 3577 Amount=3, 3559, 3352, 2853, 2853, 3031 Amount=2, 3286, 3352, 3378, 3274, 3559, 3457, 3358, 3354, 2853, 3559, 3559, 2853, 3352, 3410, 3410, 3410, 3577 Amount=6, 3264, 2853, 3410, 3559, 2853 Content={3410, 3410, 3286}, 3354, 3410, 3286, 3559, 2913, 3264, 3358, 2853 Content={3286}, 2853, 2854 Content={3003, 3031 Amount=1}, 2853, 3031 Amount=1, 2853 Content={3264}, 3358, 3559, 3559, 2853, 2853, 2853, 2853, 3457, 3358, 3354, 3358, 3559, 2913, 3264, 3358, 3457, 3367, 2853, 3552, 2920, 3377, 2853, 3354, 3294, 3352, 3267, 3577 Amount=3, 3354, 3410, 3358, 3358, 3410, 3577 Amount=2, 3559, 2853, 3410, 3358, 2853, 2854, 3582 Amount=1, 3559, 3559, 3559, 2471, 3559, 3559, 3559, 3559, 3559, 3559, 2853, 2853, 2853 Content={3559, 3559}, 3352, 3504 Content={3507 String="sokcro \nthais" Editor="Sokcro"}, 3410, 3559, 3559, 2853, 3354, 3274, 3559, 3358, 3358, 2853 Content={3264}, 3354, 3264, 3352, 2853, 2853, 3559, 3410, 3277 Amount=1, 3559, 3577 Amount=1, 2853, 3294, 3294, 3294, 3031 Amount=1, 3352, 3276, 3336, 3559, 3559, 2473, 2473, 2471, 2473, 3582 Amount=1, 3274, 3457, 3430, 3410, 3559, 2853, 3355, 3457, 3286, 2853, 2853, 2853, 2853, 3274, 3577 Amount=8, 3582 Amount=1, 3354, 2853, 3274, 2853, 2853, 2853, 3504, 3274, 3352, 3504, 2473, 2473, 3559, 3559, 3559, 3559, 2913, 2853}
+4-27: Content={4523, 1109, 3294, 2853, 3274, 3559, 3354, 2471, 3031 Amount=1, 3559, 3559, 3559, 3559, 3559, 3559, 3352, 3410, 3504 Content={3507 String="Mandalorian Knight\nThais" Editor="Mandalorian Knight"}, 3358, 3274}
+4-28: Content={4515, 1101, 2473, 2853, 3031 Amount=1, 2853 Content={3274}, 3577 Amount=1, 3286, 3559, 3559, 3559, 3274, 3559, 3559, 3559, 3352, 3504 Content={3507 String="tovo knight\nthais" Editor="Alejandro saenz"}, 3504, 3410, 3264, 3410, 3358}
+4-29: Content={4524, 1110, 3504 Content={3504 Content={3507 String="Meade of Zanera\nThais" Editor="Meade of Zanera"}, 3504, 3507 String="Darrkside\nThais" Editor="Evillness"}, 3504, 3274, 3374, 2853 Content={3276}, 3264, 3286, 3264, 3559, 3274, 3410, 3358, 3559, 2471, 3003, 3457, 3031 Amount=7, 3411, 3267, 3031 Amount=1, 2853, 3031 Amount=1, 3264, 2922 SavedExpireTime=160, 2924 SavedExpireTime=70, 3577 Amount=1, 2853, 3264, 3358, 3378, 3410, 3559, 3358, 2853, 3274, 3559, 2853, 3559, 2853, 3410, 3352, 3457, 2471 Content={3264, 3276}, 2853, 3559, 2473, 3286, 2473}
+5-28: Content={4407, 1108, 1110, 3003, 2473, 3031 Amount=1, 3286, 3559, 2853, 2853, 3559, 2913, 3268, 3559, 2473, 3286, 3504 Content={3507 String="veckter gambler \n Thais" Editor="Veckter Gambler"}, 3582 Amount=2}
+10-30: Content={4515, 1108, 3358, 2473, 3504 Content={3507 String="patrickus elo\nthais" Editor="Lucky Saint"}, 3504}
+10-31: Content={4519, 1103, 3507 String="kill Syriush Firmament Elemental\n" Editor="Wiktor Thex", 3410, 3358, 3352, 3376, 2473, 2853, 2473, 3504 Content={3507 String="Pan Gilek\nThais" Editor="Elon Tyro"}, 2853, 3277 Amount=1, 3559, 2473, 3582 Amount=2, 3354, 3352, 2473, 2473, 3504 Content={2880, 2880, 2880, 2880, 2880, 2880, 2880}, 3504, 2473, 2473, 3504, 2471, 2471}
+11-29: Content={4515, 1108, 3504 Content={3504 Content={3504 Content={3507 String="Danon Pogromca\nthais\n" Editor="Sir Lupiradao"}, 3507 String="danon pogromca\nthais" Editor="Danon Paladynek"}, 3507 String="max sider\nthais" Editor="Kam'Thor"}, 2473, 3504, 3504, 2471, 3504 Content={3507 String="shipou\nthais"}}
+11-30: Content={4518, 1104, 3504, 2853, 3504 Content={3507 String="neotspown\nthais"}, 2473 Content={3559}, 2473, 3264, 2471, 2853}
+11-31: Content={4519, 3410, 3559, 2853, 3504 Content={3507 String="neotspown\nthais"}, 2473, 3551, 3056 RemainingUses=200, 3559, 2853, 2913, 3504, 2473, 3504 Content={3507 String="hitues\nthais" Editor="Hitues"}, 2473, 2471, 2473, 2473 Content={2473, 2473}, 2471, 2473, 2853, 2471, 3559}
+12-29: Content={4515, 1100, 2853}
+12-30: Content={4515, 2473, 2473, 2853, 3264, 2471, 2853 Content={3276}, 2853, 2853, 3003}
+12-31: Content={4515, 2853, 3410, 2471, 3559, 3559, 2853, 3358, 2853, 3559, 3504, 2473, 2473, 3559, 2471, 2471, 2473, 3457, 2853, 2853, 3504 Content={3507 String="Angel Defensor\nVenore"}}
+13-29: Content={4515, 1100, 2853}
+13-30: Content={4515, 2919, 2853, 3504, 3457, 2853}
+13-31: Content={4517, 2853, 3559, 3504, 2853, 3577 Amount=1, 3376, 3274}
+14-29: Content={4526, 1109, 3358, 2853}
+14-30: Content={4526, 1105, 2853}
+14-31: Content={4525, 1106, 2853, 2853, 2471, 3457}
+15-30: Content={4515, 1109}
+15-31: Content={4518, 1110, 3286, 3504, 2473, 2471, 2853, 2471}
+21-6: ProtectionZone, Content={4522, 1110, 1108, 3656}
+21-7: ProtectionZone, Content={429, 1103}
+21-8: ProtectionZone, Content={429, 1103}
+21-9: ProtectionZone, Content={429, 1103}
+21-10: ProtectionZone, Content={429, 1103}
+21-11: ProtectionZone, Content={429, 1103}
+21-12: ProtectionZone, Content={429, 1103}
+21-13: ProtectionZone, Content={429, 1103}
+21-14: ProtectionZone, Content={429, 1103}
+21-15: ProtectionZone, Content={429, 1103}
+21-16: ProtectionZone, Content={4515, 1109, 1111, 3656}
+22-6: ProtectionZone, Content={429, 1100}
+22-7: ProtectionZone, Content={429, 1296}
+22-8: ProtectionZone, Content={429, 1294}
+22-9: ProtectionZone, Content={429, 2113}
+22-10: ProtectionZone, Content={429, 1294}
+22-11: ProtectionZone, Content={429, 1294}
+22-12: ProtectionZone, Content={429, 1294}
+22-13: ProtectionZone, Content={429, 2113}
+22-14: ProtectionZone, Content={429, 1299}
+22-15: ProtectionZone, Content={429}
+22-16: ProtectionZone, Content={429, 1102}
+23-6: ProtectionZone, Content={429, 1100}
+23-7: ProtectionZone, Content={429, 1295}
+23-8: ProtectionZone, Content={429}
+23-9: ProtectionZone, Content={429}
+23-10: ProtectionZone, Content={429, 2308}
+23-11: ProtectionZone, Content={429, 2312}
+23-12: ProtectionZone, Content={429, 2487}
+23-13: ProtectionZone, Content={429, 2488}
+23-14: ProtectionZone, Content={429, 1295}
+23-15: ProtectionZone, Content={429}
+23-16: ProtectionZone, Content={429, 1102}
+24-6: ProtectionZone, Content={429, 1100}
+24-7: ProtectionZone, Content={429}
+24-8: ProtectionZone, Content={429}
+24-9: Refresh, ProtectionZone, Content={413}
+24-10: Refresh, ProtectionZone, Content={429, 2309}
+24-11: Refresh, ProtectionZone, Content={429, 2313}
+24-12: Refresh, ProtectionZone, Content={429}
+24-13: Refresh, ProtectionZone, Content={429}
+24-14: ProtectionZone, Content={429}
+24-15: ProtectionZone, Content={429}
+24-16: ProtectionZone, Content={429, 1102}
+25-6: ProtectionZone, Content={429, 1100}
+25-7: ProtectionZone, Content={429, 1295}
+25-8: ProtectionZone, Content={429}
+25-9: Refresh, ProtectionZone, Content={429}
+25-10: Refresh, ProtectionZone, Content={429}
+25-11: Refresh, ProtectionZone, Content={429}
+25-12: Refresh, ProtectionZone, Content={429}
+25-13: Refresh, ProtectionZone, Content={429}
+25-14: ProtectionZone, Content={429, 1295}
+25-15: ProtectionZone, Content={429}
+25-16: ProtectionZone, Content={429, 1102}
+26-6: ProtectionZone, Content={429, 1100}
+26-7: ProtectionZone, Content={429, 1295}
+26-8: ProtectionZone, Content={429, 2427}
+26-9: Refresh, ProtectionZone, Content={429}
+26-10: Refresh, ProtectionZone, Content={429}
+26-11: Refresh, ProtectionZone, Content={429}
+26-12: Refresh, ProtectionZone, Content={429}
+26-13: Refresh, ProtectionZone, Content={429}
+26-14: ProtectionZone, Content={429, 1295}
+26-15: ProtectionZone, Content={429, 2031}
+26-16: ProtectionZone, Content={429, 1102}
+27-6: ProtectionZone, Content={429, 1100}
+27-7: ProtectionZone, Content={429, 1295}
+27-8: ProtectionZone, Content={429, 2428}
+27-9: Refresh, ProtectionZone, Content={429}
+27-10: Refresh, ProtectionZone, Content={429}
+27-11: Refresh, ProtectionZone, Content={429}
+27-12: Refresh, ProtectionZone, Content={429}
+27-13: Refresh, ProtectionZone, Content={429}
+27-14: ProtectionZone, Content={429, 1295}
+27-15: ProtectionZone, Content={429}
+27-16: ProtectionZone, Content={429, 1102}
+28-6: ProtectionZone, Content={429, 1100}
+28-7: ProtectionZone, Content={429}
+28-8: ProtectionZone, Content={429}
+28-9: Refresh, ProtectionZone, Content={429}
+28-10: Refresh, ProtectionZone, Content={429, 2487}
+28-11: Refresh, ProtectionZone, Content={429, 2488}
+28-12: Refresh, ProtectionZone, Content={429}
+28-13: Refresh, ProtectionZone, Content={429}
+28-14: ProtectionZone, Content={429}
+28-15: ProtectionZone, Content={429}
+28-16: ProtectionZone, Content={429, 1102}
+29-6: ProtectionZone, Content={429, 1100}
+29-7: ProtectionZone, Content={429, 1297}
+29-8: ProtectionZone, Content={429, 1294}
+29-9: ProtectionZone, Content={429, 2113}
+29-10: ProtectionZone, Content={429, 1294}
+29-11: ProtectionZone, Content={429, 1294}
+29-12: ProtectionZone, Content={429, 1294}
+29-13: ProtectionZone, Content={429, 2113}
+29-14: ProtectionZone, Content={429, 1298}
+29-15: ProtectionZone, Content={429}
+29-16: ProtectionZone, Content={429, 1102}
+30-6: ProtectionZone, Content={429, 1100}
+30-7: ProtectionZone, Content={429}
+30-8: ProtectionZone, Content={429}
+30-9: ProtectionZone, Content={429}
+30-10: ProtectionZone, Content={429}
+30-11: ProtectionZone, Content={429}
+30-12: ProtectionZone, Content={429}
+30-13: ProtectionZone, Content={429}
+30-14: ProtectionZone, Content={429}
+30-15: ProtectionZone, Content={429}
+30-16: ProtectionZone, Content={429, 1102}
+31-6: ProtectionZone, Content={4515, 1111, 1109, 3656}
+31-7: ProtectionZone, Content={429, 1101}
+31-8: ProtectionZone, Content={429, 1101}
+31-9: ProtectionZone, Content={429, 1101}
+31-10: ProtectionZone, Content={429, 1101}
+31-11: ProtectionZone, Content={429, 1101}
+31-12: ProtectionZone, Content={429, 1101}
+31-13: ProtectionZone, Content={429, 1101}
+31-14: ProtectionZone, Content={429, 1101}
+31-15: ProtectionZone, Content={429, 1101}
+31-16: ProtectionZone, Content={4515, 1108, 1110, 3656}

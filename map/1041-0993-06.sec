@@ -1,0 +1,28 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1041/993/6
+
+0-0: Content={440}
+1-0: Content={440}
+2-0: Content={440}
+3-0: Content={449}
+10-0: Content={1281, 2908}
+10-1: Content={1281}
+10-2: Content={1286}
+11-0: ProtectionZone, Content={408, 2487}
+11-1: ProtectionZone, Content={408, 2488}
+11-2: Content={408, 1282}
+12-0: ProtectionZone, Content={408, 2487}
+12-1: ProtectionZone, Content={408, 2488}
+12-2: Content={408, 1282}
+13-0: ProtectionZone, Content={408, 2656}
+13-1: ProtectionZone, Content={408, 3349, 3446 Amount=100, 2469 Content={2853 Content={3299, 3045 RemainingUses=200}, 2874, 2874, 2874, 2874}, 2667}
+13-2: Content={408, 1282}
+14-0: ProtectionZone, Content={408, 2656, 2853 Content={2874, 2874, 3313, 3384, 3367}}
+14-1: ProtectionZone, Content={408, 3349, 3446 Amount=100, 2469 Content={2854 Content={3446 Amount=31, 3349, 3447 Amount=6, 3349, 3298 Amount=2, 3266, 3383, 3446 Amount=33, 3277 Amount=2, 3447 Amount=99, 3350, 3448 Amount=50, 3299, 3299}, 3070, 2853 Content={2866, 2866, 3372, 3372, 3425}, 2853 Content={2914 SavedExpireTime=1985, 2914, 2914, 2914 SavedExpireTime=1997, 3658}}, 2667}
+14-2: Content={408, 1282}
+15-0: ProtectionZone, Content={408, 3147, 3147, 2667, 2865 Content={2866, 3583 Amount=18, 2853 Content={3351, 3409, 3409, 3349}, 3279, 3003, 3457, 2866 Content={3349, 3031 Amount=86, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2872 Content={3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3070, 3507 String="snake'bitte is hunting larva\nplz respect --this stuff is snake'bitte's.\n\nmorn" Editor="Yunos Wover", 3425, 3412, 3066}}
+15-1: ProtectionZone, Content={408, 2537, 3658, 2635, 2667}
+15-2: Content={408, 1734}
+16-0: Content={408, 1735}
+16-1: Content={408, 1281}
+16-2: Content={408, 1285}

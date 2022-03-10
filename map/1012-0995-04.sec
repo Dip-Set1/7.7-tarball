@@ -1,0 +1,39 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1012/995/4
+
+2-1: Refresh, Content={1155}
+2-2: Refresh, Content={1154}
+2-3: Refresh, Content={1154}
+2-4: Refresh, Content={1154}
+2-5: Refresh, Content={1154}
+2-6: Content={5054}
+3-1: Refresh, Content={1153}
+3-2: Refresh, Content={1152}
+3-3: Refresh, Content={1152}
+3-4: Refresh, Content={1152}
+3-5: Refresh, Content={1152}
+3-6: Content={5052}
+4-1: Refresh, Content={1153}
+4-2: Refresh, Content={1152}
+4-3: Refresh, Content={1152}
+4-4: Refresh, Content={1152}
+4-5: Refresh, Content={1152}
+4-6: Content={5052}
+5-1: Refresh, Content={1153}
+5-2: Refresh, Content={1152}
+5-3: Refresh, Content={1152}
+5-4: Refresh, Content={1152}
+5-5: Refresh, Content={1152}
+5-6: Content={5052}
+6-1: Refresh, Content={1153}
+6-2: Refresh, Content={1152}
+6-3: Refresh, Content={1152}
+6-4: Refresh, Content={1152}
+6-5: Refresh, Content={1152}
+6-6: Content={5052}
+7-1: Content={5048}
+7-2: Content={5049}
+7-3: Content={5049}
+7-4: Content={5049}
+7-5: Content={5049}
+7-6: Content={5050}

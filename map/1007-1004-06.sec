@@ -1,0 +1,50 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1007/1004/6
+
+25-9: Content={1114}
+25-10: Content={1112}
+25-11: Content={1112}
+25-12: Content={1117}
+26-8: Content={4459}
+26-9: Content={4468}
+26-10: Content={4402, 1948}
+26-11: Content={4402}
+26-12: Content={4397, 1115}
+26-13: Content={1117}
+27-8: Content={4458}
+27-9: Content={1099, 1113}
+27-10: Content={600}
+27-11: Content={4403, 4536, 3998 RemainingExpireTime=728, 4150 RemainingExpireTime=872, 4151 RemainingExpireTime=1355, 4151 RemainingExpireTime=491 Content={3577 Amount=3}, 4000 RemainingExpireTime=475, 4151 RemainingExpireTime=468, 3308}
+27-12: Content={4397, 3998 RemainingExpireTime=285}
+27-13: Content={4394, 1113}
+28-8: Content={1084}
+28-9: Content={1099, 1120}
+28-10: Content={4406, 4534}
+28-11: Content={4402, 4535, 3998 RemainingExpireTime=283, 3999 RemainingExpireTime=147, 4000 RemainingExpireTime=477, 4152 RemainingExpireTime=1216}
+28-12: Content={4398}
+28-13: Content={4407, 1115}
+28-14: Content={1112}
+28-15: Content={1112}
+28-16: Content={1117}
+29-9: Content={1115}
+29-10: Content={4406, 1117}
+29-11: Content={4402, 2887 PoolLiquidType=5 RemainingExpireTime=17, 3998 RemainingExpireTime=977, 4150 RemainingExpireTime=878, 3999 RemainingExpireTime=151, 3999 RemainingExpireTime=145, 3999 RemainingExpireTime=143, 4151 RemainingExpireTime=1340, 4152 RemainingExpireTime=1199}
+29-12: Content={4399, 3998 RemainingExpireTime=287, 3998 RemainingExpireTime=289, 4000 RemainingExpireTime=520}
+29-13: Content={4403, 2469, 3109}
+29-14: Content={4404}
+29-15: Content={4398}
+29-16: Content={4402, 1113}
+30-10: Content={1115}
+30-11: Content={4402, 1112}
+30-12: Content={4409, 1117}
+30-13: Content={4408, 2469, 4000 RemainingExpireTime=522}
+30-14: Content={4404, 2891 PoolLiquidType=5 RemainingExpireTime=13, 2913}
+30-15: Content={4407}
+30-16: Content={4408, 1113}
+30-17: Content={4407, 1111}
+31-12: Content={1115}
+31-13: Content={4394, 1112}
+31-14: Content={4398, 1105, 2888 PoolLiquidType=5 RemainingExpireTime=17, 1123, 4150 RemainingExpireTime=1457, 3998 RemainingExpireTime=731}
+31-15: Content={4394, 1124}
+31-16: Content={4403, 1116}
+31-17: Content={4399, 1102}

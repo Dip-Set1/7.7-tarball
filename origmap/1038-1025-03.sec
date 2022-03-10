@@ -1,0 +1,15 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-29: ProtectionZone, Content={465}
+00-30: Refresh, ProtectionZone, Content={415}
+00-31: Refresh, ProtectionZone, Content={415}
+01-29: ProtectionZone, Content={465}
+01-30: Refresh, ProtectionZone, Content={415}
+01-31: Refresh, ProtectionZone, Content={415, 2115}
+02-29: ProtectionZone, Content={465}
+02-30: Refresh, ProtectionZone, Content={415}
+02-31: Refresh, ProtectionZone, Content={415}
+03-29: ProtectionZone, Content={472}
+03-30: ProtectionZone, Content={467}
+03-31: ProtectionZone, Content={467}

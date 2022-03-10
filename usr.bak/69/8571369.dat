@@ -1,0 +1,16 @@
+ID              = 8571369
+Name            = "Zaian Thauria"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = 128-0-94-0-114
+CurrentOutfit   = 128-0-94-0-114
+LastLogin       = 1130733516
+LastLogout      = 1130733612
+StartPosition   = [0,0,0]
+CurrentPosition = [0,0,0]
+PlayerkillerEnd = 0
+
+
+Spells      = {}
+QuestValues = {}
+Murders     = {}

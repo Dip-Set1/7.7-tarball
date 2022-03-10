@@ -1,0 +1,47 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+17-00: Content={1086}
+18-00: Content={1099, 1082}
+19-00: Content={1099, 1082}
+20-00: Content={1099, 4816}
+20-01: Content={1086}
+21-00: Content={1099}
+21-01: Content={1099, 1082}
+22-00: Content={1099}
+22-01: Content={1099, 1082}
+23-00: Content={1099}
+23-01: Content={1099, 1082}
+24-00: Content={1099}
+24-01: Content={1099, 1082}
+25-00: Content={1099}
+25-01: Content={1099, 4816}
+25-02: Content={4457}
+25-03: Content={1086}
+26-00: Content={1099}
+26-01: Content={1099}
+26-02: Content={1099}
+26-03: Content={1099, 4816}
+26-04: Content={1086}
+27-00: Content={1099}
+27-01: Content={1099}
+27-02: Content={1099}
+27-03: Content={1099}
+27-04: Content={1099, 1082}
+28-00: Content={1099}
+28-01: Content={1099}
+28-02: Content={1099}
+28-03: Content={1099}
+28-04: Content={1099, 1082}
+29-00: Content={1099}
+29-01: Content={1099}
+29-02: Content={1099}
+29-03: Content={1099}
+29-04: Content={1099, 1085}
+30-00: Content={1099, 1081}
+30-01: Content={1099, 1081}
+30-02: Content={1099, 1081}
+30-03: Content={1099, 1085}
+31-00: Content={4397, 4461}
+31-01: Content={4399, 4461}
+31-02: Content={4398, 4461}

@@ -1,0 +1,16 @@
+ID              = 9767502
+Name            = "Kigenyi"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = 128-59-95-114-0
+CurrentOutfit   = 128-59-95-114-0
+LastLogin       = 1128813182
+LastLogout      = 1128813750
+StartPosition   = [0,0,0]
+CurrentPosition = [0,0,0]
+PlayerkillerEnd = 0
+
+
+Spells      = {}
+QuestValues = {}
+Murders     = {}

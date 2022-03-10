@@ -1,0 +1,60 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1030/1014/6
+
+10-4: Refresh, Content={4941}
+14-1: Refresh, Content={487}
+14-2: Refresh, Content={493}
+14-3: Refresh, Content={489}
+14-4: Refresh, 
+14-5: Refresh, 
+14-6: Refresh, Content={487}
+14-7: Refresh, Content={493}
+14-8: Refresh, 
+15-1: Refresh, Content={491, 4917}
+15-2: Refresh, Content={486}
+15-3: Refresh, Content={492}
+15-4: Refresh, Content={4941}
+15-5: Refresh, Content={487}
+15-6: Refresh, Content={498}
+15-7: Refresh, Content={486, 4917}
+15-8: Refresh, 
+16-1: Refresh, Content={491, 4917}
+16-2: Refresh, Content={486}
+16-3: Refresh, Content={496}
+16-4: Refresh, Content={493}
+16-5: Refresh, Content={498}
+16-6: Refresh, Content={486}
+16-7: Refresh, Content={486, 4917}
+16-8: Refresh, 
+17-1: Refresh, Content={491, 4917}
+17-2: Refresh, Content={486}
+17-3: Refresh, Content={486, 4963}
+17-4: Refresh, Content={486, 4964}
+17-5: Refresh, Content={486}
+17-6: Refresh, Content={486, 3115}
+17-7: Refresh, Content={486, 4917}
+17-8: Refresh, 
+18-1: Refresh, Content={491, 4917}
+18-2: Refresh, Content={486}
+18-3: Refresh, Content={486}
+18-4: Refresh, Content={486}
+18-5: Refresh, Content={486}
+18-6: Refresh, Content={486}
+18-7: Refresh, Content={486, 4917}
+18-8: Refresh, 
+19-1: Refresh, Content={491, 4917}
+19-2: Refresh, Content={486, 3114 Amount=5}
+19-3: Refresh, Content={486}
+19-4: Refresh, Content={482}
+19-5: Refresh, Content={486}
+19-6: Refresh, Content={486, 2898 PoolLiquidType=1}
+19-7: Refresh, Content={486, 4917}
+19-8: Refresh, 
+20-1: Refresh, Content={491, 4917}
+20-2: Refresh, Content={486, 4920}
+20-3: Refresh, Content={486, 4920}
+20-4: Refresh, Content={486, 4920}
+20-5: Refresh, Content={486, 4920}
+20-6: Refresh, Content={486, 4920}
+20-7: Refresh, Content={486, 4930}
+20-8: Refresh, 

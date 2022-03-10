@@ -1,0 +1,51 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1010/995/4
+
+18-8: Content={1296}
+18-9: Content={1294}
+18-10: Content={1735}
+18-11: Content={1294}
+18-12: Content={1294, 2639}
+18-13: Content={1294, 2908}
+18-14: Content={1294}
+18-15: Content={1299}
+19-8: Content={1295}
+19-9: ProtectionZone, Content={409, 2438 Content={3362, 3377}}
+19-10: ProtectionZone, Content={409, 2439}
+19-11: ProtectionZone, Content={409, 2440 Content={2832 String="Mehrah asram cha mehe than. Uth a'thul at cha there. Orum tha cha elik jahara. Udhun zah fahr mal. Chamek at uthul hatradek asram. Mehrem alir iktha at uthun. Kasin tha Ur ch helim doh. Mah dah direm. Athul as hathu, athul as dofah, athul as mereth. Cha ukhtu muhn dahra. Sethor mah amin dah. At meruhm cha me dah. Chamek persim kaharah bah tufi. Moh dah rah. Moh Udhin cha uthul. Meheth Zuhl tha berah.", 2827 String="Cursed be the Akh, for it diverts our attention to things that are but trivial and transitory! Too many fail in their quests for ascension because they give in to their akhs' temptations. If only they knew that ascension holds the key to all our grievances! Only by ascending can we redeem the akh from its mortal bounds and free the Rah and the Uthun to strive for divinity. For each mortal creature holds the key to divinity, to be a god of his own right. \nUnfortunately, the so-called gods are jealous. They do not want the mortals to take what they think is rightfully theirs. It is because of this that they have instructed their followers to condemn the sacred state which they call undead. Brothers and sisters, unite! See through the deceptions of the akh! Shed your mortal shells and embrace the death-that-is-not-death! Ascend and be reborn!", 2828 String="... were sealed with powerful magic. Only those were allowed to pass who sacrificed one of the peculiar coins that in ancient times were paid by those who came to visit their beloved dead. For this was the way of the Ritual of Sealing. Behind the seal, the mighty traitors were trapped forever. Such was their hatred and their lust for revenge that the very walls and stones became imbued with them and the lower tombs turned into places of utter doom, places where no mortal should venture to go. And to this day one of the traitors lurks in each of these tombs, surrounded by vicious traps and by powerful minions that serve both to protect them and to hold them captive. Woe to the fools who dare challenge the traitors in their prisons! For torturing and killing intruders is the only amusement that is left to these tortured souls."}}
+19-12: ProtectionZone, Content={409}
+19-13: Content={438}
+19-14: ProtectionZone, Content={409, 3105, 3120, 3104}
+19-15: Content={409, 1295}
+20-8: Content={1295, 2909}
+20-9: ProtectionZone, Content={409, 2483 Content={3077, 3457, 3034 Amount=1, 3046 SavedExpireTime=1001, 3003, 2867 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3297, 3483, 3287 Amount=2, 3449 Amount=19, 3372, 3412, 3277 Amount=21, 3457, 3046 SavedExpireTime=2981, 3590 Amount=90}}
+20-10: ProtectionZone, Content={409}
+20-11: ProtectionZone, Content={409}
+20-12: ProtectionZone, Content={409}
+20-13: ProtectionZone, Content={409, 3045 RemainingUses=169, 3492 Amount=6}
+20-14: ProtectionZone, Content={409, 2380}
+20-15: Content={409, 1295}
+21-8: Content={1734}
+21-9: ProtectionZone, Content={409, 2979}
+21-10: ProtectionZone, Content={409}
+21-11: ProtectionZone, Content={409, 3590 Amount=10}
+21-12: ProtectionZone, Content={409}
+21-13: ProtectionZone, Content={409, 2366}
+21-14: ProtectionZone, Content={409, 2829 String="Suns and Stars, Part I\nIt stands to reason that the stars and the suns influence the flow of magic. The astral patterns wax and wane like the tides, and it is not possible to perform certain summonings on inappropriate days, to give but one example. The study of astrology is pointing at further influences that go well beyond summoning creatures, though. For instance, the influence of the stars and the suns seems to increase with the power level of the performed incantation or ritual. The more mana is used in a spell the more it is susceptible to extratibian influence. For this reason it seems quite safe to assume that certain powerful rituals are only possible when the stars are correctly aligned. We consequently hope to achieve through close observation and through careful calculation a measure of exactness concerning the right timing of rituals which we did not dare dream of so far. Several magic incantations we have never managed to reproduce until now might actually be achieved once we know the ideal stellar constellations. This would explain why all our previous attempts to achieve these effects were doomed to fail.", 2314}
+21-15: Content={409, 1734}
+22-8: Content={1295}
+22-9: ProtectionZone, Content={409, 2495 String="Dark ger"}
+22-10: ProtectionZone, Content={409, 2496}
+22-11: ProtectionZone, Content={409, 2999}
+22-12: ProtectionZone, Content={409, 2482 Content={2854 Content={2955, 3658, 2393, 2906, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}
+22-13: ProtectionZone, Content={409, 2976}
+22-14: ProtectionZone, Content={409, 2539, 3661, 2985, 2985, 3661, 3661, 3661}
+22-15: Content={409, 1295}
+23-8: Content={1297}
+23-9: Content={409, 1294}
+23-10: Content={409, 1294}
+23-11: Content={409, 1294}
+23-12: Content={409, 1735}
+23-13: Content={409, 1294}
+23-14: Content={409, 1294}
+23-15: Content={409, 1298}

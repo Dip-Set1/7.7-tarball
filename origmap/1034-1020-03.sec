@@ -1,0 +1,45 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-03: Content={4405, 1109}
+00-04: Content={4409, 1105}
+00-05: Content={4397}
+00-06: Content={4394}
+00-07: Content={4406, 1844}
+00-08: Content={4394}
+00-09: Content={4394, 1796}
+00-10: Content={4405, 1796}
+00-11: Content={4409}
+00-12: Content={4408, 1102}
+01-04: Content={4402, 1100}
+01-05: Content={4405}
+01-06: Content={4394, 1792}
+01-07: Content={4397}
+01-08: Content={4401}
+01-09: Content={4403, 1796}
+01-10: Content={4405}
+01-11: Content={4405, 1845}
+01-12: Content={4403, 1107}
+01-13: Content={4405, 1103}
+01-14: Content={4397, 1111}
+02-04: Content={4405, 1109}
+02-05: Content={4401, 1105}
+02-06: Content={4408, 1793}
+02-07: Content={4406, 1846}
+02-08: Content={4397}
+02-09: Content={4405}
+02-10: Content={4397, 1106}
+02-11: Content={4409, 1101}
+02-12: Content={4406, 1101}
+02-13: Content={4402, 1101}
+02-14: Content={4409, 1110}
+03-05: Content={4402, 1109}
+03-06: Content={4403, 1105}
+03-07: Content={4408, 1106}
+03-08: Content={4399, 1101}
+03-09: Content={4394, 1101}
+03-10: Content={4409, 1110}
+04-06: Content={4408, 1100}
+04-07: Content={4396, 1102}
+05-06: Content={4405, 1109}
+05-07: Content={4401, 1110}

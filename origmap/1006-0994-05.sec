@@ -1,0 +1,19 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-00: Refresh, Content={410}
+00-01: Refresh, Content={410, 1270}
+00-02: Refresh, Content={410, 1278}
+00-03: Content={410, 3471, 2433}
+00-04: Content={410}
+01-00: Content={410, 2438}
+01-01: Content={410, 2439}
+01-02: Content={410, 1272}
+01-03: Content={410, 2895 PoolLiquidType=5, 4311}
+01-04: Content={410}
+02-00: Content={103}
+02-01: Content={410, 2897 PoolLiquidType=5}
+02-02: Content={410}
+02-03: Content={410}
+02-04: Content={410}
+28-11: Content={4517, 3699}

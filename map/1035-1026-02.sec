@@ -1,0 +1,31 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1035/1026/2
+
+28-8: ProtectionZone, Content={471}
+28-9: ProtectionZone, Content={466}
+28-10: ProtectionZone, Content={466}
+28-11: ProtectionZone, Content={466}
+28-12: ProtectionZone, Content={466}
+28-13: ProtectionZone, Content={466}
+28-14: ProtectionZone, Content={473}
+29-8: ProtectionZone, Content={465}
+29-9: Refresh, ProtectionZone, Content={415, 2195}
+29-10: Refresh, ProtectionZone, Content={415, 1961}
+29-11: Refresh, ProtectionZone, Content={415, 1961}
+29-12: Refresh, ProtectionZone, Content={415, 1961}
+29-13: Refresh, ProtectionZone, Content={415, 2193}
+29-14: ProtectionZone, Content={451}
+30-8: ProtectionZone, Content={465}
+30-9: Refresh, ProtectionZone, Content={415, 1965}
+30-10: ProtectionZone, Content={1316, 1325}
+30-11: ProtectionZone, Content={1316, 1320}
+30-12: Refresh, ProtectionZone, Content={1316, 1328, 1314}
+30-13: Refresh, ProtectionZone, Content={415, 1967}
+30-14: ProtectionZone, Content={451}
+31-8: ProtectionZone, Content={465}
+31-9: Refresh, ProtectionZone, Content={415, 1965}
+31-10: ProtectionZone, Content={1316, 1317}
+31-11: ProtectionZone, Content={1316}
+31-12: Refresh, ProtectionZone, Content={1316, 1314}
+31-13: Refresh, ProtectionZone, Content={415, 1967}
+31-14: ProtectionZone, Content={451}

@@ -1,0 +1,38 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+05-27: Content={1283}
+05-28: Content={1281, 2908}
+05-29: Content={1281}
+05-30: Content={1735}
+05-31: Content={1171, 1281, 2908}
+06-27: Content={1282}
+06-28: Content={408}
+06-29: Content={408}
+06-30: Content={408}
+06-31: Content={408}
+07-27: Content={1290}
+07-28: Content={408, 1281}
+07-29: Content={408, 1628}
+07-30: Content={408, 1281, 2604}
+07-31: Content={408, 1286}
+08-27: Content={1734}
+08-28: Content={408, 2927, 2319}
+08-29: Content={408}
+08-30: Content={408, 2572}
+08-31: Content={408, 1282}
+09-27: Content={1734}
+09-28: Content={408, 3598 Amount=6, 2319}
+09-29: Content={408}
+09-30: Content={408, 2573}
+09-31: Content={408, 1282}
+10-27: Content={1282}
+10-28: Content={408, 2487}
+10-29: Content={408, 2488}
+10-30: Content={408, 2573}
+10-31: Content={408, 1282}
+11-27: Content={1284}
+11-28: Content={408, 1281}
+11-29: Content={408, 1281}
+11-30: Content={408, 1735}
+11-31: Content={408, 1287}

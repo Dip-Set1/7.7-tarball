@@ -1,0 +1,89 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1022/989/4
+
+4-17: Refresh, 
+4-18: Refresh, 
+4-19: Refresh, 
+4-20: Refresh, 
+4-21: Refresh, 
+4-22: Refresh, 
+4-23: Refresh, 
+4-24: Refresh, 
+5-17: Refresh, 
+5-18: Refresh, 
+5-19: Refresh, Content={3625, 3654}
+5-20: Refresh, Content={3625}
+5-21: Refresh, Content={3625, 3657}
+5-22: Refresh, Content={3625}
+5-23: Refresh, 
+5-24: Refresh, 
+6-17: Refresh, 
+6-18: Refresh, Content={3625}
+6-19: Refresh, Content={1771}
+6-20: Refresh, Content={1771}
+6-21: Refresh, Content={1771}
+6-22: Refresh, Content={1771}
+6-23: Refresh, Content={3625}
+6-24: Refresh, 
+7-17: Refresh, 
+7-18: Refresh, Content={3625, 3657}
+7-19: Refresh, Content={1771}
+7-20: Refresh, Content={1771, 1948}
+7-21: Refresh, Content={1771}
+7-22: Refresh, Content={1771}
+7-23: Refresh, Content={3625, 3655}
+7-24: Refresh, Content={3625}
+8-17: Refresh, 
+8-18: Refresh, Content={3625}
+8-19: Refresh, Content={1771}
+8-20: Refresh, Content={411}
+8-21: Refresh, Content={1771}
+8-22: Refresh, Content={1771}
+8-23: Refresh, Content={3625}
+8-24: Refresh, 
+9-17: Refresh, 
+9-18: Refresh, Content={3625}
+9-19: Refresh, Content={1771}
+9-20: Refresh, Content={1771}
+9-21: Refresh, Content={1771}
+9-22: Refresh, Content={1771}
+9-23: Refresh, Content={3625, 3655, 3654}
+9-24: Refresh, 
+10-17: Refresh, 
+10-18: Refresh, 
+10-19: Refresh, Content={3625, 3657}
+10-20: Refresh, Content={3625, 3657}
+10-21: Refresh, Content={3625}
+10-22: Refresh, Content={3625, 3654}
+10-23: Refresh, 
+10-24: Refresh, 
+11-17: Refresh, 
+11-18: Refresh, 
+11-19: Refresh, 
+11-20: Refresh, 
+11-21: Refresh, Content={3625, 3657}
+11-22: Refresh, 
+11-23: Refresh, 
+11-24: Refresh, 
+26-17: Content={1770}
+26-23: Content={1770}
+27-17: Content={4945}
+27-18: Content={4954}
+27-23: Content={4945}
+27-24: Content={4954}
+28-17: Content={4945}
+28-18: Content={4955}
+28-23: Content={4945}
+28-24: Content={4955}
+29-17: Content={4945}
+29-18: Content={4956}
+29-23: Content={4945}
+29-24: Content={4956}
+30-17: Content={4945}
+30-18: Content={4954, 4942}
+30-23: Content={4945}
+30-24: Content={4954, 4942}
+31-17: Content={4945}
+31-18: Content={4955}
+31-23: Content={4945}
+31-24: Content={4955}

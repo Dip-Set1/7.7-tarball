@@ -1,0 +1,9 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+10-12: Content={1770}
+11-12: Content={4945}
+11-13: Content={4953}
+12-12: Content={4945}
+12-13: Content={4953, 1748}
+13-12: Content={4946}

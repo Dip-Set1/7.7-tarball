@@ -1,0 +1,27 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1040/1012/6
+
+0-16: Content={1282, 2664 RemainingExpireTime=564}
+0-17: ProtectionZone, Content={408, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}
+0-18: ProtectionZone, Content={434}
+0-19: ProtectionZone, Content={408}
+0-20: ProtectionZone, Content={408, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}
+0-21: Content={408, 1282, 2656}
+0-22: ProtectionZone, Content={408, 2903, 3443, 2471 Content={3723 Amount=67, 3723 Amount=100, 3723 Amount=100, 2863 Content={3582 Amount=5, 3578 Amount=54, 3600 Amount=18, 3577 Amount=11}, 2859 Content={2871}, 2871 Content={2854, 2866, 2865, 2866, 2868, 2854, 2867, 2867}, 2471 Content={2853 Content={3425, 2853 Content={2853 Content={2853 Content={3349, 3285}, 3409}, 3349, 3349, 3285}, 3285, 3350, 3350}, 3059, 3059, 2867 Content={2867 Content={3291, 3291, 3291}, 3292, 3292, 3292, 3292, 3454, 2858 Content={2857, 2858, 2857}, 3483, 3456}, 3492 Amount=7, 3492 Amount=100, 3492 Amount=100}}, 2656}
+0-23: ProtectionZone, Content={434}
+0-24: ProtectionZone, Content={408, 3198 Charges=5, 2868, 2469}
+0-25: ProtectionZone, Content={408, 3160 Charges=1, 2869, 2469 Content={3166 Charges=2}}
+0-26: ProtectionZone, Content={408, 3155 Charges=1, 2870, 2469 Content={3153 Charges=1}}
+0-27: Content={408, 1282}
+1-16: Content={1284}
+1-17: Content={408, 1281}
+1-18: Content={408, 1281}
+1-19: Content={408, 1281}
+1-20: Content={408, 1735}
+1-21: Content={408, 1287}
+1-22: Content={408, 1281}
+1-23: Content={408, 1281}
+1-24: Content={408, 1281}
+1-25: Content={408, 1735}
+1-26: Content={408, 1281}
+1-27: Content={408, 1285}

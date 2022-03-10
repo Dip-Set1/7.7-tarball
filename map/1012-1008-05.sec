@@ -1,0 +1,290 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1012/1008/5
+
+0-0: Refresh, Content={408}
+0-1: Content={408, 1282}
+0-2: ProtectionZone, Content={408}
+0-3: ProtectionZone, Content={408}
+0-4: ProtectionZone, Content={408}
+0-5: ProtectionZone, Content={408, 2321}
+0-6: Content={408, 1734}
+0-11: Content={2154, 439}
+0-12: Refresh, Content={408}
+0-13: Content={408, 1734}
+0-14: ProtectionZone, Content={408, 3419, 3734 Amount=1, 2469}
+0-15: ProtectionZone, Content={408, 3071, 3734 Amount=1, 2469}
+0-16: ProtectionZone, Content={408, 3734 Amount=1, 2469}
+0-17: ProtectionZone, Content={408, 2321, 3098, 3385, 3734 Amount=1}
+0-18: Content={408, 1290}
+0-19: Content={2157, 442}
+0-20: Content={449}
+1-0: Refresh, Content={408}
+1-1: Content={408, 1284}
+1-2: Refresh, Content={408, 1281}
+1-3: Refresh, Content={408, 1281}
+1-4: Refresh, Content={408, 1281}
+1-5: Refresh, Content={408, 1281, 2907}
+1-6: Refresh, Content={408, 1287}
+1-7: Content={2156, 441}
+1-8: Content={2156, 441}
+1-9: Content={2156, 441, 2156, 441}
+1-10: Content={2156, 441}
+1-11: Content={2154, 2156, 443}
+1-12: Refresh, Content={408}
+1-13: Content={408, 1290}
+1-14: Content={408, 1281}
+1-15: Content={408, 1281}
+1-16: Content={408, 1281, 2908}
+1-17: Content={408, 1281}
+1-18: Content={408, 1289}
+2-0: Refresh, Content={408}
+2-1: Refresh, Content={408}
+2-2: Refresh, Content={408}
+2-3: Refresh, Content={408}
+2-4: Refresh, Content={408}
+2-5: Refresh, Content={408}
+2-6: Refresh, Content={408}
+2-7: Refresh, Content={408}
+2-8: Refresh, Content={408}
+2-9: Refresh, Content={408}
+2-10: Refresh, Content={408}
+2-11: Refresh, Content={408}
+2-12: Refresh, Content={408}
+2-13: ProtectionZone, Content={408, 1640 String="# Players allowed to open this door\nLegolastheking"}
+2-14: ProtectionZone, Content={408, 3084 RemainingUses=223}
+2-15: ProtectionZone, Content={408, 3083 RemainingUses=150}
+2-16: ProtectionZone, Content={408, 3084 RemainingUses=250}
+2-17: ProtectionZone, Content={408, 2387}
+2-18: Content={408, 1290}
+2-19: Content={2156, 441}
+2-20: Content={450}
+3-0: Content={408, 1735}
+3-1: Content={408, 1288}
+3-2: Content={408, 1281}
+3-3: Content={408, 1281}
+3-4: Content={408, 1281}
+3-5: ProtectionZone, Content={408, 1639 String="# Players allowed to open this door\nsamego dalin\npallus invi\n"}
+3-6: Content={408, 1288}
+3-7: Content={408, 1281, 2647}
+3-8: Content={408, 1735}
+3-9: Content={408, 1281, 2656}
+3-10: Content={408, 1735}
+3-11: Content={408, 1281, 2908}
+3-12: ProtectionZone, Content={408, 1638 String="# Players allowed to open this  door. Silver Warrior Of Fear\nDrew Bo\nAndrew Robinson"}
+3-13: Content={408, 1289}
+3-14: ProtectionZone, Content={408, 2535}
+3-15: ProtectionZone, Content={408, 3598 Amount=6, 3582 Amount=15}
+3-16: ProtectionZone, Content={408, 3093 SavedExpireTime=1798, 3279, 3425}
+3-17: ProtectionZone, Content={408, 3327, 3446 Amount=100}
+3-18: Content={408, 1734}
+3-19: ProtectionZone, Content={408}
+3-20: Content={2158, 440}
+4-1: Content={1282}
+4-2: ProtectionZone, Content={408, 2487}
+4-3: ProtectionZone, Content={408, 2488}
+4-4: ProtectionZone, Content={408}
+4-5: ProtectionZone, Content={408}
+4-6: Content={408, 1282}
+4-7: ProtectionZone, Content={408, 2535}
+4-8: ProtectionZone, Content={408, 2446}
+4-9: ProtectionZone, Content={408, 2976}
+4-10: ProtectionZone, Content={408}
+4-11: ProtectionZone, Content={408}
+4-12: ProtectionZone, Content={408, 3172 Charges=1}
+4-13: Content={408, 1282}
+4-14: ProtectionZone, Content={408, 3736 Amount=1, 3008, 2469 Content={3447 Amount=17}, 2647}
+4-15: ProtectionZone, Content={408, 3092 SavedExpireTime=1660, 3377, 2647}
+4-16: ProtectionZone, Content={408, 3446 Amount=100, 3446 Amount=47, 3059}
+4-17: ProtectionZone, Content={408, 3004, 2867 Content={3492 Amount=99}}
+4-18: Content={408, 1282}
+4-19: ProtectionZone, Content={408}
+4-20: Content={2155, 440}
+5-1: Content={1282}
+5-2: ProtectionZone, Content={408}
+5-3: ProtectionZone, Content={408}
+5-4: ProtectionZone, Content={408}
+5-5: ProtectionZone, Content={408}
+5-6: Content={408, 1282, 2647}
+5-7: ProtectionZone, Content={408, 2029}
+5-8: ProtectionZone, Content={408, 2867}
+5-9: ProtectionZone, Content={408, 2870 Content={3372, 3350}}
+5-10: ProtectionZone, Content={408}
+5-11: ProtectionZone, Content={408, 2368}
+5-12: ProtectionZone, Content={408, 3188 Charges=2}
+5-13: Content={408, 1282}
+5-14: ProtectionZone, Content={408, 3189 Charges=2, 2469, 2647}
+5-15: ProtectionZone, Content={408, 3174 Charges=5, 2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2667}
+5-16: ProtectionZone, Content={408, 3114 Amount=2, 2659}
+5-17: ProtectionZone, Content={408, 3305, 3421, 2647}
+5-18: ProtectionZone, Content={408, 1640 String="# Players allowed to open this door\nLegolastheking"}
+5-19: ProtectionZone, Content={408}
+5-20: Content={2155, 440}
+6-1: Content={1734}
+6-2: ProtectionZone, Content={408}
+6-3: ProtectionZone, Content={408}
+6-4: ProtectionZone, Content={408}
+6-5: ProtectionZone, Content={408}
+6-6: Content={408, 1282, 2910}
+6-7: ProtectionZone, Content={408, 2493}
+6-8: ProtectionZone, Content={408, 2497 String="Andrew Robinson"}
+6-9: ProtectionZone, Content={408}
+6-10: ProtectionZone, Content={408, 2484}
+6-11: ProtectionZone, Content={408, 3059, 2314}
+6-12: ProtectionZone, Content={408, 3172 Charges=2}
+6-13: Content={408, 1282, 2910}
+6-14: ProtectionZone, Content={408, 2493}
+6-15: ProtectionZone, Content={408, 2493}
+6-16: ProtectionZone, Content={408, 2387, 3198 Charges=1, 2667}
+6-17: ProtectionZone, Content={408, 2368, 2647}
+6-18: Content={408, 1282}
+6-19: ProtectionZone, Content={408}
+6-20: Content={2155, 440}
+7-1: Content={1282, 2910}
+7-2: ProtectionZone, Content={408}
+7-3: ProtectionZone, Content={408}
+7-4: ProtectionZone, Content={408}
+7-5: ProtectionZone, Content={408, 2321}
+7-6: Content={408, 1282}
+7-7: ProtectionZone, Content={408, 2494}
+7-8: ProtectionZone, Content={408, 2498}
+7-9: ProtectionZone, Content={408}
+7-10: ProtectionZone, Content={408}
+7-11: ProtectionZone, Content={408, 2377}
+7-12: ProtectionZone, Content={408, 2321, 3083 RemainingUses=150, 3059}
+7-13: Content={408, 1282}
+7-14: ProtectionZone, Content={408, 2494}
+7-15: ProtectionZone, Content={408, 2494}
+7-16: ProtectionZone, Content={408, 3050, 3077, 3279, 2667}
+7-17: ProtectionZone, Content={408, 2321, 3289, 3574}
+7-18: Content={408, 1290}
+7-19: Content={2157, 442}
+7-20: Content={449}
+8-1: Content={1284}
+8-2: Content={408, 1288}
+8-3: Content={408, 1735}
+8-4: ProtectionZone, Content={408, 1639 String="# Players allowed to open this door\nsamego dalin"}
+8-5: Content={408, 1288}
+8-6: Content={408, 1287}
+8-7: Content={408, 1288}
+8-8: Content={408, 1735}
+8-9: ProtectionZone, Content={408, 1638}
+8-10: Content={408, 1281, 2656}
+8-11: Content={408, 1735}
+8-12: Content={408, 1288}
+8-13: Content={408, 1287}
+8-14: Content={408, 1281}
+8-15: Content={408, 1281}
+8-16: Content={408, 1281}
+8-17: Content={408, 1281}
+8-18: Content={408, 1285}
+9-2: Content={2154, 439}
+9-3: ProtectionZone, Content={408}
+9-4: ProtectionZone, Content={408}
+9-5: Content={2155, 440}
+9-7: Content={2154, 439}
+9-8: ProtectionZone, Content={408, 2433 Content={2871 Content={3031 Amount=82, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=2}, 2868 Content={3077, 3322, 3017, 3327, 3008, 3045 RemainingUses=196, 3017, 3066, 3066, 3074}, 3483, 3492 Amount=100}}
+9-9: ProtectionZone, Content={408}
+9-10: ProtectionZone, Content={408}
+9-11: ProtectionZone, Content={408}
+9-12: Content={2155, 440}
+10-2: Content={448}
+10-3: Content={2159, 442}
+10-4: Content={2157, 442}
+10-5: Content={449}
+10-7: Content={448}
+10-8: Content={2159, 442}
+10-9: Content={2157, 442}
+10-10: Content={2157, 442}
+10-11: Content={2157, 442}
+10-12: Content={449}
+12-1: Content={1155}
+12-2: Content={1154}
+12-3: Content={1154}
+12-4: Content={1154}
+12-5: Content={1154}
+12-6: Content={5054}
+13-1: Content={1153}
+13-2: ProtectionZone, Content={1152}
+13-3: ProtectionZone, Content={1152}
+13-4: ProtectionZone, Content={1152}
+13-5: ProtectionZone, Content={1152}
+13-6: Content={5052}
+14-1: Content={1153}
+14-2: ProtectionZone, Content={5081}
+14-3: ProtectionZone, Content={1152}
+14-4: ProtectionZone, Content={1152}
+14-5: ProtectionZone, Content={1152}
+14-6: Content={5052}
+15-1: Content={1153}
+15-2: ProtectionZone, Content={1152}
+15-3: ProtectionZone, Content={1152}
+15-4: ProtectionZone, Content={1152}
+15-5: ProtectionZone, Content={1152}
+15-6: Content={5052}
+16-1: Content={1153}
+16-2: ProtectionZone, Content={1152}
+16-3: ProtectionZone, Content={1152}
+16-4: ProtectionZone, Content={1152}
+16-5: ProtectionZone, Content={1152}
+16-6: Content={5052}
+17-1: Content={5048}
+17-2: Content={5049}
+17-3: Content={5049}
+17-4: Content={5049}
+17-5: Content={5049}
+17-6: Content={5050}
+23-1: Refresh, Content={1155}
+23-2: Refresh, Content={1154}
+23-3: Refresh, Content={1154}
+23-4: Refresh, Content={1154}
+23-5: Refresh, Content={1154}
+23-6: Content={5054}
+24-1: Refresh, Content={1153}
+24-2: Refresh, Content={1152}
+24-3: Refresh, Content={1152}
+24-4: Refresh, Content={1152}
+24-5: Refresh, Content={1152}
+24-6: Content={5052}
+25-1: Refresh, Content={1153}
+25-2: Refresh, Content={1152}
+25-3: Refresh, Content={1152}
+25-4: Refresh, Content={1152}
+25-5: Refresh, Content={1152}
+25-6: Content={5052}
+26-1: Refresh, Content={1153}
+26-2: Refresh, Content={1152}
+26-3: Refresh, Content={1152}
+26-4: Refresh, Content={1152}
+26-5: Refresh, Content={1152}
+26-6: Content={5052}
+27-1: Refresh, Content={1153}
+27-2: Refresh, Content={1152}
+27-3: Refresh, Content={1152}
+27-4: Refresh, Content={1152}
+27-5: Refresh, Content={1152}
+27-6: Content={5052}
+28-1: Refresh, Content={1153}
+28-2: Refresh, Content={1152}
+28-3: Refresh, Content={1152}
+28-4: Refresh, Content={1152}
+28-5: Refresh, Content={1152}
+28-6: Content={5052}
+29-1: Refresh, Content={1153}
+29-2: Refresh, Content={1152}
+29-3: Refresh, Content={1152}
+29-4: Refresh, Content={1152}
+29-5: Refresh, Content={1152}
+29-6: Content={5052}
+30-1: Content={5048}
+30-2: Content={5049}
+30-3: Content={5049}
+30-4: Content={5049}
+30-5: Content={5049}
+30-6: Content={5050}
+31-1: Refresh, Content={1162}
+31-2: Refresh, Content={1157}
+31-3: Refresh, Content={1157}
+31-4: Refresh, Content={1157}
+31-5: Refresh, Content={1157}
+31-6: Refresh, Content={1157}
+31-7: Refresh, Content={1157}

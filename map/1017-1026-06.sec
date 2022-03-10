@@ -1,0 +1,26 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1017/1026/6
+
+0-16: Content={3769}
+1-4: Content={3767}
+2-10: Content={3769}
+3-10: Content={3763}
+6-13: Content={3768}
+7-5: Content={3769}
+8-1: Content={3767}
+9-17: Content={3764}
+10-17: Content={3764}
+10-29: Content={3769}
+12-9: Content={3763}
+14-25: Content={3767}
+16-7: Content={3767}
+16-13: Content={3767}
+21-17: Content={3766}
+21-28: Content={3767}
+23-5: Content={3768}
+24-6: Content={3768}
+26-29: Content={3768}
+27-15: Content={3763}
+28-7: Content={3763}
+29-7: Content={3768}
+31-23: Content={3769}

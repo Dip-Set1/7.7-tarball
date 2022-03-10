@@ -1,0 +1,1027 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1039/1012/7
+
+0-0: Content={231}
+0-1: Refresh, Content={231}
+0-2: Refresh, Content={231}
+0-3: Refresh, Content={231}
+0-4: Refresh, Content={982, 4758}
+0-5: Refresh, Content={982, 4754}
+0-6: Refresh, Content={982}
+0-7: Refresh, Content={982}
+0-8: Refresh, Content={982}
+0-9: Refresh, Content={982}
+0-10: Refresh, Content={982}
+0-11: Content={982, 1283}
+0-12: Content={982, 1281, 2656}
+0-13: Content={982, 1281, 2656}
+0-14: Content={982, 1735}
+0-15: Content={982, 1281}
+0-16: Content={982, 1288}
+0-17: Content={982, 1281}
+0-18: Content={982, 1281}
+0-19: Content={982, 1281}
+0-20: Content={982, 1735}
+0-21: Content={982, 1281, 2908}
+0-22: Content={982, 1288}
+0-23: Content={982, 1281}
+0-24: Content={982, 1281, 2638}
+0-25: Content={982, 1735}
+0-26: Content={982, 1281, 2908}
+0-27: Content={982, 1286}
+0-28: Refresh, Content={982}
+0-29: Refresh, Content={982}
+0-30: Refresh, Content={982}
+0-31: Refresh, Content={982}
+1-0: Content={231}
+1-1: Content={231}
+1-2: Refresh, Content={231}
+1-3: Refresh, Content={231}
+1-4: Refresh, Content={231}
+1-5: Refresh, Content={982, 4749}
+1-6: Refresh, Content={982}
+1-7: Refresh, Content={982}
+1-8: Refresh, Content={982}
+1-9: Refresh, Content={982}
+1-10: Refresh, Content={982}
+1-11: Content={982, 1282, 2656}
+1-12: ProtectionZone, Content={429, 3139, 2901, 2991, 2949, 2349, 3349, 3056 RemainingUses=200, 3031 Amount=1, 3282, 3447 Amount=8, 2871 Content={2871, 2871, 2871, 2871, 2871, 2871}, 2853, 2853, 2853 Content={2853 Content={2853 Content={2853}}}, 2853 Content={2853 Content={2853}, 2853}, 3308, 3504 Content={3012, 2867 Content={2853 Content={3453, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 3349, 3349, 3349}, 2866 Content={3457, 3457, 3457, 3457, 3457, 3457, 3457}}, 3299, 3349, 3330, 3349, 3588 Amount=6, 3275, 3483, 2853 Content={2853 Content={2853}}, 3349, 3505 String="aza , te tome 1k del suelo , sry , alrrato te los pagfo , lo prometo , si no me gaan la kasa ke kiero robar =P" Editor="Gustavo the shadow master", 3282, 3282, 3372, 3349, 3301, 3557, 3349, 3299, 3505 String="que onda te estuve esperando el lunes para jugar pero no entrastes.\n\nnecesito armamento para poder pelear necesito como 2,000 flechas, las bolts ya me las acabe en estos dias ya subi a 29. espero llegar a 32 o 33 antes de entrar a la escuela, luego te paso la lana de las botas y la capa jejejejeje, para ese tiempo ya sere royal paladin y correre mas okas.\n\nte dejo descansar.\n\nbye bye" Editor="Makuba Skyknigth", 3350, 3505 String="23:04 You lose 135 hitpoints due to an attack by Thon Verin.\n22:39 Thon Verin: 22:39 Dark Sharpie: You lose 165 hitpoints due to an attack by Thon Verin.\nDark Sharpie: You lose 52 hitpoints due to an attack by Thon Verin.\n22:38 Thon Verin: with burts arrow" Editor="Thon Verin", 2425, 3299, 2425, 3504 Content={3504 Content={3504, 3504, 3504, 3504}, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504}, 2423, 3299, 2422}
+1-13: ProtectionZone, Content={429}
+1-14: ProtectionZone, Content={429}
+1-15: ProtectionZone, Content={429}
+1-16: Content={429, 1282}
+1-17: ProtectionZone, Content={429, 2541, 3285, 3483}
+1-18: ProtectionZone, Content={429}
+1-19: ProtectionZone, Content={429}
+1-20: ProtectionZone, Content={429, 2359, 2880, 2880 ContainerLiquidType=12, 3441, 3327, 3327, 2952, 2647}
+1-21: ProtectionZone, Content={429, 2961, 2647}
+1-22: Content={429, 1282}
+1-23: ProtectionZone, Content={429, 2495 String="Launo"}
+1-24: ProtectionZone, Content={429, 2496}
+1-25: ProtectionZone, Content={429, 3050, 3297, 3568, 3449 Amount=20}
+1-26: ProtectionZone, Content={429, 3042 Amount=8, 2469 Content={2854 Content={3492 Amount=38, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2868 Content={2865 Content={3031 Amount=2, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=52}, 2853 Content={3298 Amount=17, 3287 Amount=14, 3029 Amount=9, 3027 Amount=7, 3033 Amount=5, 3032 Amount=1, 3028 Amount=6}}}
+1-27: Refresh, Content={429, 1282}
+1-28: Refresh, Content={982}
+1-29: Refresh, Content={982}
+1-30: Refresh, Content={982}
+1-31: Refresh, Content={982}
+2-0: Content={231}
+2-1: Content={231}
+2-2: Refresh, Content={231}
+2-3: Refresh, Content={231}
+2-4: Refresh, Content={231}
+2-5: Refresh, Content={982, 4749}
+2-6: Refresh, Content={982}
+2-7: Refresh, Content={982}
+2-8: Refresh, Content={982}
+2-9: Refresh, Content={982}
+2-10: Refresh, Content={982}
+2-11: Content={982, 1282, 2910}
+2-12: ProtectionZone, Content={429}
+2-13: ProtectionZone, Content={429}
+2-14: ProtectionZone, Content={429}
+2-15: ProtectionZone, Content={429}
+2-16: Content={429, 1282, 2910}
+2-17: ProtectionZone, Content={429, 2029, 3056 RemainingUses=200, 3059, 2647}
+2-18: ProtectionZone, Content={429}
+2-19: ProtectionZone, Content={429}
+2-20: ProtectionZone, Content={429}
+2-21: ProtectionZone, Content={429, 3505, 3505, 2647, 3137, 3003, 3412, 3003, 3059, 3403, 3441, 2647, 2647, 3266, 2647, 3409, 2360, 3285, 3285, 3292, 3353, 3142, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 5, Flat 03\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2647, 3282, 3595 Amount=2, 3138, 3138, 3307, 2647, 3412, 3507, 3507, 3298 Amount=7, 3207 Amount=1, 2647, 2647, 3142, 3059, 2647, 2358, 3059, 3409, 3441, 2361, 3299, 3266, 2880, 3287 Amount=2, 3285, 2885, 3594, 3403, 3059, 3059, 2480 Content={3559, 3377, 2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2854, 2866 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2867, 2480 Content={2853, 3003, 3354, 3412}, 2480}, 2647}
+2-22: Content={429, 1282, 2647}
+2-23: ProtectionZone, Content={429, 3075, 3070, 3271, 3429, 3589 Amount=5, 2469 Content={2854 Content={3093 SavedExpireTime=380, 3557, 3007, 3061, 3450 Amount=1, 3061, 3304, 3061, 3093 SavedExpireTime=1787, 3357, 3357, 3557, 3557}, 2854 Content={2659, 2659, 2659, 2854 Content={2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2667, 2656, 2656, 2667, 2647, 2647, 2647, 2647, 2647, 2854 Content={2659, 2659, 2659, 2659, 2667, 2667, 2659, 2656, 2656, 2659, 2659, 2659, 2659, 2656, 2667, 2656, 2854 Content={2659, 2656, 2659, 2659, 2667, 2659, 2659, 2667, 2667, 2667, 2659, 2659, 2659, 2653, 2653, 2644, 2659, 2659, 2659, 2659}}}}}}
+2-24: ProtectionZone, Content={429, 3097, 2957, 3311, 3322, 3449 Amount=23}
+2-25: ProtectionZone, Content={429, 3052, 3297, 3271, 3380, 3449 Amount=20}
+2-26: ProtectionZone, Content={429, 2872 Content={3447 Amount=58, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3350, 3449 Amount=64, 3448 Amount=10, 3349, 3349}, 2469 Content={2857 Content={2853, 2853, 2853}, 3504 Content={3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507}}, 2871 Content={2867, 2854, 2867, 2866, 2866, 2866, 2869 Content={2868}, 2866, 2869}, 2871 Content={2854, 2854, 2854, 2866, 2854, 2866, 2871, 2871, 2871, 2871, 2871, 2871, 2866, 2871, 2871, 2866, 2854, 2854, 2868, 2868}, 2854 Content={2868, 2868, 2854, 2868, 2872, 2871, 2854, 2872, 2854, 2870, 2867, 2865, 2854, 2854, 2854, 2865, 2854, 2866}, 2854 Content={2870, 2868, 2866, 2869, 2870, 2866, 2866, 2866, 2865, 2865, 2868, 2854, 2866, 2868, 2866, 2854, 2854, 2866, 2866, 2866}, 2866 Content={2854, 2865, 2872, 2866, 2871, 2865, 2871, 2871, 2866, 2854, 2854, 2866, 2854, 2868, 2871, 2866, 2866, 2866, 2866, 2854 Content={3446 Amount=67, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}}}
+2-27: Refresh, Content={429, 1282}
+2-28: Refresh, Content={982}
+2-29: Refresh, Content={982}
+2-30: Refresh, Content={982}
+2-31: Refresh, Content={982}
+3-0: Content={231}
+3-1: Content={231}
+3-2: Content={231}
+3-3: Refresh, Content={231}
+3-4: Refresh, Content={231}
+3-5: Refresh, Content={982, 4758}
+3-6: Refresh, Content={982, 4754}
+3-7: Refresh, Content={982}
+3-8: Refresh, Content={982}
+3-9: Refresh, Content={982}
+3-10: Refresh, Content={982}
+3-11: Content={982, 1282, 2667}
+3-12: ProtectionZone, Content={429, 2493}
+3-13: ProtectionZone, Content={429, 2497 String="Envoy of the devil"}
+3-14: ProtectionZone, Content={429}
+3-15: ProtectionZone, Content={429}
+3-16: ProtectionZone, Content={429, 1641 String="# Players allowed to open this door\nthon verin\n"}
+3-17: ProtectionZone, Content={429}
+3-18: ProtectionZone, Content={429}
+3-19: ProtectionZone, Content={429}
+3-20: ProtectionZone, Content={429}
+3-21: ProtectionZone, Content={429, 2979}
+3-22: Content={429, 1282, 2910}
+3-23: ProtectionZone, Content={429, 3071, 3449 Amount=10, 2469}
+3-24: ProtectionZone, Content={429, 3092, 3081 RemainingUses=5, 3322, 3356}
+3-25: ProtectionZone, Content={429, 3049, 3323, 3279, 3449 Amount=20}
+3-26: ProtectionZone, Content={429, 3177 Charges=1, 2469 Content={2854 Content={2868 Content={3200 Charges=1, 3200 Charges=1, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2868 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2866 Content={3148 Charges=1, 3188 Charges=3, 3188 Charges=3, 3164 Charges=3, 3164 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2854, 2867 Content={2870 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}}, 2866 Content={2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}}}
+3-27: Content={429, 1734}
+3-28: Refresh, Content={982}
+3-29: Refresh, Content={982}
+3-30: Refresh, Content={982}
+3-31: Refresh, Content={982}
+4-0: Content={231}
+4-1: Content={231}
+4-2: Content={231}
+4-3: Refresh, Content={231}
+4-4: Refresh, Content={231}
+4-5: Refresh, Content={231}
+4-6: Refresh, Content={982, 4749}
+4-7: Refresh, Content={982}
+4-8: Refresh, Content={982}
+4-9: Refresh, Content={982}
+4-10: Refresh, Content={982}
+4-11: Content={982, 1282}
+4-12: ProtectionZone, Content={429, 2494}
+4-13: ProtectionZone, Content={429, 2498}
+4-14: ProtectionZone, Content={429}
+4-15: ProtectionZone, Content={429}
+4-16: Content={429, 1282, 2664 RemainingExpireTime=244}
+4-17: ProtectionZone, Content={429}
+4-18: ProtectionZone, Content={429}
+4-19: ProtectionZone, Content={429}
+4-20: ProtectionZone, Content={429}
+4-21: ProtectionZone, Content={429}
+4-22: Content={429, 1282, 2667}
+4-23: ProtectionZone, Content={429, 3091, 3284 RemainingUses=1, 3280, 3073, 3418, 3589 Amount=5, 2469}
+4-24: ProtectionZone, Content={429, 3093 SavedExpireTime=1798, 3071, 3346, 3428, 3449 Amount=20}
+4-25: ProtectionZone, Content={429, 3093 SavedExpireTime=1791, 3284 RemainingUses=1, 3210, 3449 Amount=20}
+4-26: ProtectionZone, Content={429, 3046 SavedExpireTime=2996, 2469 Content={2854 Content={3457, 3003, 3456, 3456, 2815 Editor="Launo", 2814 String="t aprecio we pase momntos muy chidos y m diverti mucho cuando haciamos pendejadas..cm cuando nos enojabamos por morir...cuando la ksa...thx x ser mi bro nunk t olvidare 100pre seras Launo...MI BRO!!!CUIDATE CABRON!!!TKM!T KIERO WE GRAX X TODO HIJO DE TU PUTA MADRE!!!NOS VEMOS WE!!AHI VEZ A TU NEW BRO...Drupyy...CUIDATE!!!\nT kiero cabron!!!aunq no t conosco en rl " Editor="Launo", 3059, 3059, 3059, 3456}, 2853 Content={2853 Content={2969 KeyNumber=3650, 2969 KeyNumber=3620, 2970 KeyNumber=3142, 2969 KeyNumber=3610, 2969 KeyNumber=3008, 2969 KeyNumber=3033}, 2969 KeyNumber=3600, 2969 KeyNumber=4600, 2970 KeyNumber=3802, 2973 KeyNumber=3520, 2853 Content={2969 KeyNumber=3007, 2969 KeyNumber=3006, 2969 KeyNumber=3005, 2969 KeyNumber=3004, 2969 KeyNumber=3003, 2969 KeyNumber=3002, 2969 KeyNumber=3001, 2970 KeyNumber=3012}}, 2854 Content={2853 Content={2853 Content={3286, 3286, 3286, 3358, 3264, 3264, 3286}, 2853 Content={3264, 3286, 3286, 3358, 3286}, 2853 Content={3372, 3359, 3286, 3358, 3358, 3359, 3358, 3358}, 2853 Content={3358, 3286, 3349, 3359, 3358, 2853 Content={3358, 3265, 3264, 3286, 3264, 2853 Content={3264, 3264, 3264, 3358, 3358, 3286, 3286, 3286}, 3286, 3286}, 3286, 3286}, 2853 Content={3358, 3358, 3282, 3354, 3354, 2853 Content={3354, 3286, 3286, 3286, 3354, 3354, 3286}}}, 2854 Content={3046, 3046, 3046, 3046 SavedExpireTime=3000, 3046 SavedExpireTime=3000, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 2854 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046 SavedExpireTime=462, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}}}}
+4-27: Content={429, 1734}
+4-28: Refresh, Content={982}
+4-29: Refresh, Content={982}
+4-30: Refresh, Content={982}
+4-31: Refresh, Content={982}
+5-0: Content={231}
+5-1: Content={231}
+5-2: Content={231}
+5-3: Refresh, Content={231}
+5-4: Refresh, Content={231}
+5-5: Refresh, Content={231}
+5-6: Refresh, Content={982, 4749}
+5-7: Refresh, Content={982}
+5-8: Refresh, Content={982}
+5-9: Refresh, Content={982}
+5-10: Refresh, Content={982}
+5-11: Content={982, 1290}
+5-12: Content={429, 1281}
+5-13: Content={429, 1281, 2659}
+5-14: Content={429, 1281, 2907}
+5-15: Content={429, 1281, 2659}
+5-16: Content={429, 1291}
+5-17: Refresh, Content={429, 1281}
+5-18: Refresh, Content={429, 1281}
+5-19: ProtectionZone, Content={429, 1639 String="# Players allowed to open this door\nthon verin"}
+5-20: Content={429, 1735}
+5-21: Refresh, Content={429, 1281}
+5-22: Content={429, 1289, 2910}
+5-23: ProtectionZone, Content={429, 3071, 3449 Amount=10, 2469}
+5-24: ProtectionZone, Content={429, 3092, 3081 RemainingUses=5, 3322, 3403}
+5-25: ProtectionZone, Content={429, 3049 SavedExpireTime=302, 3290, 3373, 3449 Amount=20}
+5-26: ProtectionZone, Content={429, 3589 Amount=17, 2469 Content={2859 Content={3578 Amount=85, 3578 Amount=100}, 2865 Content={3588 Amount=40, 3732 Amount=1, 3583 Amount=41, 3583 Amount=100, 3586 Amount=25, 3587 Amount=64, 3601 Amount=10, 3590 Amount=4, 3598 Amount=20, 3595 Amount=20, 3597 Amount=15, 3585 Amount=9, 3602 Amount=20, 3724 Amount=3, 3728 Amount=3, 3725 Amount=35}, 2868 Content={3308, 2970 KeyNumber=3899, 2969 KeyNumber=3620}}}
+5-27: Refresh, Content={429, 1282}
+5-28: Refresh, Content={982}
+5-29: Refresh, Content={982}
+5-30: Refresh, Content={982}
+5-31: Refresh, Content={982}
+6-0: Content={231}
+6-1: Content={231}
+6-2: Content={231}
+6-3: Refresh, Content={231}
+6-4: Refresh, Content={231}
+6-5: Refresh, Content={982, 4757}
+6-6: Refresh, Content={982, 4753}
+6-7: Refresh, Content={982}
+6-8: Refresh, Content={982}
+6-9: Refresh, Content={982}
+6-10: Refresh, Content={982}
+6-11: Content={982, 1282}
+6-12: ProtectionZone, Content={429, 2487}
+6-13: ProtectionZone, Content={429, 2488}
+6-14: ProtectionZone, Content={429, 2873, 3588 Amount=1}
+6-15: ProtectionZone, Content={429, 2873, 3588 Amount=1}
+6-16: Refresh, Content={429, 1282}
+6-17: Refresh, Content={982, 1948}
+6-18: Refresh, Content={982}
+6-19: Refresh, Content={982}
+6-20: Refresh, Content={982}
+6-21: Refresh, Content={982}
+6-22: Content={982, 1282, 2656}
+6-23: ProtectionZone, Content={429, 3075, 3070, 3271, 3429, 3589 Amount=5, 2469}
+6-24: ProtectionZone, Content={429, 3051, 3322, 3385, 3449 Amount=20}
+6-25: ProtectionZone, Content={429, 3052, 3297, 3391, 3449 Amount=20}
+6-26: ProtectionZone, Content={429, 2537, 3007, 3277 Amount=37, 3014, 3576, 3734 Amount=1, 3310}
+6-27: Refresh, Content={429, 1282}
+6-28: Refresh, Content={982}
+6-29: Refresh, Content={982}
+6-30: Refresh, Content={982}
+6-31: Refresh, Content={982}
+7-0: Content={231}
+7-1: Content={231}
+7-2: Content={231}
+7-3: Refresh, Content={231}
+7-4: Refresh, Content={231}
+7-5: Refresh, Content={982, 4758}
+7-6: Refresh, Content={982, 4754}
+7-7: Refresh, Content={982}
+7-8: Refresh, Content={982}
+7-9: Refresh, Content={982}
+7-10: Refresh, Content={982}
+7-11: Content={982, 1282}
+7-12: ProtectionZone, Content={429, 3588 Amount=11, 2314}
+7-13: ProtectionZone, Content={429, 3350, 3588 Amount=1}
+7-14: ProtectionZone, Content={429, 3350, 3588 Amount=1}
+7-15: ProtectionZone, Content={429, 3492 Amount=72, 3588 Amount=1}
+7-16: Refresh, Content={429, 1282}
+7-17: Refresh, Content={982}
+7-18: Refresh, Content={982}
+7-19: Refresh, Content={982}
+7-20: Refresh, Content={982}
+7-21: Refresh, Content={982}
+7-22: Content={982, 1284}
+7-23: Refresh, Content={429, 1281, 2931}
+7-24: Refresh, Content={429, 1281}
+7-25: ProtectionZone, Content={429, 1639 String="# Players allowed to open this door\nRoxer Senori\nLuth Senori\nLauno Aruskan"}
+7-26: Refresh, Content={429, 1281}
+7-27: Refresh, Content={429, 1285, 2929}
+7-28: Refresh, Content={982}
+7-29: Refresh, Content={982}
+7-30: Refresh, Content={982}
+7-31: Refresh, Content={982}
+8-0: Content={231}
+8-1: Content={231}
+8-2: Content={231}
+8-3: Refresh, Content={231}
+8-4: Refresh, Content={231}
+8-5: Refresh, Content={982, 4757}
+8-6: Refresh, Content={982, 4753}
+8-7: Refresh, Content={982}
+8-8: Refresh, Content={982}
+8-9: Refresh, Content={982}
+8-10: Refresh, Content={982}
+8-11: Content={982, 1734}
+8-12: ProtectionZone, Content={429, 3074, 2314}
+8-13: ProtectionZone, Content={429, 2853 Content={2874, 2874}, 3277 Amount=3, 2314}
+8-14: ProtectionZone, Content={429, 3448 Amount=5, 3588 Amount=1, 3003, 3277 Amount=1, 2314}
+8-15: ProtectionZone, Content={429, 3588 Amount=1, 2659, 3588 Amount=1}
+8-16: ProtectionZone, Content={429, 1641 String="# Players allowed to open this door\nrockbert vaquero\nlord ravenskar"}
+8-17: Refresh, Content={982}
+8-18: Refresh, Content={982}
+8-19: Refresh, Content={982}
+8-20: Refresh, Content={982}
+8-21: Refresh, Content={982}
+8-22: Refresh, Content={982}
+8-23: Refresh, Content={982}
+8-24: Refresh, Content={982}
+8-25: Refresh, Content={982}
+8-26: Refresh, Content={982}
+8-27: Refresh, Content={982}
+8-28: Refresh, Content={982}
+8-29: Refresh, Content={982}
+8-30: Refresh, Content={982}
+8-31: Refresh, Content={982}
+9-0: Content={231}
+9-1: Content={231}
+9-2: Content={231}
+9-3: Refresh, Content={231}
+9-4: Refresh, Content={231}
+9-5: Refresh, Content={982, 4758}
+9-6: Refresh, Content={982, 4754}
+9-7: Refresh, Content={982}
+9-8: Refresh, Content={982}
+9-9: Refresh, Content={982}
+9-10: Refresh, Content={982}
+9-11: Content={982, 1282, 2910}
+9-12: ProtectionZone, Content={429, 2667, 2314}
+9-13: ProtectionZone, Content={429, 3447 Amount=4, 2314, 2853 Content={3035 Amount=1, 2853 Content={3031 Amount=100}, 3031 Amount=100}}
+9-14: ProtectionZone, Content={429, 3430, 3588 Amount=1, 3003, 3457, 3277 Amount=4, 2314}
+9-15: ProtectionZone, Content={429, 3588 Amount=1, 2650, 3588 Amount=1}
+9-16: Refresh, Content={429, 1282, 2929}
+9-17: Refresh, Content={982}
+9-18: Refresh, Content={982}
+9-19: Refresh, Content={982}
+9-20: Refresh, Content={982}
+9-21: Refresh, Content={982}
+9-22: Refresh, Content={982}
+9-23: Refresh, Content={982}
+9-24: Refresh, Content={982}
+9-25: Refresh, Content={982}
+9-26: Refresh, Content={982}
+9-27: Refresh, Content={982}
+9-28: Refresh, Content={982}
+9-29: Refresh, Content={982}
+9-30: Refresh, Content={982}
+9-31: Refresh, Content={982, 3501}
+10-0: Content={231}
+10-1: Content={231}
+10-2: Content={231}
+10-3: Refresh, Content={231}
+10-4: Refresh, Content={231}
+10-5: Refresh, Content={231}
+10-6: Refresh, Content={982, 4749}
+10-7: Refresh, Content={982}
+10-8: Refresh, Content={982}
+10-9: Refresh, Content={982}
+10-10: Refresh, Content={982}
+10-11: Content={982, 1734}
+10-12: ProtectionZone, Content={429, 2853 Content={3358, 3358, 3264, 3410, 3286, 2853 Content={3410, 3358, 3354, 3286, 3286, 3352, 3358, 3264}, 2853 Content={3264, 3264, 3410, 3354, 2853 Content={3264, 3286, 3410}, 3354, 3264, 3286}, 3264}, 2314}
+10-13: ProtectionZone, Content={429, 3457, 3588 Amount=1}
+10-14: ProtectionZone, Content={429, 3457, 3588 Amount=1}
+10-15: ProtectionZone, Content={429, 3588 Amount=1}
+10-16: Content={429, 1734}
+10-17: Refresh, Content={982}
+10-18: Refresh, Content={982}
+10-19: Refresh, Content={982}
+10-20: Refresh, Content={982}
+10-21: Refresh, Content={982}
+10-22: Content={982, 1283}
+10-23: Content={982, 1281}
+10-24: Content={982, 1281, 2908}
+10-25: ProtectionZone, Content={982, 1639 String="# Players allowed to open this door\nChipi Gambler\nDraggy Gambler"}
+10-26: Content={982, 1281}
+10-27: Content={982, 1286}
+10-28: Refresh, Content={982}
+10-29: Refresh, Content={982}
+10-30: Refresh, Content={982}
+10-31: Refresh, Content={982}
+11-0: Content={231}
+11-1: Content={231}
+11-2: Content={231}
+11-3: Refresh, Content={231}
+11-4: Refresh, Content={231}
+11-5: Refresh, Content={982, 4757}
+11-6: Refresh, Content={982, 4753}
+11-7: Refresh, Content={982}
+11-8: Refresh, Content={982}
+11-9: Refresh, Content={982}
+11-10: Refresh, Content={982}
+11-11: Content={982, 1282, 2659}
+11-12: ProtectionZone, Content={429, 2472, 3588 Amount=1, 2650}
+11-13: ProtectionZone, Content={429, 2472, 3588 Amount=1, 2650}
+11-14: ProtectionZone, Content={429, 2472, 3588 Amount=1, 2650}
+11-15: ProtectionZone, Content={429, 2472, 3588 Amount=1, 2650}
+11-16: Refresh, Content={429, 1282}
+11-17: Refresh, Content={982, 2526}
+11-18: Refresh, Content={982}
+11-19: Refresh, Content={982}
+11-20: Refresh, Content={982, 1948}
+11-21: Refresh, Content={982}
+11-22: Content={982, 1282}
+11-23: ProtectionZone, Content={429, 3033 Amount=1, 3027 Amount=1, 2992 Amount=3, 3505 String="\n" Editor="Al the drinker", 2314}
+11-24: ProtectionZone, Content={429, 3507 String="Al the drinker hunt here plz respect\n" Editor="Al the drinker", 3507 String="Al the drinker hunt here plz respect\n" Editor="Al the drinker"}
+11-25: ProtectionZone, Content={429, 3062}
+11-26: ProtectionZone, Content={429, 2541}
+11-27: Refresh, Content={429, 1282, 2929}
+11-28: Refresh, Content={982}
+11-29: Refresh, Content={982}
+11-30: Refresh, Content={982}
+11-31: Refresh, Content={982}
+12-0: Content={231}
+12-1: Content={231}
+12-2: Content={231}
+12-3: Refresh, Content={231}
+12-4: Refresh, Content={982, 4757}
+12-5: Refresh, Content={982, 4753}
+12-6: Refresh, Content={982}
+12-7: Refresh, Content={982}
+12-8: Refresh, Content={982}
+12-9: Refresh, Content={982}
+12-10: Refresh, Content={982}
+12-11: Content={982, 1290}
+12-12: Content={429, 1281, 2656}
+12-13: Content={429, 1281, 2656}
+12-14: Content={429, 1281, 2908}
+12-15: Content={429, 1281, 2656}
+12-16: Content={429, 1291}
+12-17: Content={982, 1281, 2656}
+12-18: Content={982, 1281, 2656}
+12-19: ProtectionZone, Content={982, 1639 String="\nveckter gambler\n\n\n\nchipi gambler"}
+12-20: Content={982, 1735}
+12-21: Content={982, 1281, 2908}
+12-22: Content={982, 1289}
+12-23: ProtectionZone, Content={429, 3017, 3017, 3599 Amount=3, 2314}
+12-24: ProtectionZone, Content={429, 3434}
+12-25: ProtectionZone, Content={429, 3042 Amount=1}
+12-26: ProtectionZone, Content={429, 2480 Content={3180 Charges=3, 2866 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3172 Charges=3, 2866 Content={2854 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}, 2867 Content={2866 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2867 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}}, 2854 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2866 Content={2866 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2866 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2866 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}}}
+12-27: Refresh, Content={429, 1282}
+12-28: Refresh, Content={982}
+12-29: Refresh, Content={982}
+12-30: Refresh, Content={982}
+12-31: Refresh, Content={982}
+13-0: Content={231}
+13-1: Content={231}
+13-2: Content={231}
+13-3: Refresh, Content={982, 4757}
+13-4: Refresh, Content={982, 4753}
+13-5: Refresh, Content={982}
+13-6: Refresh, Content={982}
+13-7: Refresh, Content={982}
+13-8: Refresh, Content={982}
+13-9: Refresh, Content={982}
+13-10: Refresh, Content={982}
+13-11: Content={982, 1282, 2656}
+13-12: ProtectionZone, Content={429, 2991, 3505 String="holiiss.! (:\ncon musho qariño \nde la persona qe mas admiras\nbessos i abrasos\nbababae.!\nBobziitha (esposaa!xD)«\n" Editor="Bobziitha", 3492 Amount=2, 3034 Amount=1, 3007, 3297, 3449 Amount=10, 2656}
+13-13: ProtectionZone, Content={429, 3449 Amount=10, 2656}
+13-14: ProtectionZone, Content={429, 3007, 3492 Amount=2, 3034 Amount=1, 3007, 3322, 3449 Amount=10, 2656}
+13-15: ProtectionZone, Content={429, 3284 RemainingUses=1, 3071, 3322, 3449 Amount=10, 2656}
+13-16: Content={429, 1282, 2656}
+13-17: ProtectionZone, Content={429, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3492 Amount=3, 3031 Amount=1, 3492 Amount=3, 3031 Amount=1, 3449 Amount=10, 2656, 2314, 2656, 2314, 2656}
+13-18: ProtectionZone, Content={429, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3071, 3449 Amount=10, 2656, 2314, 3449 Amount=10, 2656}
+13-19: ProtectionZone, Content={429, 2656}
+13-20: ProtectionZone, Content={429, 3287 Amount=4, 3449 Amount=10, 2656, 2314, 3449 Amount=10, 2656}
+13-21: ProtectionZone, Content={429, 3071, 3007, 3449 Amount=10, 2656, 2314, 2656, 2314}
+13-22: Content={429, 1282, 2910}
+13-23: ProtectionZone, Content={429, 3351}
+13-24: ProtectionZone, Content={429, 3370}
+13-25: ProtectionZone, Content={429, 3552}
+13-26: ProtectionZone, Content={429, 2469 Content={3446 Amount=3, 3349, 3447 Amount=60, 3448 Amount=4, 3446 Amount=100, 3449 Amount=4}}
+13-27: Refresh, Content={429, 1282}
+13-28: Refresh, Content={982}
+13-29: Refresh, Content={982}
+13-30: Refresh, Content={982}
+13-31: Refresh, Content={982}
+14-0: Content={231}
+14-1: Content={231}
+14-2: Content={982, 4757}
+14-3: Refresh, Content={982, 4753}
+14-4: Refresh, Content={982}
+14-5: Refresh, Content={982}
+14-6: Refresh, Content={982}
+14-7: Refresh, Content={982}
+14-8: Refresh, Content={982}
+14-9: Refresh, Content={982}
+14-10: Refresh, Content={982}
+14-11: Content={982, 1282, 2910}
+14-12: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3007, 3297, 3449 Amount=10, 2656}
+14-13: ProtectionZone, Content={429, 3180 Charges=3, 3412, 3492 Amount=2, 3034 Amount=1, 3007, 3449 Amount=10, 2656}
+14-14: ProtectionZone, Content={429, 3034 Amount=1, 3492 Amount=4, 3034 Amount=1, 3007, 3322, 3449 Amount=10, 2656}
+14-15: ProtectionZone, Content={429, 3271, 3271, 3071, 3322, 3449 Amount=10, 2656}
+14-16: ProtectionZone, Content={429, 1640 String="# Players allowed to open this door\n\nveckter gambler\n\n\nelnoviodetum ama"}
+14-17: ProtectionZone, Content={429, 2866, 3457, 2869, 3075, 3287 Amount=1, 3039, 3287 Amount=1, 3039, 2656}
+14-18: ProtectionZone, Content={429, 2866, 3492 Amount=2, 3031 Amount=1, 3061, 3449 Amount=100, 2656}
+14-19: ProtectionZone, Content={429, 2866 Content={3198 Charges=3, 3198 Charges=5, 3147, 3147}, 4316, 3007, 3061, 3449 Amount=100, 2656}
+14-20: ProtectionZone, Content={429, 4316, 3449 Amount=90, 2656}
+14-21: ProtectionZone, Content={429, 4839, 3449 Amount=10, 2656, 2314, 3492 Amount=3, 3031 Amount=1, 3449 Amount=10, 2656}
+14-22: Content={429, 1282}
+14-23: ProtectionZone, Content={429, 3567}
+14-24: ProtectionZone, Content={429, 3483}
+14-25: ProtectionZone, Content={429, 3351, 3492 Amount=30}
+14-26: ProtectionZone, Content={429, 2473 Content={2480 Content={2969 KeyNumber=4600, 2481 Content={2473}, 2969 KeyNumber=4600, 2854 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 2917 SavedExpireTime=2996, 2969 KeyNumber=3033, 2969 KeyNumber=3033}, 2854 Content={3003, 2853 Content={3457, 3457, 3457, 3457, 3456}, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3483, 3492 Amount=100, 3483, 3483, 3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2866 Content={3077, 3008, 3056 RemainingUses=198, 3012, 3056 RemainingUses=200, 3084 RemainingUses=250, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3054 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=200}}}
+14-27: Content={429, 1734}
+14-28: Refresh, Content={982}
+14-29: Refresh, Content={982}
+14-30: Refresh, Content={982}
+14-31: Refresh, Content={982}
+15-0: Content={231}
+15-1: Content={231}
+15-2: Content={982, 4749}
+15-3: Refresh, Content={982}
+15-4: Refresh, Content={982}
+15-5: Refresh, Content={982}
+15-6: Refresh, Content={982}
+15-7: Refresh, Content={982}
+15-8: Refresh, Content={982}
+15-9: Refresh, Content={982}
+15-10: Refresh, Content={982}
+15-11: Content={982, 1734}
+15-12: ProtectionZone, Content={429, 2493}
+15-13: ProtectionZone, Content={429, 2497 String="Anita la mas bonita"}
+15-14: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3007, 3322, 3449 Amount=10, 2656}
+15-15: ProtectionZone, Content={429, 3271, 3071, 3322, 3449 Amount=10, 2656}
+15-16: Content={429, 1282, 2910}
+15-17: ProtectionZone, Content={429, 3503 Content={3412, 2970 KeyNumber=4601, 3504 Content={2816 String="You can find the ancient treasures in the Adventurers Hall."}}}
+15-18: ProtectionZone, Content={429, 3492 Amount=2, 3031 Amount=1, 3061, 3071, 3449 Amount=10, 2656}
+15-19: ProtectionZone, Content={429, 3061, 3449 Amount=60, 3449 Amount=100, 3147, 3147, 3357, 2973 KeyNumber=3520, 3287 Amount=1, 3449 Amount=100, 3449 Amount=41, 3287 Amount=1, 3492 Amount=2, 3031 Amount=1, 3061, 3071, 3449 Amount=10, 2656}
+15-20: ProtectionZone, Content={429, 3287 Amount=1, 3449 Amount=100, 2656}
+15-21: ProtectionZone, Content={429, 2656, 2314, 3492 Amount=3, 3031 Amount=1, 3449 Amount=10, 2656}
+15-22: Content={429, 1282, 2910}
+15-23: ProtectionZone, Content={429, 3059}
+15-24: ProtectionZone, Content={429, 3351, 2920, 2920}
+15-25: ProtectionZone, Content={429, 3287 Amount=1}
+15-26: ProtectionZone, Content={429, 2469 Content={2857 Content={3289, 3075, 3069, 3322, 3311, 3071, 3072, 3324}, 2866 Content={3412, 3336, 3337}, 2868 Content={2872 Content={2872, 2872, 2872}, 2870, 2871, 2865 Content={2865, 2865}, 2854 Content={2854, 2854}, 2868 Content={2868, 2868, 2868}, 2867 Content={2867}}, 2867 Content={3282, 3285, 3275, 3266, 3285, 3307}, 2866 Content={3092, 3049 SavedExpireTime=146, 3097, 3050, 3050, 3050}, 2866 Content={3353, 3413, 3353, 3353, 3409, 3409, 3385, 3425, 3409, 3409, 3409, 3409, 3353, 3409, 3409, 3574, 3375, 3425, 3375, 3377}, 2866 Content={2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2867 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}}
+15-27: Refresh, Content={429, 1282}
+15-28: Refresh, Content={982}
+15-29: Refresh, Content={982}
+15-30: Refresh, Content={982}
+15-31: Refresh, Content={982}
+16-0: Content={231}
+16-1: Content={231}
+16-2: Content={982, 4749}
+16-3: Refresh, Content={982}
+16-4: Refresh, Content={982}
+16-5: Refresh, Content={982}
+16-6: Refresh, Content={982}
+16-7: Refresh, Content={982}
+16-8: Refresh, Content={982}
+16-9: Refresh, Content={982}
+16-10: Refresh, Content={982}
+16-11: Content={982, 1282}
+16-12: ProtectionZone, Content={429, 2494}
+16-13: ProtectionZone, Content={429, 2498}
+16-14: ProtectionZone, Content={429, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3492 Amount=2, 3034 Amount=1, 3007, 3322, 3449 Amount=10, 2656}
+16-15: ProtectionZone, Content={429, 3284 RemainingUses=1, 3071, 3322, 3449 Amount=10, 2656}
+16-16: Content={429, 1282, 2656}
+16-17: ProtectionZone, Content={429, 2538, 2859, 3449 Amount=10, 2656, 2314, 2656}
+16-18: ProtectionZone, Content={429, 2866 Content={3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3147}, 3447 Amount=3, 2656, 2314}
+16-19: ProtectionZone, Content={429, 4316, 2866 Content={3061, 3061, 2656, 2656, 2656, 3031 Amount=4, 2866}, 3350, 3066, 3413, 3269, 3007, 3034 Amount=4, 2656, 2314}
+16-20: ProtectionZone, Content={429, 3492 Amount=3, 3031 Amount=1, 3007, 3061, 3031 Amount=1, 3492 Amount=3, 3446 Amount=67, 3031 Amount=1, 3492 Amount=3, 2656, 2314}
+16-21: ProtectionZone, Content={429, 3007, 3061, 3449 Amount=10, 2656, 2314, 2656, 2314}
+16-22: Content={429, 1282}
+16-23: ProtectionZone, Content={429, 2495 String="Al the drinker"}
+16-24: ProtectionZone, Content={429, 2496}
+16-25: ProtectionZone, Content={429, 2865 Content={3152 Charges=1}}
+16-26: ProtectionZone, Content={429, 2469 Content={3035 Amount=39, 2865 Content={3577 Amount=12, 3582 Amount=54, 3583 Amount=8}}}
+16-27: Refresh, Content={429, 1282}
+16-28: Refresh, Content={982}
+16-29: Refresh, Content={982}
+16-30: Refresh, Content={982}
+16-31: Refresh, Content={982}
+17-0: Content={231}
+17-1: Content={231}
+17-2: Content={982, 4758}
+17-3: Refresh, Content={982, 4750}
+17-4: Refresh, Content={982, 4754}
+17-5: Refresh, Content={982}
+17-6: Refresh, Content={982}
+17-7: Refresh, Content={982}
+17-8: Refresh, Content={982}
+17-9: Refresh, Content={982}
+17-10: Refresh, Content={982}
+17-11: Content={982, 1284}
+17-12: Refresh, Content={429, 1281}
+17-13: Refresh, Content={429, 1281}
+17-14: Content={429, 1735}
+17-15: Refresh, Content={429, 1281}
+17-16: Refresh, Content={429, 1287}
+17-17: Refresh, Content={429, 1281}
+17-18: Refresh, Content={429, 1281}
+17-19: Content={429, 1735}
+17-20: Content={429, 1735}
+17-21: Refresh, Content={429, 1281}
+17-22: Refresh, Content={429, 1287}
+17-23: Refresh, Content={429, 1281}
+17-24: Refresh, Content={429, 1281}
+17-25: Content={429, 1735}
+17-26: Refresh, Content={429, 1281}
+17-27: Content={429, 1285}
+17-28: Refresh, Content={982}
+17-29: Refresh, Content={982}
+17-30: Refresh, Content={982}
+17-31: Refresh, Content={982}
+18-0: Content={231}
+18-1: Content={231}
+18-2: Content={231}
+18-3: Refresh, Content={231}
+18-4: Refresh, Content={982, 4758}
+18-5: Refresh, Content={982, 4750}
+18-6: Refresh, Content={982, 4750}
+18-7: Refresh, Content={982, 4754}
+18-8: Refresh, Content={982}
+18-9: Refresh, Content={982}
+18-10: Refresh, Content={982}
+18-11: Refresh, Content={982}
+18-12: Refresh, Content={982}
+18-13: Refresh, Content={982}
+18-14: Refresh, Content={982}
+18-15: Refresh, Content={982}
+18-16: Refresh, Content={982}
+18-17: Refresh, Content={982}
+18-18: Refresh, Content={982}
+18-19: Refresh, Content={982}
+18-20: Refresh, Content={982}
+18-21: Refresh, Content={982}
+18-22: Refresh, Content={982}
+18-23: Refresh, Content={982}
+18-24: Refresh, Content={982}
+18-25: Refresh, Content={982}
+18-26: Refresh, Content={982}
+18-27: Refresh, Content={982}
+18-28: Refresh, Content={982}
+18-29: Refresh, Content={982}
+18-30: Refresh, Content={982}
+18-31: Refresh, Content={982}
+19-0: Content={231}
+19-1: Content={231}
+19-2: Content={231}
+19-3: Content={231}
+19-4: Refresh, Content={231}
+19-5: Refresh, Content={231}
+19-6: Refresh, Content={231}
+19-7: Refresh, Content={982, 4758}
+19-8: Refresh, Content={982, 4750}
+19-9: Refresh, Content={982, 4750}
+19-10: Refresh, Content={982, 4750}
+19-11: Refresh, Content={982, 4754}
+19-12: Refresh, Content={982}
+19-13: Refresh, Content={982}
+19-14: Refresh, Content={982}
+19-15: Refresh, Content={982}
+19-16: Refresh, Content={982}
+19-17: Refresh, Content={982}
+19-18: Refresh, Content={982}
+19-19: Refresh, Content={982}
+19-20: Refresh, Content={982}
+19-21: Refresh, Content={982}
+19-22: Refresh, Content={982}
+19-23: Refresh, Content={982}
+19-24: Refresh, Content={982}
+19-25: Refresh, Content={982}
+19-26: Refresh, Content={982}
+19-27: Refresh, Content={982}
+19-28: Refresh, Content={982}
+19-29: Refresh, Content={982}
+19-30: Refresh, Content={982}
+19-31: Refresh, Content={982}
+20-0: Content={231}
+20-1: Content={231}
+20-2: Content={231}
+20-3: Content={231}
+20-4: Refresh, Content={231}
+20-5: Refresh, Content={231}
+20-6: Refresh, Content={231}
+20-7: Refresh, Content={231}
+20-8: Refresh, Content={231}
+20-9: Refresh, Content={231}
+20-10: Refresh, Content={231}
+20-11: Refresh, Content={982, 4758}
+20-12: Refresh, Content={982, 4750}
+20-13: Refresh, Content={982, 4754}
+20-14: Refresh, Content={982, 4756}
+20-15: Refresh, Content={982, 4750}
+20-16: Refresh, Content={982, 4754}
+20-17: Refresh, Content={982}
+20-18: Refresh, Content={982}
+20-19: Refresh, Content={982}
+20-20: Refresh, Content={982}
+20-21: Refresh, Content={982}
+20-22: Refresh, Content={982}
+20-23: Refresh, Content={982}
+20-24: Refresh, Content={982}
+20-25: Refresh, Content={982}
+20-26: Refresh, Content={982}
+20-27: Refresh, Content={982}
+20-28: Refresh, Content={982}
+20-29: Refresh, Content={982}
+20-30: Refresh, Content={982}
+20-31: Refresh, Content={982}
+21-0: Content={231}
+21-1: Content={231}
+21-2: Content={231}
+21-3: Content={231}
+21-4: Content={231}
+21-5: Refresh, Content={231}
+21-6: Refresh, Content={231}
+21-7: Refresh, Content={231}
+21-8: Refresh, Content={231}
+21-9: Refresh, Content={231}
+21-10: Refresh, Content={231}
+21-11: Refresh, Content={231}
+21-12: Refresh, Content={231}
+21-13: Refresh, Content={982, 4749}
+21-14: Refresh, Content={982, 4751}
+21-15: Refresh, Content={231}
+21-16: Refresh, Content={982, 4758}
+21-17: Refresh, Content={982, 4754}
+21-18: Refresh, Content={982}
+21-19: Refresh, Content={982}
+21-20: Refresh, Content={982}
+21-21: Refresh, Content={982}
+21-22: Refresh, Content={982}
+21-23: Refresh, Content={982}
+21-24: Refresh, Content={982}
+21-25: Refresh, Content={982}
+21-26: Refresh, Content={982}
+21-27: Refresh, Content={982}
+21-28: Refresh, Content={982}
+21-29: Refresh, Content={982}
+21-30: Refresh, Content={982}
+21-31: Refresh, Content={982}
+22-0: Content={231}
+22-1: Content={231}
+22-2: Content={231}
+22-3: Content={231}
+22-4: Content={231}
+22-5: Refresh, Content={231}
+22-6: Refresh, Content={231}
+22-7: Refresh, Content={231}
+22-8: Refresh, Content={231}
+22-9: Refresh, Content={231}
+22-10: Refresh, Content={231}
+22-11: Refresh, Content={231}
+22-12: Refresh, Content={231}
+22-13: Refresh, Content={982, 4758}
+22-14: Refresh, Content={982, 4760}
+22-15: Refresh, Content={231}
+22-16: Refresh, Content={231}
+22-17: Refresh, Content={982, 4749}
+22-18: Refresh, Content={982}
+22-19: Refresh, Content={982}
+22-20: Refresh, Content={982}
+22-21: Refresh, Content={982}
+22-22: Refresh, Content={982}
+22-23: Refresh, Content={982}
+22-24: Refresh, Content={982}
+22-25: Refresh, Content={982}
+22-26: Refresh, Content={982}
+22-27: Refresh, Content={982}
+22-28: Refresh, Content={982}
+22-29: Refresh, Content={982}
+22-30: Refresh, Content={982}
+22-31: Refresh, Content={982}
+23-0: Content={231}
+23-1: Content={231}
+23-2: Content={231}
+23-3: Content={231}
+23-4: Content={231}
+23-5: Refresh, Content={231}
+23-6: Refresh, Content={231}
+23-7: Refresh, Content={231}
+23-8: Refresh, Content={231}
+23-9: Refresh, Content={231}
+23-10: Refresh, Content={231}
+23-11: Refresh, Content={231}
+23-12: Refresh, Content={231}
+23-13: Refresh, Content={231}
+23-14: Refresh, Content={231}
+23-15: Refresh, Content={231}
+23-16: Content={231, 1283}
+23-17: Content={982, 4749, 1281}
+23-18: Content={982, 1735}
+23-19: Content={982, 1281}
+23-20: Content={982, 1286}
+23-21: Refresh, Content={982}
+23-22: Refresh, Content={982}
+23-23: Content={982, 1283}
+23-24: Content={982, 1281, 2650}
+23-25: Content={982, 1735}
+23-26: Content={982, 1281, 2650}
+23-27: Content={982, 1286}
+23-28: Refresh, Content={982}
+23-29: Refresh, Content={982}
+23-30: Refresh, Content={982}
+23-31: Refresh, Content={982}
+24-0: Content={231}
+24-1: Content={231}
+24-2: Content={231}
+24-3: Content={231}
+24-4: Content={231}
+24-5: Content={231}
+24-6: Refresh, Content={231}
+24-7: Refresh, Content={231}
+24-8: Refresh, Content={231}
+24-9: Refresh, Content={231}
+24-10: Refresh, Content={231}
+24-11: Refresh, Content={231}
+24-12: Refresh, Content={231}
+24-13: Refresh, Content={231}
+24-14: Refresh, Content={231}
+24-15: Refresh, Content={231}
+24-16: Content={231, 1282}
+24-17: ProtectionZone, Content={429, 3446 Amount=90, 3446 Amount=20, 2866 Content={2853 Content={2853 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}, 3449 Amount=1, 2935, 2314}
+24-18: ProtectionZone, Content={429, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2871, 2375}
+24-19: ProtectionZone, Content={429, 2868 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3449 Amount=10}
+24-20: Refresh, Content={429, 1282, 2929}
+24-21: Refresh, Content={982}
+24-22: Refresh, Content={982}
+24-23: Content={982, 1282}
+24-24: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3071, 2376, 2659}
+24-25: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3071, 2376, 2659}
+24-26: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3071, 2376, 2659}
+24-27: Refresh, Content={429, 1282}
+24-28: Refresh, Content={982}
+24-29: Refresh, Content={982}
+24-30: Refresh, Content={982}
+24-31: Refresh, Content={982}
+25-0: Content={231}
+25-1: Content={231}
+25-2: Content={231}
+25-3: Content={231}
+25-4: Content={231}
+25-5: Content={231}
+25-6: Refresh, Content={231}
+25-7: Refresh, Content={231}
+25-8: Refresh, Content={231}
+25-9: Refresh, Content={231}
+25-10: Refresh, Content={231}
+25-11: Refresh, Content={231}
+25-12: Refresh, Content={231}
+25-13: Refresh, Content={231}
+25-14: Refresh, Content={231}
+25-15: Refresh, Content={231}
+25-16: Content={231, 1282}
+25-17: ProtectionZone, Content={429, 3578 Amount=19, 3357, 3425, 3357, 3557, 2865 Content={3552, 3092, 3092 SavedExpireTime=948, 3092}, 2377}
+25-18: ProtectionZone, Content={429, 3483, 3492 Amount=59, 3492 Amount=100, 2854, 3033 Amount=1, 3039, 3449 Amount=10}
+25-19: ProtectionZone, Content={429, 3403, 3449 Amount=10}
+25-20: ProtectionZone, Content={429, 1640 String="# Players allowed to open this door\nacid sky\nstatic ekiz"}
+25-21: Refresh, Content={982}
+25-22: Refresh, Content={982}
+25-23: ProtectionZone, Content={982, 1640 String="# Players allowed to open this door\nDragoon Wake"}
+25-24: ProtectionZone, Content={429, 3034 Amount=10, 2659}
+25-25: ProtectionZone, Content={429, 3071, 3042 Amount=10, 2659}
+25-26: ProtectionZone, Content={429, 3034 Amount=10, 2659}
+25-27: Refresh, Content={429, 1282}
+25-28: Refresh, Content={982}
+25-29: Refresh, Content={982}
+25-30: Refresh, Content={982}
+25-31: Refresh, Content={982}
+26-0: Content={231}
+26-1: Content={231}
+26-2: Content={231}
+26-3: Content={231}
+26-4: Content={231}
+26-5: Content={231}
+26-6: Refresh, Content={231}
+26-7: Refresh, Content={231}
+26-8: Refresh, Content={231}
+26-9: Refresh, Content={231}
+26-10: Refresh, Content={231}
+26-11: Refresh, Content={231}
+26-12: Refresh, Content={231}
+26-13: Refresh, Content={231}
+26-14: Refresh, Content={231}
+26-15: Refresh, Content={231}
+26-16: Content={231, 1282, 2910}
+26-17: ProtectionZone, Content={429, 3160 Charges=1, 2469 Content={2858 Content={2854 Content={3447 Amount=31, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2868 Content={3447 Amount=100, 3447 Amount=100, 2871 Content={3353, 3353, 3367, 3031 Amount=100, 3271, 3031 Amount=100, 3031 Amount=100, 3027 Amount=1, 3353}, 3447 Amount=50, 3447 Amount=100, 3447 Amount=100}}}}
+26-18: ProtectionZone, Content={429, 3449 Amount=10}
+26-19: ProtectionZone, Content={429, 3014, 3449 Amount=10}
+26-20: Refresh, Content={429, 1282}
+26-21: Refresh, Content={982}
+26-22: Refresh, Content={982, 2526}
+26-23: Content={982, 1282, 2910}
+26-24: ProtectionZone, Content={429, 3042 Amount=10, 2659}
+26-25: ProtectionZone, Content={429, 3071, 3042 Amount=5, 2659}
+26-26: ProtectionZone, Content={429, 3042 Amount=10, 2659}
+26-27: Refresh, Content={429, 1282}
+26-28: Refresh, Content={982}
+26-29: Refresh, Content={982}
+26-30: Refresh, Content={982}
+26-31: Refresh, Content={982}
+27-0: Content={231}
+27-1: Content={231}
+27-2: Content={231}
+27-3: Content={231}
+27-4: Content={231}
+27-5: Content={231}
+27-6: Content={231}
+27-7: Refresh, Content={231}
+27-8: Refresh, Content={231}
+27-9: Refresh, Content={231}
+27-10: Refresh, Content={231}
+27-11: Refresh, Content={231}
+27-12: Refresh, Content={231}
+27-13: Refresh, Content={231}
+27-14: Refresh, Content={231}
+27-15: Refresh, Content={231}
+27-16: Content={231, 1734}
+27-17: ProtectionZone, Content={429, 3177 Charges=1, 2469 Content={3449 Amount=9, 2866 Content={3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2853 Content={2969 KeyNumber=3666, 2854, 2866 Content={3147, 3147, 3147, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3031 Amount=30, 3031 Amount=100, 3031 Amount=100}, 3504 Content={2865 Content={3031 Amount=83, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2872 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3033 Amount=1, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 2872 Content={2870 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}, 3051 SavedExpireTime=501, 3349}}
+27-18: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3061, 3734 Amount=1}
+27-19: ProtectionZone, Content={429, 3010, 3069, 2992 Amount=5}
+27-20: Content={429, 1290}
+27-21: Content={982, 1281}
+27-22: Content={982, 1288}
+27-23: Content={982, 1285}
+27-24: ProtectionZone, Content={429, 3034 Amount=10, 2659}
+27-25: ProtectionZone, Content={429, 3010, 3071, 3042 Amount=1, 3065, 2659}
+27-26: ProtectionZone, Content={429, 3034 Amount=10, 2659}
+27-27: Content={429, 1734}
+27-28: Refresh, Content={982}
+27-29: Refresh, Content={982}
+27-30: Refresh, Content={982}
+27-31: Refresh, Content={982}
+28-0: Content={231}
+28-1: Content={231}
+28-2: Content={231}
+28-3: Content={231}
+28-4: Content={231}
+28-5: Content={231}
+28-6: Content={231}
+28-7: Refresh, Content={231}
+28-8: Refresh, Content={231}
+28-9: Refresh, Content={231}
+28-10: Refresh, Content={231}
+28-11: Refresh, Content={231}
+28-12: Refresh, Content={231}
+28-13: Refresh, Content={231}
+28-14: Refresh, Content={231}
+28-15: Refresh, Content={231}
+28-16: Content={231, 1282}
+28-17: ProtectionZone, Content={429, 3174 Charges=5, 2469 Content={3483}}
+28-18: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3071, 3061, 3734 Amount=1}
+28-19: ProtectionZone, Content={429, 3206, 3589 Amount=10}
+28-20: Content={429, 1282}
+28-21: ProtectionZone, Content={429, 2434 Content={3449 Amount=100, 3450 Amount=32, 2853 Content={2853 Content={3197 Charges=1, 2905, 2984, 3410, 3286, 3354, 2853 Content={3410, 2853 Content={3358, 3358, 3264, 3410, 3264, 3410}}}, 2905, 2905, 3078, 3092, 3061, 3147, 3147}, 2853, 2854 Content={2854 Content={2870 Content={3076, 3590 Amount=100, 3076, 3590 Amount=100, 3076, 3082 RemainingUses=50}}, 2853 Content={3042 Amount=1, 3033 Amount=1, 3447 Amount=60, 2969 KeyNumber=5010, 2970 KeyNumber=3303, 2969 KeyNumber=3302, 2972 KeyNumber=3304, 2970 KeyNumber=3301}, 2871 Content={3093, 3093, 3049, 3053, 3093, 3093 SavedExpireTime=1066, 2853 Content={3014, 3039}}}, 2872 Content={3505 String="Hello my beautifull fchhh!\n\nHere is a little present for you... sorry if i can't give you now what you deserve (the world)... but know that this is a present coming from my heart... i'm sorry for all the times i hurt you my love... i really love you Guillermo, and i'll try to be the woman that you deserve...\n\nWith love\nCamila" Editor="Hypnoz", 2906, 2869 Content={3586 Amount=100, 3589 Amount=11, 3599 Amount=8, 3587 Amount=8, 3590 Amount=10, 3584 Amount=10, 3590 Amount=100}, 2866 Content={3327, 3483, 3492 Amount=1, 2968 KeyNumber=3940, 2865 Content={3074, 3074, 3074}}, 3732 Amount=1, 3062, 2866 Content={3574, 3304, 3269, 3349, 3012, 3357, 3357, 3357, 3574, 3732 Amount=1, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2992 Amount=5}, 2853 Content={2970 KeyNumber=3800, 2970 KeyNumber=3802, 3598 Amount=27, 2970 KeyNumber=3801}, 2869 Content={2871}, 3004, 3004, 3004}}}
+28-22: Content={429, 1282}
+28-23: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3071, 2842 String="Hola este es mi segundo libro ke sako de dl's jeje \nAtte: Mosabus", 2659, 2314}
+28-24: ProtectionZone, Content={429, 4871, 3574, 2659}
+28-25: ProtectionZone, Content={429, 3048 RemainingUses=20, 4871, 3071, 3042 Amount=1, 3065, 2659}
+28-26: ProtectionZone, Content={429, 4871, 3574, 2659}
+28-27: Refresh, Content={429, 1282}
+28-28: Refresh, Content={982}
+28-29: Refresh, Content={982}
+28-30: Refresh, Content={982}
+28-31: Refresh, Content={982}
+29-0: Content={231}
+29-1: Content={231}
+29-2: Content={231}
+29-3: Content={231}
+29-4: Content={231}
+29-5: Content={231}
+29-6: Content={231}
+29-7: Content={231}
+29-8: Refresh, Content={231}
+29-9: Refresh, Content={231}
+29-10: Refresh, Content={231}
+29-11: Refresh, Content={231}
+29-12: Refresh, Content={231}
+29-13: Refresh, Content={231}
+29-14: Refresh, Content={231}
+29-15: Refresh, Content={231}
+29-16: Content={231, 1734}
+29-17: ProtectionZone, Content={429, 3164 Charges=3, 2469}
+29-18: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3061, 3734 Amount=1}
+29-19: ProtectionZone, Content={429, 3010, 3065, 2992 Amount=5}
+29-20: Content={429, 1284}
+29-21: ProtectionZone, Content={429, 1638 String="# Players allowed to open this door\nacid sky"}
+29-22: Content={429, 1289}
+29-23: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3071, 2842 String="hola como tas aki dejemos los mensajes plz..............\n" Editor="Marcela-knight", 2659, 2314}
+29-24: ProtectionZone, Content={429, 3034 Amount=10, 2659}
+29-25: ProtectionZone, Content={429, 3010, 3071, 3042 Amount=1, 3065, 2659}
+29-26: ProtectionZone, Content={429, 3034 Amount=10, 2659}
+29-27: Content={429, 1734}
+29-28: Refresh, Content={982}
+29-29: Refresh, Content={982}
+29-30: Refresh, Content={982}
+29-31: Refresh, Content={982}
+30-0: Content={231}
+30-1: Content={231}
+30-2: Content={231}
+30-3: Content={231}
+30-4: Content={231}
+30-5: Content={231}
+30-6: Content={231}
+30-7: Content={231}
+30-8: Content={231}
+30-9: Refresh, Content={231}
+30-10: Refresh, Content={231}
+30-11: Refresh, Content={231}
+30-12: Refresh, Content={231}
+30-13: Refresh, Content={231}
+30-14: Refresh, Content={231}
+30-15: Refresh, Content={231}
+30-16: Content={231, 1282, 2910}
+30-17: ProtectionZone, Content={429, 3155 Charges=1, 2469 Content={3504 Content={3507 String="Hypnoz\nDarashia" Editor="Hypnoz"}, 3504 Content={3507 String="Hypnoz\nDarashia" Editor="Hypnoz"}, 3504 Content={3507 String="Hypnoz\nDarashia" Editor="Hypnoz"}, 3504 Content={3507 String="Hypnoz\nDarashia" Editor="Hypnoz"}, 3504 Content={3507 String="Hypnoz\nDarashia" Editor="Hypnoz"}}}
+30-18: ProtectionZone, Content={429, 3449 Amount=10}
+30-19: ProtectionZone, Content={429, 3016, 3449 Amount=10}
+30-20: ProtectionZone, Content={429, 3271, 3297, 3373, 3449 Amount=10}
+30-21: ProtectionZone, Content={429, 3560, 3449 Amount=10}
+30-22: Content={429, 1282, 2910}
+30-23: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3071, 2842, 2659, 2314}
+30-24: ProtectionZone, Content={429, 3042 Amount=10, 2659}
+30-25: ProtectionZone, Content={429, 3071, 3042 Amount=5, 2659}
+30-26: ProtectionZone, Content={429, 3042 Amount=10, 2659}
+30-27: Refresh, Content={429, 1282}
+30-28: Refresh, Content={982}
+30-29: Refresh, Content={982}
+30-30: Refresh, Content={982}
+30-31: Refresh, Content={982, 4756}
+31-0: Content={231}
+31-1: Content={231}
+31-2: Content={231}
+31-3: Content={231}
+31-4: Content={231}
+31-5: Content={231}
+31-6: Content={231}
+31-7: Content={231}
+31-8: Content={231}
+31-9: Refresh, Content={231}
+31-10: Refresh, Content={231}
+31-11: Refresh, Content={231}
+31-12: Refresh, Content={231}
+31-13: Refresh, Content={231}
+31-14: Refresh, Content={231}
+31-15: Refresh, Content={231}
+31-16: Content={231, 1290}
+31-17: Content={429, 1286}
+31-18: ProtectionZone, Content={429, 3033 Amount=1, 3039, 3449 Amount=10}
+31-19: ProtectionZone, Content={429, 3311, 3042 Amount=6, 3436, 3449 Amount=10}
+31-20: ProtectionZone, Content={429, 4871, 3415, 3449 Amount=10}
+31-21: ProtectionZone, Content={429, 3046 SavedExpireTime=687, 3039, 3418, 3449 Amount=10}
+31-22: Content={429, 1282}
+31-23: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3071, 2842 String="Jorge Luis Ramirez Gonzales\n\nTe amo mucho, y siempre va a ser asi, espero sigamos toda la vida juntos, ya k es mi gran deceo \n\nCUMPLEMELO! \n                                     Tu Borreguita, k te                                                        ama\n                                             Fabiola :*" Editor="Dragoon Wake", 2659, 2314}
+31-24: ProtectionZone, Content={429, 3034 Amount=10, 2659}
+31-25: ProtectionZone, Content={429, 3071, 3042 Amount=10, 2659}
+31-26: ProtectionZone, Content={429, 3034 Amount=10, 2659}
+31-27: Refresh, Content={429, 1282}
+31-28: Refresh, Content={982}
+31-29: Refresh, Content={982}
+31-30: Refresh, Content={982}
+31-31: Refresh, Content={982, 4751}

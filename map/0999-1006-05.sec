@@ -1,0 +1,12 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 999/1006/5
+
+14-0: Refresh, Content={4515, 1108}
+14-1: Refresh, Content={4526, 1103}
+14-2: Refresh, Content={4521, 1103, 1106, 3656}
+14-3: Refresh, Content={4515, 1111, 1101, 3656}
+15-0: Refresh, Content={4529, 1100}
+15-1: Refresh, Content={4529, 1106, 2547 ChestQuestNumber=17 Content={3587 Amount=1}}
+15-2: Refresh, Content={4518, 1110}
+16-0: Refresh, Content={4517, 1109, 3656}
+16-1: Refresh, Content={4515, 1110, 3656}

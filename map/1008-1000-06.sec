@@ -1,0 +1,351 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1008/1000/6
+
+1-11: ProtectionZone, 
+1-12: ProtectionZone, Content={5002}
+1-13: ProtectionZone, Content={5003, 2908}
+1-14: Content={5003}
+2-10: ProtectionZone, 
+2-11: ProtectionZone, Content={5002}
+2-12: ProtectionZone, Content={5005}
+2-13: ProtectionZone, Content={408, 3068, 3734 Amount=1, 2314}
+2-14: ProtectionZone, Content={408, 5004}
+2-15: Content={5003}
+3-9: ProtectionZone, 
+3-10: ProtectionZone, Content={5002}
+3-11: ProtectionZone, Content={5005}
+3-12: ProtectionZone, Content={408, 2493}
+3-13: ProtectionZone, Content={408, 3243, 3443, 2469 Content={2656}}
+3-14: ProtectionZone, Content={408, 2493}
+3-15: ProtectionZone, Content={408, 5004}
+3-16: Content={5003}
+3-29: Refresh, Content={1192}
+3-30: Refresh, Content={1187}
+3-31: Refresh, Content={1187}
+4-8: ProtectionZone, 
+4-9: ProtectionZone, Content={5002}
+4-10: ProtectionZone, Content={5005}
+4-11: ProtectionZone, Content={408, 3429, 2469}
+4-12: ProtectionZone, Content={408, 2494}
+4-13: ProtectionZone, Content={408}
+4-14: ProtectionZone, Content={408, 2494}
+4-15: ProtectionZone, Content={408, 3052 SavedExpireTime=46, 3032 Amount=1, 3556, 3415, 3734 Amount=1, 2469}
+4-16: ProtectionZone, Content={408, 5004}
+4-17: Content={5003}
+4-29: Refresh, Content={1193}
+4-30: Refresh, Content={1188}
+4-31: Refresh, Content={1188}
+5-8: ProtectionZone, Content={5002}
+5-9: ProtectionZone, Content={5005}
+5-10: ProtectionZone, Content={408}
+5-11: ProtectionZone, Content={408, 2572}
+5-12: ProtectionZone, Content={408, 2575}
+5-13: ProtectionZone, Content={408, 2575}
+5-14: ProtectionZone, Content={408, 2575}
+5-15: ProtectionZone, Content={408, 2575}
+5-16: ProtectionZone, Content={408, 2578}
+5-17: ProtectionZone, Content={408, 5004}
+5-18: Content={5003}
+5-29: Refresh, Content={1193}
+5-30: Refresh, Content={1188}
+5-31: Refresh, Content={1188}
+6-8: ProtectionZone, Content={5004}
+6-9: ProtectionZone, Content={408, 2493}
+6-10: ProtectionZone, Content={408}
+6-11: ProtectionZone, Content={408, 2573}
+6-12: ProtectionZone, Content={408, 2576, 3044 Amount=14, 2314}
+6-13: ProtectionZone, Content={408, 2576, 3444, 2314}
+6-14: ProtectionZone, Content={408, 2576, 3445, 2314}
+6-15: ProtectionZone, Content={408, 2576, 3232, 2314}
+6-16: ProtectionZone, Content={408, 2579}
+6-17: ProtectionZone, Content={408, 2493}
+6-18: Content={408, 5004}
+6-29: Refresh, Content={1193}
+6-30: Refresh, Content={1188}
+6-31: Refresh, Content={1188}
+7-8: ProtectionZone, Content={4905}
+7-9: ProtectionZone, Content={408, 2494}
+7-10: ProtectionZone, Content={408}
+7-11: ProtectionZone, Content={408, 2573}
+7-12: ProtectionZone, Content={408, 2576}
+7-13: ProtectionZone, Content={408, 2576, 4940}
+7-14: ProtectionZone, Content={408, 2576}
+7-15: ProtectionZone, Content={408, 2576, 2854 Content={3552, 3140, 3139, 3143, 3138, 2656, 2656}}
+7-16: ProtectionZone, Content={408, 2579}
+7-17: ProtectionZone, Content={408, 2494}
+7-18: Content={408, 4905}
+7-21: Refresh, Content={447}
+7-22: Refresh, Content={441}
+7-23: Refresh, Content={441}
+7-24: Refresh, Content={441}
+7-25: Refresh, Content={450}
+7-29: Refresh, Content={1194}
+7-30: Refresh, Content={1189}
+7-31: Refresh, Content={1189}
+8-8: ProtectionZone, Content={5004, 2910}
+8-9: ProtectionZone, Content={408, 3048 RemainingUses=20, 2992 Amount=8, 3734 Amount=1, 2469}
+8-10: ProtectionZone, Content={408}
+8-11: ProtectionZone, Content={408, 2574}
+8-12: ProtectionZone, Content={408, 2577}
+8-13: ProtectionZone, Content={408, 2577}
+8-14: ProtectionZone, Content={408, 2577}
+8-15: ProtectionZone, Content={408, 2577}
+8-16: ProtectionZone, Content={408, 2580}
+8-17: ProtectionZone, Content={408, 3048 RemainingUses=20, 3323, 3026 Amount=25, 2469}
+8-18: Content={408, 5004}
+8-21: Refresh, Content={439}
+8-22: Refresh, Content={408, 2123, 2523}
+8-23: Refresh, Content={408}
+8-24: Refresh, Content={408}
+8-25: Refresh, Content={440}
+8-29: Refresh, Content={1195}
+8-30: Refresh, Content={1190}
+8-31: Refresh, Content={1190}
+9-8: ProtectionZone, Content={5004}
+9-9: ProtectionZone, Content={408, 5003}
+9-10: ProtectionZone, Content={408, 5003}
+9-11: ProtectionZone, Content={408, 5003}
+9-12: ProtectionZone, Content={408, 5003}
+9-13: ProtectionZone, Content={408, 1639}
+9-14: ProtectionZone, Content={408, 5003}
+9-15: ProtectionZone, Content={408, 5003}
+9-16: ProtectionZone, Content={408, 5003}
+9-17: ProtectionZone, Content={408, 5003}
+9-18: Content={408, 5005}
+9-21: Refresh, Content={439}
+9-22: Refresh, Content={408, 1283}
+9-23: Refresh, Content={408}
+9-24: Refresh, Content={408, 1283}
+9-25: Refresh, Content={440}
+9-29: Refresh, Content={1195}
+9-30: Refresh, Content={1190}
+9-31: Refresh, Content={1190}
+10-8: ProtectionZone, Content={5004}
+10-9: ProtectionZone, Content={408, 2572, 2487}
+10-10: ProtectionZone, Content={408, 2578, 2488}
+10-11: ProtectionZone, Content={408, 5004}
+10-12: ProtectionZone, Content={408}
+10-13: ProtectionZone, Content={408}
+10-14: ProtectionZone, Content={408, 5004}
+10-15: ProtectionZone, Content={408, 2572, 2493}
+10-16: ProtectionZone, Content={408, 2575}
+10-17: ProtectionZone, Content={408, 2578, 2493}
+10-18: Content={408, 5004}
+10-21: Refresh, Content={439}
+10-22: Refresh, Content={408}
+10-23: Refresh, Content={432}
+10-24: Refresh, Content={408}
+10-25: Refresh, Content={440}
+10-29: Refresh, Content={1196}
+10-30: Refresh, Content={1191}
+10-31: Refresh, Content={1191}
+11-8: ProtectionZone, Content={4905}
+11-9: ProtectionZone, Content={408, 2573, 3066, 2469}
+11-10: ProtectionZone, Content={408, 2579}
+11-11: ProtectionZone, Content={408, 5004}
+11-12: ProtectionZone, Content={408}
+11-13: ProtectionZone, Content={408}
+11-14: ProtectionZone, Content={408, 5004}
+11-15: ProtectionZone, Content={408, 2573, 2494}
+11-16: ProtectionZone, Content={408, 2576}
+11-17: ProtectionZone, Content={408, 2579, 2494}
+11-18: Content={408, 4905}
+11-21: Refresh, Content={439}
+11-22: Refresh, Content={408}
+11-23: Refresh, Content={408}
+11-24: Refresh, Content={408}
+11-25: Refresh, Content={440}
+12-8: ProtectionZone, Content={5004, 2910}
+12-9: ProtectionZone, Content={408, 2573, 3070, 2469 Content={3070}}
+12-10: ProtectionZone, Content={408, 2579}
+12-11: ProtectionZone, Content={408, 1641}
+12-12: ProtectionZone, Content={408}
+12-13: ProtectionZone, Content={408}
+12-14: ProtectionZone, Content={408, 5004, 2910}
+12-15: ProtectionZone, Content={408, 2573}
+12-16: ProtectionZone, Content={408, 2576}
+12-17: ProtectionZone, Content={408, 2579, 3074, 2469}
+12-18: Content={408, 5004}
+12-21: Refresh, Content={439}
+12-22: Refresh, Content={408}
+12-23: Refresh, Content={408, 1948}
+12-24: Refresh, Content={408}
+12-25: Refresh, Content={440}
+13-8: ProtectionZone, Content={5004}
+13-9: ProtectionZone, Content={408, 2573, 3069, 2469}
+13-10: ProtectionZone, Content={408, 2579}
+13-11: ProtectionZone, Content={408, 5004, 2910}
+13-12: ProtectionZone, Content={408}
+13-13: ProtectionZone, Content={408}
+13-14: ProtectionZone, Content={408, 1641}
+13-15: ProtectionZone, Content={408, 2573}
+13-16: ProtectionZone, Content={408, 2576}
+13-17: ProtectionZone, Content={408, 2579, 3075, 2469}
+13-18: Content={408, 4905}
+13-21: Refresh, Content={439}
+13-22: Refresh, Content={408, 1283}
+13-23: Refresh, Content={408}
+13-24: Refresh, Content={408, 1283}
+13-25: Refresh, Content={440}
+14-8: ProtectionZone, Content={5004}
+14-9: ProtectionZone, Content={408, 2574, 3065, 2469}
+14-10: ProtectionZone, Content={408, 2580, 2469}
+14-11: ProtectionZone, Content={408, 5004}
+14-12: ProtectionZone, Content={408}
+14-13: ProtectionZone, Content={408}
+14-14: ProtectionZone, Content={408, 5004}
+14-15: ProtectionZone, Content={408, 2574, 2469}
+14-16: ProtectionZone, Content={408, 2577, 3073, 3073, 2469}
+14-17: ProtectionZone, Content={408, 2580, 3072, 2469}
+14-18: Content={408, 5004}
+14-21: Refresh, Content={448}
+14-22: Refresh, Content={442}
+14-23: Refresh, Content={442}
+14-24: Refresh, Content={442}
+14-25: Refresh, Content={449}
+15-8: ProtectionZone, Content={5004}
+15-9: ProtectionZone, Content={408, 5003}
+15-10: ProtectionZone, Content={408, 5003}
+15-11: ProtectionZone, Content={408, 5005}
+15-12: ProtectionZone, Content={408}
+15-13: ProtectionZone, Content={408, 4940}
+15-14: ProtectionZone, Content={408, 5004}
+15-15: ProtectionZone, Content={408, 5003}
+15-16: ProtectionZone, Content={408, 5003}
+15-17: ProtectionZone, Content={408, 5003}
+15-18: Content={408, 5005}
+16-8: ProtectionZone, Content={5004}
+16-9: ProtectionZone, Content={408, 2572, 3025, 3042 Amount=25, 2469 Content={3035 Amount=28, 3043 Amount=7, 3035 Amount=100, 3035 Amount=100}}
+16-10: ProtectionZone, Content={408, 2578, 4839, 3734 Amount=1, 2469 Content={2854 Content={2869 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2871 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2854 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}}
+16-11: ProtectionZone, Content={408, 5004}
+16-12: ProtectionZone, Content={408}
+16-13: ProtectionZone, Content={408}
+16-14: ProtectionZone, Content={408, 5004}
+16-15: ProtectionZone, Content={408, 2572, 3200 Charges=3, 2469}
+16-16: ProtectionZone, Content={408, 2575, 3191 Charges=2, 2469}
+16-17: ProtectionZone, Content={408, 2578, 3178 Charges=1, 2469}
+16-18: Content={408, 5004}
+17-8: ProtectionZone, Content={4905}
+17-9: ProtectionZone, Content={408, 2573, 3315, 3418, 2469}
+17-10: ProtectionZone, Content={408, 2579}
+17-11: ProtectionZone, Content={408, 5004}
+17-12: ProtectionZone, Content={408}
+17-13: ProtectionZone, Content={408}
+17-14: ProtectionZone, Content={408, 1641}
+17-15: ProtectionZone, Content={408, 2573}
+17-16: ProtectionZone, Content={408, 2576}
+17-17: ProtectionZone, Content={408, 2579, 3164 Charges=3, 2469}
+17-18: Content={408, 4905}
+18-8: ProtectionZone, Content={5004, 2910}
+18-9: ProtectionZone, Content={408, 2573, 3048 RemainingUses=20, 3323, 3734 Amount=1, 2469 Content={3071, 3071}}
+18-10: ProtectionZone, Content={408, 2579, 2854 Content={2870 Content={2870 Content={2816 String="Dwarven guide to warfare\nLesson VI\n\nLuring elves with carrots has proven to be an ineffective tactic.", 2816 String="Technomacers, heretics or geniusses?", 2816 String="Hammerfalls tales of 1001 wife", 2816 String="Extended Vision \nMost dwarves have a excellent eyesight even in dark enviroments but this spell will one day allow you to see nearly twice as far as you currently do. What's needed is the fire of a fire element, the head of a ghoul,the essence of a red royal blossom, some water from Blood Bay and the laugh of a mute sinner. Light a fire with the flame of the fire element. Pour the water from Blood Bay into a cauldronand place it over the fire. Throw in the head of the ghoul and the essence of the red royal Blossom and mix it untill a grey myst emerges. Take some of the potion and mix it with the laugh while cooling it. Now we only need to find out the missing catalysts and the magic words to imbue it with energy.\n", 2816 String="As intensely as the orcs hate all other races, they share a feeling of community. The orcs can sense, to some extent, the feelings of other orcs. The shamans develop this ability to such an extent, that they can sense the innermost potential of newborn orc whelps. All newborn are tested and the shamans decide a future function in orcish society. The whelps are fed differently, raised differently, and educated differently. Wise men of other races say that such behavior is similar to some insects, such as bees, and through their empathetic bond might share a kind of 'hive-mind', so they refer to orc communities as hives. The chief of a hive owns a big harem of women who have no other function than to pleasure him and give birth to new orcs. These orcish matrons are usually incredibly big and fat, almost not able to walk on their own. Where 'normal' orcwomen function as laborer and craftwomen and give birth to two to three orcs in their lives, these female orcs are only reproductive machinery, giving birth to about six whelps each half year. Orcs are usually contend with their place in orcish society and only the leaders fight each other on purpose. Rarely will an orc raise a weapon against another orc, even if they are not of the same hive. Rivalry between hives is usually dissolved through a fight of their leaders and the victorious hive absorbs the other one. Now and then, when a new strong warrior reaches maturity he challenges the old leader for a fight of supremacy. Sometimes though, when the hive becomes too big for the area it occupies, such a warrior senses somehow that its time to move on. Then he and a few other orcs leave the hive in peace to settle somewhere else. This unique culture, together with its fertility, makes the orcs the most formidable threat to all other tibian communities. ", 2816 String="The elves are able to manipulate their unborn children by some kind of dream magic. This magic changes appearance and personality slightly, allowing elven parents to give birth to 'wish-kids'. In their shared dreams the elven parents seem to sculpture their child like a piece of art. Though most of the dream magic of the past is long forgotten, this rudimentary magic seems to be natural to the elves. It is possible to 'choose' things like hair or eye color and even gender. Even slight changes of the physique are possible, though considerable changes take place in the span of generations. Wise men assume this ability was a 'gift' of the gods to make more adaptable tools for the elves' war. But the mentality of the elves did not allow them to form their children in a 'convenient' way. Since most of this magic is instinctual, they form their children in an aesthetic way. On the other hand, what is seen as aesthetic is based on the philosophy of the parents and so their background changes this view dramatically. This is even more evident in the castes that were separated in the war. ", 2816 String="Introduction of the War of Welcome \n\nThe War of Welcome took place near the southern bridge, that the humans call 'the dwarf bridge'. The southern territory was once inhabited by a mighty orcish tribe and the few dwarves brave enough to stick around the mountain were constantly being hasseled by these orcish people and some were enslaved by the vile orcs! To the Northwest lie Carlin, a place inhabited by humans who struggled for survival on their own and could not help the dwarves in this matter either. As time went by the dwarves who called for war against the orcis raiders grew in number and voice. They felt they had a right to reatake these lands from the orcish invaders. \n", 2816 String="Miners Journal (title) \n\nWe've dug that deep, that even we dwarves can hardly see. Fruzek told us stories of a monster making odd sounds from below the earth.These frightening tales of the basilisk have halted our mining schedule, forcing us to double the guards protecting the miners. \n\nA Tired Miner \nMelc", 2816 String="The Brighteyes Legend\nBy: Damius Weirgroth \n\nLong ago, long before the lands of Tibia were known by this name a dwarven fellowship was founded, holding a destiny of fame, power and tragedy. These Individuals were known as the brighteye fellowship. Those who crossed them or did something to anger them never saw the light of day. It is said when enraged these dwarve's eyes grew in light that could be seen a towns distance away and they went into a bezerk frenzy killing all that opposed them. Loosing all control and compassion in that frenzy they became unbearable even to the fellowsships of the savage axes and the dragoneaters. So after great debates between the fellowships they left Kazordoon and the big old one for unknown new lands. Though some setteled at remote spots on the continent the trail of the others was lost. They are considered the lost fellowship in theese days and no britghteye was born since then in the halls of Kazordoon.", 2816 String="Dwarven report XII\nEnemy territory and settlements\n\nOur scouts recently discovered a great number of elven hideouts within the \"deeper woodlands\". They also have a great city, comparable to a capital, there, which is called Ab'Dendriel, and is mainly inhabitated by Deraisim and Cenath. The defenses are rather weak, and it seems like a lot of nomads and wanderers pass through the region.\n\nWe also found ruins within the hidden mystic valley, the structure of the buildings is typically elven. The ruins seem to be the result of a harsh thunderstorm of magic, but it was too long ago for us to find closer traces.\n\nMore interesting should be the fact, that the volcanic regions beyond the thundery mountains seem to be colonised by the elves as well. There dwells a race called Kuridai, and they seem to be the most aggressive and militant elves we encountered yet.\n\nSuggestions about possible assault targets if war will be at hand are envoiced in sub-report EY-01.\n", 2816 String="Create Beer \nNo Dwarve can resist a good mug of Jimbin's beer and this spell will one day allow you to create such beer with a few simple ingredients. Collect the hair of a troll, a mushroom of any sort, a small amount of soul from the mad mage valley, some water from around the mad mage valley and the silence befire dawn. Place the ingredients into a flask of the mad mage valley water, cork it and boil it. Remove the cork and pour a small amount of the potion into a cup and shake it. Now we have to find out how to bring in the silence gefore dawn in an appropriate way. You should then have a full cup of beer if all works as calculated so far. We estimate one potion should be a weeks suply of beer if you minimize your drinking to 7 mugs a day. \n(Oh, and don't tell jimbin about this spell) \n\nThose are the findings. It was also found that the water that flows by the mad mage valley is quite magical. One of our mages suggested that it is the \"soul of the sea\". ", 2816 String="The art of peace", 2816 String="The great book of firemagic", 2816 String="The great book of earthmagic", 2816 String="Dwarven guide to warfare\nLesson II\n\nNever wash yourself before combat - it will only lower your natural protection!", 2816 String="Dwarven Magic I\nBy Marokin \n\nMost of the other races look down upon the Dwarves because we seem to lack in magical abilites. What they don't understand is that our best mages concentrate on the magic of earth and fire, the give and take. They come up with some magic that might give us the upper hand. In theese books I will reveal some of their findings. ", 2816 String="You read in big red letters: <TOP SECRET! ONLY FOR YOUR EYES!> Dwarfish Beer ingredients and brewing", 2816 String="\"INTERESTING FACTS ABOUT KAZORDOON issue 1 \nAuthor: John Barrel \nOnce upon a time there came a horrible snakelike beeing to the deeper mines. It killed many miners, because that 'snake' was a bassilsk horrible beeing with a gaze that could turn living beeings into stone. Many heroes tried to kill it but none suceeded, some fled, most died.  One day a wise man which name is forgotten. (I did many studies but i looks like for some reason none wrote down his name) He had some knowledge about theese horrible creatures. He advised the miners to cover the minewalls with torches and lamps. Scared by the dispised bright light the basilisk retreated deeper and deeper into the mines until the mines managed to create a cave in behind him. If the miners I talked to did not make fun of me we have to assume that the bassilsk is still there...\"", 2816 String="The Prisonisle\n\nMost of the rebelious dwarves who betrayed us and allied themselves with the cyclopses and some dishonorfull human knights were prosecuted and thrown in jail on the prisonisle Dwacatra. They now have to live or fight the captured Minotaurs, Orcs, and Cyclopses they seem to like that much. \nJustice is served.\n", 2816 String="Dwarven report VII\nEnemy magic\n\nOur elemantarists have successfully unrevealed the the secrets of what is called \"dream magic\". It is a subconscious way of influencing the surroundings. It is mainly used by elven parents that want to shape their unborn child, but, this is the far more important threat, some elves, especially those called \"Teshial\" posess the ability to wander some kind of \"dream realm\" instead of the real world. This gives them the oppurtunity to appear somewhere out of the blue, but, fortunately, the Teshial never used this skill to ambush, and the other elves posess only small remnants of this magic.\nNever the less, the 2nd earthen chamber is evolving a counter spell for that, that increases the elemental signature of beings near, forcing them into the real realm.\n\nThe other kinds of their magics are limited to protective and growing spells, whicht yet do not prove any harm, but are very supportive for their strife. It is rumored that they have also a lot of illusionary and concealing spells, but investigations here have not yet led to final results, as well as we can only deny the existance of aggressive magic by an elven race od caste od unknown origin.\n\nFor further information refer to sub-report AX-27.\n"}, 2816 String="Dwarven guide to warfare\nLesson V\n\nBoats are malevolent.", 2816 String="(most pages of that book are unreadable, stained with blood and parts are burned)\nHorrible screams ..blinding light....pain...happening???....No one ....The light ...closer.....brighter...no visibility....Farewell... \n", 2816 String="The elves are able to manipulate their unborn children by some kind of dream magic. This magic changes appearance and personality slightly, allowing elven parents to give birth to 'wish-kids'. In their shared dreams the elven parents seem to sculpture their child like a piece of art. Though most of the dream magic of the past is long forgotten, this rudimentary magic seems to be natural to the elves. It is possible to 'choose' things like hair or eye color and even gender. Even slight changes of the physique are possible, though considerable changes take place in the span of generations. Wise men assume this ability was a 'gift' of the gods to make more adaptable tools for the elves' war. But the mentality of the elves did not allow them to form their children in a 'convenient' way. Since most of this magic is instinctual, they form their children in an aesthetic way. On the other hand, what is seen as aesthetic is based on the philosophy of the parents and so their background changes this view dramatically. This is even more evident in the castes that were separated in the war. ", 2816 String="War of Welcome Begins \nIt happened suddenly one morning. A group of Dwarves were passing by the Orc territory outside their mountain. They were on their way to Thais to sell off some of their jewels of the mountain. The orcs tried to ambush them but falied. The dwarves reacted quick and by valor and superior equipment defeated the raiders. This ensued the War of Welcome. After this incident the dwarves who claimed that the time had come to stand up for their beliefs and their treasure got the proof they needed to convince their brethren and sisters of their cause.  The orcs would not retreat though and prepared themselfes for war. After a year of battle the orcs were finaly crushed and the tribe scattered. The dwarves now again claimed dominance over the heart of the continent and all the land that 'where under the shadow of the big old one'. The humans of the thaian kingdom became allys to the dwarfen empires soon after theese wars and trade flourished. ", 2816 String="Miner's Entry \n\nWhat it was I cannot say! But its horrible! Horrible! We heard rumors of such things before but we just ignored them ...Im the only survivor ..that...THING...they couldn't move...they were helpless...oh why ...what....what is that..something is coming...my feet....stone... \n", 2816 String="Tousand ways to cook rotworm meat", 2816 String="Human Tongue (title) \n\nSpeaking it. (short text) \n\nby Dnobagev \n", 2816 String="Elven Tongue (title) \n\nCooking it. (short text) \n\nby Dnobagev \n", 2816 String="Mining for dummys and elves", 2816 String="Mining made easy", 2816 String="From a hole to a mine \nA step by step guide to mining", 2816 String="To give and to take\nstorys about earth and fire", 2816 String="Dwarven Magic II\nBy Marokin \nFloatation \nThis spell will one day allow any dwarf that may not be a good swimmer the ability to almost walk on water. What we found out you would probably need are the remains of a slain stone golem, the branch of a willow, the wing of a wasp, and a flask full of slime. Pour the slime into a cold cauldron and add in the other ingrediants into the cauldron and boil it. This seems to be the base of a powerful potion, though the finalization and the spells needed to enchant it are still a riddle to be solved.\n", 2816 String="I, GHOUL \nBy Himhor \n\nWithin this obscure essay lies a remarkable study of a dwarf who poses as a ghoul to view what life is like from the Ghoulish point of view. A particular emphasis of the work is the fascinating ghoulish healing habits, which the author presumes to be, unlike many warriors thinks nowadays, an effective romantic ritual which ghouls aims to the creatures they do found appealing somehow."}, 2854, 2867 Content={3003, 3457, 3147, 3197 Charges=3, 3203 Charges=1, 3195 Charges=2, 3176 Charges=2, 2854 Content={3589 Amount=12, 2903, 2835 String="Kitad Mansion\nMain Hall", 3179 Charges=1, 3061, 3051, 3051, 3061, 3301, 3051, 3051, 3051, 3051, 3051, 2903, 2903}}, 3031 Amount=100, 2469 Content={2957, 3576, 3081 RemainingUses=5, 3081 RemainingUses=5, 3081 RemainingUses=5, 3081 RemainingUses=5, 3081 RemainingUses=5, 3081 RemainingUses=5, 3081 RemainingUses=5, 3081 RemainingUses=5}, 2870 Content={2854 Content={2816 String="The dreamchallenge is far to easy, all riddles can by solved, by thinking, simple watching,  and knowledge of our ways. The coclave decided to add some real dangers to the test to make it a real challenge. The major problem by now is the Circle o.L. since it often requires a quest for the candidates but that will change soon if the monsters are added as the conclave decided. I guess the knights who cried for this kind of challange will get more then they bargained for. ", 2816 String="At last we trapped Hugo in the dungeoncellars! \nThe beast killed two dozend of our members in \nthe wild chase. \nAtfer a painfull and long hunt our mages occupied Hugo with some summoned dragons that distracted him long enough to prepare the trap. As Hugo followed the 'track' we laid for him our druids trapped him with plantbarriers and moved the earth around him. Now the beast is trapped and may Fardos, Uman and Banor give that we can keep him satiated and harmless, using the trick the druids figured out. Our aspirants will have a hard time to pass the test of Hugo, that was created around that beast. ", 2816 String="The weapons trainer is not pleased with the progress of the mages. The bodys of the sorcerors and druids are not trained enough to stand his lessons as long as they should to improve adaequately. On the other hand the Knights and the Paladins adopt to the ways of magic too slowly to see any progress above a certain given point. So we will stick to the concept of the four ways and drop the idea of the warriormages for now. Perhaps in the future we might find another way to combine the skills of arms and magic in some way. ", 2821 String="Our studies of the source of our dreams are not conclusive. The elves are no help in this matter and i doubt that they even understand what we are asking them about, because their dreams are so different to ours that there are almost no simmilaritys. \nSome of our dreams are prophetic and a great help in fighting evil. Some are so dark and desperate, that they ruin the moral of the dreamer. Others are seductive and evil, trying to lure the dreamer to the dark side. Only the weak fall prey to that seduction and that makes efficient testing of candidates important. So we will continue to use the dreams as gudiance but have to remain vigilant for the sake of our spirits and souls.", 2821 String="We tracked Goshnars daughter to the gates of Carlin but lost her within the city. Of course we got no help by the 'authorities' so I think she could hide there somewhere. It's likely that the brotherhood of bones has agents in the ctiy that gave her shelter. We think she doesn't know her fathers secrets though. Her magic tricks seemed quite normal to us. I can't say wether the rumor that she is pregnant is true. If so, nothing is known about the father of this child. Considering that Goshnar was allied with darkness we must fear the worst. So the search for Fermuba continues.", 2821 String="The dreamchalenge is completed now. \nI am glad to be a member allready, I \ndoubt even I could pass this test. \nAllthough most problems have to be solved by \nintellect the demons they summoned frighten me \nto death. Maybe we had to add something \nlike this to ensure noone passes the tests just by \nbeeing told how it works, but adding a bunch of powerfull monsters seems like madnes to me. As if Hugo wasn't dangerous enough allready!! \nI wonder where all that might lead us ...", 2816 String="The sorcerors insist, that Knightwatch Tower is a powerful tool for our order. I don't understand \nwhat they are talking about, but the conclave \nhas ordered to spend more of our resources in \nthe construction of the tower. I think the whole idea \nof building our bases here and not near the \ncity is a bad idea, regardless what they think the dreams might tell about the significance of this place. I don't see anything to guard here and I wonder if there is something to guard at all, we just draw unwanted attention to it by our presence here. Allready settlers built a little outpost west of here, as if there is not enough for us to do allready without having to protect them. ", 2821 String="We changed this remote monastery into a small fortress to guard our new secrets. There is much to learn and by now we only understand little of the secrets the elves taught us. Our dreams are not bright and revitalizing as the ones the elves told us about, but they are full of dark omen. We have to learn how to interprete them adequately. The green plains we took residence in are sometimes dangerous and so we soon will allow fighters to join our group. Some suggested to form an formally order to further our cause. The conclave will discuss this in the next meeting. ", 2816 String="The time of war is at hand. \nAt last we will face Goshnar the evil one! \nThe man that was formerly known as my \nbrother Falnus betrayed our order, humanity and the gods. We will punish him and his unholy allies. \nNow there is no truning back. We will fight and there is just death or victory. Surrender or truce is no option! \nEven if the seven are on his side we will win at last and may it cost the lives of all of us! \nNo mercy for evil! \nWith sword and magic, \nwith honour and virtue, \nfor king and country!", 2816 String="May Banor bless our souls. \nMay the kiss of Kirok bring us inspiration. \nMay Fardos give us the force of will to forge our souls to tools of good. \nMay Crunor protect our health and essence. \nMay Uman teach us to use his gifts and use them wisely.\nMay the archangels guide and guard us.", 2821 String="Today our scout party returned from the city of the minotaurs. As the dreams told us, they are not our true enemys. There is a secret power behind their attacks, filling their hearts with lies about the other races. Someone or something is using them. Though their attacks are surly just a diversion for something far more sinister and dangerous, our dreamers can't figure out what the true cause for all these fights is. I think it is crucial to parley with \nhigh ranking minotaurs about a truce. If we don't stop to waste resources on this useless war we won't be ready for the real attack of the enemy. ", 2821 String="For our deeds for king and country the king granted our order the eastern lands. The city under our protectorate is growing and will soon be as big and as beautiful as our capital. But there is much work to do and countless monsters to slay to bring peace to the green planes. Some days ago Falnus vanished and we have to accept that he is dead, probably murdered by the brotherhood. Of course even a mage of his power could also be slain by a greater number of creatures as dangerous as giant spiders, that still roam this plains. Its a hard blow to our researches in the arts of healing and recreations and the loss of a great man.", 2816 String="...\n115 gold food \n5000 gold runes and fluids\n4205 gold equipment \n3789 gold weapons and repairs \n40 gold 10x4 torches for Dream Challenge \n355 gold ammunition \n4000 gold books and paper \n...\n", 2816 String="It is certain now! We are doomed. \nI have not the heart to tell it our remaining \nbrothers and sisters, but the dreams were \nclear as seldom before: our order will be wiped \nout by the hand of time soon. \nBut at least there is some hope. The same dream that told us about our doom, hold a promise. \nIn Tibias darkest hour our order will return and \nonce again battle the forces of evil and a new \ngeneration will lead our order to greater glory than \never. May those who will come not fall prey to the same evil as we did.\n", 2821 String="The prophecies in our dreams become darker \nand darker with each month. The sages interpret it \nas omens about the falling of our order. If that is true, I only can hope that the world will remember us and our fight with gratitude and the people will have the heart to continue our work in some way. ", 2816 String="...send Almur with the new recruits to the dream-master. If they can pass the test \nthey are worthy to become Nightmare Knights. \nI don't think the Dream Challenge is too difficult. \nWe must keep our standarts even in this times \nof despair, with our enemys numerous and our \nranks thinned out! We..."}, 2821 String="... the dreammaster retreated to the world behind the curtains of awarenes, I cant reach him, now that the last hall of dreams is lost to the forces of evil. I sealed goshnars grave so noone can enter the pits without knowledge of our secret. I will try to retreat to knightwatch tower and wait for a dreamer in posession of the key, so we can travel one of the dreampathes to a saver place to regroup and plan a counterattack. I fear we have to recruit new members and only little time left to train them. I hope Taciror will not waste our last forces in a futile attack on the ruthless seven. Our order has never truly recovered from the losses in our war against Goshnar and his undead hordes. Now with the death of our leaders and best warriors in the attack of the demonic forces we don't stand a chance against our enemys. Our only hope is to gather new forces and retake the chamber of dreams. Of couse I know the right method to distract hugo long enough to get past him. The dreammaster is important to teach our recruits in the old ways and the art of dreamwalking. We need a leader for our cause and we need him bad. Headless we will fail and fall. Its already uncertain who took the nightmare chronicals out of the pits and I have no idea where they hid them. They are fighting about power and influence but unity is the key to success. Our whole order is centred about unity. All our rituals and procedures rooted on unity and sharing, they can't neglect it.", 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n", 2866 Content={2816 String="Magic of nature\nby Marvik.", 2816 String="The secrets of runemagic\nby Muriel.", 2816 String="Spells above MAG 30\nby Lord Braggart.", 2821 String="The magic of the Ghouls\nby Paramor.", 2821 String="Fun with runes\nby an unknown jester.", 2821 String="Famous Necromants\nby Muriel.", 2821 String="The dragons\nby Slygor.", 2816 String="Death, an improved form of life?\nby anonymous.", 2816 String="The Ruthless Seven\nby unknown\n\nThis confusing text seems to \ndescribe the demonic rulers \nof a place called the Pits \nof Inferno.", 2816 String="How to conjure a lag\nby C.I.P.", 2816 String="The undead\nby unknown.", 2816 String="Stylish wizard robes\nby Sonne.", 2821 String="1000 alchemical uses of urine\nby Yorin.", 2821 String="How to manipulate Runes\nby Muriel.", 2816 String="Selfmade Skeletons\n\nBy BH.", 2821 String="I can't figure out how to reanimate \ndragons and other monsters yet. \nI am sure the secret was hidden by \nthis ancient knightly order after they \ndefeated Goshnar. \nI am also sure that the 'thing' called \n'necromants nectar' is crucial to \nfind the secret entrance to the Pits \nof Inferno. And what is the meaning of \nthe phrase 'feed those in need', which \nI discovered in the ancient scrolls of my \nformer master, before he hid them from me. \nI have to find them or figure out the secret \non my own. I will never share my secrets and the success with the brotherhood, but now \nthat the summoning of Urgith went wrong I \nhave to spend to much time in fighting the \nundead back that are out of control. \nBut now, after all what I did allready to \nbecome the new necromant king, I can't give \nup and i will not. Never! \nThe secrets of death will be mine! MINE!"}, 2821 String="Banor I praise your name. \nBe with me in the battle. \nBe my shield, let me be your sword. \nI will honor the godly spark in my soul. \nMay it flourish and grow.\n", 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 2821 String="Forbidden secrets of Magic!", 2821 String="Rings of magic\nby S.\n\ndeath ring\npower ring\nenergy ring\nmight ring\nlife ring\ntime ring\n...", 2816 String="My life as a spoon\nby a victim of a bugged chamaeleon spell.", 2816 String="The language of the wolves\nby Ishara.", 2821 String="What runes are made of\nby Muriel.", 2821 String="How to create spellbooks\nby Muriel.", 2821 String="Strange things can happen\nby Magicus.", 2821 String="Flower Power\nby Cipreii.", 2821 String="Secrets of Zathroth\nThe forbidden book!", 2816 String="Demons\nBook II.", 2816 String="Demons\nBook I.", 2816 String="Vivisection made easy\nby unknown.", 2816 String="Tales from the crypt\nby an unknown necromancer."}, 2469 Content={2469 Content={2469, 2469 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"The Tibianic\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!"}}}, 3138, 2856 Content={3507 String="para pelu con mucho cariño (taba medio pobre viste XD)\nJavier :P\n" Editor="Kilua Impi Kitad"}, 2856 Content={3507 String="para juanjo un regalito pequeño tmb poruqe tamos en crisis economica o.O\njavier" Editor="Kilua Impi Kitad"}}}
+18-11: ProtectionZone, Content={408, 1641}
+18-12: ProtectionZone, Content={408}
+18-13: ProtectionZone, Content={408}
+18-14: ProtectionZone, Content={408, 5004}
+18-15: ProtectionZone, Content={408, 2573}
+18-16: ProtectionZone, Content={408, 2576}
+18-17: ProtectionZone, Content={408, 2579, 2469 Content={3198 Charges=5}}
+18-18: Content={408, 5004}
+19-8: ProtectionZone, Content={5004}
+19-9: ProtectionZone, Content={408, 2573, 5021 Amount=50, 2469 Content={3082 RemainingUses=50, 3082 RemainingUses=50, 3082 RemainingUses=50}}
+19-10: ProtectionZone, Content={408, 2579}
+19-11: ProtectionZone, Content={408, 5004, 2910}
+19-12: ProtectionZone, Content={408}
+19-13: ProtectionZone, Content={408}
+19-14: ProtectionZone, Content={408, 5004}
+19-15: ProtectionZone, Content={408, 2573}
+19-16: ProtectionZone, Content={408, 2576, 2487}
+19-17: ProtectionZone, Content={408, 2579, 2488}
+19-18: Content={408, 4905}
+19-21: Content={1283}
+19-24: Content={1283}
+20-8: ProtectionZone, Content={5004}
+20-9: ProtectionZone, Content={408, 2574, 2487}
+20-10: ProtectionZone, Content={408, 2580, 2488}
+20-11: ProtectionZone, Content={408, 5004}
+20-12: ProtectionZone, Content={408}
+20-13: ProtectionZone, Content={408}
+20-14: ProtectionZone, Content={408, 5004, 2910}
+20-15: ProtectionZone, Content={408, 2574, 3160 Charges=1, 2469}
+20-16: ProtectionZone, Content={408, 2577, 2487}
+20-17: ProtectionZone, Content={408, 2580, 2488}
+20-18: Content={408, 5004}
+21-8: ProtectionZone, Content={5004}
+21-9: ProtectionZone, Content={408, 5003}
+21-10: ProtectionZone, Content={408, 5003}
+21-11: ProtectionZone, Content={408, 5005}
+21-12: ProtectionZone, Content={408, 1639}
+21-13: ProtectionZone, Content={408, 5003}
+21-14: ProtectionZone, Content={408, 5005}
+21-15: ProtectionZone, Content={408, 5003}
+21-16: ProtectionZone, Content={408, 5003}
+21-17: ProtectionZone, Content={408, 5003}
+21-18: Content={408, 5005}
+22-8: ProtectionZone, Content={5004}
+22-9: ProtectionZone, Content={408, 3034 Amount=4, 3418, 2469 Content={2853 Content={2902, 3551, 2400, 2399, 2398, 2393}}}
+22-10: ProtectionZone, Content={408, 3053 SavedExpireTime=354, 3429, 2469}
+22-11: ProtectionZone, Content={408, 3560, 3734 Amount=1, 2469}
+22-12: ProtectionZone, Content={408}
+22-13: ProtectionZone, Content={408, 3440, 3734 Amount=1, 2469}
+22-14: ProtectionZone, Content={408, 5004}
+22-15: ProtectionZone, Content={408, 3032 Amount=26, 3734 Amount=1, 2469}
+22-16: ProtectionZone, Content={408, 3029 Amount=25, 3734 Amount=1, 2469}
+22-17: ProtectionZone, Content={408}
+22-18: Content={408, 5004}
+23-8: ProtectionZone, Content={5004}
+23-9: ProtectionZone, Content={408, 3034 Amount=2, 3295, 3419, 3734 Amount=1, 2469}
+23-10: ProtectionZone, Content={432}
+23-11: ProtectionZone, Content={408}
+23-12: ProtectionZone, Content={408}
+23-13: ProtectionZone, Content={408, 4940}
+23-14: ProtectionZone, Content={408, 5004, 2910}
+23-15: ProtectionZone, Content={408, 3030 Amount=27, 3734 Amount=1, 2469}
+23-16: ProtectionZone, Content={408}
+23-17: ProtectionZone, Content={408}
+23-18: Content={4905}
+24-8: ProtectionZone, Content={5004, 2910}
+24-9: ProtectionZone, Content={408, 3025, 3042 Amount=25, 3734 Amount=1, 2469}
+24-10: ProtectionZone, Content={408, 2854 Content={2874, 2874, 2874}, 3507 String="isoca ebrio kitad\nentrega inmediata\nBY MOgwaixv NECESITO DINERO!!!!!!!!!!!!!!!!" Editor="Mogwaixv"}
+24-11: ProtectionZone, Content={408, 3506 String="kilua impi kitad\nthais\n\nman parcel me 37k plz\n\n-celtics druids" Editor="Celtics Druids"}
+24-12: ProtectionZone, Content={408}
+24-13: ProtectionZone, Content={408, 3026 Amount=25, 2469}
+24-14: ProtectionZone, Content={408, 5004}
+24-15: ProtectionZone, Content={408}
+24-16: ProtectionZone, Content={408}
+24-17: ProtectionZone, Content={408}
+24-18: Content={5004}
+25-8: ProtectionZone, Content={4905}
+25-9: ProtectionZone, Content={408, 3034 Amount=4, 3418, 2469 Content={3410, 2974, 2393, 3264, 3059, 3059, 3409, 3425}}
+25-10: ProtectionZone, Content={408, 1948}
+25-11: ProtectionZone, Content={408, 3506 String="Kilua Impi Kitad\nThais\n\nCan you parcel my gold to thais please\n\n- Celtics Druids" Editor="Celtics Druids"}
+25-12: ProtectionZone, Content={408, 2853}
+25-13: ProtectionZone, Content={408}
+25-14: ProtectionZone, Content={408, 1641}
+25-15: ProtectionZone, Content={408}
+25-16: ProtectionZone, Content={408}
+25-17: ProtectionZone, Content={408, 3028 Amount=25, 3734 Amount=1, 2469}
+25-18: Content={408, 4905}
+26-8: ProtectionZone, Content={5004}
+26-9: ProtectionZone, Content={408, 2526}
+26-10: ProtectionZone, Content={408, 3406, 3734 Amount=1, 2469 Content={2401, 3300, 2970 KeyNumber=4601, 3412, 3293, 3077}}
+26-11: ProtectionZone, Content={408, 3048 RemainingUses=20, 3404, 3734 Amount=1, 2469}
+26-12: ProtectionZone, Content={408, 3356, 3734 Amount=1, 2469 Content={2653, 2647, 2656}}
+26-13: ProtectionZone, Content={408, 3027 Amount=35, 2469}
+26-14: ProtectionZone, Content={408, 5004}
+26-15: ProtectionZone, Content={408}
+26-16: ProtectionZone, Content={408, 3033 Amount=25, 3734 Amount=1, 2469}
+26-17: ProtectionZone, Content={408, 3034 Amount=25, 3734 Amount=1, 2469}
+26-18: Content={408, 5004}
+27-8: Content={4915}
+27-9: Content={408, 4916}
+27-10: Content={408, 5003}
+27-11: Content={408, 5003}
+27-12: Content={408, 4904}
+27-13: Content={408, 5003}
+27-14: Content={408, 5005}
+27-15: Content={408, 5003}
+27-16: Content={408, 4904}
+27-17: Content={408, 5003}
+27-18: Content={4908}
+28-13: Content={4970}

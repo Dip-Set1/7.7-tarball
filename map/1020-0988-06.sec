@@ -1,0 +1,313 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1020/988/6
+
+1-4: Refresh, 
+1-5: Refresh, Content={4518, 1108}
+1-6: Refresh, Content={4515, 1111}
+2-0: Content={1112}
+2-1: Content={1112}
+2-2: Content={1112}
+2-3: Content={1117}
+2-4: Refresh, Content={4527, 1108}
+2-5: Refresh, Content={4528, 1104}
+2-6: Refresh, Content={4515, 1102}
+3-0: Refresh, Content={355}
+3-1: Refresh, Content={352}
+3-2: Refresh, Content={354}
+3-3: Refresh, Content={351, 1082}
+3-4: Refresh, Content={4515}
+3-5: Refresh, Content={4519}
+3-6: Refresh, Content={4526, 1102}
+4-0: Refresh, Content={354}
+4-1: Refresh, Content={385}
+4-2: Refresh, Content={352}
+4-3: Refresh, Content={351, 1113}
+4-4: Refresh, Content={4515}
+4-5: Refresh, Content={4515}
+4-6: Refresh, Content={4521, 1102}
+5-0: Refresh, Content={353}
+5-1: Refresh, Content={351}
+5-2: Refresh, Content={354}
+5-3: Refresh, Content={351, 1113}
+5-4: Refresh, Content={4517}
+5-5: Refresh, Content={4515}
+5-6: Refresh, Content={4515, 1102}
+6-0: Refresh, Content={355}
+6-1: Refresh, Content={352}
+6-2: Refresh, Content={355}
+6-3: Refresh, Content={351, 1113}
+6-4: Refresh, Content={4525}
+6-5: Refresh, Content={4515}
+6-6: Refresh, Content={4515, 1102}
+7-0: Refresh, Content={354}
+7-1: Refresh, Content={352}
+7-2: Refresh, Content={352}
+7-3: Refresh, Content={353, 1125}
+7-4: Refresh, Content={4522}
+7-5: Refresh, Content={4522}
+7-6: Refresh, Content={4515, 1102}
+8-0: Refresh, Content={351}
+8-1: Refresh, Content={351}
+8-2: Refresh, Content={354}
+8-3: Refresh, Content={354, 1126}
+8-4: Refresh, Content={4515}
+8-5: Refresh, Content={4515}
+8-6: Refresh, Content={4515, 1102}
+9-0: Refresh, Content={351, 1117}
+9-1: Refresh, Content={354}
+9-2: Refresh, Content={355}
+9-3: Refresh, Content={351, 1113}
+9-4: Refresh, Content={4515, 1101}
+9-5: Refresh, Content={4518, 1101}
+9-6: Refresh, Content={4515, 1110}
+10-0: Content={1115}
+10-1: Content={351, 1112}
+10-2: Content={351, 1112}
+10-3: Content={351, 1116}
+14-22: Content={1283}
+14-23: Content={1281}
+14-24: Content={1281, 2908}
+14-25: Content={1735}
+14-26: Content={1281}
+14-27: Content={1286}
+15-22: Content={1282}
+15-23: ProtectionZone, Content={408}
+15-24: ProtectionZone, Content={408}
+15-25: ProtectionZone, Content={408, 3559}
+15-26: ProtectionZone, Content={408, 2489}
+15-27: Content={408, 1282}
+16-22: Content={1734}
+16-23: ProtectionZone, Content={408}
+16-24: ProtectionZone, Content={408}
+16-25: ProtectionZone, Content={408, 3457, 2874, 3447 Amount=6}
+16-26: ProtectionZone, Content={408, 2490}
+16-27: Content={408, 1734}
+17-22: Content={1734}
+17-23: ProtectionZone, Content={408}
+17-24: ProtectionZone, Content={408}
+17-25: ProtectionZone, Content={408, 2314, 3003, 2874, 3378, 3426, 3056 RemainingUses=200}
+17-26: ProtectionZone, Content={408, 3374, 3411, 3031 Amount=14}
+17-27: Content={408, 1734}
+18-17: Content={1283}
+18-18: Refresh, Content={1281}
+18-19: Content={1735}
+18-20: Refresh, Content={1281}
+18-21: Content={1735}
+18-22: Refresh, Content={1287, 2908}
+18-23: Refresh, Content={408, 1281}
+18-24: Refresh, Content={408, 1281}
+18-25: ProtectionZone, Content={408, 1639}
+18-26: Refresh, Content={408, 1281}
+18-27: Refresh, Content={408, 1289}
+19-17: Refresh, Content={1282}
+19-18: Refresh, Content={408}
+19-19: Refresh, Content={408}
+19-20: Refresh, Content={408}
+19-21: Refresh, Content={408}
+19-22: Refresh, Content={408}
+19-23: Refresh, Content={408, 2526}
+19-24: Refresh, Content={408}
+19-25: Refresh, Content={408}
+19-26: Refresh, Content={408, 3501}
+19-27: Refresh, Content={408, 1282}
+19-28: Refresh, Content={1771}
+19-29: Refresh, Content={1771}
+19-30: Refresh, Content={1771}
+19-31: Refresh, Content={1771}
+20-17: Content={1734}
+20-18: Refresh, Content={408}
+20-19: Refresh, Content={408, 1948}
+20-20: Refresh, Content={408}
+20-21: Refresh, Content={432}
+20-22: Refresh, Content={408}
+20-23: Refresh, Content={408}
+20-24: Refresh, Content={408}
+20-25: Refresh, Content={408}
+20-26: Refresh, Content={408}
+20-27: Refresh, Content={408, 1634}
+20-28: Refresh, Content={1771}
+20-29: Refresh, Content={1771}
+20-30: Refresh, Content={1771}
+20-31: Refresh, Content={1771}
+21-17: Content={1734}
+21-18: Refresh, Content={408}
+21-19: Refresh, Content={408}
+21-20: Refresh, Content={408}
+21-21: Refresh, Content={408}
+21-22: Refresh, Content={408}
+21-23: Refresh, Content={408}
+21-24: Refresh, Content={408}
+21-25: Refresh, Content={408}
+21-26: Refresh, Content={408}
+21-27: Content={408, 1635}
+21-28: Refresh, Content={1771}
+21-29: Refresh, Content={1771}
+22-14: Content={3625}
+22-17: Refresh, Content={1282}
+22-18: Refresh, Content={408}
+22-19: Refresh, Content={408}
+22-20: Refresh, Content={408}
+22-21: Refresh, Content={408}
+22-22: Refresh, Content={408}
+22-23: Refresh, Content={408}
+22-24: Refresh, Content={408}
+22-25: Refresh, Content={408}
+22-26: Refresh, Content={408}
+22-27: Refresh, Content={408, 1282}
+22-28: Refresh, Content={1771}
+22-29: Refresh, Content={1771}
+23-17: Content={1290}
+23-18: Content={408, 1281}
+23-19: ProtectionZone, Content={408, 1638}
+23-20: Content={408, 1288}
+23-21: Content={408, 1281}
+23-22: ProtectionZone, Content={408, 1639 String="# Players allowed to open this door\nVilad Balar\nZamurai Seso\n"}
+23-23: Content={408, 1281}
+23-24: Content={408, 1288}
+23-25: Content={408, 1281}
+23-26: ProtectionZone, Content={408, 1638}
+23-27: Refresh, Content={408, 1289}
+23-28: Refresh, Content={1771}
+23-29: Refresh, Content={1771}
+24-0: Refresh, Content={4518, 1108}
+24-1: Refresh, Content={4526, 1111}
+24-2: Refresh, 
+24-3: Refresh, 
+24-4: Refresh, 
+24-17: Content={1282}
+24-18: ProtectionZone, Content={408}
+24-19: ProtectionZone, Content={408}
+24-20: Content={408, 1282}
+24-21: ProtectionZone, Content={408, 3436, 3085 RemainingUses=200, 2433 Content={2853 Content={3446 Amount=33, 3578 Amount=60}, 3446 Amount=100, 3446 Amount=100, 3377, 3293, 3293, 3293, 2865 Content={3266, 3425, 3425, 3425, 3266, 3266, 3266, 3266, 3266, 3425, 3425, 3425, 3425}}}
+24-22: ProtectionZone, Content={408, 3075, 3449 Amount=10}
+24-23: ProtectionZone, Content={408, 2472 Content={3578 Amount=15, 3031 Amount=62, 3031 Amount=100, 2865 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2865 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3483, 3492 Amount=28, 3492 Amount=100, 3492 Amount=100, 2853 Content={3042 Amount=1}, 2865, 2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}}
+24-24: Content={408, 1282}
+24-25: ProtectionZone, Content={408}
+24-26: ProtectionZone, Content={408}
+24-27: Refresh, Content={408, 1282}
+24-28: Refresh, Content={1771}
+24-29: Refresh, Content={1771}
+25-0: Refresh, Content={4526, 1104}
+25-1: Refresh, Content={4530, 1107}
+25-2: Refresh, Content={4519, 1111}
+25-3: Refresh, 
+25-4: Refresh, 
+25-17: Content={1282, 2910}
+25-18: ProtectionZone, Content={408}
+25-19: ProtectionZone, Content={408}
+25-20: Content={408, 1282, 2910}
+25-21: ProtectionZone, Content={408, 3033 Amount=1, 3392, 3449 Amount=5, 3603 Amount=1}
+25-22: ProtectionZone, Content={408, 3567, 3449 Amount=2, 3177 Charges=1, 3603 Amount=1}
+25-23: ProtectionZone, Content={408, 3557, 3042 Amount=1, 3603 Amount=1}
+25-24: Content={408, 1282, 2910}
+25-25: ProtectionZone, Content={408}
+25-26: ProtectionZone, Content={408}
+25-27: Content={408, 1734}
+25-28: Refresh, Content={1771}
+25-29: Refresh, Content={1771}
+26-0: Refresh, Content={4515}
+26-1: Refresh, Content={4518}
+26-2: Refresh, Content={4528, 1102}
+26-3: Refresh, 
+26-4: Refresh, 
+26-17: Content={1734}
+26-18: ProtectionZone, Content={408}
+26-19: ProtectionZone, Content={408}
+26-20: Content={408, 1282}
+26-21: ProtectionZone, Content={408, 3418, 2433 Content={3446 Amount=15, 2870 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3035 Amount=52, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100}, 3092}}
+26-22: ProtectionZone, Content={408, 3075, 3449 Amount=11, 3097}
+26-23: ProtectionZone, Content={408, 2865 Content={2871 Content={3318, 3357}, 3092, 3457, 2862 Content={2865 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={2870 Content={2870 Content={2854 Content={2870 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2870 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2870 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}}}}}, 2970 KeyNumber=3800}}, 3369}
+26-24: Content={408, 1282}
+26-25: ProtectionZone, Content={408}
+26-26: ProtectionZone, Content={408}
+26-27: Refresh, Content={408, 1282}
+26-28: Refresh, Content={1771}
+26-29: Refresh, Content={1771}
+27-0: Refresh, Content={4515}
+27-1: Refresh, Content={4515}
+27-2: Refresh, Content={4515, 1102}
+27-3: Refresh, 
+27-4: Refresh, 
+27-9: Refresh, 
+27-10: Refresh, Content={4525, 1108, 3656}
+27-11: Refresh, Content={4518, 1111, 1792}
+27-12: Refresh, 
+27-13: Refresh, 
+27-14: Refresh, 
+27-17: Content={1282}
+27-18: ProtectionZone, Content={408, 2491}
+27-19: ProtectionZone, Content={408, 2492}
+27-20: Content={408, 1282}
+27-21: ProtectionZone, Content={408, 2499 String="Leos Soun"}
+27-22: ProtectionZone, Content={408, 2500}
+27-23: ProtectionZone, Content={408, 3449 Amount=10, 2955, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 2432 Content={3316, 3578 Amount=27, 3588 Amount=6, 2991, 3577 Amount=45, 3503 Content={2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3042 Amount=22, 3582 Amount=6, 3507}, 3447 Amount=21, 3447 Amount=100, 3447 Amount=100, 2816 String="The Kuridai caste lives in caves beneath the surface and they are the workers. \nThe Deraisim caste lives on the ground and are great hunters and farmers. \nThe Cenath caste lives on the heights of the trees and are great wielders of magic. "}, 3586 Amount=2, 3603 Amount=1, 2816 String="Then something happened. The dimension that harboured the elven valley began to collapse. Pice for pice their land was torn away and the wisest of the elves found out that the valley would ultimately 'fall' back in the world it belonged to. Great efforts were undertaken to prevent it. All were futile. As this was recognized it was almost too late. All magic was concentraded to preserve the lives of the elves. Protective shells were created, spells to deflect damage, enchantements to keep harm away. The 'return' was aweful. Almost half of the elves perished. All of the valley and its wonders were destroyed. Almost nothing remained. Artifacts and books shattered and burnt alike. The battered elves retreated and begun to wander aimlessly through the lands, until they encountered scouts of the Deraisim who led them to the safety of their woods. At first they were disgusted by the primitive lifestyle of their brethren, but soon they decided they had to guide and lead them back to true values of elvenkind. So one of their encampements was choosen as new home for the elvenkind and the city of Ab'Dendriel was founded.\n", 2816 String="The elves are able to manipulate their unborn children by some kind of dream magic. This magic changes appearance and personality slightly, allowing elven parents to give birth to 'wish-kids'. In their shared dreams the elven parents seem to sculpture their child like a piece of art. Though most of the dream magic of the past is long forgotten, this rudimentary magic seems to be natural to the elves. It is possible to 'choose' things like hair or eye color and even gender. Even slight changes of the physique are possible, though considerable changes take place in the span of generations. Wise men assume this ability was a 'gift' of the gods to make more adaptable tools for the elves' war. But the mentality of the elves did not allow them to form their children in a 'convenient' way. Since most of this magic is instinctual, they form their children in an aesthetic way. On the other hand, what is seen as aesthetic is based on the philosophy of the parents and so their background changes this view dramatically. This is even more evident in the castes that were separated in the war. "}
+27-24: Content={408, 1282}
+27-25: ProtectionZone, Content={408, 2491}
+27-26: ProtectionZone, Content={408, 2492}
+27-27: Content={408, 1734}
+27-28: Refresh, Content={1771}
+27-29: Refresh, Content={1771}
+28-0: Refresh, Content={4515}
+28-1: Refresh, Content={4521}
+28-2: Refresh, Content={4515, 1107}
+28-3: Refresh, Content={4523, 1111}
+28-4: Refresh, 
+28-9: Refresh, Content={4518, 1108, 1794}
+28-10: Refresh, Content={4518, 1104, 3657}
+28-11: Refresh, Content={4530, 1107, 1793, 3654}
+28-12: Refresh, Content={4526, 1111, 1822}
+28-13: Refresh, 
+28-14: Refresh, 
+28-17: Content={1284}
+28-18: Content={408, 1281}
+28-19: Content={408, 1735}
+28-20: Content={408, 1287}
+28-21: Content={408, 1281}
+28-22: Content={408, 1735}
+28-23: Content={408, 1735}
+28-24: Content={408, 1287}
+28-25: Content={408, 1281}
+28-26: Content={408, 1735}
+28-27: Content={408, 1285}
+28-28: Refresh, Content={1771}
+28-29: Refresh, Content={1771}
+29-0: Refresh, Content={4515}
+29-1: Refresh, Content={4515}
+29-2: Refresh, Content={4515}
+29-3: Refresh, Content={4519, 1102}
+29-4: Refresh, 
+29-9: Refresh, Content={4528, 1100, 1822, 3657}
+29-10: Refresh, Content={4517, 1795}
+29-11: Refresh, Content={4527, 1822, 3656}
+29-12: Refresh, Content={4526, 1107, 1794, 3657, 3654}
+29-13: Refresh, Content={4515, 1111, 1797}
+29-14: Refresh, 
+29-28: Refresh, Content={1771}
+29-29: Refresh, Content={1771}
+30-0: Refresh, Content={4517}
+30-1: Refresh, Content={4515}
+30-2: Refresh, Content={4525}
+30-3: Refresh, Content={4529, 1107}
+30-4: Refresh, Content={4523, 1111}
+30-9: Refresh, Content={4515, 1100, 3656}
+30-10: Refresh, Content={4515, 1817, 3657}
+30-11: Refresh, Content={4515, 3654}
+30-12: Refresh, Content={4515, 1799, 3657}
+30-13: Refresh, Content={4528, 1796, 3654}
+30-14: Refresh, Content={4515, 1111, 1772, 3656}
+30-28: Refresh, Content={1771}
+30-29: Refresh, Content={1771}
+31-0: Refresh, Content={4515}
+31-1: Refresh, Content={4529}
+31-2: Refresh, Content={4515}
+31-3: Refresh, Content={4515}
+31-4: Refresh, Content={4527, 1102}
+31-5: Refresh, Content={1127}
+31-9: Refresh, Content={4517, 1100, 1772, 3657}
+31-10: Refresh, Content={4515, 1783}
+31-11: Refresh, Content={4518, 1785}
+31-12: Refresh, Content={4529, 1796, 3667}
+31-13: Refresh, Content={4515, 3654}
+31-14: Refresh, Content={4515, 1102, 1772, 3654}
+31-28: Refresh, Content={1771}
+31-29: Refresh, Content={1771}

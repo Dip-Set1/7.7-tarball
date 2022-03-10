@@ -1,0 +1,213 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1015/988/6
+
+0-0: Content={408, 1282}
+0-9: Refresh, Content={1127, 1813}
+0-10: Refresh, Content={1127, 1814}
+0-11: Refresh, 
+1-0: Content={408, 1285}
+6-1: Refresh, 
+6-2: Refresh, 
+6-3: Refresh, 
+6-4: Refresh, Content={1182}
+6-5: Refresh, Content={1183}
+6-6: Refresh, Content={1183}
+6-7: Refresh, Content={1184}
+6-8: Content={1185}
+6-9: Content={1185}
+6-10: Content={1186}
+7-1: Refresh, 
+7-2: Refresh, 
+7-3: Refresh, 
+7-4: Refresh, Content={1177}
+7-5: Refresh, Content={1178}
+7-6: Refresh, Content={1178}
+7-7: Refresh, Content={1179}
+7-8: Content={1180}
+7-9: Content={1180, 3138}
+7-10: Content={1181}
+8-1: Refresh, 
+8-2: Refresh, 
+8-3: Refresh, 
+8-4: Refresh, Content={1177}
+8-5: Refresh, Content={1178}
+8-6: Refresh, Content={1178}
+8-7: Refresh, Content={1179}
+8-8: Content={1180}
+8-9: Content={1180}
+8-10: Content={1181}
+9-1: Refresh, 
+9-2: Refresh, 
+9-3: Refresh, 
+9-4: Refresh, Content={1177}
+9-5: Refresh, Content={1178}
+9-6: Refresh, Content={1178}
+9-7: Refresh, Content={1179}
+9-8: Content={1180}
+9-9: Content={1180, 3138}
+9-10: Content={1181}
+10-1: Refresh, 
+10-2: Refresh, 
+10-3: Refresh, 
+10-4: Refresh, Content={1177}
+10-5: Refresh, Content={1178}
+10-6: Refresh, Content={1178}
+10-7: Refresh, Content={1179}
+10-8: Content={1180, 3492 Amount=1}
+10-9: Content={1180}
+10-10: Content={1181}
+11-0: Refresh, Content={1186}
+11-1: Refresh, 
+11-2: Refresh, 
+11-3: Refresh, 
+11-4: Refresh, Content={1177}
+11-5: Refresh, Content={1178}
+11-6: Refresh, Content={1178}
+11-7: Refresh, Content={1179}
+11-8: Content={1180}
+11-9: Content={1180}
+11-10: Content={1181}
+12-0: Refresh, Content={1181}
+12-1: Refresh, 
+12-2: Refresh, 
+12-3: Refresh, 
+12-4: Refresh, Content={1177}
+12-5: Refresh, Content={1178}
+12-6: Refresh, Content={1178}
+12-7: Refresh, Content={1179}
+12-8: Content={1180}
+12-9: Content={1180}
+12-10: Content={1181}
+13-0: Refresh, Content={1181}
+13-1: Refresh, 
+13-2: Refresh, 
+13-3: Refresh, 
+13-4: Refresh, Content={1177}
+13-5: Refresh, Content={1178}
+13-6: Refresh, Content={1178}
+13-7: Refresh, Content={1179}
+13-8: Content={1180}
+13-9: Content={1180}
+13-10: Content={1181}
+14-0: Refresh, Content={1181}
+15-0: Refresh, Content={1181}
+16-0: Refresh, Content={1181}
+16-4: Content={1283}
+16-5: Content={1281}
+16-6: Content={1735}
+16-7: Content={1735}
+16-8: Content={1281}
+16-9: Content={1281}
+16-10: Content={1281}
+16-11: Content={1281}
+16-12: Content={1281}
+16-13: Content={1286}
+17-0: Refresh, Content={1181}
+17-4: Content={1282}
+17-5: ProtectionZone, Content={408}
+17-6: ProtectionZone, Content={599}
+17-7: ProtectionZone, Content={408}
+17-8: Content={408, 1282}
+17-9: Content={408, 2050}
+17-10: Content={408, 2047}
+17-11: Content={408, 2044}
+17-12: Content={408, 2061}
+17-13: Content={408, 1282}
+18-4: Content={1282}
+18-5: ProtectionZone, Content={408}
+18-6: ProtectionZone, Content={408}
+18-7: ProtectionZone, Content={408}
+18-8: Content={408, 1282}
+18-9: Content={408, 2036}
+18-10: Content={408, 2572}
+18-11: Content={408, 2575}
+18-12: Content={408, 2578, 2975}
+18-13: Content={408, 1282}
+19-4: Content={1282}
+19-5: ProtectionZone, Content={408}
+19-6: ProtectionZone, Content={408}
+19-7: ProtectionZone, Content={408}
+19-8: Content={408, 1282}
+19-9: Content={408, 2034}
+19-10: Content={408, 2573, 3509, 2349}
+19-11: Content={408, 2576}
+19-12: Content={408, 2579}
+19-13: Content={408, 1282}
+20-4: Content={1282}
+20-5: Content={408, 1281}
+20-6: Content={408, 1642 DoorQuestNumber=320 DoorQuestValue=5}
+20-7: Content={408, 1281}
+20-8: Content={408, 1289}
+20-9: Content={408, 2070}
+20-10: Content={408, 2573}
+20-11: Content={408, 2576}
+20-12: Content={408, 2579}
+20-13: Content={408, 1734}
+21-4: Content={1282}
+21-5: Content={408}
+21-6: Content={408}
+21-7: Content={408}
+21-8: Content={408, 1282}
+21-9: Content={408, 2027}
+21-10: Content={408, 2573, 1948}
+21-11: Content={408, 2576}
+21-12: Content={408, 2579}
+21-13: Content={408, 1282}
+22-4: Content={1282}
+22-5: Content={408}
+22-6: Content={408}
+22-7: Content={408}
+22-8: Content={408, 1282}
+22-9: Content={408, 2453}
+22-10: Content={408, 2573}
+22-11: Content={408, 2576}
+22-12: Content={408, 2579}
+22-13: Content={408, 1734}
+23-4: Content={1734}
+23-5: Content={408}
+23-6: Content={408}
+23-7: Content={408}
+23-8: Content={408, 1631}
+23-9: Content={408}
+23-10: Content={408, 2574}
+23-11: Content={408, 2577}
+23-12: Content={408, 2580, 2484}
+23-13: Content={408, 1282}
+24-4: Content={1282}
+24-5: Content={408}
+24-6: Content={434}
+24-7: Content={408}
+24-8: Content={408, 1282}
+24-9: Content={408, 2032}
+24-10: Content={408, 2823, 2432}
+24-11: Content={408, 2487}
+24-12: Content={408, 2488}
+24-13: Content={408, 1282}
+25-4: Content={1284}
+25-5: Content={408, 1281}
+25-6: Content={408, 1735}
+25-7: Content={408, 1735}
+25-8: Content={408, 1291}
+25-9: Content={408, 1281}
+25-10: Content={408, 1281}
+25-11: Content={408, 1735}
+25-12: Content={408, 1281}
+25-13: Content={408, 1285}
+26-21: Refresh, Content={1127, 1792}
+26-22: Refresh, Content={1127, 1791, 3655}
+27-20: Refresh, Content={1127, 1772}
+27-21: Refresh, Content={1127, 1793, 3654}
+27-22: Refresh, Content={1127, 1783}
+27-23: Refresh, Content={1127, 1785}
+28-19: Refresh, Content={1127, 1772, 3655}
+28-20: Refresh, Content={1127, 1772}
+28-21: Refresh, Content={1127}
+28-22: Refresh, Content={1127, 1784}
+28-23: Refresh, Content={1127, 1786}
+29-19: Refresh, Content={1127, 1787}
+29-20: Refresh, Content={1127, 1789}
+29-21: Refresh, Content={1127}
+29-22: Refresh, Content={1127}
+30-19: Refresh, Content={1127, 1788}
+30-20: Refresh, Content={1127, 1790}
+30-21: Refresh, Content={1127, 1772, 3655}

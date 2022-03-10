@@ -1,0 +1,7 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1029/1001/3
+
+26-6: Content={429, 3268, 3378, 3031 Amount=1, 2471, 2471, 2473, 2473, 2473, 3377, 3504, 2112}
+26-7: Content={429, 2473, 2473, 2473, 2853, 2112}
+27-6: Content={429, 2473, 3492 Amount=1, 2471, 3504 Content={3507 String="Druid'Maniack\nVenore" Editor="Druid On Bruno"}, 3059, 3504, 3504, 3504, 2853 Content={3578 Amount=1, 3607, 3607, 3577 Amount=2, 3582 Amount=2}, 2112}
+27-7: Content={429, 2473, 2473, 3504 Content={3507 String="angel siriaco\nvenore" Editor="Albondiga Macabra"}, 3504, 3504 Content={3507 String="maben karix\nvenore" Editor="Never Lady Artemis"}, 3504 Content={3507 String="sakruz\nvenore" Editor="Sir Xorius"}, 2112}

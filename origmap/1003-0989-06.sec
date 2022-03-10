@@ -1,0 +1,15 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+30-09: Content={1283}
+30-10: Content={1281}
+30-11: Content={1735}
+30-12: Content={1281}
+30-13: Content={1735}
+30-14: Content={1286}
+31-09: Content={1282}
+31-10: ProtectionZone, Content={408, 2536}
+31-11: ProtectionZone, Content={408}
+31-12: ProtectionZone, Content={408, 2487}
+31-13: ProtectionZone, Content={408, 2488}
+31-14: Content={408, 1282}

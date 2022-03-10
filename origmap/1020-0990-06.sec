@@ -1,0 +1,410 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-08: Content={439}
+00-09: Content={408}
+00-10: ProtectionZone, Content={408, 1640}
+00-11: ProtectionZone, Content={408}
+00-12: ProtectionZone, Content={408}
+00-13: ProtectionZone, Content={408}
+00-14: ProtectionZone, Content={408}
+00-15: Content={408, 1734}
+00-26: Refresh, 
+00-27: Refresh, 
+00-28: Refresh, Content={2174}
+00-29: Refresh, Content={408}
+00-30: Refresh, Content={408}
+00-31: Refresh, Content={408, 2174}
+01-08: Content={439}
+01-09: Content={408}
+01-10: Content={408, 1734}
+01-11: ProtectionZone, Content={408}
+01-12: ProtectionZone, Content={408}
+01-13: ProtectionZone, Content={408, 2491}
+01-14: ProtectionZone, Content={408, 2492}
+01-15: Content={408, 1734}
+01-26: Refresh, 
+01-27: Refresh, 
+01-28: Refresh, Content={2174}
+01-29: Refresh, Content={408}
+01-30: Refresh, Content={408}
+01-31: Refresh, Content={408, 2174}
+02-08: Content={439}
+02-09: Content={408}
+02-10: Content={408, 1284}
+02-11: Refresh, Content={408, 1281}
+02-12: Content={408, 1735}
+02-13: Content={408, 1281}
+02-14: Content={408, 1735}
+02-15: Content={408, 1285}
+02-26: Refresh, Content={2171}
+02-27: Refresh, Content={2172}
+02-28: Refresh, Content={2173}
+02-29: Refresh, Content={408}
+02-30: Refresh, Content={408}
+02-31: Refresh, Content={408, 2174}
+03-08: Content={448}
+03-09: Refresh, Content={1771}
+03-10: Refresh, Content={1771}
+03-26: Refresh, Content={2174}
+03-27: Refresh, Content={408}
+03-28: Refresh, Content={408}
+03-29: Refresh, Content={408}
+03-30: Refresh, Content={408}
+03-31: Refresh, Content={408, 2174}
+04-00: Refresh, Content={1771}
+04-01: Refresh, Content={1771}
+04-02: Refresh, Content={1771}
+04-03: Refresh, Content={1771}
+04-04: Refresh, Content={1771}
+04-05: Refresh, Content={1771}
+04-06: Refresh, Content={1771}
+04-07: Refresh, Content={1771}
+04-08: Refresh, Content={1771}
+04-09: Refresh, Content={1771}
+04-10: Refresh, Content={1771}
+04-26: Refresh, Content={2174}
+04-27: Refresh, Content={408}
+04-28: Refresh, Content={408}
+04-29: Refresh, Content={408}
+04-30: Refresh, Content={408}
+04-31: Refresh, Content={408, 2174}
+05-00: Refresh, Content={1771}
+05-01: Refresh, Content={1771}
+05-02: Refresh, Content={1771}
+05-03: Refresh, Content={1771}
+05-04: Refresh, Content={1771}
+05-05: Refresh, Content={1771}
+05-06: Refresh, Content={1771}
+05-07: Refresh, Content={1771}
+05-08: Refresh, Content={1771}
+05-09: Refresh, Content={1771}
+05-10: Refresh, Content={1771}
+05-26: Refresh, Content={2174}
+05-27: Refresh, Content={408}
+05-28: Refresh, Content={408}
+05-29: Refresh, Content={432}
+05-30: Refresh, Content={408}
+05-31: Refresh, Content={408, 2174}
+06-26: Refresh, Content={2174}
+06-27: Refresh, Content={408}
+06-28: Refresh, Content={408}
+06-29: Refresh, Content={408}
+06-30: Refresh, Content={408}
+06-31: Refresh, Content={408, 2174}
+07-26: Refresh, Content={2174}
+07-27: Refresh, Content={408, 2172}
+07-28: Refresh, Content={408, 2172}
+07-29: Refresh, Content={408}
+07-30: Refresh, Content={408}
+07-31: Refresh, Content={408, 2174}
+08-26: Refresh, 
+08-27: Refresh, 
+08-28: Refresh, Content={2174}
+08-29: Refresh, Content={408}
+08-30: Refresh, Content={408}
+08-31: Refresh, Content={408, 2174}
+09-26: Refresh, 
+09-27: Refresh, 
+09-28: Refresh, Content={2174}
+09-29: Refresh, Content={408, 2172}
+09-30: Refresh, Content={408, 2172}
+09-31: Refresh, Content={408, 2173}
+13-00: Content={441}
+13-01: Content={441}
+13-02: Content={441}
+13-03: Content={441}
+13-04: Content={441}
+13-05: Content={441}
+13-06: Content={441}
+13-07: Content={441}
+13-08: Content={441}
+13-09: Content={441}
+13-10: Content={441}
+13-11: Content={441}
+13-12: Content={441}
+13-13: Content={450}
+14-00: Refresh, Content={408}
+14-01: Refresh, Content={408}
+14-02: Refresh, Content={408}
+14-03: Refresh, Content={408}
+14-04: Refresh, Content={408}
+14-05: Refresh, Content={408}
+14-06: Refresh, Content={408}
+14-07: Refresh, Content={408}
+14-08: Refresh, Content={408}
+14-09: Refresh, Content={408}
+14-10: Refresh, Content={408}
+14-11: Refresh, Content={408}
+14-12: Refresh, Content={408}
+14-13: Content={440}
+15-00: Refresh, Content={457}
+15-01: Refresh, Content={457}
+15-02: Refresh, Content={457, 1283}
+15-03: Refresh, Content={457}
+15-04: Refresh, Content={457}
+15-05: Refresh, Content={457}
+15-06: Refresh, Content={457}
+15-07: Refresh, Content={457, 1283}
+15-08: Refresh, Content={457}
+15-09: Refresh, Content={457}
+15-10: Refresh, Content={457, 1283}
+15-11: Refresh, Content={461}
+15-12: Refresh, Content={408}
+15-13: Content={440}
+16-00: Refresh, Content={462}
+16-01: Refresh, Content={458}
+16-02: Refresh, Content={458}
+16-03: Refresh, Content={458}
+16-04: Refresh, Content={458}
+16-05: Refresh, Content={458}
+16-06: Refresh, Content={458}
+16-07: Refresh, Content={458}
+16-08: Refresh, Content={458}
+16-09: Refresh, Content={458}
+16-10: Refresh, Content={460}
+16-11: Refresh, Content={455}
+16-12: Refresh, Content={408}
+16-13: Content={440}
+17-00: Refresh, Content={455}
+17-01: Refresh, Content={459}
+17-02: Refresh, Content={457}
+17-03: Refresh, Content={457}
+17-04: Refresh, Content={457}
+17-05: Refresh, Content={457}
+17-06: Refresh, Content={457}
+17-07: Refresh, Content={457}
+17-08: Refresh, Content={457}
+17-09: Refresh, Content={461}
+17-10: Refresh, Content={456}
+17-11: Refresh, Content={455}
+17-12: Refresh, Content={408}
+17-13: Content={440}
+18-00: Refresh, Content={455}
+18-01: Refresh, Content={456}
+18-02: Refresh, Content={454}
+18-03: Refresh, Content={459}
+18-04: Refresh, Content={461}
+18-05: Refresh, Content={454}
+18-06: Refresh, Content={459}
+18-07: Refresh, Content={461}
+18-08: Refresh, Content={454}
+18-09: Refresh, Content={455}
+18-10: Refresh, Content={456, 1283}
+18-11: Refresh, Content={455}
+18-12: Refresh, Content={408}
+18-13: Content={440}
+19-00: Refresh, Content={455}
+19-01: Refresh, Content={456}
+19-02: Refresh, Content={454}
+19-03: Refresh, Content={456}
+19-04: Refresh, Content={455}
+19-05: Refresh, Content={454}
+19-06: Refresh, Content={456}
+19-07: Refresh, Content={455}
+19-08: Refresh, Content={454}
+19-09: Refresh, Content={455}
+19-10: Refresh, Content={456}
+19-11: Refresh, Content={455}
+19-12: Refresh, Content={408}
+19-13: Content={440}
+20-00: Refresh, Content={455}
+20-01: Refresh, Content={456}
+20-02: Refresh, Content={454}
+20-03: Refresh, Content={460}
+20-04: Refresh, Content={462}
+20-05: Refresh, Content={458}
+20-06: Refresh, Content={460}
+20-07: Refresh, Content={462}
+20-08: Refresh, Content={454}
+20-09: Refresh, Content={455}
+20-10: Refresh, Content={456}
+20-11: Refresh, Content={455}
+20-12: Refresh, Content={408}
+20-13: Content={440}
+21-00: Refresh, Content={455}
+21-01: Refresh, Content={456}
+21-02: Refresh, Content={454}
+21-03: Refresh, Content={454}
+21-04: Refresh, Content={455}
+21-05: Refresh, Content={454}
+21-06: Refresh, Content={456}
+21-07: Refresh, Content={454}
+21-08: Refresh, Content={454}
+21-09: Refresh, Content={455}
+21-10: Refresh, Content={456}
+21-11: Refresh, Content={455}
+21-12: Refresh, Content={408}
+21-13: Content={440}
+22-00: Refresh, Content={455}
+22-01: Refresh, Content={456}
+22-02: Refresh, Content={454}
+22-03: Refresh, Content={459}
+22-04: Refresh, Content={461}
+22-05: Refresh, Content={457}
+22-06: Refresh, Content={459}
+22-07: Refresh, Content={461}
+22-08: Refresh, Content={454}
+22-09: Refresh, Content={455}
+22-10: Refresh, Content={456}
+22-11: Refresh, Content={455}
+22-12: Refresh, Content={408}
+22-13: Content={440}
+23-00: Refresh, Content={455}
+23-01: Refresh, Content={456}
+23-02: Refresh, Content={454}
+23-03: Refresh, Content={456}
+23-04: Refresh, Content={455}
+23-05: Refresh, Content={454}
+23-06: Refresh, Content={456}
+23-07: Refresh, Content={455}
+23-08: Refresh, Content={454}
+23-09: Refresh, Content={455}
+23-10: Refresh, Content={456, 1283}
+23-11: Refresh, Content={455}
+23-12: Refresh, Content={408}
+23-13: Content={440}
+24-00: Refresh, Content={455}
+24-01: Refresh, Content={456}
+24-02: Refresh, Content={454}
+24-03: Refresh, Content={460}
+24-04: Refresh, Content={462}
+24-05: Refresh, Content={454}
+24-06: Refresh, Content={460}
+24-07: Refresh, Content={462}
+24-08: Refresh, Content={454}
+24-09: Refresh, Content={455}
+24-10: Refresh, Content={456}
+24-11: Refresh, Content={455}
+24-12: Refresh, Content={408}
+24-13: Content={440}
+25-00: Refresh, Content={455}
+25-01: Refresh, Content={460}
+25-02: Refresh, Content={458}
+25-03: Refresh, Content={458}
+25-04: Refresh, Content={458}
+25-05: Refresh, Content={458}
+25-06: Refresh, Content={458}
+25-07: Refresh, Content={458}
+25-08: Refresh, Content={458}
+25-09: Refresh, Content={462}
+25-10: Refresh, Content={456}
+25-11: Refresh, Content={455}
+25-12: Refresh, Content={408}
+25-13: Content={440}
+26-00: Refresh, Content={461}
+26-01: Refresh, Content={457}
+26-02: Refresh, Content={457, 1283}
+26-03: Refresh, Content={457}
+26-04: Refresh, Content={457}
+26-05: Refresh, Content={457}
+26-06: Refresh, Content={457}
+26-07: Refresh, Content={457, 1283}
+26-08: Refresh, Content={457}
+26-09: Refresh, Content={457}
+26-10: Refresh, Content={459, 1283}
+26-11: Refresh, Content={455}
+26-12: Refresh, Content={408}
+26-13: Content={440}
+27-00: Refresh, Content={458}
+27-01: Refresh, Content={458}
+27-02: Refresh, Content={458}
+27-03: Refresh, Content={458}
+27-04: Refresh, Content={458}
+27-05: Refresh, Content={458}
+27-06: Refresh, Content={458}
+27-07: Refresh, Content={458}
+27-08: Refresh, Content={458}
+27-09: Refresh, Content={458}
+27-10: Refresh, Content={458}
+27-11: Refresh, Content={462}
+27-12: Refresh, Content={408}
+27-13: Content={440}
+28-00: Refresh, Content={408}
+28-01: Refresh, Content={408}
+28-02: Refresh, Content={408}
+28-03: Refresh, Content={408}
+28-04: Refresh, Content={408}
+28-05: Refresh, Content={408}
+28-06: Refresh, Content={408}
+28-07: Refresh, Content={408}
+28-08: Refresh, Content={408}
+28-09: Refresh, Content={408}
+28-10: Refresh, Content={408}
+28-11: Refresh, Content={408}
+28-12: Refresh, Content={408}
+28-13: Content={440}
+28-15: Refresh, 
+28-16: Refresh, 
+28-17: Refresh, 
+28-18: Refresh, 
+28-19: Refresh, 
+28-20: Refresh, 
+28-21: Refresh, 
+28-22: Refresh, 
+28-23: Refresh, 
+29-00: Content={442}
+29-01: Refresh, Content={442}
+29-02: Refresh, Content={442}
+29-03: Refresh, Content={442}
+29-04: Refresh, Content={442}
+29-05: Refresh, Content={442}
+29-06: Refresh, Content={442}
+29-07: Refresh, Content={442}
+29-08: Refresh, Content={1771}
+29-09: Refresh, Content={1771}
+29-10: Refresh, Content={442}
+29-11: Refresh, Content={442}
+29-12: Refresh, Content={442}
+29-13: Content={449}
+29-15: Refresh, 
+29-16: Refresh, Content={408, 2157, 2155}
+29-17: Refresh, Content={408, 2157}
+29-18: Refresh, Content={408, 2157}
+29-19: Refresh, Content={408, 2157}
+29-20: Refresh, Content={408, 2157}
+29-21: Refresh, Content={408, 2157}
+29-22: Refresh, Content={408, 2157}
+29-23: Refresh, Content={408, 2160}
+30-01: Refresh, 
+30-02: Refresh, 
+30-03: Refresh, 
+30-04: Refresh, 
+30-05: Refresh, 
+30-06: Refresh, 
+30-07: Refresh, 
+30-08: Refresh, Content={1771}
+30-09: Refresh, Content={1771}
+30-10: Refresh, 
+30-11: Refresh, 
+30-12: Refresh, 
+30-15: Refresh, Content={1283}
+30-16: Refresh, Content={408, 1281}
+30-17: Refresh, Content={408, 1281}
+30-18: Refresh, Content={408, 1281}
+30-19: Refresh, Content={408, 1629}
+30-20: Refresh, Content={408, 1629}
+30-21: Refresh, Content={408, 1281}
+30-22: Refresh, Content={408, 1281}
+30-23: Refresh, Content={408, 1286, 2154}
+31-01: Refresh, 
+31-02: Refresh, 
+31-03: Refresh, 
+31-04: Refresh, 
+31-05: Refresh, 
+31-06: Refresh, 
+31-07: Refresh, 
+31-08: Refresh, Content={1771}
+31-09: Refresh, Content={1771}
+31-10: Refresh, 
+31-11: Refresh, 
+31-12: Refresh, 
+31-15: Refresh, Content={1282, 2599}
+31-16: Refresh, Content={409, 2487}
+31-17: Refresh, Content={409, 2488}
+31-18: Refresh, Content={409, 2434}
+31-19: Refresh, Content={409}
+31-20: Refresh, Content={409}
+31-21: Refresh, Content={409, 2434 Content={2816 String="The Kuridai caste lives in caves beneath the surface and they are the workers. \nThe Deraisim caste lives on the ground and are great hunters and farmers. \nThe Cenath caste lives on the heights of the trees and are great wielders of magic. "}}
+31-22: Refresh, Content={409, 2434}
+31-23: Refresh, Content={409, 1282}

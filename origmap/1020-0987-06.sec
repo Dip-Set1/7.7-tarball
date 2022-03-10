@@ -1,0 +1,349 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-12: Content={1283}
+00-13: Content={1281}
+00-14: Content={1735}
+00-15: Content={1281}
+00-16: Content={1288}
+00-17: Content={1281}
+00-18: Content={1735}
+00-19: Content={1281}
+00-20: Content={1286}
+01-12: Content={1282}
+01-13: ProtectionZone, Content={408}
+01-14: ProtectionZone, Content={408, 2491}
+01-15: ProtectionZone, Content={408, 2492}
+01-16: Content={408, 1282}
+01-17: ProtectionZone, Content={408}
+01-18: ProtectionZone, Content={408, 2491}
+01-19: ProtectionZone, Content={408, 2492}
+01-20: Content={408, 1282}
+02-12: Content={1734}
+02-13: ProtectionZone, Content={408}
+02-14: ProtectionZone, Content={408, 2491}
+02-15: ProtectionZone, Content={408, 2492}
+02-16: Content={408, 1282}
+02-17: ProtectionZone, Content={408}
+02-18: ProtectionZone, Content={408, 2491}
+02-19: ProtectionZone, Content={408, 2492}
+02-20: Content={408, 1734}
+02-30: Content={4459}
+02-31: Content={1119}
+03-12: Content={1282, 2909}
+03-13: ProtectionZone, Content={408}
+03-14: ProtectionZone, Content={408}
+03-15: ProtectionZone, Content={408}
+03-16: Content={408, 1282, 2909}
+03-17: ProtectionZone, Content={408}
+03-18: ProtectionZone, Content={408}
+03-19: ProtectionZone, Content={408}
+03-20: Content={408, 1282}
+03-29: Content={1114}
+03-30: Content={1122}
+03-31: Refresh, Content={1099, 1116}
+04-12: Content={1734}
+04-13: ProtectionZone, Content={408}
+04-14: ProtectionZone, Content={408}
+04-15: ProtectionZone, Content={408}
+04-16: Content={408, 1282}
+04-17: ProtectionZone, Content={408}
+04-18: ProtectionZone, Content={408}
+04-19: ProtectionZone, Content={408}
+04-20: Content={408, 1734}
+04-29: Content={1113}
+04-30: Refresh, Content={354, 1772, 2550 ChestQuestNumber=255 Content={2821 String="If you found this in a corpse behind a questdoor, its a bug. Please report it."}}
+04-31: Refresh, Content={352, 1644 DoorQuestNumber=256 DoorQuestValue=1}
+05-12: Content={1734}
+05-13: ProtectionZone, Content={408}
+05-14: ProtectionZone, Content={408}
+05-15: ProtectionZone, Content={408}
+05-16: Content={408, 1282}
+05-17: ProtectionZone, Content={408}
+05-18: ProtectionZone, Content={408}
+05-19: ProtectionZone, Content={408}
+05-20: Content={408, 1734}
+05-29: Content={1115}
+05-30: Refresh, Content={354, 1119}
+05-31: Refresh, Content={354, 1120}
+06-12: Content={1284}
+06-13: Refresh, Content={408, 1281}
+06-14: Content={408, 1735}
+06-15: ProtectionZone, Content={408, 1638}
+06-16: Refresh, Content={408, 1287}
+06-17: Refresh, Content={408, 1281}
+06-18: Content={408, 1735}
+06-19: ProtectionZone, Content={408, 1638}
+06-20: Content={408, 1285}
+06-21: Content={450}
+06-30: Content={1115}
+06-31: Refresh, Content={1099, 1120}
+07-12: Refresh, Content={439}
+07-13: Refresh, Content={408}
+07-14: Refresh, Content={408}
+07-15: Refresh, Content={408}
+07-16: Refresh, Content={408}
+07-17: Refresh, Content={408}
+07-18: Refresh, Content={408}
+07-19: Refresh, Content={408}
+07-20: Refresh, Content={408}
+07-21: Refresh, Content={440}
+07-31: Content={1113}
+08-12: Refresh, Content={439}
+08-13: Refresh, Content={408}
+08-14: Refresh, Content={408}
+08-15: Refresh, Content={408}
+08-16: Refresh, Content={408}
+08-17: Refresh, Content={408}
+08-18: Refresh, Content={408}
+08-19: Refresh, Content={408}
+08-20: Refresh, Content={408}
+08-21: Refresh, Content={440}
+08-31: Content={1113}
+09-12: Refresh, Content={439}
+09-13: Refresh, Content={408}
+09-14: Refresh, Content={408}
+09-15: Refresh, Content={408}
+09-16: Refresh, Content={408}
+09-17: Refresh, Content={408}
+09-18: Refresh, Content={432}
+09-19: Refresh, Content={408}
+09-20: Refresh, Content={408}
+09-21: Refresh, Content={440}
+09-31: Content={1115}
+10-12: Refresh, Content={448}
+10-13: Refresh, Content={442}
+10-14: Refresh, Content={442}
+10-15: Refresh, Content={442}
+10-16: Refresh, Content={1771}
+10-17: Refresh, Content={1771}
+10-18: Refresh, Content={442}
+10-19: Refresh, Content={442}
+10-20: Refresh, Content={442}
+10-21: Refresh, Content={449}
+11-13: Refresh, 
+11-14: Refresh, 
+11-15: Refresh, 
+11-16: Refresh, Content={1771}
+11-17: Refresh, Content={1771}
+11-18: Refresh, 
+11-19: Refresh, 
+11-20: Refresh, 
+11-21: Refresh, 
+12-13: Refresh, 
+12-14: Refresh, 
+12-15: Refresh, 
+12-16: Refresh, Content={1771}
+12-17: Refresh, Content={1771}
+12-18: Refresh, 
+12-19: Refresh, 
+12-20: Refresh, 
+12-21: Refresh, 
+13-13: Refresh, 
+13-14: Refresh, 
+13-15: Refresh, 
+13-16: Refresh, Content={1771}
+13-17: Refresh, Content={1771}
+13-18: Refresh, 
+13-19: Refresh, 
+13-20: Refresh, 
+13-21: Refresh, 
+14-13: Refresh, 
+14-14: Refresh, 
+14-15: Refresh, 
+14-16: Refresh, Content={1771}
+14-17: Refresh, Content={1771}
+14-18: Refresh, 
+14-19: Refresh, 
+14-20: Refresh, 
+14-21: Refresh, 
+15-13: Refresh, 
+15-14: Refresh, 
+15-15: Refresh, 
+15-16: Refresh, Content={1771}
+15-17: Refresh, Content={1771}
+15-18: Refresh, 
+15-19: Refresh, 
+15-20: Refresh, 
+15-21: Refresh, 
+16-13: Refresh, 
+16-14: Refresh, 
+16-15: Refresh, 
+16-16: Refresh, Content={1771}
+16-17: Refresh, Content={1771}
+16-18: Refresh, 
+16-19: Refresh, 
+16-20: Refresh, 
+16-21: Refresh, 
+17-13: Refresh, 
+17-14: Refresh, 
+17-15: Refresh, 
+17-16: Refresh, Content={1771}
+17-17: Refresh, Content={1771}
+17-18: Refresh, 
+17-19: Refresh, 
+17-20: Refresh, 
+17-21: Refresh, 
+18-13: Refresh, 
+18-14: Refresh, Content={4459}
+18-15: Refresh, Content={4457}
+18-16: Refresh, Content={1771}
+18-17: Refresh, Content={1771, 4459}
+18-18: Refresh, Content={4457}
+18-19: Refresh, 
+18-20: Refresh, 
+18-21: Refresh, 
+19-13: Refresh, 
+19-14: Refresh, Content={4458}
+19-15: Refresh, Content={1099, 1082}
+19-16: Refresh, Content={4562}
+19-17: Refresh, Content={4584, 4458}
+19-18: Refresh, Content={1099, 1082}
+19-19: Refresh, Content={4457}
+19-20: Refresh, 
+19-21: Refresh, 
+20-13: Refresh, 
+20-14: Refresh, Content={4458}
+20-15: Refresh, Content={1099, 1082}
+20-16: Refresh, Content={4565}
+20-17: Refresh, Content={4567, 4458}
+20-18: Refresh, Content={1099, 1082}
+20-19: Refresh, Content={1099, 1082}
+20-20: Refresh, 
+20-21: Refresh, 
+21-13: Refresh, Content={4459}
+21-14: Refresh, Content={4468}
+21-15: Refresh, Content={1099, 1082}
+21-16: Refresh, Content={4567}
+21-17: Refresh, Content={4565, 4458}
+21-18: Refresh, Content={1099, 1086}
+21-19: Refresh, Content={1099, 1082}
+21-20: Refresh, 
+21-21: Refresh, 
+22-13: Refresh, Content={4458}
+22-14: Refresh, Content={1099}
+22-15: Refresh, Content={1099, 1082}
+22-16: Refresh, Content={4566}
+22-17: Refresh, Content={4562}
+22-18: Refresh, Content={4565, 4458}
+22-19: Refresh, Content={1099, 1085}
+22-20: Refresh, 
+22-21: Refresh, 
+23-13: Refresh, Content={4458}
+23-14: Refresh, Content={1099, 1081}
+23-15: Refresh, Content={1099, 1082}
+23-16: Refresh, Content={4555, 4457}
+23-17: Refresh, Content={4567}
+23-18: Refresh, Content={4559}
+23-19: Refresh, Content={1771}
+23-20: Refresh, Content={1771}
+23-21: Refresh, Content={1771}
+23-22: Refresh, Content={1771}
+23-23: Refresh, Content={1771}
+23-24: Refresh, Content={1771}
+23-25: Refresh, Content={1771}
+23-26: Refresh, Content={1771}
+23-27: Refresh, Content={4518, 1108}
+23-28: Refresh, Content={4525, 1103}
+23-29: Refresh, Content={4519, 1111}
+24-14: Refresh, Content={4458}
+24-15: Refresh, Content={1099, 1081}
+24-16: Refresh, Content={1099, 1082}
+24-17: Refresh, Content={1127, 4460}
+24-23: Content={1283}
+24-24: Content={1281}
+24-25: Content={1735}
+24-26: Content={1735}
+24-27: Content={4518, 1100, 1286}
+24-28: Refresh, Content={4518}
+24-29: Refresh, Content={4515, 1102}
+24-30: Refresh, 
+24-31: Refresh, 
+25-14: Refresh, 
+25-15: Refresh, Content={4458}
+25-16: Refresh, Content={1099, 1085}
+25-17: Refresh, 
+25-20: Content={1283}
+25-21: Content={1281}
+25-22: Content={1735}
+25-23: Content={1285, 2907}
+25-24: ProtectionZone, Content={408}
+25-25: ProtectionZone, Content={408}
+25-26: ProtectionZone, Content={408}
+25-27: Refresh, Content={408, 1282}
+25-28: Refresh, Content={4515}
+25-29: Refresh, Content={4515, 1107}
+25-30: Refresh, Content={4515, 1103}
+25-31: Refresh, Content={4515, 1103}
+26-20: Content={1282}
+26-21: ProtectionZone, Content={408}
+26-22: ProtectionZone, Content={408}
+26-23: ProtectionZone, Content={408}
+26-24: ProtectionZone, Content={408}
+26-25: ProtectionZone, Content={408}
+26-26: ProtectionZone, Content={408}
+26-27: Content={408, 1734}
+26-28: Refresh, Content={4515}
+26-29: Refresh, Content={4520}
+26-30: Refresh, Content={4515}
+26-31: Refresh, Content={4526}
+27-20: Content={1734}
+27-21: ProtectionZone, Content={408, 2489}
+27-22: ProtectionZone, Content={408, 2489}
+27-23: ProtectionZone, Content={408}
+27-24: ProtectionZone, Content={408}
+27-25: ProtectionZone, Content={408}
+27-26: ProtectionZone, Content={408}
+27-27: Refresh, Content={408, 1282}
+27-28: Refresh, Content={4521}
+27-29: Refresh, Content={4521}
+27-30: Refresh, Content={4527}
+27-31: Refresh, Content={4515}
+28-20: Content={1282}
+28-21: ProtectionZone, Content={408, 2490}
+28-22: ProtectionZone, Content={408, 2490}
+28-23: ProtectionZone, Content={408}
+28-24: ProtectionZone, Content={408}
+28-25: ProtectionZone, Content={408}
+28-26: ProtectionZone, Content={408}
+28-27: ProtectionZone, Content={408, 1640}
+28-28: Refresh, Content={4515}
+28-29: Refresh, Content={4523}
+28-30: Refresh, Content={4515}
+28-31: Refresh, Content={4515}
+29-20: Content={1290}
+29-21: Content={408, 1281}
+29-22: Content={408, 1281}
+29-23: Content={408, 1281}
+29-24: Content={408, 1281, 2907}
+29-25: Content={408, 1281}
+29-26: Content={408, 1281}
+29-27: Refresh, Content={408, 1289}
+29-28: Refresh, Content={4515}
+29-29: Refresh, Content={595}
+29-30: Refresh, Content={4515}
+29-31: Refresh, Content={4530}
+30-20: Content={1734}
+30-21: ProtectionZone, Content={408, 2489}
+30-22: ProtectionZone, Content={408}
+30-23: ProtectionZone, Content={408}
+30-24: ProtectionZone, Content={408}
+30-25: ProtectionZone, Content={408}
+30-26: ProtectionZone, Content={408}
+30-27: Refresh, Content={408, 1282}
+30-28: Refresh, Content={4517}
+30-29: Refresh, Content={4519}
+30-30: Refresh, Content={4517}
+30-31: Refresh, Content={4515}
+31-20: Content={1282}
+31-21: ProtectionZone, Content={408, 2490}
+31-22: ProtectionZone, Content={408}
+31-23: ProtectionZone, Content={408}
+31-24: ProtectionZone, Content={408}
+31-25: ProtectionZone, Content={408}
+31-26: ProtectionZone, Content={408}
+31-27: ProtectionZone, Content={408, 1640}
+31-28: Refresh, Content={4526}
+31-29: Refresh, Content={4526}
+31-30: Refresh, Content={4515}
+31-31: Refresh, Content={4528}

@@ -1,0 +1,247 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+01-11: Refresh, Content={1127, 1776, 3654}
+01-12: Refresh, Content={1127, 1774}
+01-13: Refresh, Content={1127, 1794}
+01-14: Refresh, Content={1127}
+01-15: Refresh, Content={1127, 1772}
+02-11: Refresh, Content={1127, 1775}
+02-12: Refresh, Content={1127, 1773}
+02-13: Refresh, Content={1127, 3683}
+02-14: Refresh, Content={1127, 1796}
+02-15: Refresh, Content={1127, 1783, 3655}
+02-16: Refresh, Content={1127, 1785}
+03-11: Refresh, Content={1127, 1777}
+03-12: Refresh, Content={1127, 1791}
+03-13: Refresh, Content={1127, 1787}
+03-14: Refresh, Content={1127, 1789}
+03-15: Refresh, Content={1127, 1784}
+03-16: Refresh, Content={1127, 1786}
+04-11: Refresh, Content={1127, 1792}
+04-12: Refresh, Content={1127, 1779}
+04-13: Refresh, Content={1127, 1788}
+04-14: Refresh, Content={1127, 1790}
+04-15: Refresh, Content={1127, 1772, 3654}
+05-11: Refresh, Content={1127, 1793}
+05-12: Refresh, Content={1127, 1778}
+05-13: Refresh, Content={1127, 3681}
+05-14: Refresh, Content={1127, 1796}
+06-12: Content={1127, 1791}
+07-06: Content={1283}
+07-07: Refresh, Content={1281}
+07-08: Refresh, Content={1281}
+07-09: Refresh, Content={1281}
+07-10: Refresh, Content={1281}
+07-11: Refresh, Content={1281}
+07-12: Refresh, Content={1281}
+07-13: Content={1288}
+07-14: Refresh, Content={1281}
+07-15: Refresh, Content={1281}
+07-16: Refresh, Content={1281}
+07-17: Content={1286}
+08-06: Refresh, Content={1282}
+08-07: Refresh, Content={408}
+08-08: Content={434}
+08-09: Refresh, Content={408}
+08-10: Refresh, Content={408, 2535}
+08-11: Refresh, Content={408, 2911, 2319}
+08-12: Refresh, Content={408, 2882, 2434}
+08-13: Refresh, Content={408, 1282}
+08-14: Refresh, Content={408, 2911, 2434 Content={2815, 2815, 2815, 2815, 2815}}
+08-15: Refresh, Content={408, 2434 Content={2854 Content={2920 SavedExpireTime=10, 3003, 3469}, 2853, 2853, 2906}}
+08-16: Refresh, Content={408, 2911, 2434 Content={2917, 2917, 2917, 2917, 2917}}
+08-17: Content={408, 1282}
+08-28: Refresh, Content={1127}
+08-29: Refresh, Content={1127}
+08-30: Refresh, Content={1127, 3655}
+09-06: Refresh, Content={1282, 2597 String="Work to do:\n1. Discover secret of necromants nectar\n2. Reanimate dragon\n3. Discover secret entrance to Nightmare Pits\n4. Exterminiate the ghouls in the garden\n5. Kill Muriel\n"}
+09-07: Refresh, Content={408}
+09-08: Refresh, Content={408}
+09-09: Refresh, Content={408}
+09-10: Refresh, Content={408}
+09-11: Refresh, Content={408, 2900 PoolLiquidType=5}
+09-12: Refresh, Content={408}
+09-13: Refresh, Content={408, 1282}
+09-14: Refresh, Content={408}
+09-15: Refresh, Content={408}
+09-16: Refresh, Content={408}
+09-17: Content={408, 1282}
+09-27: Refresh, Content={1127, 3657, 3654}
+09-28: Refresh, Content={1127}
+09-29: Refresh, Content={1127, 3654, 3657}
+09-30: Refresh, Content={1127}
+09-31: Refresh, Content={1127}
+10-06: Refresh, Content={1282}
+10-07: Refresh, Content={408, 2435 Content={2816 String="Selfmade Skeletons\n\nBy BH.", 2821 String="How to manipulate Runes\nby Muriel.", 2821 String="1000 alchemical uses of urine\nby Yorin.", 2816 String="Stylish wizard robes\nby Sonne."}}
+10-08: Refresh, Content={408, 2900 PoolLiquidType=5}
+10-09: Refresh, Content={408, 2321}
+10-10: Refresh, Content={408, 2320}
+10-11: Refresh, Content={408, 2320}
+10-12: Refresh, Content={408, 2900 PoolLiquidType=5}
+10-13: Refresh, Content={408, 1282}
+10-14: Refresh, Content={408}
+10-15: Refresh, Content={408}
+10-16: Refresh, Content={408}
+10-17: Content={408, 1282}
+10-27: Refresh, Content={1127}
+10-28: Refresh, Content={1127, 3656}
+10-29: Refresh, Content={1127, 3654}
+10-30: Refresh, Content={1127}
+10-31: Refresh, Content={1127, 3655, 3656, 3654}
+11-06: Refresh, Content={1282}
+11-07: Refresh, Content={408, 2436 Content={2816 String="The undead\nby unknown.", 2816 String="How to conjure a lag\nby C.I.P.", 2816 String="The Ruthless Seven\nby unknown\n\nThis confusing text seems to \ndescribe the demonic rulers \nof a place called the Pits \nof Inferno.", 2816 String="Death, an improved form of life?\nby anonymous.", 2821 String="The dragons\nby Slygor."}}
+11-08: Refresh, Content={408}
+11-09: Refresh, Content={408, 2321}
+11-10: Refresh, Content={408, 2320, 4286, 2821 String="I can't figure out how to reanimate \ndragons and other monsters yet. \nI am sure the secret was hidden by \nthis ancient knightly order after they \ndefeated Goshnar. \nI am also sure that the 'thing' called \n'necromants nectar' is crucial to \nfind the secret entrance to the Pits \nof Inferno. And what is the meaning of \nthe phrase 'feed those in need', which \nI discovered in the ancient scrolls of my \nformer master, before he hid them from me. \nI have to find them or figure out the secret \non my own. I will never share my secrets and the success with the brotherhood, but now \nthat the summoning of Urgith went wrong I \nhave to spend to much time in fighting the \nundead back that are out of control. \nBut now, after all what I did allready to \nbecome the new necromant king, I can't give \nup and i will not. Never! \nThe secrets of death will be mine! MINE!"}
+11-11: Refresh, Content={408, 2320, 3469}
+11-12: Refresh, Content={408, 2899 PoolLiquidType=5}
+11-13: Refresh, Content={408, 1633}
+11-14: Refresh, Content={408}
+11-15: Refresh, Content={408}
+11-16: Refresh, Content={408}
+11-17: Content={408, 1282}
+11-27: Refresh, Content={1127, 3656, 3654}
+11-28: Refresh, Content={1127, 3681}
+11-29: Refresh, Content={1127, 3655}
+11-30: Refresh, Content={1127}
+11-31: Refresh, Content={1127}
+12-06: Refresh, Content={1282}
+12-07: Refresh, Content={408, 2437 Content={2821 String="Famous Necromants\nby Muriel.", 2821 String="Fun with runes\nby an unknown jester.", 2821 String="The magic of the Ghouls\nby Paramor.", 2816 String="Spells above MAG 30\nby Lord Braggart.", 2816 String="The secrets of runemagic\nby Muriel.", 2816 String="Magic of nature\nby Marvik."}}
+12-08: Refresh, Content={408, 2899 PoolLiquidType=5}
+12-09: Refresh, Content={408, 2900 PoolLiquidType=5}
+12-10: Refresh, Content={408}
+12-11: Refresh, Content={408}
+12-12: Refresh, Content={408}
+12-13: Refresh, Content={408, 1282}
+12-14: Refresh, Content={408, 2522}
+12-15: Refresh, Content={408}
+12-16: Refresh, Content={408}
+12-17: Content={408, 1282}
+12-27: Refresh, Content={1127, 3655, 3654}
+12-28: Refresh, Content={1127}
+12-29: Refresh, Content={1127}
+12-30: Refresh, Content={1127}
+13-06: Refresh, Content={1282}
+13-07: Refresh, Content={408, 2435 Content={2816 String="The language of the wolves\nby Ishara.", 2816 String="My life as a spoon\nby a victim of a bugged chamaeleon spell.", 2821 String="Rings of magic\nby S.\n\ndeath ring\npower ring\nenergy ring\nmight ring\nlife ring\ntime ring\n...", 2821 String="Forbidden secrets of Magic!"}}
+13-08: Refresh, Content={408}
+13-09: Refresh, Content={408}
+13-10: Refresh, Content={408}
+13-11: Refresh, Content={408}
+13-12: Refresh, Content={408, 3510}
+13-13: Refresh, Content={408, 1282}
+13-14: Refresh, Content={2556 ChestQuestNumber=40 Content={2969 KeyNumber=3701}, 2472 Content={3552, 3552, 3559, 3561, 3562}}
+13-15: Refresh, Content={408}
+13-16: Refresh, Content={408}
+13-17: Content={408, 1282}
+13-27: Refresh, Content={1127}
+13-28: Refresh, Content={1127, 3655, 3657}
+13-29: Refresh, Content={1127}
+13-30: Refresh, Content={1127}
+14-06: Refresh, Content={1282}
+14-07: Refresh, Content={408, 2436 Content={2821 String="Flower Power\nby Cipreii.", 2821 String="Strange things can happen\nby Magicus.", 2821 String="How to create spellbooks\nby Muriel.", 2821 String="What runes are made of\nby Muriel."}}
+14-08: Refresh, Content={408}
+14-09: Refresh, Content={408}
+14-10: Refresh, Content={408}
+14-11: Refresh, Content={408}
+14-12: Refresh, Content={408}
+14-13: Refresh, Content={408, 1282}
+14-14: Refresh, Content={408, 2524 ContainerLiquidType=1}
+14-15: Refresh, Content={408}
+14-16: Refresh, Content={408}
+14-17: Content={408, 1282}
+14-27: Refresh, Content={1127, 3655}
+14-28: Refresh, Content={1127}
+14-29: Refresh, Content={1127, 3654}
+15-06: Refresh, Content={1282}
+15-07: Refresh, Content={408, 2437 Content={2816 String="Tales from the crypt\nby an unknown necromancer.", 2816 String="Vivisection made easy\nby unknown.", 2816 String="Demons\nBook I.", 2816 String="Demons\nBook II.", 2821 String="Secrets of Zathroth\nThe forbidden book!"}}
+15-08: Refresh, Content={408}
+15-09: Refresh, Content={408, 2330, 2874}
+15-10: Refresh, Content={408, 2322, 2873}
+15-11: Refresh, Content={408, 2325, 2911}
+15-12: Refresh, Content={408}
+15-13: Refresh, Content={408, 1282}
+15-14: Refresh, Content={408, 2881, 2319}
+15-15: Refresh, Content={408, 2358}
+15-16: Refresh, Content={408}
+15-17: Content={408, 1282}
+15-28: Refresh, Content={1127, 3656}
+16-06: Refresh, Content={1282}
+16-07: Refresh, Content={408, 2472 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}
+16-08: Refresh, Content={408}
+16-09: Refresh, Content={408, 2323, 2874}
+16-10: Refresh, Content={408, 2358}
+16-11: Refresh, Content={408}
+16-12: Refresh, Content={408}
+16-13: Refresh, Content={408, 1282}
+16-14: Refresh, Content={408, 2487}
+16-15: Refresh, Content={408, 2488}
+16-16: Refresh, Content={408}
+16-17: Content={408, 1282}
+17-06: Refresh, Content={1282}
+17-07: Refresh, Content={408, 2472 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874}}
+17-08: Refresh, Content={408}
+17-09: Refresh, Content={408, 2327, 2874}
+17-10: Refresh, Content={408}
+17-11: Refresh, Content={408}
+17-12: Refresh, Content={408, 2526}
+17-13: Refresh, Content={408, 1282}
+17-14: Refresh, Content={408, 2487}
+17-15: Refresh, Content={408, 2488}
+17-16: Refresh, Content={408, 3510}
+17-17: Content={408, 1282}
+18-06: Content={1290}
+18-07: Refresh, Content={408, 1281}
+18-08: Refresh, Content={408, 1629}
+18-09: Refresh, Content={408, 1281}
+18-10: Content={408, 1288}
+18-11: Content={408, 1281}
+18-12: Content={408, 1281}
+18-13: Content={408, 1287}
+18-14: Content={408, 1281}
+18-15: Content={408, 1281}
+18-16: Content={408, 1281}
+18-17: Content={408, 1285}
+19-06: Content={2154, 439}
+19-07: Refresh, Content={408}
+19-08: Refresh, Content={408}
+19-09: Refresh, Content={408}
+19-10: Content={2155, 440}
+20-06: Content={2154, 439}
+20-07: Refresh, Content={408}
+20-08: Refresh, Content={408}
+20-09: Refresh, Content={408}
+20-10: Content={2155, 440}
+21-06: Content={448}
+21-07: Content={2159, 442}
+21-08: Content={2157, 442}
+21-09: Content={2157, 442}
+21-10: Content={449}
+25-04: Refresh, Content={1127, 1794}
+25-05: Refresh, Content={1127}
+26-04: Refresh, Content={1127}
+26-05: Refresh, Content={1127, 1795, 3654}
+26-06: Refresh, Content={1127, 1772}
+26-07: Refresh, 
+27-06: Refresh, Content={1127}
+27-07: Refresh, Content={1127}
+28-06: Refresh, Content={1127, 1783}
+28-07: Refresh, Content={1127, 1785}
+28-08: Refresh, Content={1127, 1803}
+29-06: Refresh, Content={1127, 1784}
+29-07: Refresh, Content={1127, 1786, 3654}
+29-08: Refresh, Content={1127, 3623}
+29-09: Refresh, Content={1127, 3632}
+30-07: Refresh, Content={1127, 1772}
+30-08: Refresh, Content={1127, 3629}
+30-09: Refresh, Content={1127, 3634}
+30-10: Refresh, Content={1127, 1797}
+30-21: Content={1127, 1772, 3657, 3654}
+30-22: Content={1127, 3683}
+31-08: Refresh, Content={1127, 3630}
+31-09: Refresh, Content={1127, 1799}
+31-10: Refresh, Content={1127, 1796}
+31-11: Refresh, Content={1127, 3633}
+31-21: Content={1127, 1791, 3654, 3655}
+31-22: Content={1127, 3681, 3654}
+31-23: Content={1127, 3627, 3655}

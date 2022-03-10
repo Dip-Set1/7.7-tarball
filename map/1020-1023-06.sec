@@ -1,0 +1,380 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1020/1023/6
+
+0-4: Content={1513}
+0-5: ProtectionZone, Content={486, 2507 String="Wal'Master"}
+0-6: ProtectionZone, Content={486, 2508}
+0-7: ProtectionZone, Content={486}
+0-8: ProtectionZone, Content={486, 2507 String="Regus Brave"}
+0-9: ProtectionZone, Content={486, 2508}
+0-10: Content={486, 1513}
+0-11: ProtectionZone, Content={486, 3031 Amount=1, 3589 Amount=5}
+0-12: ProtectionZone, Content={486, 3031 Amount=1, 3589 Amount=5}
+0-13: ProtectionZone, Content={486, 3031 Amount=1, 3589 Amount=5}
+0-14: ProtectionZone, Content={486, 2380}
+0-15: ProtectionZone, Content={486}
+0-16: Content={486, 1513}
+1-4: Content={1513, 2653}
+1-5: ProtectionZone, Content={486}
+1-6: ProtectionZone, Content={486, 2843 String="Para: Laurita\nEl segundo dia que murio Reyco arius \nApr 28 2006, 04:35:35 CET Killed at Level 57 by a crypt shambler\n\nAtte : Dany\n\nTe quiero mucho " Editor="Reyco Arius"}
+1-7: ProtectionZone, Content={486}
+1-8: ProtectionZone, Content={486}
+1-9: ProtectionZone, Content={486}
+1-10: Content={486, 1513, 2639}
+1-11: ProtectionZone, Content={482}
+1-12: ProtectionZone, Content={486, 3031 Amount=1, 3589 Amount=5}
+1-13: ProtectionZone, Content={486, 3589 Amount=5}
+1-14: ProtectionZone, Content={486, 3589 Amount=5}
+1-15: ProtectionZone, Content={486, 3589 Amount=5}
+1-16: Content={486, 1513}
+2-4: Content={1536}
+2-5: ProtectionZone, Content={486, 2483 Content={2872 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2872 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2872 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2853 Content={2866}}
+2-6: ProtectionZone, Content={486, 3587 Amount=97}
+2-7: ProtectionZone, Content={486, 3589 Amount=42}
+2-8: ProtectionZone, Content={486}
+2-9: ProtectionZone, Content={486, 2854 Content={3046, 3046, 3046, 3046}}
+2-10: Content={486, 1513}
+2-11: ProtectionZone, Content={486, 3093, 3586 Amount=4}
+2-12: ProtectionZone, Content={486, 3046, 3031 Amount=1, 3586 Amount=4}
+2-13: ProtectionZone, Content={486, 3050, 3084 RemainingUses=250, 3586 Amount=4}
+2-14: ProtectionZone, Content={486, 3084 RemainingUses=250, 3031 Amount=1, 3586 Amount=2}
+2-15: ProtectionZone, Content={486, 3046, 3050, 3084 RemainingUses=250}
+2-16: Content={486, 1538}
+3-4: Content={1513, 2910}
+3-5: ProtectionZone, Content={486, 3061, 3039}
+3-6: ProtectionZone, Content={486, 3377}
+3-7: ProtectionZone, Content={486}
+3-8: ProtectionZone, Content={486}
+3-9: ProtectionZone, Content={486}
+3-10: ProtectionZone, Content={486, 1686 String="# Players allowed to open this door\nsir marducky\nregus brave\nbesito de chokolate"}
+3-11: ProtectionZone, Content={486, 3031 Amount=1, 3586 Amount=4}
+3-12: ProtectionZone, Content={486, 3046, 3031 Amount=1, 3586 Amount=4, 3092}
+3-13: ProtectionZone, Content={486, 3050, 3046, 3483, 3586 Amount=4}
+3-14: ProtectionZone, Content={486, 3046, 3456, 3586 Amount=4}
+3-15: ProtectionZone, Content={486, 3084 RemainingUses=250, 3046, 3504 Content={3658, 3658, 3505 String="mamita linda:\n\nte quiero mucho y espero ke cumplas muchos años mas.. te quiero mucho cuidate mucho.. y deseo ke te la pases muy bonito   \n\nFeliz cumpleaños..  preciosa  te quiere  mucho  \n\narianza  o Sara  =******" Editor="Arianza"}}
+3-16: Content={486, 1513}
+3-22: Content={487, 1514}
+3-23: Content={493, 1512}
+3-24: Content={493, 1512}
+3-25: Content={493, 1512, 2908}
+3-26: Content={493, 1512}
+3-27: Content={493, 1519}
+3-28: Content={493, 1512}
+3-29: Content={493, 1512, 2908}
+3-30: Content={493, 1512, 2640}
+3-31: Content={493, 1512, 2641}
+4-4: Content={1536}
+4-5: ProtectionZone, Content={486, 2934, 2316}
+4-6: ProtectionZone, Content={486, 3586 Amount=87}
+4-7: ProtectionZone, Content={486}
+4-8: ProtectionZone, Content={486}
+4-9: ProtectionZone, Content={486}
+4-10: Content={486, 1513}
+4-11: ProtectionZone, Content={486, 2441 Content={2866, 2854}}
+4-12: ProtectionZone, Content={486, 3046, 3031 Amount=1, 3586 Amount=4, 3049}
+4-13: ProtectionZone, Content={486, 3084 RemainingUses=250, 3046 SavedExpireTime=2999, 3031 Amount=1, 3586 Amount=4}
+4-14: ProtectionZone, Content={486, 3084 RemainingUses=250, 3046, 3031 Amount=1, 3586 Amount=4}
+4-15: ProtectionZone, Content={486, 3046, 3446 Amount=35, 3593}
+4-16: Content={486, 1538}
+4-22: Content={491, 1513}
+4-23: ProtectionZone, Content={486, 2503}
+4-24: ProtectionZone, Content={486, 2504}
+4-25: ProtectionZone, Content={486, 2420}
+4-26: ProtectionZone, Content={486, 2424}
+4-27: Content={486, 1513}
+4-28: ProtectionZone, Content={486, 1968, 3082 RemainingUses=50, 3061, 3077}
+4-29: ProtectionZone, Content={486, 3311, 3311, 3380, 2426, 2426}
+4-30: ProtectionZone, Content={486, 3317, 3385, 2426, 2426}
+4-31: ProtectionZone, Content={486, 3297, 3416, 2426, 2426}
+5-4: Content={1513, 2653}
+5-5: ProtectionZone, Content={486, 2503}
+5-6: ProtectionZone, Content={486, 2504}
+5-7: ProtectionZone, Content={486, 3503 Content={3507 String="pergar\nab'dendriel" Editor="Besito de chokolate", 3279}}
+5-8: ProtectionZone, Content={486, 2503}
+5-9: ProtectionZone, Content={486, 2504}
+5-10: Content={486, 1513, 2910}
+5-11: ProtectionZone, Content={486, 2934}
+5-12: ProtectionZone, Content={486, 3046, 3031 Amount=1, 3586 Amount=4}
+5-13: ProtectionZone, Content={486, 3046, 3406, 3031 Amount=1, 3586 Amount=4, 3031 Amount=100}
+5-14: ProtectionZone, Content={486, 3046, 3084 RemainingUses=250}
+5-15: ProtectionZone, Content={486, 3084 RemainingUses=250, 3587 Amount=44}
+5-16: Content={486, 1513}
+5-22: Content={491, 1536}
+5-23: ProtectionZone, Content={486, 2935, 2469 Content={2833 String="Report 67ABFG33\nCaptains report an increased activity of pirates on the routes from Port Hope to Thais and Venore. I support the traders' demand that the king should intervene. A well armed warship with some experienced fighters would not only secure the routes, but also boost our line of defence in Port Hope. With their support we could fight back such enemies like the ape men - or even capture Trapwood, an area rich in bamboo that is populated by those murderous dworcs. ", 2833 String="Report 27AAF36\nAlthough offered with the best intentions, the reward the tradesmen from Venore had put on monkey tails was revoked after a while. Even though many adventurers and soldiers of fortune had been able to pick up their rewards, the situation was worse than ever as the ape raids came even more frequently and ferociously. The loss of lives and the senseless destruction of property had increased enormously. Sadly Jorgin Beargin, the spokesman of the Venoran traders, was called back to Venore to report about the recent losses.\nThe traders are now asking us to keep adventurers from provoking the ape men in any way. I fear we cannot offer much assistance in that matter since those \"tail hunters\" are numerous and usually well armed but we will try our best.\n", 2821 String="Report 13XAH07\nThese ape men have been causing turmoil once again. Their raids have become more frequent with each month since the rain season has ended. I guess they don't like showers. Given their savageness and unpredictability it is not easy to come up with a counter strategy. It is obvious that the majority of the apes are trying to distract our guards while others sneak in and steal equipment of all sorts. Some of them are agile like ... well, like monkeys. Hard to catch - and they are sort of escape artists and might hide right under the ceiling. I even had one report of a citizen finding a monkey hiding in his depot box after a raid. Given the number of men at our disposal it is impossible to defend each and every side of the settlement. No sort of barricade would be of any help considering the nature of our attackers. \nThey get into and out of our fort just as it pleases them, and even the upper levels of the town that have proven to be safe against other beasts of the jungle are no hindrance to them. I see no real option to stop those attacks unless an army is sent here to find the apes' base of operation which seems to be somewhere in the north eastern jungle. ", 2833 String="Report 78ACFF04\nThe usual turmoil when the QUEEN GENOVEVA is in town - the sailors, drunk as always, stood out with their usual misbehaviour with the result that one of them spilled the beer of a local dwarf. In the following fight a lot of property was destroyed and even lives were endangered. I sent word to Thais that such events destroy the peace of our colony and that we would probably do better to rely on the more disciplined seamen of Venore who are more accustomed to the hardships of long journeys than the men of the Thaian marine. A letter written by the local traders strongly supporting my point has been enclosed. ", 2833 String="Report 67ZUFL90\nDeath caused by venomous local animals and by enemies using poisonous weapons against us are becoming more and more common. The traders of Venore gladly offered a vast supply of antidotes and suggested forming a monopoly to ensure the quality of the products and to stop scammers before their adulterated potions cause the deaths of innocents.", 2833 String="Report 34DFOO12\nWe still cannot figure out who or what caused the disappearance of Oliver Holmes. Aforesaid mage from the Noodles Academy of Magic Arts came here to study the different cultures of the area. After three days of preparation and planning, his room was found empty. His bed was unused but his clothes lay neatly folded on a chair as if he had undressed. There were no signs of a fight and the door had been locked from within. It is a complete mystery why or how he disappeared. \n", 2833 String="Report 56IOLP56\nThe respectable mage Borsoz was able to provide us with a cure for the so-called 'jungle fever'. People repeatedly reported some kind of 'out-of-body experience'. While sleeping, they suddenly stood beside their own body and watched over it. The magician proved that the 'fever' actually was caused by a small bug. This bug injects a mildly toxic hallucinogen into the body of a sleeping person causing the mentioned phenomenon. Borsoz developed a paste that, when applied to the walls and the floor, keeps those bugs away. All settlers were provided with the paste and the \"fever\" has been efficiently eradicated. ", 2853 Content={3483, 3483}}, 2483}
+5-24: ProtectionZone, Content={486}
+5-25: ProtectionZone, Content={486}
+5-26: ProtectionZone, Content={486}
+5-27: Content={486, 1513, 2664 RemainingExpireTime=184}
+5-28: ProtectionZone, Content={486, 3323, 2395, 2992 Amount=5, 2473}
+5-29: ProtectionZone, Content={486, 3192 Charges=2}
+5-30: ProtectionZone, Content={486, 3192 Charges=2, 3192 Charges=2}
+5-31: ProtectionZone, Content={486, 3192 Charges=2}
+6-4: Content={1515}
+6-5: Content={486, 1512}
+6-6: Content={486, 1541}
+6-7: Content={486, 1512}
+6-8: Content={486, 1512}
+6-9: Content={486, 1541}
+6-10: Content={486, 1518}
+6-11: Content={486, 1512}
+6-12: Content={486, 1541}
+6-13: Content={486, 1512}
+6-14: Content={486, 1512}
+6-15: Content={486, 1541}
+6-16: Content={486, 1516}
+6-22: Content={491, 1513, 2910}
+6-23: ProtectionZone, Content={486, 2483 Content={2853 Content={3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3097, 3097, 3097, 3097}, 2853 Content={3026 Amount=1, 3012, 3207 Amount=1}, 3092, 3049, 3049 SavedExpireTime=550, 3053, 3053, 3504 Content={2861 Content={2969 KeyNumber=3650, 2973 KeyNumber=3520, 2970 KeyNumber=3142}, 2970 KeyNumber=3802, 2970 KeyNumber=3801, 2970 KeyNumber=3800}}}
+6-24: ProtectionZone, Content={486}
+6-25: ProtectionZone, Content={486}
+6-26: ProtectionZone, Content={486}
+6-27: Content={486, 1513, 2639}
+6-28: ProtectionZone, Content={486, 2465 Content={2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2853 Content={3557, 3557}, 3456}}
+6-29: ProtectionZone, Content={486, 3598 Amount=27}
+6-30: ProtectionZone, Content={486}
+6-31: ProtectionZone, Content={486, 2854 Content={3189 Charges=3, 3189 Charges=3, 3189 Charges=1, 3189 Charges=3}}
+7-22: Content={491, 1536}
+7-23: ProtectionZone, Content={486, 2535}
+7-24: ProtectionZone, Content={486}
+7-25: ProtectionZone, Content={486}
+7-26: ProtectionZone, Content={486}
+7-27: ProtectionZone, Content={486, 1685 String="# Players allowed to open this door\noz mage"}
+7-28: ProtectionZone, Content={486}
+7-29: ProtectionZone, Content={486}
+7-30: ProtectionZone, Content={486}
+7-31: ProtectionZone, Content={486, 2853 Content={2920, 2920 SavedExpireTime=295}}
+8-22: Content={491, 1513, 2635}
+8-23: ProtectionZone, Content={486, 2366}
+8-24: ProtectionZone, Content={486}
+8-25: ProtectionZone, Content={486}
+8-26: ProtectionZone, Content={486}
+8-27: Content={486, 1513, 2910}
+8-28: ProtectionZone, Content={486, 2465 Content={4872, 3483, 2866 Content={2854, 2868}, 2857 Content={2866, 2866, 2867, 2866, 2869, 2868, 2867, 2867}}}
+8-29: ProtectionZone, Content={486, 3073, 3028 Amount=6, 3085 RemainingUses=200, 3085 RemainingUses=200, 3384, 3373, 2382, 3598 Amount=1}
+8-30: ProtectionZone, Content={486, 3071, 3322, 2352}
+8-31: ProtectionZone, Content={486, 3071, 3322, 3510}
+9-22: Content={491, 1536}
+9-23: ProtectionZone, Content={486, 2507 String="Shavii"}
+9-24: ProtectionZone, Content={486, 2508}
+9-25: ProtectionZone, Content={486, 3084 RemainingUses=250, 3450 Amount=14, 2425}
+9-26: ProtectionZone, Content={486, 3059, 2421}
+9-27: Content={486, 1513}
+9-28: ProtectionZone, Content={486, 2535, 2977, 3350, 3350, 3449 Amount=3, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100}
+9-29: ProtectionZone, Content={486, 3071, 3576, 2957, 2346}
+9-30: ProtectionZone, Content={486, 3071, 3322, 2351}
+9-31: ProtectionZone, Content={486, 3071, 3322, 3380, 2349}
+10-22: Content={491, 1515}
+10-23: Content={486, 1512}
+10-24: Content={486, 1540}
+10-25: Content={486, 1512}
+10-26: Content={486, 1540}
+10-27: Content={486, 1518}
+10-28: Content={486, 1512}
+10-29: Content={486, 1512}
+10-30: Content={486, 1540}
+10-31: Content={486, 1512}
+11-22: Content={488}
+11-23: Content={494}
+11-24: Content={494}
+11-25: Content={494}
+11-26: Content={494}
+11-27: Content={494}
+11-28: Content={494}
+11-29: Content={494}
+11-30: Content={494}
+11-31: Content={494}
+15-14: Content={487, 1514}
+15-15: Content={493, 1512, 2653}
+15-16: Content={493, 1539, 2653}
+15-17: Content={493, 1512, 2908}
+15-18: Content={493, 1539}
+15-19: Content={493, 1512, 2664 RemainingExpireTime=460}
+15-20: Content={493, 1517}
+15-21: Content={489}
+16-14: Content={491, 1513, 2653}
+16-15: ProtectionZone, Content={486, 2426, 2656}
+16-16: ProtectionZone, Content={486, 1968, 3017, 4839, 2656}
+16-17: ProtectionZone, Content={486, 2977, 2485 Content={3740 Amount=1, 3586 Amount=4, 3092, 3585 Amount=1, 3492 Amount=35, 3597 Amount=1, 3590 Amount=3, 3583 Amount=1, 3045 RemainingUses=200, 3587 Amount=29, 3740 Amount=8, 3598 Amount=29}}
+16-18: ProtectionZone, Content={486, 2961, 2656}
+16-19: ProtectionZone, Content={486, 2061, 2656}
+16-20: Content={486, 1513}
+16-21: Content={492}
+17-14: Content={491, 1513, 2653}
+17-15: ProtectionZone, Content={486, 2882, 3596 Amount=5, 2351}
+17-16: ProtectionZone, Content={486, 2426, 2653}
+17-17: ProtectionZone, Content={486, 3351, 3590 Amount=1, 3586 Amount=1, 3585 Amount=5, 2667}
+17-18: ProtectionZone, Content={486, 3357, 3590 Amount=1, 3586 Amount=1, 3585 Amount=6, 2667, 2653}
+17-19: ProtectionZone, Content={486, 2981, 2484, 2656}
+17-20: Content={486, 1513}
+17-21: Content={492}
+18-14: Content={491, 1536, 2653}
+18-15: ProtectionZone, Content={486, 2902, 3584 Amount=5, 2351}
+18-16: ProtectionZone, Content={486, 2426, 2653}
+18-17: ProtectionZone, Content={486, 3391, 3736 Amount=1, 3589 Amount=5, 2653}
+18-18: ProtectionZone, Content={486, 3736 Amount=1, 3589 Amount=7, 2653}
+18-19: ProtectionZone, Content={486, 2367, 2656}
+18-20: Content={486, 1537}
+18-21: Content={492}
+19-14: Content={491, 1536, 2653}
+19-15: ProtectionZone, Content={486, 2859 Content={3304, 3285, 3049 SavedExpireTime=439}, 2426, 2653}
+19-16: ProtectionZone, Content={486, 3098, 3593, 3606 Amount=10, 2653}
+19-17: ProtectionZone, Content={486, 3606 Amount=1, 3591 Amount=5, 2667}
+19-18: ProtectionZone, Content={486, 3606 Amount=1, 3591 Amount=7, 2667}
+19-19: ProtectionZone, Content={486, 2367, 2656}
+19-20: Content={486, 1537}
+19-21: Content={492}
+20-14: Content={491, 1513}
+20-15: ProtectionZone, Content={486, 2535, 3577 Amount=1, 3591 Amount=1, 3466}
+20-16: ProtectionZone, Content={486, 3740 Amount=1, 3298 Amount=4, 2653}
+20-17: ProtectionZone, Content={486, 2486 Content={3457, 3003, 3577 Amount=94, 3601 Amount=9}, 2656}
+20-18: ProtectionZone, Content={486, 3597 Amount=2, 2369, 2656}
+20-19: ProtectionZone, Content={486, 2934, 2316, 2656}
+20-20: Content={486, 1513}
+20-21: Content={492}
+21-12: Content={487}
+21-13: Content={493}
+21-14: Content={498, 1515}
+21-15: Refresh, Content={486, 1512, 2945}
+21-16: ProtectionZone, Content={486, 1695}
+21-17: Refresh, Content={486, 1512}
+21-18: Content={486, 1540}
+21-19: Content={486, 1540}
+21-20: Content={486, 1516}
+21-21: Content={492}
+22-12: Content={491}
+22-13: Refresh, Content={486}
+22-14: Refresh, Content={486}
+22-15: Refresh, Content={486}
+22-16: Refresh, Content={486}
+22-17: Content={495}
+22-18: Content={494}
+22-19: Content={494}
+22-20: Content={494}
+22-21: Content={490}
+23-0: Content={1512}
+23-1: Content={1517}
+23-12: Content={491}
+23-13: Refresh, Content={486}
+23-14: Refresh, Content={486}
+23-15: Refresh, Content={486}
+23-16: Refresh, Content={486}
+23-17: Content={492}
+24-0: ProtectionZone, Content={486}
+24-1: Content={486, 1513}
+24-12: Content={491}
+24-13: Refresh, Content={486}
+24-14: Content={495}
+24-15: Content={494}
+24-16: Content={494}
+24-17: Content={490}
+25-0: ProtectionZone, Content={599}
+25-1: Content={486, 1538}
+25-5: Content={487, 1514}
+25-6: Content={493, 1512, 2667}
+25-7: Content={493, 1512, 2667}
+25-8: Content={493, 1539, 2667}
+25-9: Content={493, 1512, 2908}
+25-10: Content={493, 1539, 2667}
+25-11: Content={493, 1512, 2667}
+25-12: Content={498, 1517}
+25-13: Refresh, Content={486}
+25-14: Content={492}
+26-0: ProtectionZone, Content={486}
+26-1: Content={486, 1513}
+26-5: Content={491, 1513}
+26-6: ProtectionZone, Content={486, 2535, 3032 Amount=1, 3584 Amount=2, 2950, 2934}
+26-7: ProtectionZone, Content={486, 2961, 2647}
+26-8: ProtectionZone, Content={486, 3051, 3600 Amount=25, 2314, 2647}
+26-9: ProtectionZone, Content={486, 3097, 3097, 3097, 3097, 3097, 3590 Amount=65, 2314, 2647}
+26-10: ProtectionZone, Content={486, 3050, 3050, 3050, 3050, 3050, 3050 SavedExpireTime=1778, 3585 Amount=30, 2314, 2647}
+26-11: ProtectionZone, Content={486, 3092 SavedExpireTime=1697, 3583 Amount=47, 2314, 2647}
+26-12: Refresh, Content={486, 1513}
+26-13: Refresh, Content={486}
+26-14: Content={492}
+27-0: Content={486, 1512}
+27-1: Content={486, 1516}
+27-5: Content={491, 1513, 2667}
+27-6: ProtectionZone, Content={486, 3032 Amount=1, 3280, 3370, 2393, 2647}
+27-7: ProtectionZone, Content={486, 3556, 3557, 3587 Amount=100, 2647}
+27-8: ProtectionZone, Content={486, 3556, 3282, 3406, 3279, 3380, 2647}
+27-9: ProtectionZone, Content={486, 3029 Amount=6, 3282, 2955, 3380, 2377, 2647}
+27-10: ProtectionZone, Content={486, 1968, 3658, 3061, 3557, 2377, 2647}
+27-11: ProtectionZone, Content={486, 3049 SavedExpireTime=267, 3602 Amount=33, 2314, 2647}
+27-12: Refresh, Content={486, 1513}
+27-13: Refresh, Content={486}
+27-14: Content={492}
+28-0: Content={486, 2988, 2434}
+28-1: Content={486, 1513, 2610}
+28-5: Content={491, 1536, 2667}
+28-6: ProtectionZone, Content={486, 2445, 2647}
+28-7: ProtectionZone, Content={486, 3556, 3322, 3287 Amount=27, 3586 Amount=25, 2647}
+28-8: ProtectionZone, Content={486, 3556, 3026 Amount=9, 3556, 3279, 3418, 3282, 2647}
+28-9: ProtectionZone, Content={486, 3030 Amount=1, 3081 RemainingUses=5, 3279, 3324, 3557, 3598 Amount=50, 2647}
+28-10: ProtectionZone, Content={486, 3032 Amount=9, 3280, 3597 Amount=15, 3044 Amount=4, 2366, 2647}
+28-11: ProtectionZone, Content={486, 3098, 3098, 3098, 3587 Amount=100, 2314, 2647}
+28-12: Content={486, 1537}
+28-13: Refresh, Content={486}
+28-14: Content={492}
+28-18: Content={487, 1514}
+28-19: Content={493, 1512}
+28-20: Content={493, 1512, 2908}
+28-21: Content={493, 1539, 2667}
+28-22: Content={493, 1512}
+28-23: Content={493, 1517}
+28-24: Content={489}
+29-0: Content={486}
+29-1: Content={486, 1513, 2610}
+29-5: Content={491, 1513, 2910}
+29-6: ProtectionZone, Content={486, 2449 Content={3097, 3093 SavedExpireTime=113, 3093, 2632, 3050 SavedExpireTime=1798, 2866 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367}}, 2647}
+29-7: ProtectionZone, Content={486, 3050, 3556, 3557, 3572, 3449 Amount=100, 2647}
+29-8: ProtectionZone, Content={486, 3556, 3740 Amount=3, 3406, 3357, 2647}
+29-9: ProtectionZone, Content={486, 3556, 3416, 3027 Amount=13, 3282, 2647}
+29-10: ProtectionZone, Content={486, 3033 Amount=9, 3592, 3441, 2366, 2647}
+29-11: ProtectionZone, Content={486, 3093, 3093 SavedExpireTime=1742, 3093 SavedExpireTime=1615, 3093, 3093, 3093, 3586 Amount=100, 2314, 2647}
+29-12: Refresh, Content={486, 1513}
+29-13: Refresh, Content={486}
+29-14: Content={492}
+29-18: Content={491, 1513}
+29-19: ProtectionZone, Content={486, 2505}
+29-20: ProtectionZone, Content={486, 3046 SavedExpireTime=1388, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}
+29-21: ProtectionZone, Content={486, 3492 Amount=3, 3492 Amount=100}
+29-22: ProtectionZone, Content={486, 2505}
+29-23: Content={486, 1513}
+29-24: Content={492}
+30-0: Content={486, 2904}
+30-1: Content={486, 1513}
+30-5: Content={491, 1536, 2667}
+30-6: ProtectionZone, Content={486, 2449 Content={2869 Content={2865 Content={2868 Content={3093 SavedExpireTime=1690, 3085 RemainingUses=13}, 2868 Content={2866 Content={3592, 3595 Amount=6, 3592, 2860 Content={2906, 3077, 3075, 3066, 3046, 3074, 3046 SavedExpireTime=2686, 3074}, 3448 Amount=5, 3327, 3017, 3447 Amount=93, 3350, 3084 RemainingUses=159, 3045 RemainingUses=200, 3406, 2393, 2839 String="hoy empiezas un nuevo char porfas cuidalo we y no hagas mamdas como le hiciste a fert" Editor="Elon Froton"}}, 2854 Content={2635, 2854 Content={3003}, 2854, 2854, 2866, 2866, 2868, 2854, 2854, 2854, 2872, 2854, 2872, 2854, 2854, 2872, 2469}, 2868, 3091 SavedExpireTime=53, 3083 RemainingUses=150, 3059}, 2854 Content={3188 Charges=2, 3188 Charges=2, 3174 Charges=1, 3174 Charges=3, 3174 Charges=5, 3172 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=2, 3188 Charges=3, 3188 Charges=1, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=2}, 2869 Content={3457, 3003}, 2866, 2872, 2872 Content={2872 Content={2854 Content={2872 Content={2854 Content={2867 Content={2872 Content={2872 Content={2867 Content={2867}}}}}}}}}}, 2854 Content={2866}, 2865 Content={3349}, 2985, 2985, 2911 SavedExpireTime=2134}, 2647}
+30-7: ProtectionZone, Content={486, 3556, 3416, 1781 Amount=24, 2647}
+30-8: ProtectionZone, Content={486, 3028 Amount=6, 3556, 3576, 3279, 3567, 2647}
+30-9: ProtectionZone, Content={486, 3029 Amount=1, 3322, 4839, 3357, 3282, 2647}
+30-10: ProtectionZone, Content={486, 3007, 3007, 3081 RemainingUses=5, 3297, 3593, 2366, 2647}
+30-11: ProtectionZone, Content={486, 3091, 3091, 3601 Amount=7, 2314, 2647}
+30-12: Content={486, 1537}
+30-13: Refresh, Content={486}
+30-14: Content={492}
+30-18: Content={491, 1536}
+30-19: ProtectionZone, Content={486, 2506}
+30-20: ProtectionZone, Content={486, 2872, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2872, 3031 Amount=40}
+30-21: ProtectionZone, Content={486, 3507 Editor="Grea Ligon", 3351, 3372, 3372, 3372, 3372, 3286, 3372, 3410}
+30-22: ProtectionZone, Content={486, 2506}
+30-23: Content={486, 1538}
+30-24: Content={492}
+31-0: Content={486}
+31-1: Content={486, 1513}
+31-5: Content={491, 1513, 2667}
+31-6: ProtectionZone, Content={486, 2449 Content={3045 RemainingUses=200, 3457, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3350, 2856 Content={3412}, 2473 Content={2872}}, 2647}
+31-7: ProtectionZone, Content={486, 2991, 3297, 3416, 3587 Amount=40, 2647}
+31-8: ProtectionZone, Content={486, 3077, 3556, 3279, 3418, 3446 Amount=100, 3282, 3589 Amount=3, 2647}
+31-9: ProtectionZone, Content={486, 3033 Amount=1, 3369, 3357, 3279, 3042 Amount=35, 2393, 2647}
+31-10: ProtectionZone, Content={486, 3033 Amount=1, 3284 RemainingUses=1, 4839, 3370, 3739 Amount=1, 2366, 2647}
+31-11: ProtectionZone, Content={486, 3052, 3052 SavedExpireTime=513, 3052, 3589 Amount=100, 2314, 2647}
+31-12: Refresh, Content={486, 1513}
+31-13: Refresh, Content={486}
+31-14: Content={492}
+31-18: Content={491, 1513}
+31-19: ProtectionZone, Content={486, 2465 Content={3311, 2469 Content={3031 Amount=100, 3031 Amount=100, 3035 Amount=24}, 2473 Content={3277 Amount=1, 1781 Amount=5, 3483}, 2471 Content={3578 Amount=6, 3577 Amount=20}, 2868, 3059}, 4871, 3357}
+31-20: ProtectionZone, Content={486, 2853, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3367}
+31-21: ProtectionZone, Content={486, 2853 Content={3354}, 3556, 3357}
+31-22: ProtectionZone, Content={486, 2467 Content={3504 Content={2868 Content={2865, 2868 Content={2868, 2868 Content={2868, 2868, 2868, 2868, 2868, 2868}}}, 3585 Amount=8, 2973 KeyNumber=3520, 2970 KeyNumber=4503, 2472 Content={2472 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=24, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3035 Amount=6}, 2471 Content={2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3358, 1781 Amount=9, 2854 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2868 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2}, 2973 KeyNumber=3520}, 2469}, 3507 String="zezhor\nport hope" Editor="Lord Galud Aybara"}, 3577 Amount=73, 2853}}
+31-23: Content={486, 1513}
+31-24: Content={492}

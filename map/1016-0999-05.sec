@@ -1,0 +1,47 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1016/999/5
+
+14-0: Content={4457}
+14-1: Content={4457}
+14-2: Content={4457}
+15-0: Content={1099}
+15-1: Content={1099}
+15-2: Content={1099, 1082}
+15-3: Content={4457}
+16-0: Content={1099}
+16-1: Content={1099}
+16-2: Content={1099}
+16-3: Content={1099, 1113}
+17-0: Content={1099}
+17-1: Content={1099}
+17-2: Content={1099}
+17-3: Content={1099, 1113}
+18-0: Content={1099}
+18-1: Content={1099}
+18-2: Content={1099}
+18-3: Content={1099, 1113}
+19-0: Content={1099}
+19-1: Content={1099}
+19-2: Content={1099}
+19-3: Content={1099, 1115}
+19-4: Content={4457}
+20-0: Content={1099}
+20-1: Content={1099}
+20-2: Content={1099}
+20-3: Content={1099}
+20-4: Content={1099, 1082}
+21-0: Content={1099}
+21-1: Content={1099}
+21-2: Content={1099}
+21-3: Content={1099}
+21-4: Content={1099, 1085}
+22-0: Content={1099}
+22-1: Content={1099}
+22-2: Content={1099}
+22-3: Content={1099, 1085}
+23-0: Content={1099, 1081}
+23-1: Content={1099}
+23-2: Content={1099, 1082}
+24-0: Content={4458}
+24-1: Content={1099, 1081}
+24-2: Content={1099, 1085}

@@ -1,0 +1,13 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1034/992/6
+
+27-31: Content={1127, 1772}
+28-30: Content={1127, 1787}
+28-31: Content={1127, 1789}
+29-30: Content={1127, 1788}
+29-31: Content={1127, 1790}
+30-30: Content={1127}
+30-31: Content={1127}
+31-29: Content={1127, 1772}
+31-30: Content={1127}
+31-31: Content={1127}

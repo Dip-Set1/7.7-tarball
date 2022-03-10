@@ -1,0 +1,16 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1032/1012/6
+
+0-30: Content={4458}
+0-31: Content={1099}
+1-30: Content={4458}
+1-31: Content={1099}
+2-30: Content={4458}
+2-31: Content={1099, 1082}
+3-30: Content={4458}
+3-31: Content={1099, 4816}
+4-30: Content={4458}
+4-31: Content={1099}
+5-30: Content={1084}
+5-31: Content={1099, 4815}
+6-31: Content={1084}

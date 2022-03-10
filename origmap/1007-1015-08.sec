@@ -1,0 +1,15 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-00: Content={101}
+00-01: Content={101}
+00-02: Content={101}
+01-00: Content={101}
+01-01: Content={101}
+01-02: Content={101}
+02-00: Content={101}
+02-01: Content={101}
+02-02: Content={101}
+03-00: Content={101}
+03-01: Content={101}
+03-02: Content={101}

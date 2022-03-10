@@ -1,0 +1,67 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 998/991/6
+
+3-1: Content={799, 1108, 3657}
+3-2: Content={799, 1111}
+4-1: Content={4515, 4726, 4729, 1100}
+4-2: Content={4515, 4729, 1102}
+5-0: Content={4515, 4729, 1101, 1103, 1735}
+5-1: Content={4522, 4730, 1101, 1104, 1288}
+5-2: Content={4522, 4728, 1110, 1630}
+5-3: Content={1286}
+6-0: Content={408}
+6-1: Content={408, 1947}
+6-2: Content={408}
+6-3: Content={408, 1282}
+7-0: Content={408, 2572}
+7-1: Content={408, 2578}
+7-2: Content={408}
+7-3: Content={408, 1734}
+8-0: Content={408, 2573}
+8-1: Content={408, 2579}
+8-2: Content={408, 2302}
+8-3: Content={408, 1282}
+9-0: Content={408, 2573}
+9-1: Content={408, 2579}
+9-2: Content={408, 2303, 3585 Amount=55}
+9-3: Content={408, 1282}
+10-0: Content={408, 2573}
+10-1: Content={408, 2579}
+10-2: Content={408, 2303, 3586 Amount=77}
+10-3: Content={408, 1734}
+11-0: Content={408, 1628}
+11-1: Refresh, Content={408, 1281}
+11-2: Content={408, 1735}
+11-3: Content={408, 1285}
+11-4: Refresh, NoLogout, Content={799, 1103, 3656}
+11-5: Refresh, NoLogout, Content={799, 1111}
+12-0: Refresh, ProtectionZone, Content={4529}
+12-1: Refresh, Content={4515, 3699}
+12-2: Refresh, NoLogout, Content={4523, 3664}
+12-3: Refresh, NoLogout, Content={4525, 4732, 4733, 3657}
+12-4: Refresh, NoLogout, Content={4517, 4728, 4729, 4727}
+12-5: Refresh, NoLogout, Content={799, 1102}
+13-0: Refresh, ProtectionZone, Content={4515}
+13-1: Refresh, Content={4527, 3682}
+13-2: Refresh, NoLogout, Content={4515, 4733, 3656}
+13-3: Refresh, NoLogout, Content={4515, 4737}
+13-4: Refresh, NoLogout, Content={799, 1106, 3654}
+13-5: Refresh, NoLogout, Content={799, 1110}
+14-0: Refresh, Content={4517, 3681}
+14-1: Refresh, Content={4515, 4733, 3681}
+14-2: Refresh, NoLogout, Content={4515, 4737}
+14-3: Refresh, NoLogout, Content={799, 1106, 3662}
+14-4: Refresh, NoLogout, Content={799, 4737, 1110}
+15-0: Refresh, Content={4515, 3699}
+15-1: Refresh, NoLogout, Content={4523, 4733, 4728, 3674}
+15-2: Refresh, NoLogout, Content={799}
+15-3: Refresh, NoLogout, Content={799, 1102, 611}
+16-0: Refresh, Content={4515, 4733, 3682}
+16-1: Refresh, NoLogout, Content={4515, 4737, 1106}
+16-2: Refresh, NoLogout, Content={799, 1101, 3654}
+16-3: Refresh, NoLogout, Content={799, 1110}
+17-0: Refresh, Content={4515, 4728, 3681}
+17-1: Refresh, NoLogout, Content={799, 1102, 611}
+18-0: Refresh, Content={4528, 4728, 1106, 3609}
+18-1: Refresh, Content={799, 1110, 3609}
+19-0: Refresh, Content={4515, 4737, 1110, 3609}

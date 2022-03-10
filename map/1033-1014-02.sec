@@ -1,0 +1,16 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1033/1014/2
+
+21-19: Content={4397, 1108}
+21-20: Content={4394, 1103}
+21-21: Content={4402, 1103}
+21-22: Content={4405, 1111}
+22-19: Content={4398, 1109}
+22-20: Content={4405, 1105}
+22-21: Content={4394}
+22-22: Content={4395, 1107, 1106}
+22-23: Content={4407, 1101, 1103}
+22-24: Content={4406, 1103, 1110}
+23-20: Content={4394, 1109}
+23-21: Content={4408, 1101}
+23-22: Content={4407, 1110}

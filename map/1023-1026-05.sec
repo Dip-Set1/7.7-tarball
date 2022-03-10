@@ -1,0 +1,47 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1023/1026/5
+
+20-3: Content={3798, 3856}
+20-4: Content={3798, 3850}
+20-5: Content={3858}
+21-2: Content={3856}
+21-3: Content={3801, 3861}
+21-4: Content={3796, 3868}
+21-5: Content={3863}
+21-6: Content={3798, 3850}
+21-7: Content={3858}
+22-1: Content={3856}
+22-2: Content={3861}
+22-3: Content={3864}
+22-4: Content={3794, 3849}
+22-5: Content={3862}
+22-6: Content={3778, 3866}
+22-7: Content={3800, 3863}
+22-8: Content={3784, 3858}
+22-9: Content={3788}
+23-1: Content={3793, 3852}
+23-2: Content={3790, 3865}
+23-3: Content={3789, 3851}
+23-4: Content={3799}
+23-5: Content={3789, 3852}
+23-6: Content={3786, 3867}
+23-7: Content={3787, 3867}
+23-8: Content={3788, 3851}
+24-1: Content={3793, 3855}
+24-2: Content={3803, 3862}
+24-3: Content={3863}
+24-4: Content={3779, 3850}
+24-5: Content={3788, 3864}
+24-6: Content={3849}
+24-7: Content={3782, 3849}
+24-8: Content={3859}
+25-2: Content={3855}
+25-3: Content={3862}
+25-4: Content={3778, 3865}
+25-5: Content={3851}
+26-3: Content={3852}
+26-4: Content={3779, 3869}
+26-5: Content={3802, 3851}
+27-3: Content={3855}
+27-4: Content={3782, 3849}
+27-5: Content={3782, 3859}

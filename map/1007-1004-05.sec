@@ -1,0 +1,44 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1007/1004/5
+
+25-9: Content={1114}
+25-10: Content={1112}
+25-11: Content={1112}
+25-12: Content={1117}
+26-8: Content={1114}
+26-9: Content={1116}
+26-10: Content={411}
+26-11: Content={4409, 3998 RemainingExpireTime=745, 3999 RemainingExpireTime=172}
+26-12: Content={4398, 1115}
+26-13: Content={1117}
+27-8: Content={1113}
+27-9: Content={4404, 4041 RemainingExpireTime=1344, 4041 RemainingExpireTime=896, 4042 RemainingExpireTime=1370}
+27-10: Content={4405}
+27-11: Content={4408, 3504 Content={3507 String="tiger do oriente\nthais\n" Editor="Manipulador das Xamas"}, 3999 RemainingExpireTime=172, 3999 RemainingExpireTime=163}
+27-12: Content={4405, 2469}
+27-13: Content={4405, 1113}
+28-8: Content={1115}
+28-9: Content={4405, 1117}
+28-10: Content={4397, 3998 RemainingExpireTime=297}
+28-11: Content={4407, 3504, 3998 RemainingExpireTime=297, 3507 String="don sonrisas\nthais\n" Editor="Clark Quinrif"}
+28-12: Content={4409, 3504}
+28-13: Content={4399, 1113}
+29-9: Content={1115}
+29-10: Content={4406, 1117}
+29-11: Content={4399, 3504}
+29-12: Content={4406, 3504}
+29-13: Content={4407, 1107, 1125, 3504}
+29-14: Content={4394, 1103, 3504 Content={3507 String="letty Samus\nThais" Editor="Renge Samus"}}
+29-15: Content={4403, 1103, 3999 RemainingExpireTime=186, 3504 Content={3492 Amount=21}}
+29-16: Content={4405, 1111, 3504, 3999 RemainingExpireTime=193, 2853}
+30-10: Content={1115}
+30-11: Content={4409, 1112}
+30-12: Content={4406, 1112}
+30-13: Content={4406, 1117, 1126}
+30-14: Content={4402, 2887 PoolLiquidType=5 RemainingExpireTime=29, 3998 RemainingExpireTime=989}
+30-15: Content={4398, 3999 RemainingExpireTime=188, 3504, 2853}
+30-16: Content={4406, 1102, 3504, 3999 RemainingExpireTime=193}
+31-13: Content={4409, 1109, 2887 PoolLiquidType=5 RemainingExpireTime=28, 4041 RemainingExpireTime=1588, 4041 RemainingExpireTime=900, 4042 RemainingExpireTime=1392}
+31-14: Content={4394, 1101, 3507 String="sconio\nthais" Editor="Sconio"}
+31-15: Content={4395, 1101, 3504}
+31-16: Content={4398, 1110, 3504, 1999}

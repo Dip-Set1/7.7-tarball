@@ -1,0 +1,42 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+29-00: Content={447}
+29-01: Content={2156, 441}
+29-02: Content={2156, 441}
+29-03: Content={2156, 441}
+29-04: Content={2156, 441}
+30-00: Content={2154, 439}
+30-01: ProtectionZone, Content={408}
+30-02: ProtectionZone, Content={408}
+30-03: ProtectionZone, Content={408}
+30-04: Content={408, 2154}
+30-10: Content={1283}
+30-11: Content={1281}
+30-12: Content={1281}
+30-13: Content={1735}
+30-14: Content={1281}
+30-15: Content={1288}
+30-16: Content={1281}
+30-17: Content={1735}
+30-18: Content={1281}
+30-19: Content={1735}
+30-20: Content={1281}
+30-21: Content={1286}
+31-00: Content={2154, 2154, 439}
+31-01: ProtectionZone, Content={408}
+31-02: ProtectionZone, Content={408}
+31-03: ProtectionZone, Content={408}
+31-04: Content={408, 2154}
+31-10: Content={1282}
+31-11: ProtectionZone, Content={408, 2438}
+31-12: ProtectionZone, Content={408, 2440}
+31-13: ProtectionZone, Content={408}
+31-14: ProtectionZone, Content={408}
+31-15: Content={408, 1282}
+31-16: ProtectionZone, Content={408, 2542}
+31-17: ProtectionZone, Content={408}
+31-18: ProtectionZone, Content={408}
+31-19: ProtectionZone, Content={408, 2487}
+31-20: ProtectionZone, Content={408, 2488}
+31-21: Content={408, 1282}

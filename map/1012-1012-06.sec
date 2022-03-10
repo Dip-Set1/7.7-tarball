@@ -1,0 +1,36 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1012/1012/6
+
+15-8: Content={4519, 1108, 3294, 3577 Amount=1, 2874, 3559, 3294, 2471, 2853, 3003, 2471, 2471, 2473, 2471, 3582 Amount=1, 3384, 2853, 3504, 2473, 2473, 2473, 2473, 2473, 3654}
+15-9: Content={4515, 1111, 3269, 3294, 3410, 2471, 2471, 2471, 3582 Amount=8, 2853, 2853, 3268, 3430, 3362, 2853, 2853, 3012, 2473, 3504 Content={3507 String="legendary eduard\nvenore"}, 2471, 3447 Amount=71, 2853 Content={3294, 3294, 3294}, 3492 Amount=18, 3294, 3384, 3012}
+16-7: Content={4515, 1108, 4459}
+16-8: Content={4515, 1104, 4457}
+16-9: Content={4529, 1107, 4457}
+16-10: Content={4515, 1103, 4815}
+16-11: Content={4526, 1111, 3577 Amount=3, 3031 Amount=1, 1781 Amount=4, 2473, 2473, 2473, 3504, 3113, 3582 Amount=1, 2853 Content={3582 Amount=2, 3577 Amount=1}, 3504 Content={3504, 3504 Content={2853 Content={2853 Content={2853}}, 2853, 3507 String="Aghtriru Wymin\ncarlin" Editor="Ojitos Palgawn"}, 3504}, 2865, 2853, 3582 Amount=5, 3294, 3582 Amount=1, 3410}
+17-7: Content={4522, 1100, 4458}
+17-8: Content={1099}
+17-9: Content={1099}
+17-10: Content={1099, 1084}
+17-11: Content={4515, 1107, 4815}
+17-12: Content={4515, 1111, 3582 Amount=2, 3294, 3294, 3012, 3578 Amount=2, 3504, 3504, 3504 Content={3507 String="Kamoh\nThais" Editor="Hanchua"}, 3300}
+18-7: Content={4518, 1100, 4458}
+18-8: Content={1099}
+18-9: Content={1099}
+18-10: Content={1099}
+18-11: Content={1099, 1082}
+18-12: Content={4515, 1102, 3577 Amount=1, 3413, 3504 Content={3507 String="Mifoz\nthais" Editor="Druidosus"}, 3504 Content={3507 String="quik pirokaman\nthais" Editor="Quik Pirokaman"}, 2471, 3294, 3655}
+19-7: Content={4530, 1100, 1084}
+19-8: Content={1099, 1081}
+19-9: Content={1099, 1081}
+19-10: Content={1099, 1081}
+19-11: Content={1099, 1085}
+19-12: Content={4517, 1102, 3582 Amount=5, 3294, 3294, 3294}
+20-7: Content={4522, 1109, 2473, 2473, 2473, 2473, 3577 Amount=2, 2853, 2853, 3582 Amount=1, 2853, 2473, 2473, 2473, 3059, 3012, 3012, 2473, 3294, 3277 Amount=4, 3358, 3582 Amount=1, 3003, 3457, 3582 Amount=10, 3294, 3582 Amount=2, 3362, 3362, 3582 Amount=1, 3031 Amount=1, 3577 Amount=1, 3582 Amount=2, 2853 Content={3413}, 3294, 3294, 3410, 3294, 3294, 2471 Content={2473 Content={2473}}, 3582 Amount=1, 2853 Content={3457}, 3410, 2853 Content={3582 Amount=2, 3577 Amount=1}, 2924 SavedExpireTime=223, 2853, 3137, 2853, 2853, 2853, 2853, 3582 Amount=6, 3504, 3504, 3504, 4284, 2853, 2473, 2473, 2473, 3294, 3410, 3294, 3656}
+20-8: Content={4526, 1101, 2473, 3294, 2473, 3358, 3031 Amount=1, 3294, 3457, 3582 Amount=2, 2853, 3012, 3582 Amount=1}
+20-9: Content={4515, 1101, 3350, 3582 Amount=2, 3031 Amount=1, 3504 Content={3507 String="Dwarvan Sniper\nThais" Editor="Monk of Razorwind"}, 3504, 3504 Content={3507 String="fedlex\nthais\n" Editor="Fedlex"}, 3294, 3362, 3655, 3012}
+20-10: Content={4518, 1101, 3582 Amount=6, 3294, 3582 Amount=22}
+20-11: Content={4515, 1105, 3551, 3135, 3294, 3294, 2853, 3354, 3277 Amount=4, 3410, 3577 Amount=2, 3654}
+20-12: Content={4519, 1102, 2853, 3294, 3294, 3012, 3294, 3031 Amount=1}
+21-11: Content={4515, 1109, 3294}
+21-12: Content={4521, 1110, 3294, 2853, 3559, 2853, 2853, 3294, 3267, 3413, 3286}

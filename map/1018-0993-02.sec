@@ -1,0 +1,52 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1018/993/2
+
+8-7: Content={1272}
+8-8: Content={1270}
+8-9: Content={1277}
+8-10: Content={1737}
+8-11: Content={1737}
+8-12: Content={1270}
+8-13: Content={1275}
+9-7: Content={1271}
+9-8: Content={409, 2427}
+9-9: Content={409, 1947}
+9-10: Content={409}
+9-11: Content={409, 2429}
+9-12: Content={409, 2430}
+9-13: Content={409, 1271}
+10-7: Content={1271}
+10-8: Content={409, 2428}
+10-9: Content={409}
+10-10: Content={409}
+10-11: Content={409}
+10-12: Content={409}
+10-13: Content={409, 1271}
+11-7: Content={1736}
+11-8: Content={409, 2027 String="Eternal love will conquer death"}
+11-9: Content={409}
+11-10: Content={409}
+11-11: Content={409}
+11-12: Content={409, 2359}
+11-13: Content={409, 1736}
+12-7: Content={1736}
+12-8: Content={409}
+12-9: Content={409}
+12-10: Content={409}
+12-11: Content={409}
+12-12: Content={409, 2302}
+12-13: Content={409, 1736}
+13-7: Content={1271}
+13-8: Content={409}
+13-9: Content={438}
+13-10: Content={409}
+13-11: Content={409, 2360}
+13-12: Content={409, 2304}
+13-13: Content={409, 1271}
+14-7: Content={1273}
+14-8: Content={409, 1270}
+14-9: Content={409, 1270}
+14-10: Content={409, 1737}
+14-11: Content={409, 1737}
+14-12: Content={409, 1270}
+14-13: Content={409, 1274}

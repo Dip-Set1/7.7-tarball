@@ -1,0 +1,97 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1010/995/6
+
+0-0: Content={408, 1282}
+0-1: ProtectionZone, Content={408, 2494}
+0-2: Content={408, 1282}
+0-3: ProtectionZone, Content={408, 2494}
+0-4: Content={408, 1282}
+0-5: ProtectionZone, Content={408, 2494}
+0-6: Content={408, 1282}
+1-0: Content={408, 1287}
+1-1: Content={408, 1735}
+1-2: Content={408, 1287}
+1-3: Content={408, 1735}
+1-4: Content={408, 1287}
+1-5: Content={408, 1735}
+1-6: Content={408, 1285}
+18-8: Content={1296}
+18-9: Content={1294}
+18-10: Content={1735}
+18-11: Content={1301}
+18-12: Content={1294}
+18-13: Content={1294, 2908}
+18-14: Content={1294}
+18-15: Content={1299}
+19-8: Content={1295}
+19-9: ProtectionZone, Content={409, 2487}
+19-10: ProtectionZone, Content={409, 2488}
+19-11: Content={409, 1295}
+19-12: ProtectionZone, Content={409}
+19-13: Content={438}
+19-14: ProtectionZone, Content={409, 2934, 2316}
+19-15: Content={409, 1295}
+20-8: Content={1295, 2910}
+20-9: ProtectionZone, Content={409}
+20-10: ProtectionZone, Content={409, 2829 String="Suns and Stars, Part II\nVery basic rituals depend on the influences of dawn and dusk, or of night and day. Other, more complex rituals may only be performed at very specific times, perhaps even at a specific hour. Other rituals that are more complex still are bound to specific days, and to specific times as well. In fact, some individual spells can only be performed once a year or once every other year, while the most powerful of rituals may only be carried out during stellar constellations that are so incredibly rare that centuries may pass before the ritual can be performed again. Given the power and knowledge of the ancients it seems reasonable to assume that they have prepared rituals whose time has not even come to this very day. Since most of the ancient races have disappeared from the lands it is well possible that some of the rituals are still be buried in some long forgotten ruin, while others might actually be in the possession of some surviving heir of one of the ancient races.\nWho knows. The astrological knowledge of the ancients is yet to be rediscovered. We are perfectly positive that some of the discoveries we have made can be considered as the groundwork for further, more elaborate theories which one day might rival that of the ancients. Still, it would be an immense progress if we could rediscover some of the ancients' lost astrological writings.", 2829 String="By the powers that remain and the powers of old, \nby the wisdom of the scarab and the kiss of the scorpion, \nby the infinity of the sand and the eternity of the mountains, \nby the life-giving powers of water and air, \nby the death-bringing powers of fire and lightning, \nby the blessing of death and the revelations of undeath, \nthis corpse shall rise from the grave, \nthis corpse shall break the shackles of life, \nthis corpse shall seek wisdom, \nthis corpse shall serve the one. \nPraised be our pharaoh!"}
+20-11: ProtectionZone, Content={409, 1640 String="# Players allowed to open this door\ngdarius\niron'hawk\npeter'manfredo\nsonic flama"}
+20-12: ProtectionZone, Content={409}
+20-13: ProtectionZone, Content={409}
+20-14: ProtectionZone, Content={409}
+20-15: Content={409, 1734}
+21-8: Content={1734}
+21-9: ProtectionZone, Content={409, 2882 ContainerLiquidType=3, 2870 Content={3283}}
+21-10: ProtectionZone, Content={409}
+21-11: Content={409, 1303}
+21-12: Content={409, 1299}
+21-13: ProtectionZone, Content={409}
+21-14: ProtectionZone, Content={409}
+21-15: Content={409, 1295}
+22-8: Content={1295}
+22-9: ProtectionZone, Content={409}
+22-10: ProtectionZone, Content={409}
+22-11: Content={409, 1303}
+22-12: Content={409, 1303}
+22-13: ProtectionZone, Content={409, 1947}
+22-14: ProtectionZone, Content={409}
+22-15: Content={409, 1295}
+23-8: Content={1303}
+23-9: Content={409, 1294}
+23-10: ProtectionZone, Content={409, 1638 String="# Players allowed to open this door\ngdarius"}
+23-11: Content={409, 1300, 2908}
+23-12: Content={409, 1300}
+23-13: Content={409, 1294, 2908}
+23-14: ProtectionZone, Content={409, 1639 String="# Players allowed to open this d"}
+23-15: Content={409, 1302}
+24-8: Content={2162}
+24-9: ProtectionZone, Content={409, 2983, 2983, 2983, 2983, 2981, 3655}
+24-10: ProtectionZone, Content={409}
+24-11: ProtectionZone, Content={409}
+24-12: ProtectionZone, Content={409}
+24-13: ProtectionZone, Content={409}
+24-14: ProtectionZone, Content={409, 2983}
+24-15: Content={409, 2162}
+25-8: Content={2162}
+25-9: ProtectionZone, Content={409}
+25-10: ProtectionZone, Content={409}
+25-11: ProtectionZone, Content={409, 2384}
+25-12: ProtectionZone, Content={409, 3655}
+25-13: ProtectionZone, Content={409, 2384}
+25-14: ProtectionZone, Content={409, 2976}
+25-15: Content={409, 2162}
+26-8: Content={2162}
+26-9: ProtectionZone, Content={409, 2983, 2981, 2981, 2981}
+26-10: ProtectionZone, Content={409}
+26-11: ProtectionZone, Content={409, 3487}
+26-12: ProtectionZone, Content={409, 2314, 3655}
+26-13: ProtectionZone, Content={409, 3487}
+26-14: ProtectionZone, Content={409, 2983, 3655}
+26-15: Content={409, 2162}
+27-8: Content={2162}
+27-9: Content={409, 2164}
+27-10: Content={409, 2164}
+27-11: Content={409, 2164}
+27-12: Content={409, 2164}
+27-13: Content={409, 2164}
+27-14: Content={409, 2164}
+27-15: Content={409, 2168}

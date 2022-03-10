@@ -1,0 +1,29 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1030/1013/5
+
+20-25: Content={1270}
+20-26: Content={1275}
+21-25: Content={409}
+21-26: Content={409, 1271}
+22-25: Content={409}
+22-26: Content={409, 1271}
+28-0: Refresh, Content={1270}
+28-1: Refresh, Content={1270}
+28-2: Refresh, Content={1270}
+28-3: Refresh, Content={1270}
+28-4: Content={1275}
+29-0: Refresh, Content={409}
+29-1: Refresh, Content={409}
+29-2: Refresh, Content={409}
+29-3: Refresh, Content={409}
+29-4: Content={409, 1271}
+30-0: Refresh, Content={409}
+30-1: Refresh, Content={409}
+30-2: Refresh, Content={409}
+30-3: Refresh, Content={409}
+30-4: Content={409, 1271}
+31-0: Refresh, Content={409}
+31-1: Refresh, Content={409}
+31-2: Refresh, Content={409}
+31-3: Refresh, Content={409}
+31-4: Content={409, 1271}

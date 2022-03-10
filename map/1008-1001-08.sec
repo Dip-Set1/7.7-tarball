@@ -1,0 +1,94 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1008/1001/8
+
+9-30: Content={101}
+9-31: Content={101}
+10-30: Content={101}
+10-31: Content={101}
+11-30: Content={101}
+11-31: Content={101}
+12-30: Content={101}
+12-31: Content={101}
+13-30: Content={101}
+13-31: Content={101}
+14-30: Content={101}
+14-31: Content={101}
+15-30: Content={101}
+15-31: Content={101}
+16-30: Content={101}
+16-31: Content={101}
+17-30: Content={101}
+17-31: Content={101}
+18-30: Content={101}
+18-31: Content={101}
+19-30: Content={101}
+19-31: Content={101}
+20-30: Content={101}
+20-31: Content={101}
+21-30: Content={101}
+21-31: Content={101}
+22-30: Content={101}
+22-31: Content={101}
+23-25: Content={101}
+23-26: Content={101}
+23-27: Content={101}
+23-28: Content={101}
+23-29: Content={101}
+23-30: Content={101}
+23-31: Content={101}
+24-25: Content={101}
+24-26: Content={101}
+24-27: Content={101}
+24-28: Content={101}
+24-29: Content={101}
+24-30: Content={101}
+24-31: Content={101}
+25-25: Content={101}
+25-26: Content={101}
+25-27: Content={101}
+25-28: Content={101}
+25-29: Content={101}
+25-30: Content={101}
+25-31: Content={101}
+26-25: Content={101}
+26-26: Content={101}
+26-27: Content={101}
+26-28: Content={101}
+26-29: Content={101, 1296}
+26-30: Content={101, 1294, 2656}
+26-31: Content={101, 1294, 2656}
+27-25: Content={101}
+27-26: Content={101}
+27-27: Content={101}
+27-28: Content={101}
+27-29: Content={101, 1295}
+27-30: ProtectionZone, Content={408, 2525}
+27-31: ProtectionZone, Content={408, 3583 Amount=7, 3577 Amount=100, 3503 Content={2865 Content={2865 Content={2865 Content={2865 Content={2854 Content={2854 Content={2865 Content={2865 Content={2865 Content={2865 Content={2865}}}}}}}}}}, 3507 String="celtic lady\nthais" Editor="Lia teh Warrior"}}
+28-25: Content={101}
+28-26: Content={101}
+28-27: Content={101}
+28-28: Content={101}
+28-29: Content={101, 1295}
+28-30: ProtectionZone, Content={408, 2522}
+28-31: ProtectionZone, Content={408, 3448 Amount=1, 3449 Amount=2, 3447 Amount=10}
+29-25: Content={101}
+29-26: Content={101}
+29-27: Content={101}
+29-28: Content={101}
+29-29: Content={101, 1295, 2910}
+29-30: ProtectionZone, Content={408, 2029}
+29-31: ProtectionZone, Content={408, 3448 Amount=1, 3449 Amount=2, 3447 Amount=10}
+30-25: Content={101}
+30-26: Content={101}
+30-27: Content={101}
+30-28: Content={101}
+30-29: Content={101, 1295, 2656}
+30-30: ProtectionZone, Content={408, 2535, 3188 Charges=1}
+30-31: ProtectionZone, Content={408, 3097, 3148 Charges=3, 3289}
+31-25: Content={101}
+31-26: Content={101}
+31-27: Content={101}
+31-28: Content={101}
+31-29: Content={101, 1303}
+31-30: Content={408, 1294}
+31-31: Content={408, 1294, 2908}

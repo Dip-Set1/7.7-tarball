@@ -1,0 +1,153 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1027/1003/5
+
+1-23: Content={1296}
+1-24: Content={1294}
+1-25: Content={1294}
+1-26: Content={1294}
+1-27: Content={1294}
+1-28: Content={1299}
+1-31: Content={1296}
+2-23: Content={1295}
+2-24: Content={408, 2523}
+2-25: Content={408, 2523}
+2-26: Content={408, 2523}
+2-27: Content={408, 2523}
+2-28: Content={408, 1303}
+2-29: Content={2184}
+2-30: Content={2184}
+2-31: Content={1295, 2184}
+3-23: Content={1295}
+3-24: Content={408, 2471}
+3-25: Content={408}
+3-26: Content={408}
+3-27: Content={408, 2471}
+3-28: Content={408, 1295}
+3-31: Content={1295}
+4-23: Content={1295, 2909}
+4-24: Content={408}
+4-25: Content={408}
+4-26: Content={408}
+4-27: Content={408, 2473, 2473}
+4-28: Content={408, 1295}
+4-31: Content={1295, 2909}
+5-23: Content={1295}
+5-24: Content={408}
+5-25: Content={408}
+5-26: Content={408}
+5-27: Content={408, 2473, 2473}
+5-28: Content={408, 1295}
+5-31: Content={1295}
+6-23: Content={1295}
+6-24: Content={432}
+6-25: Content={408, 1948}
+6-26: Content={408}
+6-27: Content={408, 2473}
+6-28: Content={408, 1295}
+6-31: Content={1295}
+7-23: Content={1297}
+7-24: Content={408, 1294}
+7-25: Content={408, 1294}
+7-26: Content={408, 1294}
+7-27: Content={408, 1294}
+7-28: Content={408, 1298}
+7-31: Content={1297}
+23-23: Content={1296}
+23-24: Content={1294}
+23-25: Content={1294}
+23-26: Content={1294}
+23-27: Content={1294}
+23-28: Content={1299}
+23-31: Content={1296}
+24-23: Content={1295}
+24-24: Content={432}
+24-25: Content={408, 1948}
+24-26: Content={408}
+24-27: Content={408}
+24-28: Content={408, 1303}
+24-29: Content={2184}
+24-30: Content={2184}
+24-31: Content={1295, 2184}
+25-23: Content={1295}
+25-24: Content={408}
+25-25: Content={408}
+25-26: Content={408}
+25-27: Content={408}
+25-28: Content={408, 1295}
+25-31: Content={1295}
+26-6: Content={1296}
+26-7: Content={1294}
+26-8: Content={1739}
+26-9: Content={1294, 2635}
+26-10: Content={1294, 2908}
+26-11: Content={1739}
+26-12: Content={1294}
+26-13: Content={1299}
+26-23: Content={1295, 2909}
+26-24: Content={408, 3285, 2319}
+26-25: Content={408}
+26-26: Content={408}
+26-27: Content={408, 2523}
+26-28: Content={408, 1295}
+26-31: Content={1295, 2909}
+27-6: Content={1295}
+27-7: ProtectionZone, Content={411}
+27-8: ProtectionZone, Content={429, 3492 Amount=1, 3034 Amount=1, 3042 Amount=1, 3658, 3449 Amount=1, 2992 Amount=4, 2656}
+27-9: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3042 Amount=1, 3658, 3449 Amount=1, 2992 Amount=4, 2656}
+27-10: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3042 Amount=1, 3658, 3449 Amount=1, 2992 Amount=4, 2656}
+27-11: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3042 Amount=1, 3658, 3449 Amount=1, 2992 Amount=4, 2656}
+27-12: ProtectionZone, Content={429, 2541}
+27-13: Content={429, 1295}
+27-23: Content={1295}
+27-24: Content={408, 3409, 2319}
+27-25: Content={408}
+27-26: Content={408, 2523}
+27-27: Content={408, 2523}
+27-28: Content={408, 1295}
+27-31: Content={1295}
+28-6: Content={1738}
+28-7: ProtectionZone, Content={429, 3574, 3424, 3492 Amount=2, 3034 Amount=1, 2393, 2992 Amount=4, 2656}
+28-8: ProtectionZone, Content={429, 3055, 3567, 3492 Amount=2, 3034 Amount=1, 3042 Amount=1, 3658, 3449 Amount=1, 2992 Amount=4, 2656}
+28-9: ProtectionZone, Content={429, 3424, 3492 Amount=2, 3042 Amount=1, 3658, 3449 Amount=1, 2992 Amount=4, 2656}
+28-10: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3042 Amount=1, 3658, 3449 Amount=1, 2992 Amount=4, 2656}
+28-11: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3042 Amount=1, 3658, 3449 Amount=1, 2992 Amount=4, 2656}
+28-12: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3449 Amount=1, 2992 Amount=4, 2656}
+28-13: Content={429, 1295}
+28-23: Content={1295}
+28-24: Content={408, 2471, 2471}
+28-25: Content={408, 2471}
+28-26: Content={408, 2523}
+28-27: Content={408, 2523}
+28-28: Content={408, 1295}
+28-31: Content={1295}
+29-6: Content={1295, 2910}
+29-7: ProtectionZone, Content={429, 3420, 3492 Amount=2, 3034 Amount=1, 2393, 2992 Amount=4, 2656}
+29-8: ProtectionZone, Content={429, 3360, 3492 Amount=2, 3034 Amount=1, 3042 Amount=1, 3658, 3449 Amount=1, 2992 Amount=4, 2656}
+29-9: ProtectionZone, Content={429, 3382, 3492 Amount=2, 3034 Amount=1, 3042 Amount=1, 3658, 3449 Amount=1, 2992 Amount=4, 2656}
+29-10: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3042 Amount=1, 3658, 3449 Amount=1, 2992 Amount=4, 2656}
+29-11: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3042 Amount=1, 3658, 3449 Amount=1, 2992 Amount=4, 2656}
+29-12: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3449 Amount=1, 2992 Amount=4, 2656}
+29-13: Content={429, 1295}
+29-23: Content={1297}
+29-24: Content={408, 1294}
+29-25: Content={408, 1294}
+29-26: Content={408, 1294}
+29-27: Content={408, 1294}
+29-28: Content={408, 1298}
+29-31: Content={1297}
+30-6: Content={1303}
+30-7: Content={429, 1294}
+30-8: ProtectionZone, Content={429, 1638 String="# Players allowed to open this door\nsir aulan\narco valix\njulius'rotch"}
+30-9: Content={429, 1294}
+30-10: Content={429, 1739}
+30-11: Content={429, 1739}
+30-12: Content={429, 1294}
+30-13: Content={429, 1302}
+31-6: Content={2162}
+31-7: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3492 Amount=1, 3034 Amount=5, 3027 Amount=30, 3071, 3042 Amount=25, 2469}
+31-8: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3039, 3071, 3034 Amount=10, 3042 Amount=25, 2469}
+31-9: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3037, 3075, 3034 Amount=10, 3042 Amount=20, 2469}
+31-10: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3039, 3075, 3034 Amount=10, 3042 Amount=10, 2469}
+31-11: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3039, 3071, 3034 Amount=10, 3042 Amount=25, 2469}
+31-12: ProtectionZone, Content={429, 3492 Amount=2, 3034 Amount=1, 3492 Amount=1, 3034 Amount=5, 3026 Amount=39, 3071, 3734 Amount=1, 3042 Amount=25, 2469}
+31-13: Content={429, 2162}

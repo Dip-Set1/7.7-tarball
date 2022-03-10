@@ -1,0 +1,1027 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1038/995/7
+
+0-0: Refresh, Content={103}
+0-1: Refresh, Content={103}
+0-2: Refresh, Content={103}
+0-3: Refresh, Content={103}
+0-4: Refresh, Content={103}
+0-5: Refresh, Content={103, 1931}
+0-6: Refresh, Content={103}
+0-7: Refresh, Content={103}
+0-8: Refresh, Content={103}
+0-9: Content={103, 1284}
+0-10: Refresh, Content={408, 1281}
+0-11: Refresh, Content={408, 1281}
+0-12: Content={408, 1735}
+0-13: Refresh, Content={408, 1281}
+0-14: Content={408, 1735}
+0-15: Refresh, Content={408, 1281}
+0-16: Refresh, Content={408, 1287}
+0-17: Refresh, Content={408, 1281}
+0-18: Refresh, Content={408, 1281}
+0-19: Refresh, Content={408, 1281}
+0-20: Refresh, Content={408, 1281}
+0-21: Refresh, Content={408, 1281}
+0-22: Refresh, Content={408, 1281}
+0-23: Content={408, 1285}
+0-24: Refresh, Content={103}
+0-25: Refresh, Content={103}
+0-26: Refresh, Content={103}
+0-27: Content={103, 4533, 1290}
+0-28: Content={408, 1281}
+0-29: ProtectionZone, Content={408, 1638}
+0-30: Content={408, 1286}
+0-31: ProtectionZone, Content={408}
+1-0: Refresh, Content={103}
+1-1: Refresh, Content={103}
+1-2: Refresh, Content={103}
+1-3: Refresh, Content={103}
+1-4: Refresh, Content={103}
+1-5: Refresh, Content={103}
+1-6: Refresh, Content={103}
+1-7: Refresh, Content={103}
+1-8: Refresh, Content={103}
+1-9: Refresh, Content={103}
+1-10: Refresh, Content={103}
+1-11: Refresh, Content={103}
+1-12: Refresh, Content={103}
+1-13: Refresh, Content={103}
+1-14: Refresh, Content={103}
+1-15: Refresh, Content={103}
+1-16: Refresh, Content={103, 2022 String="Central Circle"}
+1-17: Refresh, Content={103}
+1-18: Refresh, Content={103}
+1-19: Refresh, Content={103}
+1-20: Refresh, Content={103}
+1-21: Refresh, Content={103}
+1-22: Refresh, Content={103}
+1-23: Refresh, Content={103}
+1-24: Refresh, Content={103}
+1-25: Refresh, Content={103}
+1-26: Refresh, Content={103}
+1-27: Content={103, 4533, 1282, 2639}
+1-28: ProtectionZone, Content={408, 2935, 2816 String="Tales of 111 Mystic Nights", 2442}
+1-29: ProtectionZone, Content={408}
+1-30: Content={408, 1282}
+1-31: ProtectionZone, Content={433}
+2-0: Refresh, Content={103}
+2-1: Refresh, Content={103}
+2-2: Refresh, Content={103}
+2-3: Refresh, Content={103}
+2-4: Refresh, Content={103}
+2-5: Refresh, Content={103}
+2-6: Refresh, Content={103}
+2-7: Refresh, Content={103}
+2-8: Refresh, Content={103}
+2-9: Refresh, Content={103}
+2-10: Refresh, Content={103}
+2-11: Refresh, Content={103}
+2-12: Refresh, Content={103}
+2-13: Refresh, Content={103}
+2-14: Refresh, Content={103}
+2-15: Refresh, Content={103}
+2-16: Refresh, Content={103}
+2-17: Refresh, Content={103}
+2-18: Refresh, Content={103}
+2-19: Refresh, Content={103}
+2-20: Refresh, Content={103}
+2-21: Refresh, Content={103}
+2-22: Refresh, Content={103}
+2-23: Refresh, Content={103}
+2-24: Refresh, Content={103}
+2-25: Refresh, Content={103}
+2-26: Refresh, Content={103}
+2-27: Content={103, 4533, 1282, 2910}
+2-28: ProtectionZone, Content={408, 3599 Amount=1, 3585 Amount=2, 2903, 2848, 2315}
+2-29: ProtectionZone, Content={408}
+2-30: Content={408, 1282}
+2-31: ProtectionZone, Content={408, 2982}
+3-0: Refresh, Content={103}
+3-1: Refresh, Content={103}
+3-2: Refresh, Content={103}
+3-3: Refresh, Content={103, 4538, 2526}
+3-4: Refresh, Content={103, 4532}
+3-5: Refresh, Content={103, 4536}
+3-6: Refresh, Content={103}
+3-7: Refresh, Content={103}
+3-8: Refresh, Content={103}
+3-9: Refresh, Content={103}
+3-10: Refresh, Content={103}
+3-11: Refresh, Content={103, 2109}
+3-12: Refresh, Content={103}
+3-13: Refresh, Content={103}
+3-14: Refresh, Content={103}
+3-15: Refresh, Content={103}
+3-16: Refresh, Content={103}
+3-17: Refresh, Content={103}
+3-18: Refresh, Content={103}
+3-19: Refresh, Content={103}
+3-20: Refresh, Content={103}
+3-21: Refresh, Content={103}
+3-22: Refresh, Content={103}
+3-23: Refresh, Content={103}
+3-24: Refresh, Content={103}
+3-25: Refresh, Content={103}
+3-26: Refresh, Content={103}
+3-27: Content={103, 4533, 1282, 2664 RemainingExpireTime=593}
+3-28: ProtectionZone, Content={408, 2374}
+3-29: ProtectionZone, Content={408, 3509, 3658, 2815, 2816 String="About Hunting Sandworms", 2315}
+3-30: Content={408, 1290}
+3-31: ProtectionZone, Content={408, 1947}
+4-0: Refresh, Content={103}
+4-1: Refresh, Content={103}
+4-2: Content={103, 4538, 1283}
+4-3: Content={103, 4542, 1281}
+4-4: Content={4523, 1281}
+4-5: Content={103, 4531, 1288}
+4-6: Content={103, 1281}
+4-7: Content={103, 1735}
+4-8: Content={103, 1281, 2908}
+4-9: Content={103, 1288}
+4-10: Content={103, 1281}
+4-11: Content={103, 1735}
+4-12: Content={103, 1281}
+4-13: Content={103, 1281, 2908}
+4-14: Content={103, 1735}
+4-15: Content={103, 1281}
+4-16: Content={103, 1288}
+4-17: Content={103, 1281}
+4-18: Content={103, 1735}
+4-19: Content={103, 1735}
+4-20: Content={103, 1281, 2908}
+4-21: Content={103, 1281}
+4-22: Content={103, 1281}
+4-23: Content={103, 1286}
+4-24: Refresh, Content={103, 2109}
+4-25: Refresh, Content={103}
+4-26: Refresh, Content={103}
+4-27: Content={103, 4533, 1284}
+4-28: Refresh, Content={408, 1281}
+4-29: Refresh, Content={408, 1281}
+4-30: Refresh, Content={408, 1287}
+4-31: Refresh, Content={408, 1281}
+5-0: Refresh, Content={103}
+5-1: Refresh, Content={103}
+5-2: Content={103, 4533, 1282}
+5-3: ProtectionZone, Content={408, 2487}
+5-4: ProtectionZone, Content={408, 2488}
+5-5: Content={408, 1282}
+5-6: ProtectionZone, Content={408, 2487}
+5-7: ProtectionZone, Content={408, 2488}
+5-8: ProtectionZone, Content={408}
+5-9: Content={408, 1282}
+5-10: ProtectionZone, Content={408, 2535}
+5-11: ProtectionZone, Content={408, 3027 Amount=5, 3450 Amount=5, 3449 Amount=10, 2471}
+5-12: ProtectionZone, Content={408, 3049, 3061, 3450 Amount=5, 3449 Amount=10, 2471}
+5-13: ProtectionZone, Content={408, 3049 SavedExpireTime=202, 3033 Amount=1, 3322, 3450 Amount=5, 3449 Amount=10, 2471}
+5-14: ProtectionZone, Content={408, 3033 Amount=1, 3028 Amount=1, 3027 Amount=4, 3450 Amount=6, 3449 Amount=10, 2471}
+5-15: ProtectionZone, Content={408, 3450 Amount=1, 3032 Amount=10, 3576, 3279, 3450 Amount=5, 3042 Amount=5, 3449 Amount=10, 2471}
+5-16: Content={408, 1282}
+5-17: ProtectionZone, Content={408, 3198 Charges=1, 2483 Content={2854 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}}
+5-18: ProtectionZone, Content={408, 2868 Content={2857 Content={3046, 3077, 3084 RemainingUses=250}, 3174 Charges=5, 3174 Charges=3, 3174 Charges=3, 3174 Charges=5, 3174 Charges=2, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2830 String="The world of Tibia\nWritten by Unaris, adventurer of the warlocks\n\nThese maps of our world Tibia could help us to understand how the magic web of Tibia was made by the Gods.\n\n*In the following pages, you can see many maps with parts of Tibia*\n\n\n"}
+5-19: ProtectionZone, Content={408, 3356, 3093, 3424, 2830 String="Maps of the magic web\nWritten by Gargail\n\n*You see several maps with red lines and golden points on them*"}
+5-20: ProtectionZone, Content={408, 3356, 3471, 2830 String="The magic web - Maps - Book 1\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it*"}
+5-21: ProtectionZone, Content={408, 3192 Charges=2, 2830 String="*You see a collection of maps in this big book. Some have strange red lines on them. \nYou can read the words\n\"known parts of the magic web in red and known gates in gold\" \nat the bottow of those pages*"}
+5-22: ProtectionZone, Content={408, 3039, 3443, 3505 String="pendejadas" Editor="Osito Cojo", 2469 Content={2854 Content={2968 KeyNumber=3940, 3282, 3492 Amount=28, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}
+5-23: Refresh, Content={408, 1282}
+5-24: Refresh, Content={103, 4536, 3657}
+5-25: Refresh, Content={103}
+5-26: Refresh, Content={103}
+5-27: Refresh, Content={103, 4537}
+5-28: Refresh, Content={103, 4534, 2526}
+5-29: Refresh, Content={103, 4534, 2372}
+5-30: Refresh, Content={103, 4534, 2373}
+5-31: Refresh, Content={103, 4534, 3501}
+6-0: Refresh, Content={103}
+6-1: Refresh, Content={103}
+6-2: Content={103, 4533, 1282, 2910}
+6-3: ProtectionZone, Content={408, 2854}
+6-4: ProtectionZone, Content={408, 3207 Amount=1}
+6-5: Content={408, 1282}
+6-6: ProtectionZone, Content={408}
+6-7: ProtectionZone, Content={408}
+6-8: ProtectionZone, Content={408}
+6-9: Content={408, 1282}
+6-10: ProtectionZone, Content={408, 3098, 3279, 3450 Amount=5, 3042 Amount=5, 3449 Amount=10, 2471}
+6-11: ProtectionZone, Content={408}
+6-12: ProtectionZone, Content={408}
+6-13: ProtectionZone, Content={408}
+6-14: ProtectionZone, Content={408}
+6-15: ProtectionZone, Content={408, 3029 Amount=2, 3093, 2957, 3039, 3450 Amount=4, 3449 Amount=10, 2471}
+6-16: Content={408, 1282}
+6-17: ProtectionZone, Content={408, 3160 Charges=1, 2483}
+6-18: ProtectionZone, Content={408, 3424, 2830 String="Maps of the magic web\nWritten by Gargail\n\n*You see several maps with red lines and golden points on them*"}
+6-19: ProtectionZone, Content={408, 3413, 3266, 3070, 2830 String="The world of Tibia\nWritten by Unaris, adventurer of the warlocks\n\nThese maps of our world Tibia could help us to understand how the magic web of Tibia was made by the Gods.\n\n*In the following pages, you can see many maps with parts of Tibia*\n\n\n"}
+6-20: ProtectionZone, Content={408, 3166 Charges=2, 2830 String="The world of Tibia\nWritten by Unaris, adventurer of the warlocks\n\nThese maps of our world Tibia could help us to understand how the magic web of Tibia was made by the Gods.\n\n*In the following pages, you can see many maps with parts of Tibia*\n\n\n"}
+6-21: ProtectionZone, Content={408, 3164 Charges=3, 3074, 2830 String="The magic web - Maps - Book 2\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it.*"}
+6-22: ProtectionZone, Content={408, 3060, 3403, 3465}
+6-23: Refresh, Content={408, 1282}
+6-24: Refresh, Content={103, 4531, 2370}
+6-25: Refresh, Content={103}
+6-26: Refresh, Content={103}
+6-27: Refresh, Content={103}
+6-28: Refresh, Content={103}
+6-29: Refresh, Content={103}
+6-30: Refresh, Content={103}
+6-31: Refresh, Content={103}
+7-0: Refresh, Content={103}
+7-1: Refresh, Content={103}
+7-2: Content={103, 4533, 1734}
+7-3: ProtectionZone, Content={408, 2950}
+7-4: ProtectionZone, Content={408, 2471 Content={3507 String="Felicidades Ninio Mosho!!\nTe Amooo Muchototote!! ;)" Editor="Meimeitwin", 2815 String="Te Amooooooo chikito bello" Editor="Haalia", 3563, 2469 Content={2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469}, 3383, 2853 Content={2970 KeyNumber=4502, 2970 KeyNumber=4503, 3583 Amount=3, 3449 Amount=2, 3076, 3578 Amount=79}, 2471 Content={3503 Content={3503, 3503}}, 2471, 2471, 2471, 2471}}
+7-5: Content={408, 1290}
+7-6: Content={408, 1281}
+7-7: ProtectionZone, Content={408, 1639 String="# Players allowed to open this door\nAyorios'rotch\nYosiemeimei\nHaalia\nsatri"}
+7-8: Content={408, 1281}
+7-9: Content={408, 1291}
+7-10: Content={408, 1281}
+7-11: Content={408, 1281}
+7-12: Content={408, 1286}
+7-13: ProtectionZone, Content={408}
+7-14: ProtectionZone, Content={408}
+7-15: ProtectionZone, Content={408, 3091, 3243, 3323, 3450 Amount=5, 3449 Amount=10, 2471}
+7-16: Content={408, 1282, 2910}
+7-17: ProtectionZone, Content={408, 2483}
+7-18: ProtectionZone, Content={408, 3424, 2830 String="The magic web - Maps - Book 2\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it.*"}
+7-19: ProtectionZone, Content={408, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3093, 3093}, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3269, 3425}, 3065, 3314, 2830 String="The magic web - Maps - Book 1\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it*"}
+7-20: Content={408, 1283}
+7-21: Content={408, 1281}
+7-22: Content={408, 1281}
+7-23: Refresh, Content={408, 1289}
+7-24: Refresh, Content={103, 4531, 2371}
+7-25: Refresh, Content={103}
+7-26: Refresh, Content={103}
+7-27: Refresh, Content={103}
+7-28: Refresh, Content={103}
+7-29: Refresh, Content={103}
+7-30: Refresh, Content={103}
+7-31: Refresh, Content={103}
+8-0: Refresh, Content={103}
+8-1: Refresh, Content={103}
+8-2: Content={103, 4537, 1290}
+8-3: Content={408, 1281}
+8-4: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\nAyorios'rotch\nYosiemeimei\nHaalia"}
+8-5: Content={408, 1285}
+8-6: ProtectionZone, Content={408, 2535}
+8-7: ProtectionZone, Content={408}
+8-8: ProtectionZone, Content={408}
+8-9: Content={408, 1282}
+8-10: ProtectionZone, Content={408, 2487}
+8-11: ProtectionZone, Content={408, 2488}
+8-12: Content={408, 1282, 2910}
+8-13: ProtectionZone, Content={408}
+8-14: ProtectionZone, Content={408}
+8-15: ProtectionZone, Content={408, 3091, 3318, 3025, 3450 Amount=5, 3449 Amount=10, 2471}
+8-16: Content={408, 1282}
+8-17: ProtectionZone, Content={408, 3449 Amount=19, 2483 Content={2870 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}}
+8-18: ProtectionZone, Content={408, 3093, 3424, 2830 String="The magic web - Maps - Book 1\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it*"}
+8-19: ProtectionZone, Content={408, 2866 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 3279, 2830 String="The magic web - Maps - Book 2\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it.*", 2830 String="*You see a collection of maps in this big book. Some have strange red lines on them. \nYou can read the words\n\"known parts of the magic web in red and known gates in gold\" \nat the bottow of those pages*"}
+8-20: Content={408, 1282}
+8-21: ProtectionZone, Content={408, 2495 String="Adri Sirens"}
+8-22: ProtectionZone, Content={408, 2496}
+8-23: Refresh, Content={408, 1282}
+8-24: Refresh, Content={103, 4531, 3657}
+8-25: Refresh, Content={103}
+8-26: Refresh, Content={103}
+8-27: Refresh, Content={103}
+8-28: Refresh, Content={103}
+8-29: Refresh, Content={103}
+8-30: Refresh, Content={103}
+8-31: Refresh, Content={103}
+9-0: Refresh, Content={103}
+9-1: Refresh, Content={103}
+9-2: ProtectionZone, Content={103, 1641 String="# Players allowed to open this door\nAyorios'rotch\nYosiemeimei\nHaalia\n"}
+9-3: ProtectionZone, Content={408, 2314}
+9-4: ProtectionZone, Content={408}
+9-5: ProtectionZone, Content={408}
+9-6: ProtectionZone, Content={408, 2659}
+9-7: ProtectionZone, Content={408}
+9-8: ProtectionZone, Content={408}
+9-9: Content={408, 1282, 2910}
+9-10: ProtectionZone, Content={408, 3033 Amount=39, 3284 RemainingUses=1, 2471 Content={3450 Amount=13, 2867 Content={3590 Amount=10, 3042 Amount=9, 3004, 3052, 2865 Content={3050, 3074, 2469 Content={3026 Amount=1, 2854 Content={2842, 3061}, 3051}, 2868 Content={3050, 3074, 2871 Content={3052 SavedExpireTime=35, 3052 SavedExpireTime=47, 3052 SavedExpireTime=50, 3052 SavedExpireTime=55, 3052 SavedExpireTime=35, 3052 SavedExpireTime=59, 3052 SavedExpireTime=53, 3052 SavedExpireTime=54, 3052 SavedExpireTime=42, 3052 SavedExpireTime=32, 3052 SavedExpireTime=50, 3052 SavedExpireTime=33}, 3004, 3004, 3004, 3050, 3093}, 2853 Content={3590 Amount=4, 3092 SavedExpireTime=21, 3092 SavedExpireTime=58, 3092 SavedExpireTime=26, 3092 SavedExpireTime=1}}, 3050, 3051, 2871 Content={3588 Amount=97, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100}, 3062}, 3590 Amount=60, 3583 Amount=5, 2471 Content={2471, 2471}, 2865, 2865 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2869 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 3308, 2864}}
+9-11: ProtectionZone, Content={408, 3039, 3093, 2859, 3449 Amount=4}
+9-12: ProtectionZone, Content={408, 1640 String="# Players allowed to open this door\nmephistroth warrior"}
+9-13: ProtectionZone, Content={408}
+9-14: ProtectionZone, Content={408}
+9-15: ProtectionZone, Content={408, 3029 Amount=2, 3093, 2957, 3039, 3450 Amount=5, 3449 Amount=10, 2471}
+9-16: Content={408, 1282}
+9-17: ProtectionZone, Content={408, 2867 Content={3577 Amount=32, 3577 Amount=100}}
+9-18: ProtectionZone, Content={408, 3277 Amount=1, 3446 Amount=10, 2848}
+9-19: ProtectionZone, Content={408, 3045 RemainingUses=200, 3046 SavedExpireTime=1970, 3357, 3188 Charges=2, 2848}
+9-20: ProtectionZone, Content={408, 1640 String="# Players allowed to open this door\nshadow spinal\nadri sirens\nmad saint\ndark dowejura"}
+9-21: ProtectionZone, Content={408, 2874, 2874, 3275, 2854 Content={2969 KeyNumber=3033}, 3731 Amount=8}
+9-22: ProtectionZone, Content={408, 2480 Content={3043 Amount=2, 3067, 3035 Amount=66, 3416, 3385, 3370, 3371}}
+9-23: Content={408, 1734}
+9-24: Refresh, Content={103, 4531, 2370}
+9-25: Refresh, Content={103}
+9-26: Refresh, Content={103}
+9-27: Refresh, Content={103}
+9-28: Refresh, Content={103}
+9-29: Refresh, Content={103}
+9-30: Refresh, Content={103}
+9-31: Refresh, Content={103}
+10-0: Refresh, Content={103}
+10-1: Refresh, Content={103}
+10-2: Content={103, 4538, 1282, 2910}
+10-3: ProtectionZone, Content={408, 3298 Amount=1}
+10-4: ProtectionZone, Content={408}
+10-5: ProtectionZone, Content={408}
+10-6: ProtectionZone, Content={408, 2853, 2854 Content={3275}}
+10-7: ProtectionZone, Content={408, 2874}
+10-8: ProtectionZone, Content={408}
+10-9: Content={408, 1282}
+10-10: ProtectionZone, Content={408, 2487}
+10-11: ProtectionZone, Content={408, 2488}
+10-12: Content={408, 1282}
+10-13: ProtectionZone, Content={408}
+10-14: ProtectionZone, Content={408}
+10-15: ProtectionZone, Content={408, 3032 Amount=10, 3576, 3279, 3450 Amount=5, 3042 Amount=5, 3449 Amount=10, 2471}
+10-16: Content={408, 1282}
+10-17: ProtectionZone, Content={408, 2535, 2866, 2871, 2871 Content={2867, 2870}, 2870, 2867, 2867, 2867, 2869 Content={2854 Content={2854}}, 2871, 2865, 2866 Content={2866, 2867, 2871, 2854, 2854, 2867, 2866, 2872, 2866, 2866, 2871, 2866, 2871}, 2866, 2866, 2868, 2869 Content={2854 Content={2871 Content={2871 Content={2866}}}}, 2866, 2866, 2866, 2868, 2870, 2854 Content={2867 Content={2854}}, 2872, 2854, 2865, 2848}
+10-18: ProtectionZone, Content={408, 2859, 2955, 2848}
+10-19: ProtectionZone, Content={408, 3097 SavedExpireTime=1146, 3377, 2955, 2848}
+10-20: Content={408, 1282, 2910}
+10-21: ProtectionZone, Content={408, 2495 String="Osito Cojo"}
+10-22: ProtectionZone, Content={408, 2496}
+10-23: Content={408, 1734}
+10-24: Refresh, Content={103, 4531, 2371}
+10-25: Refresh, Content={103}
+10-26: Refresh, Content={103}
+10-27: Refresh, Content={103}
+10-28: Refresh, Content={103, 1922}
+10-29: Refresh, Content={103, 1924}
+10-30: Refresh, Content={103}
+10-31: Refresh, Content={103}
+11-0: Refresh, Content={103}
+11-1: Refresh, Content={103}
+11-2: Content={103, 4533, 1290}
+11-3: Content={408, 1288}
+11-4: Content={408, 1288}
+11-5: Refresh, Content={408, 1281}
+11-6: Content={408, 1735}
+11-7: Content={408, 1735}
+11-8: Refresh, Content={408, 1281}
+11-9: Content={408, 1291}
+11-10: Content={408, 1288}
+11-11: Content={408, 1288}
+11-12: Refresh, Content={408, 1287}
+11-13: Refresh, Content={408, 1281}
+11-14: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\nArdeth Phyn"}
+11-15: Refresh, Content={408, 1281}
+11-16: Content={408, 1291}
+11-17: Content={408, 1288}
+11-18: Content={408, 1288}
+11-19: ProtectionZone, Content={408, 1639 String="# Players allowed to open this door\nshadow spinal\ndark dowejura\nadri sirens\ndarkannis\nmad saint\n"}
+11-20: Refresh, Content={408, 1287}
+11-21: Refresh, Content={408, 1281}
+11-22: Refresh, Content={408, 1281}
+11-23: Content={408, 1285}
+11-24: Refresh, Content={103, 4531, 3657}
+11-25: Refresh, Content={103}
+11-26: Refresh, Content={103}
+11-27: Refresh, Content={103}
+11-28: Refresh, Content={103, 1923}
+11-29: Refresh, Content={103, 1925}
+11-30: Refresh, Content={103}
+11-31: Refresh, Content={103}
+12-0: Refresh, Content={103}
+12-1: Refresh, Content={103}
+12-2: Content={103, 4537, 1283}
+12-3: Content={103, 4534, 1284}
+12-4: Content={103, 4534, 1947}
+12-5: Refresh, Content={103, 4534}
+12-6: Refresh, Content={103, 4534}
+12-7: Refresh, Content={103, 4534, 3657}
+12-8: Refresh, Content={103, 4534, 3657}
+12-9: Content={103, 4534, 1283}
+12-10: Content={103, 4534, 1284}
+12-11: Content={103, 4535, 1947}
+12-12: Refresh, Content={103}
+12-13: Refresh, Content={103}
+12-14: Refresh, Content={103}
+12-15: Refresh, Content={103, 4537, 3657}
+12-16: Content={103, 4534, 1283}
+12-17: Content={103, 4534, 1284}
+12-18: Content={103, 4535, 1947}
+12-19: Refresh, Content={103}
+12-20: Refresh, Content={103, 4537}
+12-21: Refresh, Content={103, 4534, 2022 String="Wood Avenue"}
+12-22: Refresh, Content={103, 4534}
+12-23: Refresh, Content={103, 4534, 3657}
+12-24: Refresh, Content={103, 4535, 2109}
+12-25: Refresh, Content={103}
+12-26: Refresh, Content={103}
+12-27: Refresh, Content={103}
+12-28: Refresh, Content={103}
+12-29: Refresh, Content={103}
+12-30: Refresh, Content={103}
+12-31: Refresh, Content={103}
+13-0: Refresh, Content={103}
+13-1: Refresh, Content={103}
+13-2: Refresh, Content={103}
+13-3: Refresh, Content={103}
+13-4: Refresh, Content={103}
+13-5: Refresh, Content={103}
+13-6: Refresh, Content={103}
+13-7: Refresh, Content={103}
+13-8: Refresh, Content={103}
+13-9: Refresh, Content={103}
+13-10: Refresh, Content={103}
+13-11: Refresh, Content={103}
+13-12: Refresh, Content={103}
+13-13: Refresh, Content={103}
+13-14: Refresh, Content={103}
+13-15: Refresh, Content={103}
+13-16: Refresh, Content={103}
+13-17: Refresh, Content={103}
+13-18: Refresh, Content={103}
+13-19: Refresh, Content={103}
+13-20: Refresh, Content={103}
+13-21: Refresh, Content={103}
+13-22: Refresh, Content={103}
+13-23: Refresh, Content={103}
+13-24: Refresh, Content={103}
+13-25: Refresh, Content={103}
+13-26: Refresh, Content={103}
+13-27: Refresh, Content={103}
+13-28: Refresh, Content={103}
+13-29: Refresh, Content={103}
+13-30: Refresh, Content={103}
+13-31: Refresh, Content={103}
+14-0: Refresh, Content={103}
+14-1: Refresh, Content={103}
+14-2: Refresh, Content={103}
+14-3: Refresh, Content={103}
+14-4: Refresh, Content={103}
+14-5: Refresh, Content={103}
+14-6: Refresh, Content={103}
+14-7: Refresh, Content={103}
+14-8: Refresh, Content={103}
+14-9: Refresh, Content={103}
+14-10: Refresh, Content={103}
+14-11: Refresh, Content={103}
+14-12: Refresh, Content={103}
+14-13: Refresh, Content={103}
+14-14: Refresh, Content={103}
+14-15: Refresh, Content={103}
+14-16: Refresh, Content={103}
+14-17: Refresh, Content={103}
+14-18: Refresh, Content={103}
+14-19: Refresh, Content={103}
+14-20: Refresh, Content={103}
+14-21: Refresh, Content={103}
+14-22: Refresh, Content={103}
+14-23: Refresh, Content={103}
+14-24: Refresh, Content={103}
+14-25: Refresh, Content={103}
+14-26: Refresh, Content={103}
+14-27: Refresh, Content={103}
+14-28: Refresh, Content={103}
+14-29: Refresh, Content={103}
+14-30: Refresh, Content={103}
+14-31: Refresh, Content={103}
+15-0: Refresh, Content={103}
+15-1: Refresh, Content={103}
+15-2: Refresh, Content={103}
+15-3: Refresh, Content={103}
+15-4: Refresh, Content={103}
+15-5: Refresh, Content={103}
+15-6: Refresh, Content={103}
+15-7: Refresh, Content={103}
+15-8: Refresh, Content={103}
+15-9: Refresh, Content={103}
+15-10: Refresh, Content={103}
+15-11: Refresh, Content={103}
+15-12: Refresh, Content={103}
+15-13: Refresh, Content={103}
+15-14: Refresh, Content={103}
+15-15: Refresh, Content={103}
+15-16: Refresh, Content={103}
+15-17: Refresh, Content={103}
+15-18: Refresh, Content={103}
+15-19: Refresh, Content={103}
+15-20: Refresh, Content={103}
+15-21: Refresh, Content={103}
+15-22: Refresh, Content={103}
+15-23: Refresh, Content={103}
+15-24: Refresh, Content={103}
+15-25: Refresh, Content={103}
+15-26: Refresh, Content={103}
+15-27: Refresh, Content={103, 4538}
+15-28: Refresh, Content={103, 4532}
+15-29: Refresh, Content={103, 4532}
+15-30: Refresh, Content={103, 4532}
+15-31: Refresh, Content={103, 4532}
+16-0: Refresh, Content={103}
+16-1: Refresh, Content={103}
+16-2: Refresh, Content={103, 4538}
+16-3: Refresh, Content={103, 4532}
+16-4: Content={103, 4532, 1283}
+16-5: Content={103, 4536, 1281}
+16-6: Content={103, 1281}
+16-7: ProtectionZone, Content={103, 1639 String="# Players allowed to open this door\nDelisco"}
+16-8: Content={103, 1281, 2908}
+16-9: Content={103, 1735}
+16-10: Content={103, 1281}
+16-11: Content={103, 1288}
+16-12: Content={103, 1281, 2656}
+16-13: Content={103, 1281, 2656}
+16-14: ProtectionZone, Content={103, 1639 String="# Players allowed to open this door\ndark dowejura\nkaper koa'ska\nosito cojo"}
+16-15: Content={103, 1281, 2908}
+16-16: Content={103, 1735}
+16-17: Content={103, 1281, 2656}
+16-18: Content={103, 1288}
+16-19: Content={103, 1281}
+16-20: Content={103, 1281, 2908}
+16-21: ProtectionZone, Content={103, 1639 String="# Players allowed to open this door\n"}
+16-22: Content={103, 1735}
+16-23: Content={103, 1281}
+16-24: Content={103, 1288}
+16-25: Content={103, 1281, 2640}
+16-26: Content={103, 1281}
+16-27: Content={103, 4533, 1735}
+16-28: Content={4515, 1281, 2640}
+16-29: Content={4524, 1286}
+16-30: Refresh, Content={4517, 2109}
+16-31: Refresh, Content={4523}
+17-0: Refresh, Content={103}
+17-1: Refresh, Content={103}
+17-2: Refresh, Content={103, 4533}
+17-3: Refresh, Content={4515, 3682}
+17-4: Content={4515, 1282}
+17-5: ProtectionZone, Content={433}
+17-6: ProtectionZone, Content={408, 3583 Amount=4}
+17-7: ProtectionZone, Content={408}
+17-8: ProtectionZone, Content={408}
+17-9: ProtectionZone, Content={408}
+17-10: ProtectionZone, Content={408}
+17-11: Content={408, 1282, 2656}
+17-12: ProtectionZone, Content={433}
+17-13: ProtectionZone, Content={408, 2870 Content={2866 Content={3160 Charges=1, 2872 Content={2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2874 ContainerLiquidType=10, 2858 Content={2869 Content={2874 ContainerLiquidType=10}}, 3093, 2869 Content={3093, 3093, 3093}, 2871}, 3093 SavedExpireTime=1238, 3557, 3357, 3279, 3275, 3275, 3349, 2869 Content={3446 Amount=14, 3446 Amount=100, 3446 Amount=100, 3003}, 3147, 2853 Content={3147, 2920, 3147, 3147, 3147, 2920, 2920, 2920}, 2874, 3003, 2874, 3189 Charges=1, 3189 Charges=1, 3189 Charges=1, 2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2874}, 2848, 2830 String="The magic web - Maps - Book 2\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it.*"}
+17-14: ProtectionZone, Content={408, 2871 Content={3349, 3349, 2872 Content={3031 Amount=70, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3301, 3351, 3301, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3584 Amount=3, 2830 String="The magic web - Maps - Book 1\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it*"}
+17-15: ProtectionZone, Content={408, 4871, 4871, 3320, 2848, 2656, 2314}
+17-16: ProtectionZone, Content={408, 4871, 4871, 3320, 2848, 2656, 2314}
+17-17: ProtectionZone, Content={408, 3320, 3042 Amount=10, 2656, 2314}
+17-18: Content={408, 1282}
+17-19: ProtectionZone, Content={408}
+17-20: ProtectionZone, Content={408}
+17-21: ProtectionZone, Content={408}
+17-22: ProtectionZone, Content={408}
+17-23: ProtectionZone, Content={408, 2376}
+17-24: Content={408, 1282}
+17-25: ProtectionZone, Content={408, 2493}
+17-26: ProtectionZone, Content={408, 3280, 3392, 2314, 2667}
+17-27: ProtectionZone, Content={408, 3280, 3392, 2314, 2667}
+17-28: ProtectionZone, Content={408, 2497 String="Savage Worker"}
+17-29: Refresh, Content={408, 1282}
+17-30: Refresh, Content={4522}
+17-31: Refresh, Content={4515}
+18-0: Refresh, Content={103, 4536}
+18-1: Refresh, Content={103}
+18-2: Refresh, Content={103, 4533}
+18-3: Refresh, Content={4524}
+18-4: Content={4515, 1282}
+18-5: ProtectionZone, Content={408, 1948}
+18-6: ProtectionZone, Content={408}
+18-7: ProtectionZone, Content={408}
+18-8: ProtectionZone, Content={408}
+18-9: ProtectionZone, Content={408}
+18-10: ProtectionZone, Content={408}
+18-11: Content={408, 1282}
+18-12: ProtectionZone, Content={408, 1948, 2853 Content={3031 Amount=100, 3031 Amount=100, 3449 Amount=33, 3351, 3266, 3266, 3269, 3350}, 2866 Content={2848, 2848, 3060, 3060}, 2830 String="Maps of the magic web\nWritten by Gargail\n\n*You see several maps with red lines and golden points on them*"}
+18-13: ProtectionZone, Content={408, 2871 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2867 Content={2866 Content={3031 Amount=95, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 3049, 2830 String="*You see a collection of maps in this big book. Some have strange red lines on them. \nYou can read the words\n\"known parts of the magic web in red and known gates in gold\" \nat the bottow of those pages*"}
+18-14: ProtectionZone, Content={408, 3284 RemainingUses=1, 3091, 2830 String="The magic web - Maps - Book 1\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it*"}
+18-15: ProtectionZone, Content={408, 3284 RemainingUses=1, 3091, 2830 String="*You see a collection of maps in this big book. Some have strange red lines on them. \nYou can read the words\n\"known parts of the magic web in red and known gates in gold\" \nat the bottow of those pages*"}
+18-16: ProtectionZone, Content={408, 3049, 3060, 2830 String="The magic web - Maps - Book 2\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it.*"}
+18-17: ProtectionZone, Content={408, 3067, 3386, 2852, 3380, 3042 Amount=10, 2656, 2314}
+18-18: Content={408, 1282}
+18-19: ProtectionZone, Content={408}
+18-20: ProtectionZone, Content={408}
+18-21: ProtectionZone, Content={408}
+18-22: ProtectionZone, Content={408}
+18-23: ProtectionZone, Content={408, 4242 RemainingExpireTime=582, 2974, 2314, 2656}
+18-24: Content={408, 1282}
+18-25: ProtectionZone, Content={408, 2494}
+18-26: ProtectionZone, Content={408, 3281}
+18-27: ProtectionZone, Content={408, 3324, 3079}
+18-28: ProtectionZone, Content={408, 2498}
+18-29: Content={408, 1734}
+18-30: Refresh, Content={4515}
+18-31: Refresh, Content={4515}
+19-0: Refresh, Content={103, 4531}
+19-1: Refresh, Content={103}
+19-2: Refresh, Content={103, 4537}
+19-3: Refresh, Content={103, 4541, 2109}
+19-4: Content={4515, 1734}
+19-5: ProtectionZone, Content={408}
+19-6: ProtectionZone, Content={408}
+19-7: ProtectionZone, Content={408}
+19-8: ProtectionZone, Content={408}
+19-9: ProtectionZone, Content={408}
+19-10: ProtectionZone, Content={408}
+19-11: Content={408, 1282, 2910}
+19-12: ProtectionZone, Content={408, 2025, 2667}
+19-13: ProtectionZone, Content={408, 3071, 3016, 2830 String="The magic web - Maps - Book 1\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it*"}
+19-14: ProtectionZone, Content={408, 3081 RemainingUses=5, 2830 String="Maps of the magic web\nWritten by Gargail\n\n*You see several maps with red lines and golden points on them*"}
+19-15: ProtectionZone, Content={408, 3081 RemainingUses=5, 2830 String="*You see a collection of maps in this big book. Some have strange red lines on them. \nYou can read the words\n\"known parts of the magic web in red and known gates in gold\" \nat the bottow of those pages*"}
+19-16: ProtectionZone, Content={408, 3049, 3049, 2830 String="The magic web - Maps - Book 1\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it*"}
+19-17: ProtectionZone, Content={408, 3319, 2852, 3042 Amount=10, 2656, 2314}
+19-18: Content={408, 1290}
+19-19: Content={408, 1286}
+19-20: ProtectionZone, Content={408}
+19-21: ProtectionZone, Content={408}
+19-22: ProtectionZone, Content={408}
+19-23: ProtectionZone, Content={408, 2377}
+19-24: Content={408, 1282, 2910}
+19-25: ProtectionZone, Content={408, 3280, 3392, 2314, 2667, 2853 Content={2656, 2869 Content={2656, 3603 Amount=6, 2667, 2667, 2667, 2659, 2659, 2659, 2667}, 2869 Content={2656, 2656, 2667, 2667, 2667, 2667}, 2869 Content={2969 KeyNumber=3620, 2969 KeyNumber=5010, 2970 KeyNumber=3142, 2972 KeyNumber=3980, 2969 KeyNumber=5010}, 3603 Amount=13, 2865 Content={2656, 2656, 2656, 2656, 2656, 2656, 2656}, 2869 Content={2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2647}}}
+19-26: ProtectionZone, Content={408, 3324, 3079}
+19-27: ProtectionZone, Content={408, 3281}
+19-28: ProtectionZone, Content={408, 3280, 3392, 2314}
+19-29: Refresh, Content={408, 1282}
+19-30: Refresh, Content={4515}
+19-31: Refresh, Content={4515}
+20-0: Refresh, Content={103, 4535}
+20-1: Refresh, Content={103}
+20-2: Refresh, Content={103}
+20-3: Refresh, Content={103, 4537}
+20-4: Content={103, 4541, 1282, 2910}
+20-5: ProtectionZone, Content={408, 2435 Content={2853 Content={2970 KeyNumber=3899, 2853 Content={3446 Amount=24}}, 3505 String="FUE MELDROM" Editor="Deli Yask", 3425, 3503 Content={3507}, 2471 Content={2853 Content={2853 Content={3115, 3115, 3115}}}, 3503 Content={3563}}}
+20-6: ProtectionZone, Content={408}
+20-7: ProtectionZone, Content={408}
+20-8: ProtectionZone, Content={408}
+20-9: ProtectionZone, Content={408}
+20-10: ProtectionZone, Content={408}
+20-11: Content={408, 1282, 2656}
+20-12: ProtectionZone, Content={408, 2435 Content={3293, 2870 Content={3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3}, 2472 Content={3208, 3214, 2853 Content={3031 Amount=100, 3031 Amount=100, 3269, 3266, 3266, 3266, 3266, 3266}, 3577 Amount=30, 3446 Amount=34, 2816 String="In ancient tombs beneath the burning endless sands\n\nWhere neither sunlight reaches nor the pale-faced moon\n\nThe whispers of the long deceased traitors dance\nBloodthirsty creatures screeching an unholy tune\n\nDark are the mysteries surrounded by doomed cries\n\nUncurtained to the warriors of righteous mind\n\nWho well-prepared with magic, sharpened blade and eyes\n\nStep through the doors and leave their mortal fear behind.", 3293, 3504 Content={3507 String="shadow spinal\nedron" Editor="Aleman Ermel of Zanera", 2854 Content={3066, 2870, 2853 Content={3172 Charges=3, 3172 Charges=1}}}}, 2854 Content={2842, 2842, 2842, 2831 String="The Djinn Wars III - The Great Battle, Pt. 3\n\nAt last even Baa'leal, who led the Efreet in battle, had to admit that the Marid and their despised human allies fought valiantly. However, despite the heavy losses he was determined to decide the war there and now. He summoned the most powerful Efreet wizards and ordered them to unleash a huge column of magic fire onto Ankrahmun in order to render the city and all those in it to cinders. The Efreet wizards' followed his orders and soon a wall of devastating fire rose up to the sky. However, when they tried to move it onto Ankrahmun they soon realised that it did not move into the desired direction. The Marid had soon seen through Baa'leals plan, and Fa'hradin and his fellow Marid mages used their own magic to turn the devastating flames against their creators. A fierce battle of wills ensued between the mages from both sides, and the whole battle came to a halt when the two armies watched in horrified fascination as the terrible pile of flames wandered seemingly undecided to and fro. But then, all of a sudden, the pile made a sudden leap to the north, and within seconds those who had summoned it from the sky were reduced to smouldering ashes. That was the turning point of the great battle.", 2831 String="The Djinn Wars I - The Insurrection\n\nFor a long time Malor had plotted and schemed in secrecy, using promises and threats to recruit followers and to form alliances. Many djinn refused to betray Gabel, but the majority of the strongest djinn warriors rallied to his cause, and since Malor had been plotting his insurrection for a long time the rebels were well-prepared. When Malor finally gave the signal his minions attacked the palace in full force, planning to kill Gabel swiftly. Their attack was deadly effective, and the palace guards were quickly overwhelmed. However, Gabel, who had received warning about the conspiracy was saved in time by his trusted aide and friend Fa'hradin. He managed to flee in the darkness, and that very night he started to gather his troops in order to take revenge on the usurper. Malor, on the other hand, had to acknowledge that his plan to get rid of Gabel quickly had failed. And he ordered his followers to prepare for a long-term military engagement. Neither he nor Gabel realised then that this was the starting point for a war that would last for eons.", 2831 String="The Djnn Wars IV - Drefia's Fall\n\nAfter the disastrous battle of Ankrahmun Drefia's necromancers knew the end was near. The Marid would never forgive them their treachery, and this would be a battle the necromancers could not win - after all, many of them had already perished in the battle of Ankrahmun, and their Efreet allies could provide no assistance. So the necromancers prepared for the inevitable with the defiant cynicism of those who have been familiar with death all their lives, performing evil rituals and indulging in morbid orgies.\nFinally, the end came swifter than they expected. Unwilling to take any risks in the unpredictable halls and passageways of Drefia's dungeons, the Marid performed a fearsome ritual. The tortured earth underneath Drefia started moving like a giant whirlpool, and slowly the unholy city was pulled inside the maelstrom. Within half an hour it was gone completely, and all but the highest buildings were completely covered by sand and by rubble. None of its inhabitants have ever been seen again, but rumour has it that deep beneath the surface the unholy city is still intact, brooding like a vengeful animal in its prison.", 2831 String="The Djinn Wars II - The First Years\n\nThe war took a long time to unfold. Both Malor and Gabel tried to win over as many followers as they could, and the need to take a choice war weighed heavily on many a djinn's conscience. Still, few of them managed to remain neutral in this terrible war, and so a deep rift opened within the djnn race. Families were torn apart as children turned against their parents and brother fought brother. Worst of all, it soon turned out that both sides were roughly equal in strength, so that even though a number of vicious battles ensued it become more and more apparent that victory could not be won easily in this war. In fact, it appeared more and more likely that even if one of the sides could win it, it would so be crippled by the endeavour that the very existence of the djinn race would be threatened. Still the war raged on relentlessly. And the mutual hatred between the two fractions, who began to call themselves by the distinct names of Marid and Efreet, increased with every battle that was fought.", 2854 Content={3049 SavedExpireTime=51, 3049 SavedExpireTime=498, 2903, 2903, 3051, 3051}}, 2854 Content={3658, 3046 SavedExpireTime=2963}, 3552}}
+20-13: ProtectionZone, Content={408, 3071, 3071, 3016, 2830 String="*You see a collection of maps in this big book. Some have strange red lines on them. \nYou can read the words\n\"known parts of the magic web in red and known gates in gold\" \nat the bottow of those pages*"}
+20-14: ProtectionZone, Content={408, 3081 RemainingUses=5, 2830 String="The magic web - Maps - Book 2\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it.*"}
+20-15: ProtectionZone, Content={408, 3081 RemainingUses=3, 2830 String="Maps of the magic web\nWritten by Gargail\n\n*You see several maps with red lines and golden points on them*"}
+20-16: ProtectionZone, Content={408, 3063, 3049, 3049, 2830 String="The magic web - Maps - Book 2\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it.*"}
+20-17: ProtectionZone, Content={408, 3281, 3060, 3042 Amount=10, 2656, 2314}
+20-18: Content={408, 1290}
+20-19: Content={408, 1291}
+20-20: ProtectionZone, Content={408, 1947}
+20-21: ProtectionZone, Content={408}
+20-22: ProtectionZone, Content={408}
+20-23: ProtectionZone, Content={408}
+20-24: Content={408, 1290}
+20-25: Content={408, 1281}
+20-26: Content={408, 1281}
+20-27: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\nsavage worker"}
+20-28: Content={408, 1281, 2908}
+20-29: Refresh, Content={408, 1289}
+20-30: Refresh, Content={4515}
+20-31: Refresh, Content={4520}
+21-0: Refresh, Content={103}
+21-1: Refresh, Content={103}
+21-2: Refresh, Content={103}
+21-3: Refresh, Content={103}
+21-4: Content={103, 4533, 1282}
+21-5: ProtectionZone, Content={408, 2436 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3044 Amount=1, 3492 Amount=100, 3492 Amount=100}}
+21-6: ProtectionZone, Content={408}
+21-7: ProtectionZone, Content={408}
+21-8: ProtectionZone, Content={408}
+21-9: ProtectionZone, Content={408}
+21-10: ProtectionZone, Content={408}
+21-11: Content={408, 1282}
+21-12: ProtectionZone, Content={408, 2436 Content={2857, 3308, 3291, 3505 String="Para mis hemanos Shadow spinal\n\nmmm principalmente manisho ke lo adoro sobre todas las cosas, mi amigo rl casi como mi hermano... =(\n\nDiablo del mal: Tkm tambien.. son tantas cosas ke platicamos hihihi  ke dejaesto algo mejor.. la amistad rl y gracias por todo estaremos en contacto\n\nMaruchan: besitossssssss = wacala jijiji pero ps tambien una gran amistad  \n\nHector:\n\nps por lo poco como kiera la gran amistad\n\nLos kiere por siemrpe su manisha\n\n\nA R  I A N Z A\n\n17-Enero-2006" Editor="Shadow Spinal", 3505 String="ANGELILLO\n\nTE DESEO FELIZ NAVIDAD Y PROSPERO AÑO NUEVO\nY \nQUE EN ESTOS DIAS TE LOS PASES CON TU SERES QUERIDOS\n\n^^ QUE ESTES BIEN  TE DESEA LO MEJOR ALBERTO CONSTANTINO" Editor="Darkannis", 2867 Content={3097, 3097, 2970 KeyNumber=4503, 2848, 3065, 3059, 3076, 2469 Content={3097, 2469, 2471, 2471, 2471}, 3078, 3308, 3051 SavedExpireTime=68, 3421, 3293, 3007, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}}}
+21-13: ProtectionZone, Content={408, 3164 Charges=2, 3049, 2830 String="Maps of the magic web\nWritten by Gargail\n\n*You see several maps with red lines and golden points on them*"}
+21-14: ProtectionZone, Content={408, 3284 RemainingUses=1, 3091, 2830 String="The world of Tibia\nWritten by Unaris, adventurer of the warlocks\n\nThese maps of our world Tibia could help us to understand how the magic web of Tibia was made by the Gods.\n\n*In the following pages, you can see many maps with parts of Tibia*\n\n\n"}
+21-15: ProtectionZone, Content={408, 3284 RemainingUses=1, 2830 String="The magic web - Maps - Book 1\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it*"}
+21-16: ProtectionZone, Content={408, 3049, 3060, 3049 SavedExpireTime=475, 2830 String="The world of Tibia\nWritten by Unaris, adventurer of the warlocks\n\nThese maps of our world Tibia could help us to understand how the magic web of Tibia was made by the Gods.\n\n*In the following pages, you can see many maps with parts of Tibia*\n\n\n"}
+21-17: ProtectionZone, Content={408, 3281, 3060, 3042 Amount=10, 2656, 2314}
+21-18: Content={408, 1290}
+21-19: Content={408, 1287}
+21-20: Content={408, 1281, 2641}
+21-21: Content={408, 1281, 2908}
+21-22: Content={408, 1281, 2641}
+21-23: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\nsavage worker"}
+21-24: Content={408, 1289}
+21-25: ProtectionZone, Content={408, 2535}
+21-26: ProtectionZone, Content={408, 3229, 2314, 2656}
+21-27: ProtectionZone, Content={408, 3034 Amount=100}
+21-28: ProtectionZone, Content={408, 3387, 2314, 2656}
+21-29: Refresh, Content={408, 1282}
+21-30: Refresh, Content={4523}
+21-31: Refresh, Content={4515}
+22-0: Refresh, Content={103}
+22-1: Refresh, Content={103}
+22-2: Refresh, Content={103}
+22-3: Refresh, Content={103}
+22-4: Content={103, 4533, 1282}
+22-5: ProtectionZone, Content={408, 2437 Content={2868 Content={3492 Amount=3, 2868 Content={2853 Content={3277 Amount=7, 3277 Amount=100}, 2854 Content={3446 Amount=10, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2854 Content={3481, 3104}, 3552, 3283}, 2872 Content={2869, 2866, 2865}}, 2854 Content={3271}}}
+22-6: ProtectionZone, Content={408}
+22-7: ProtectionZone, Content={408}
+22-8: ProtectionZone, Content={408}
+22-9: ProtectionZone, Content={408}
+22-10: ProtectionZone, Content={408, 2537}
+22-11: Content={408, 1282}
+22-12: ProtectionZone, Content={408, 2437 Content={2868 Content={3574, 2933, 2933}, 2853 Content={2854 Content={2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656}, 2868 Content={3046 SavedExpireTime=1837}}, 2854 Content={3097 SavedExpireTime=2974}, 2867 Content={2865 Content={2644, 2644, 2644, 2644, 2644}, 2854 Content={2903, 2903, 2903, 2842}, 3046, 3046 SavedExpireTime=2428, 3046 SavedExpireTime=2295, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 2857 Content={3062}, 2866 Content={3097, 3097, 3097}}}
+22-13: ProtectionZone, Content={408, 4871, 3074, 2848, 2656, 2314}
+22-14: ProtectionZone, Content={408, 3065, 3065, 3035 Amount=14, 3370, 3043 Amount=5, 3369, 2830 String="*You see a collection of maps in this big book. Some have strange red lines on them. \nYou can read the words\n\"known parts of the magic web in red and known gates in gold\" \nat the bottow of those pages*"}
+22-15: ProtectionZone, Content={408, 3063, 3320, 2848, 2656, 2314}
+22-16: ProtectionZone, Content={408, 3063, 4871, 3320, 2848, 2656, 2314}
+22-17: ProtectionZone, Content={408, 2538, 3554, 3599 Amount=16, 3464}
+22-18: Content={408, 1282}
+22-19: ProtectionZone, Content={408, 3063, 3424, 2314, 2667}
+22-20: ProtectionZone, Content={408, 3323, 3433, 2314, 2667}
+22-21: ProtectionZone, Content={408, 3323, 3433, 2314, 2667}
+22-22: ProtectionZone, Content={408, 3063, 3424, 2314, 2667}
+22-23: ProtectionZone, Content={408, 3414, 4290 Content={3281, 3320, 3320, 3281}}
+22-24: Content={408, 1282, 2656}
+22-25: ProtectionZone, Content={408, 3435, 2314, 2667}
+22-26: ProtectionZone, Content={408, 3034 Amount=100}
+22-27: ProtectionZone, Content={408, 3034 Amount=100}
+22-28: ProtectionZone, Content={408, 3034 Amount=100}
+22-29: Content={408, 1734}
+22-30: Refresh, Content={4515}
+22-31: Refresh, Content={4515}
+23-0: Refresh, Content={103}
+23-1: Refresh, Content={103}
+23-2: Refresh, Content={103}
+23-3: Refresh, Content={103}
+23-4: Content={103, 4533, 1284}
+23-5: Content={408, 1281}
+23-6: Content={408, 1281}
+23-7: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\nDelisco"}
+23-8: Content={408, 1281, 2908}
+23-9: Content={408, 1735}
+23-10: Content={408, 1281}
+23-11: Content={408, 1287}
+23-12: Content={408, 1281}
+23-13: Content={408, 1281}
+23-14: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\ndark dowejura\nosito cojo"}
+23-15: Content={408, 1281, 2908}
+23-16: Content={408, 1735}
+23-17: Content={408, 1281}
+23-18: Content={408, 1289}
+23-19: ProtectionZone, Content={408, 2435 Content={3043 Amount=100, 2471 Content={3029 Amount=1, 2869 Content={2869 Content={2866 Content={2868 Content={3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301}, 3071, 3071, 3071, 3071, 3071, 3071, 3071, 3071, 3071, 3071, 3071, 3416, 3416, 3416, 3071, 3071}, 3301, 3301, 3301, 3071, 3301, 3071, 3301, 3071, 3301, 3071, 3301, 3301, 3271, 3271, 3271, 3271, 3271, 3071}}, 3032 Amount=1, 2866 Content={2866 Content={2869 Content={2866 Content={2868, 3297, 3297, 3297, 3297, 3297, 3297, 3297, 3322, 3322, 3322, 3322, 3322, 3322, 3370, 3370, 3322, 3322, 3322, 3322}, 3428, 3322, 3322, 3322, 3428, 3297, 3297, 3318, 3297, 3322, 3322, 3297, 3322, 3297, 3322, 3428, 3297, 3297, 3322}, 3428, 3297, 3322, 3322, 3428, 3297, 3297, 3428, 3297, 3322, 3297, 3297, 3297, 3297, 3322, 3322, 3322, 3428, 3428}, 3322, 3428, 3322, 3322, 3322, 3297, 3322, 3322, 3322, 3322, 3322, 3322, 3428, 3428, 3428, 3428, 3297, 3297, 3297}, 3351, 2868 Content={2854 Content={2871 Content={2871 Content={2869 Content={2869 Content={2854 Content={2866 Content={2854 Content={2869 Content={3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351}}}, 2871 Content={3010, 2854 Content={3574, 3010, 3010, 3010}, 3284 RemainingUses=1, 2869 Content={3284 RemainingUses=1, 3284 RemainingUses=1, 3284 RemainingUses=1, 3284 RemainingUses=1, 3284 RemainingUses=1, 3284 RemainingUses=1, 3284 RemainingUses=1, 3063, 3063, 3058, 3063, 3063}, 2903, 2866 Content={2868 Content={2868 Content={2865 Content={2871 Content={2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903}, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903}, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903}, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903}, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903}, 3042 Amount=1, 2868 Content={3042 Amount=50}, 3060, 2865 Content={2867 Content={3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060}, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060, 3060}, 2848, 2868 Content={2852, 2852, 2848, 2848, 2848, 2848, 2848, 2848, 2848, 2848, 2848, 2848}, 3306, 2866 Content={2865 Content={3306, 3306}, 3306, 3306, 3306, 3306, 3306, 3306, 3306, 3306, 3306, 3306, 3306, 3306, 3306, 3306, 3306, 3306}, 3356, 2854 Content={3357, 3357, 3279, 3357, 3357, 3357, 3357, 3357, 3357, 3279, 3357, 3357, 3356, 3356, 3356, 3356, 3373}}}}
+23-20: ProtectionZone, Content={408, 3029 Amount=100}
+23-21: ProtectionZone, Content={408, 3033 Amount=100}
+23-22: ProtectionZone, Content={408, 3032 Amount=100}
+23-23: ProtectionZone, Content={408, 3029 Amount=100}
+23-24: Content={408, 1282, 2909}
+23-25: ProtectionZone, Content={408, 3573, 3386, 2314, 2667}
+23-26: ProtectionZone, Content={408, 3387, 2314, 2656}
+23-27: ProtectionZone, Content={408, 3388, 2314, 2656}
+23-28: ProtectionZone, Content={408, 3034 Amount=100}
+23-29: Refresh, Content={408, 1282}
+23-30: Refresh, Content={4515, 3682}
+23-31: Refresh, Content={4515, 3681}
+24-0: Refresh, Content={103}
+24-1: Refresh, Content={103}
+24-2: Refresh, Content={103}
+24-3: Refresh, Content={103}
+24-4: Content={103, 4533, 3682}
+24-5: ProtectionZone, Content={4515, 2852, 3589 Amount=10, 3590 Amount=25, 2469}
+24-6: ProtectionZone, Content={4523, 3034 Amount=3}
+24-7: ProtectionZone, Content={4528, 3034 Amount=2}
+24-8: ProtectionZone, Content={4519, 3034 Amount=2}
+24-9: ProtectionZone, Content={4515, 3034 Amount=3}
+24-10: ProtectionZone, Content={4528, 3034 Amount=1, 2992 Amount=1, 3026 Amount=90, 3589 Amount=10, 3590 Amount=25, 2469}
+24-11: Content={4516, 3682}
+24-12: ProtectionZone, Content={4526, 2953, 3287 Amount=35, 2667}
+24-13: ProtectionZone, Content={4525, 3028 Amount=53, 2667}
+24-14: ProtectionZone, Content={4517, 3042 Amount=1, 3030 Amount=10, 2667, 2872 Content={2872 Content={3279, 3301, 3301, 3279, 3301, 3301, 3301, 3301}, 3416, 3385, 3071, 3071, 3060, 3060, 3060, 3060, 3279}}
+24-15: ProtectionZone, Content={4515, 2865 Content={2872 Content={3392, 3057, 3364, 3360, 3434, 2872}, 2866 Content={3557, 3071, 2872 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2920 SavedExpireTime=249, 3505 Editor="Gigowatt", 3457, 3003, 2872 Content={3191 Charges=2, 3192 Charges=1, 3192 Charges=2, 3198 Charges=5, 3188 Charges=3, 3164 Charges=3}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2872 Content={3147, 3147, 3192 Charges=1, 3198 Charges=2, 3198 Charges=1, 3192 Charges=2, 3192 Charges=2, 3191 Charges=1, 3191 Charges=2}}, 2866 Content={2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={2868, 2866, 3049 SavedExpireTime=82, 3148 Charges=2, 3085 RemainingUses=200, 2854 Content={3351, 2868 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2854}, 2853 Content={3391}}, 2667}
+24-16: ProtectionZone, Content={4530, 3450 Amount=62, 2667}
+24-17: ProtectionZone, Content={4515, 3728 Amount=20, 4839, 4839, 2667}
+24-18: Content={4521, 1282}
+24-19: ProtectionZone, Content={408, 2436 Content={3043 Amount=49, 3505 String="hey we no muevas nada plx ya deje oodo preparado we\n^^bueno no levelees we es muy arriesgado no agas nada jeje yo tampoko puedo hacer nada he estado tiradote y platicando con estos weye spor el microfono we bueno we isimos un desmadre we y creo q si vamos haci si ganasmos la war we ^^ bueno cudiado por q todavia no esta adentro colegas we pero cuidado por q tal ves sospechen y te quieran matar" Editor="Zaitoo", 3114 Amount=35, 2869 Content={3034 Amount=10, 3051, 2866 Content={3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051}, 3051, 2868 Content={3051 SavedExpireTime=106, 3051, 3051 SavedExpireTime=331, 3051, 3051, 3051, 3051 SavedExpireTime=543, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051, 3051}, 3028 Amount=3, 3450 Amount=15, 3029 Amount=35, 3450 Amount=100, 3032 Amount=62, 3450 Amount=100, 2866 Content={3505 String="30k barr\n30k eva\n30k dienton\n20k tuch\n----------\nRahemos Boss\n\n-30k GH" Editor="Savage Saint", 3505 String="\n---100k---\nIncal Chokobola \nLadytron'Zoe\nEthon Chokobola\n------\n\n\n---20k---\nKenrox\n------\n\n---70k y bp de sds---\nZhane of Heavens\n-----\n\n----Rokus-----\n50k\n-------\n\n------Zaurino-----\nBoH\nCrus Helmet \n--------\n\n---40k + 2 bps de sds----\nEriot Draguz\n\n----100k----\nFolkeen y Apsen-Cetus\n\n----50k----\nSLate drake\n\n----10 bps de uhs,50k,FA----\nDragor Darksoul\n\n-----50k----\nMadame Toki\n\n-----Kaede----\n300k\n\nDark 10k y bp sds\nEvancio 2 bps de sds\nMorn 25k\nSatri 20k\nRahikar 20k\nOjos 20k\nBrodi 50k \nIshy 20k \nIzpuzteque 20k\nMazinkeiser Saint 20k (10 pa la gh)\nSavage 20k, 5 bps de uhs\nShadow 5bps de uhs\n\nGuildhall 25k -1 mes-\n\n\n\n\n130k Demon Helmet\nBrollin\nKindoms 90\nDufinin\nLuffia\nVerguz\nHitues\nSazuki\nIshy\nAken\n-Djkan equips\n\n\n\neplate\n2 glegs\n2 mms\n3 gs\n2 faxes\n-500k\n" Editor="Savage Saint"}, 3450 Amount=100}, 2482 Content={2868 Content={2871, 2869, 2871, 2866, 2854, 2869, 2869, 2869, 2854}, 2853 Content={3465 ContainerLiquidType=5, 3465, 3465 ContainerLiquidType=5, 3465, 3465, 3465 ContainerLiquidType=5, 3465, 3465 ContainerLiquidType=5}, 2872 Content={3229}}}}
+24-20: ProtectionZone, Content={408, 3034 Amount=100}
+24-21: ProtectionZone, Content={408, 3566}
+24-22: ProtectionZone, Content={408, 3554}
+24-23: ProtectionZone, Content={408, 3034 Amount=100}
+24-24: ProtectionZone, Content={408, 1641 String="# Players allowed to open this door\nsavage worker\n"}
+24-25: ProtectionZone, Content={408, 3034 Amount=100}
+24-26: ProtectionZone, Content={408, 3034 Amount=100}
+24-27: ProtectionZone, Content={408, 3034 Amount=100}
+24-28: ProtectionZone, Content={408, 3034 Amount=100}
+24-29: Content={408, 1734}
+24-30: Refresh, Content={4521, 3682}
+24-31: Refresh, Content={4515, 3682}
+25-0: Refresh, Content={103}
+25-1: Refresh, Content={103}
+25-2: Refresh, Content={103}
+25-3: Refresh, Content={103}
+25-4: Content={103, 4533, 3682}
+25-5: ProtectionZone, Content={4515, 2852, 2822 String="*You see a map of our world Tibia*", 3589 Amount=11, 3590 Amount=25, 2315}
+25-6: ProtectionZone, Content={4524, 3034 Amount=1}
+25-7: ProtectionZone, Content={4515, 3387, 3734 Amount=1, 3589 Amount=10, 3590 Amount=25, 2469}
+25-8: ProtectionZone, Content={4515, 4871, 3734 Amount=1, 3589 Amount=10, 3590 Amount=25, 2469}
+25-9: ProtectionZone, Content={4515, 3034 Amount=1}
+25-10: ProtectionZone, Content={4527, 3068, 2992 Amount=1, 3734 Amount=1, 3589 Amount=10, 3590 Amount=25, 2469 Content={3599 Amount=17}}
+25-11: Content={4521, 3682}
+25-12: ProtectionZone, Content={4524, 3029 Amount=81, 2848, 3424, 2653, 2315, 2667}
+25-13: ProtectionZone, Content={4515, 3731 Amount=10, 4839, 4839, 4839, 2380}
+25-14: ProtectionZone, Content={4515, 3731 Amount=10, 4839, 4839, 4839, 4839, 4839, 4839, 2380}
+25-15: ProtectionZone, Content={4526, 3731 Amount=10, 4839, 4839, 4839, 2380}
+25-16: ProtectionZone, Content={4515, 3731 Amount=10, 4839, 4839, 2380}
+25-17: ProtectionZone, Content={4516, 3029 Amount=82, 2848, 3424, 2653, 2315, 2667}
+25-18: Content={4515, 1282}
+25-19: ProtectionZone, Content={408, 2437 Content={3092, 2865 Content={2868 Content={2866 Content={3092, 3092, 3092, 3092}, 3092, 3092, 3092, 3092, 3092, 3092}, 2868 Content={3092, 3092, 3092 SavedExpireTime=1721, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092 SavedExpireTime=1798}, 2854 Content={2816 String="...so Margathla revealed him one of the secrets he guarded. A secret long thought to be forgotten. And so he forged the parts of the mask and assembled it on the demonic altar he secretly built in the centre of the complex beneath the great pyramid that was supposed to become the final resting place of his father. The magic of the altar was that strong, that its power could fuse the parts to become the famous helmet of the ancients, when they even came close to it. He crafted eight helmets for him and his allies. His own helmet was imbued with the eternal power of a soul ruby, but his co-conspirators had to rely on ordinary rubies to obtain at least a fraction of the power of their master’s helmet. Each of them was granted the secret to forge a single part of the helmet. Arkhothep knew they would never share their knowledge with each other and their greed would lead them to diffuse their energies to plot against each other instead of working against him.", 2819 String="Dear Gelunidas,\nI request that you send me the twinkiller-rune I ordered some moths ago imediately. If I am convinced that they work as promised I will order them in greater numbers. They might be handy in my next shemes. As this letter should show you, the tales of my death are wildly exagerated. I hope you and your warlock brethren did not think you get of the hook that easy? If you don't work on the stuff I ordered and I do not recive the stuff I ordered in time, be prepared for a visit. You won't like me new friends that I would introduce to you.\n\nFerumbars", 2819 String="Mighty Zhandramon\n\nOur progress is very good! If we continue like that and without any problems then we will be able to close the investigations on the wand of might within 1 year!\n\nIm sure we will succeed!\n\nYours,\nAuterius\n"}}, 3097 SavedExpireTime=803, 2865 Content={3049, 3053 SavedExpireTime=406, 3097, 3097}, 2472 Content={3160 Charges=3, 2871 Content={2869 Content={2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2866 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2869 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2868 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2871 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2869 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2868 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2869 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2868 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2868 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2869 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3160 Charges=3}, 3198 Charges=2, 2869 Content={2868 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2866 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}, 3583 Amount=1, 2869 Content={2866 Content={3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100}, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100}, 3148 Charges=3, 2869 Content={2869 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 2869 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}}, 3197 Charges=3, 2869 Content={2871 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 2871 Content={2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}}, 3192 Charges=2, 2866, 3191 Charges=1, 2866}, 2472 Content={3048 RemainingUses=20, 2869 Content={3048 RemainingUses=19, 3048 RemainingUses=12}, 3081 RemainingUses=5, 2854 Content={3081 RemainingUses=5}, 3200 Charges=3, 2859 Content={2868}, 2874, 2869 Content={2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}, 3155 Charges=2, 2854, 3578 Amount=1, 2867 Content={2867 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}}, 3449 Amount=1, 2869 Content={2869 Content={3449 Amount=56, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100}, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100}}}}
+25-20: ProtectionZone, Content={408, 3029 Amount=100}
+25-21: ProtectionZone, Content={408, 3032 Amount=100}
+25-22: ProtectionZone, Content={408, 3033 Amount=94}
+25-23: ProtectionZone, Content={408, 3029 Amount=100}
+25-24: Content={408, 1282, 2656}
+25-25: ProtectionZone, Content={408, 3068, 3553, 2314, 2667}
+25-26: ProtectionZone, Content={408, 3229, 2314, 2656}
+25-27: ProtectionZone, Content={408, 3034 Amount=100}
+25-28: ProtectionZone, Content={408, 3387, 2314}
+25-29: Refresh, Content={408, 1282}
+25-30: Refresh, Content={4397, 4541}
+25-31: Refresh, Content={4515, 3681}
+26-0: Refresh, Content={103}
+26-1: Refresh, Content={103}
+26-2: Refresh, Content={103}
+26-3: Refresh, Content={103}
+26-4: Content={103, 4533, 3682}
+26-5: ProtectionZone, Content={4528, 2852, 3589 Amount=10, 3590 Amount=25, 2315}
+26-6: ProtectionZone, Content={4515, 3034 Amount=1, 4871, 3034 Amount=5}
+26-7: ProtectionZone, Content={4515, 3079, 3734 Amount=1, 3589 Amount=10, 3590 Amount=25, 2469}
+26-8: ProtectionZone, Content={4523, 3034 Amount=1, 3033 Amount=25, 3433, 3734 Amount=1, 3589 Amount=10, 3590 Amount=25, 2469}
+26-9: ProtectionZone, Content={4524, 3034 Amount=1, 4871, 3034 Amount=5}
+26-10: ProtectionZone, Content={4515, 3006, 3028 Amount=5, 3029 Amount=75, 3032 Amount=53, 3034 Amount=20, 3589 Amount=10, 3590 Amount=25, 2469}
+26-11: Content={4515, 3682}
+26-12: ProtectionZone, Content={4525, 3032 Amount=79, 3424, 2378}
+26-13: ProtectionZone, Content={4515, 3051, 3306, 3734 Amount=1, 2656, 2314, 2656}
+26-14: ProtectionZone, Content={4515, 3051, 3306, 3051, 3734 Amount=1, 2656, 2314, 2656}
+26-15: ProtectionZone, Content={4516, 3051, 3306, 3051, 3051, 3734 Amount=1, 2656, 2314, 2656}
+26-16: ProtectionZone, Content={4524, 3051, 3306, 3734 Amount=1, 2656, 2314, 2656}
+26-17: ProtectionZone, Content={4515, 3032 Amount=70, 3306, 3424, 2379}
+26-18: Content={4528, 1284}
+26-19: Content={408, 1281}
+26-20: Content={408, 1281}
+26-21: Content={408, 1735}
+26-22: Content={408, 1735}
+26-23: Content={408, 1281}
+26-24: Content={408, 1122}
+26-25: Content={408, 4457}
+26-26: Content={408, 4457}
+26-27: Content={408, 4457}
+26-28: Content={408, 4457}
+26-29: Content={408, 1118}
+26-30: Content={4406, 4537, 4457}
+26-31: Refresh, Content={4405, 4541, 4463}
+27-0: Refresh, Content={103}
+27-1: Refresh, Content={103}
+27-2: Refresh, Content={103}
+27-3: Refresh, Content={103}
+27-4: Content={103, 4533, 3682}
+27-5: ProtectionZone, Content={4515, 2852, 2822 String="*You see a map of our world Tibia*", 3589 Amount=10, 3590 Amount=25, 2315}
+27-6: ProtectionZone, Content={4515, 3034 Amount=1}
+27-7: ProtectionZone, Content={4515, 3229, 3734 Amount=1, 3589 Amount=10, 3590 Amount=25, 2469}
+27-8: ProtectionZone, Content={4515, 4871, 3734 Amount=1, 3589 Amount=10, 3590 Amount=25, 2469}
+27-9: ProtectionZone, Content={4515, 3034 Amount=1}
+27-10: ProtectionZone, Content={4528, 3068, 2992 Amount=1, 3734 Amount=1, 3589 Amount=10, 3590 Amount=25, 2469}
+27-11: Content={4530, 3682}
+27-12: ProtectionZone, Content={4515, 3029 Amount=82, 2848, 3424, 2653, 2315, 2667}
+27-13: ProtectionZone, Content={4527, 3731 Amount=10, 4839, 4839, 2381}
+27-14: ProtectionZone, Content={4515, 3392, 3731 Amount=10, 4839, 2381}
+27-15: ProtectionZone, Content={4527, 3731 Amount=10, 4839, 2381}
+27-16: ProtectionZone, Content={4518, 3731 Amount=10, 4839, 4839, 2381}
+27-17: ProtectionZone, Content={4520, 3029 Amount=82, 2848, 2848, 3424, 2653, 2315, 2667}
+27-18: Content={4529, 3682}
+27-19: Content={4519, 3681}
+27-20: Content={4524, 3681}
+27-21: Content={4515, 3682}
+27-22: Content={4525, 3681}
+27-23: Content={4406, 4540, 3681}
+27-24: Content={4402, 4536, 4458}
+27-25: Content={1099}
+27-26: Content={1099}
+27-27: Content={1099}
+27-28: Content={1099}
+27-29: Content={1099}
+27-30: Content={1099, 1082}
+27-31: Content={4405, 4537, 4467}
+28-0: Refresh, Content={103}
+28-1: Refresh, Content={103}
+28-2: Refresh, Content={103}
+28-3: Refresh, Content={103, 2113}
+28-4: Content={103, 4533, 3682}
+28-5: ProtectionZone, Content={4515, 2852, 3589 Amount=10, 3590 Amount=25, 2469 Content={3449 Amount=1}}
+28-6: ProtectionZone, Content={4527, 3034 Amount=3}
+28-7: ProtectionZone, Content={4518, 3034 Amount=2}
+28-8: ProtectionZone, Content={4515, 3034 Amount=2}
+28-9: ProtectionZone, Content={4517, 3034 Amount=3}
+28-10: ProtectionZone, Content={4515, 3034 Amount=1, 2992 Amount=1, 3027 Amount=19, 3027 Amount=100, 3589 Amount=10, 3590 Amount=25, 2469}
+28-11: Content={4515, 3682}
+28-12: ProtectionZone, Content={4519, 3033 Amount=55, 2667}
+28-13: ProtectionZone, Content={4530, 3027 Amount=15, 2667}
+28-14: ProtectionZone, Content={4527, 3034 Amount=100, 2667}
+28-15: ProtectionZone, Content={4515, 3726 Amount=1, 3149 Charges=2, 2667}
+28-16: ProtectionZone, Content={4526, 3026 Amount=5, 2667}
+28-17: ProtectionZone, Content={4527, 3034 Amount=15, 3051, 4839, 2667}
+28-18: Content={4528, 3682}
+28-19: Content={4527, 3682}
+28-20: Content={4515, 3682}
+28-21: Content={4526, 3681}
+28-22: Content={4524, 3681}
+28-23: Content={4406, 4539, 4459}
+28-24: Content={4404, 4535, 4468}
+28-25: Content={1099}
+28-26: Content={1099}
+28-27: Content={1099}
+28-28: Content={1099}
+28-29: Content={1099}
+28-30: Content={1099}
+28-31: Content={1099, 1082}
+29-0: Refresh, Content={103}
+29-1: Refresh, Content={103}
+29-2: Refresh, Content={103}
+29-3: Content={103, 2152}
+29-4: Content={103, 4533, 3682}
+29-5: Content={4519, 3682}
+29-6: Content={4523, 3682}
+29-7: Content={4529, 3682}
+29-8: Content={4524, 3682}
+29-9: Content={4524, 3682}
+29-10: Content={4515, 3682}
+29-11: Content={4522, 3682}
+29-12: Content={4530, 3682}
+29-13: Content={4515, 3682}
+29-14: Content={4515, 3682}
+29-15: Content={4515, 3682}
+29-16: Content={4522, 3682}
+29-17: Content={4527, 3682}
+29-18: Content={4515, 3682}
+29-19: Content={4515, 3682}
+29-20: Content={4525, 3682}
+29-21: Content={4515, 3682}
+29-22: Content={4398, 4539, 4459}
+29-23: Content={4407, 4535, 4468}
+29-24: Content={1099}
+29-25: Content={1099}
+29-26: Content={1099}
+29-27: Content={1099}
+29-28: Content={1099}
+29-29: Content={1099}
+29-30: Content={1099}
+29-31: Content={1099, 1082}
+30-0: Refresh, Content={103}
+30-1: Refresh, Content={103}
+30-2: Refresh, Content={103}
+30-3: Refresh, Content={103}
+30-4: Refresh, Content={103, 4533}
+30-5: Refresh, Content={4515}
+30-6: Refresh, Content={4517}
+30-7: Refresh, Content={4530}
+30-8: Refresh, Content={4515}
+30-9: Refresh, Content={4526, 3682}
+30-10: Refresh, Content={4516}
+30-11: Content={4530, 3682}
+30-12: Content={4523, 3682}
+30-13: Content={4515, 3681}
+30-14: Content={4515, 3682}
+30-15: Content={4515, 3682}
+30-16: Content={4523, 3681}
+30-17: Content={4515, 3681}
+30-18: Content={4515, 3682}
+30-19: Content={4525, 3682}
+30-20: Content={4522, 3614}
+30-21: Content={4515, 3682}
+30-22: Content={4409, 4531, 4458}
+30-23: Content={1099}
+30-24: Content={1099}
+30-25: Content={1099}
+30-26: Content={1099}
+30-27: Content={1099}
+30-28: Content={1099}
+30-29: Content={1099}
+30-30: Content={1099}
+30-31: Content={1099, 1082}
+31-0: Refresh, Content={103}
+31-1: Content={103, 1947}
+31-2: Refresh, Content={103}
+31-3: Refresh, Content={103}
+31-4: Refresh, Content={103, 4533}
+31-5: Refresh, Content={4515}
+31-6: Refresh, Content={4525, 3681}
+31-7: Refresh, Content={4516, 3682}
+31-8: Refresh, Content={4515, 3615}
+31-9: Refresh, Content={4515}
+31-10: Content={4515}
+31-11: Content={4521, 3616}
+31-12: Content={4515, 3682}
+31-13: Content={4515, 3682}
+31-14: Refresh, Content={4515}
+31-15: Refresh, Content={4515}
+31-16: Content={4521, 3681}
+31-17: Content={4526, 3681}
+31-18: Content={4515, 3614}
+31-19: Content={4515, 3682}
+31-20: Content={4515, 3681}
+31-21: Content={4515, 3617}
+31-22: Content={4394, 4531, 4458}
+31-23: Content={1099}
+31-24: Content={1099}
+31-25: Content={1099}
+31-26: Content={1099}
+31-27: Content={1099}
+31-28: Content={1099}
+31-29: Content={1099}
+31-30: Content={1099}
+31-31: Content={1099}

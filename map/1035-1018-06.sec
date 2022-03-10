@@ -1,0 +1,24 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1035/1018/6
+
+0-0: Refresh, Content={231, 1110}
+0-1: Content={451}
+0-21: Content={4405, 1103, 1109, 389}
+0-22: Refresh, Content={4399, 4755, 1101, 1104, 1101}
+0-23: Refresh, Content={4397, 4759}
+0-24: Refresh, Content={231, 4306}
+0-25: Refresh, Content={231, 4309}
+0-26: Refresh, Content={4408, 4757}
+0-27: Refresh, Content={4403, 4753, 1110}
+1-23: Content={4397, 4755, 1109, 392}
+1-24: Refresh, Content={4402, 4752, 1101}
+1-25: Refresh, Content={4402, 4752, 1101}
+1-26: Content={4406, 4753, 1110, 388}
+14-0: Content={231, 1111, 3504 Content={3504 Content={3507 String="Son Danilo\nDarashia" Editor="Contrabandista Sorridente"}, 3507 String="Elite'Steel\ndarashia" Editor="Elite'Steel"}, 3507 String="Oaklei\nHunting Here Larvas\nLeave plz\nTy :D\n" Editor="Oaklei", 3505 String="TONY DIZZE \nHUNTING HERE LARVAS" Editor="Oaklei", 3504, 3504 Content={3507 String="Macaquito Blanco\nDarashia" Editor="Launo"}, 3504, 3504, 2874}
+15-0: Content={231, 1107, 2853, 3504 Content={3504, 3507 String="Elite'Steel\ndarashia" Editor="Elite'Steel"}, 3505 String="Brain Hunter\nhunting here\nleave plz\nmsg-me ;]\n" Editor="Brain Hunter", 3504, 3504, 3191 Charges=1}
+15-1: Content={231, 1111}
+16-0: Content={231, 3362}
+16-1: Content={231, 1102, 3447 Amount=1, 3430, 2874}
+17-0: Content={231, 1106, 1086}
+17-1: Content={231, 1110, 1781 Amount=2, 3377, 3457, 3301}
+18-0: Content={1099, 1085, 2700}

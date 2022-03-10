@@ -1,0 +1,12 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+00-12: Content={3782, 3820}
+00-13: Content={3800, 3841}
+00-14: Content={3781, 3834}
+00-15: Content={3802, 3843}
+00-16: Content={3782, 3820}
+01-13: Content={3778, 3817}
+01-14: Content={3782, 3820}
+01-15: Content={3782, 3820}
+02-13: Content={3782, 3820}

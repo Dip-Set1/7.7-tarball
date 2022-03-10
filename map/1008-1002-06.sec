@@ -1,0 +1,182 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1008/1002/6
+
+2-0: Refresh, Content={1175}
+3-0: Refresh, Content={1170}
+4-0: Refresh, Content={1170}
+5-0: Refresh, Content={1170}
+6-0: Refresh, Content={1170}
+7-0: Refresh, Content={1170}
+8-0: Refresh, Content={1170}
+9-0: Refresh, Content={1170}
+10-0: Refresh, Content={1174, 1170}
+10-1: Refresh, Content={1174}
+10-2: Content={1283}
+10-3: Content={1281}
+10-4: Content={1281}
+10-5: Content={1281}
+10-6: Content={1281}
+10-7: Content={1288}
+10-8: Content={1281}
+10-9: Content={1735}
+10-10: Content={1281}
+10-11: Content={1286}
+11-0: Refresh, Content={1169}
+11-1: Refresh, Content={1169}
+11-2: Content={1282}
+11-3: ProtectionZone, Content={408}
+11-4: ProtectionZone, Content={408, 2438}
+11-5: ProtectionZone, Content={408, 2439}
+11-6: ProtectionZone, Content={408, 2440 Content={2854}}
+11-7: Content={408, 1282}
+11-8: ProtectionZone, Content={408, 2473 Content={2853, 2853 Content={3375, 3362, 3059, 3375, 3492 Amount=100, 3492 Amount=100}, 2855 Content={2950, 3412}}}
+11-9: ProtectionZone, Content={408, 2487}
+11-10: ProtectionZone, Content={408, 2488}
+11-11: Content={408, 1282}
+12-0: Refresh, Content={1169}
+12-1: Refresh, Content={1169}
+12-2: Content={1282}
+12-3: ProtectionZone, Content={408}
+12-4: ProtectionZone, Content={408, 2572, 2376}
+12-5: ProtectionZone, Content={408, 2575, 2376}
+12-6: ProtectionZone, Content={408, 2578}
+12-7: Content={408, 1282, 2910}
+12-8: ProtectionZone, Content={408, 2949}
+12-9: ProtectionZone, Content={408, 2964, 2395, 2368}
+12-10: ProtectionZone, Content={408, 3056 RemainingUses=200, 2393, 2650}
+12-11: Content={408, 1282}
+13-0: Refresh, Content={1169}
+13-1: Refresh, Content={1169}
+13-2: Content={1282, 2910}
+13-3: ProtectionZone, Content={408, 2378}
+13-4: ProtectionZone, Content={408, 2573, 3114 Amount=2, 2314}
+13-5: ProtectionZone, Content={408, 2576, 3114 Amount=1, 2314}
+13-6: ProtectionZone, Content={408, 2579, 2379}
+13-7: ProtectionZone, Content={408, 1640 String="# Players allowed to open this door\ngunslinger vash\nrupert the lupe overlord\noverlord of nightmares"}
+13-8: ProtectionZone, Content={408, 3505 String="lol vash plz stop dieing its annoying we need u wen u levle 20 from rupert aka the master=P" Editor="Rupert the lupe overlord"}
+13-9: ProtectionZone, Content={408, 2393, 2316}
+13-10: ProtectionZone, Content={408, 2392, 2375}
+13-11: Content={408, 1734}
+14-0: Refresh, Content={1169}
+14-1: Refresh, Content={1169}
+14-2: Content={1734}
+14-3: ProtectionZone, Content={408, 2378}
+14-4: ProtectionZone, Content={408, 2573, 3114 Amount=1, 2314}
+14-5: ProtectionZone, Content={408, 2576, 3114 Amount=1, 2314}
+14-6: ProtectionZone, Content={408, 2579, 2379}
+14-7: Content={408, 1290}
+14-8: Content={408, 1281, 2664 RemainingExpireTime=459}
+14-9: Content={408, 1281}
+14-10: Content={408, 1281}
+14-11: Content={408, 1289}
+15-0: Refresh, Content={1169}
+15-1: Refresh, Content={1169}
+15-2: Content={1734}
+15-3: ProtectionZone, Content={408, 2378}
+15-4: ProtectionZone, Content={408, 2573, 3114 Amount=1, 2314}
+15-5: ProtectionZone, Content={408, 2576, 3114 Amount=1, 2314}
+15-6: ProtectionZone, Content={408, 2579, 2379}
+15-7: Content={408, 1282, 2910}
+15-8: ProtectionZone, Content={408, 2481 Content={2853 Content={3492 Amount=7, 3492 Amount=100, 3577 Amount=100, 3582 Amount=18, 3578 Amount=59}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3160 Charges=1, 3192 Charges=2, 3192 Charges=2, 3191 Charges=2, 3176 Charges=3, 3160 Charges=1}, 2871 Content={3031 Amount=35, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2853 Content={3072, 3084 RemainingUses=250, 3084 RemainingUses=250, 3350, 3061, 3029 Amount=2, 3097}}}}
+15-9: ProtectionZone, Content={408, 2487}
+15-10: ProtectionZone, Content={408, 2488}
+15-11: Content={408, 1282}
+16-0: Refresh, Content={1169}
+16-1: Refresh, Content={1169}
+16-2: Content={1282, 2910}
+16-3: ProtectionZone, Content={408, 2378}
+16-4: ProtectionZone, Content={408, 2574, 3114 Amount=1, 2314}
+16-5: ProtectionZone, Content={408, 2577, 3114 Amount=1, 2314}
+16-6: ProtectionZone, Content={408, 2580, 2379}
+16-7: ProtectionZone, Content={408, 1640 String="# Players allowed to open this door\nsoull cath\ntaus todran"}
+16-8: ProtectionZone, Content={408, 3447 Amount=43, 2853, 2656}
+16-9: ProtectionZone, Content={408, 3583 Amount=4, 3740 Amount=1, 3093, 2659}
+16-10: ProtectionZone, Content={408, 3191 Charges=2, 3448 Amount=2, 2854 Content={2853 Content={3264, 3286, 3003, 3582 Amount=3}, 2854 Content={3285, 3316}, 2853}}
+16-11: Content={408, 1734}
+17-0: Refresh, Content={1169}
+17-1: Refresh, Content={1169}
+17-2: Content={1282}
+17-3: ProtectionZone, Content={408, 2535}
+17-4: ProtectionZone, Content={408, 2381}
+17-5: ProtectionZone, Content={408, 2381}
+17-6: ProtectionZone, Content={408}
+17-7: Content={408, 1282}
+17-8: ProtectionZone, Content={408, 2482 Content={3031 Amount=66, 3200 Charges=3, 3031 Amount=100, 3031 Amount=100, 3074, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+17-9: ProtectionZone, Content={408, 2854, 2854}
+17-10: ProtectionZone, Content={408, 2854, 3483, 3362, 3289, 3483}
+17-11: Content={408, 1282}
+18-2: Content={1290}
+18-3: Content={408, 1281}
+18-4: Content={408, 1281, 2908}
+18-5: ProtectionZone, Content={408, 1639 String="# Players allowed to open this door\nsoull cath\nandy the roman overlord\ntaus todran"}
+18-6: Content={408, 1281, 2605 String="Berger warrior owns this house, if u want a room come and find me and u might get lucky\n\nguild- we have a probelm we have trashers, if u see any of the overlords, kill them, they stole and trashed" Editor="Oron Arcus"}
+18-7: Content={408, 1291}
+18-8: Content={408, 1281}
+18-9: Content={408, 1281, 2601}
+18-10: Content={408, 1281}
+18-11: Content={408, 1289}
+19-2: Content={1282}
+19-3: ProtectionZone, Content={432}
+19-4: ProtectionZone, Content={408}
+19-5: ProtectionZone, Content={408}
+19-6: ProtectionZone, Content={408}
+19-7: Content={408, 1282, 2909}
+19-8: ProtectionZone, Content={408, 2469 Content={2854 Content={3046 SavedExpireTime=1408, 3377, 3377, 3003, 3503 Content={3507 String="zyred kronus\nthais" Editor="Slate drake"}, 3457, 3003}}}
+19-9: ProtectionZone, Content={408, 2853, 2472}
+19-10: ProtectionZone, Content={408, 2493}
+19-11: Content={408, 1282}
+20-2: Content={1282}
+20-3: ProtectionZone, Content={408, 2526}
+20-4: ProtectionZone, Content={408}
+20-5: ProtectionZone, Content={408}
+20-6: ProtectionZone, Content={408}
+20-7: ProtectionZone, Content={408, 1640 String="# Players allowed to open this door\nmaster morgoth\nlord kqifa"}
+20-8: ProtectionZone, Content={408, 3492 Amount=56, 3483, 3578 Amount=3, 2360}
+20-9: ProtectionZone, Content={408, 2358}
+20-10: ProtectionZone, Content={408, 2494}
+20-11: Content={408, 1282}
+21-2: Content={1284}
+21-3: Content={408, 1281}
+21-4: Content={408, 1281}
+21-5: Content={408, 1735}
+21-6: Content={408, 1281}
+21-7: Content={408, 1287}
+21-8: Content={408, 1281}
+21-9: Content={408, 1735}
+21-10: Content={408, 1281}
+21-11: Content={408, 1285}
+27-0: Content={1301}
+27-1: Content={1294}
+27-2: Content={1294}
+27-3: Content={1301}
+27-4: Content={1294}
+27-5: Content={1294}
+27-6: Content={1299}
+28-0: Content={408, 1295}
+28-1: ProtectionZone, Content={408, 2487}
+28-2: ProtectionZone, Content={408, 2488}
+28-3: Content={408, 1295}
+28-4: ProtectionZone, Content={408, 2487}
+28-5: ProtectionZone, Content={408, 2488}
+28-6: Content={408, 1295}
+29-0: Content={408, 1295, 2910}
+29-1: ProtectionZone, Content={408, 2472}
+29-2: ProtectionZone, Content={408, 3273, 3277 Amount=1}
+29-3: Content={408, 1295, 2910}
+29-4: ProtectionZone, Content={408}
+29-5: ProtectionZone, Content={408}
+29-6: Content={408, 1295}
+30-0: Content={408, 1302}
+30-1: ProtectionZone, Content={408, 2472}
+30-2: ProtectionZone, Content={408}
+30-3: Content={408, 1295}
+30-4: ProtectionZone, Content={408}
+30-5: ProtectionZone, Content={408}
+30-6: Content={408, 1295}
+31-0: Content={408, 1303}
+31-1: Content={408, 1294}
+31-2: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\nSilver Warrior of Fear\nAngel Of'Fear\n"}
+31-3: Content={408, 1300}
+31-4: Content={408, 1294, 2907}
+31-5: ProtectionZone, Content={408, 1638 String="# Players allowed to open this door\nSilver Warrior of Fear\nDrew Bo\nAndrew Robinson\nAngel Of'Fear\n"}
+31-6: Content={408, 1298}

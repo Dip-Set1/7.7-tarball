@@ -1,0 +1,34 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+02-18: Content={231, 1108}
+02-19: Content={231, 1103}
+02-20: Content={231, 1111}
+03-18: Content={231, 1100}
+03-19: Content={231}
+03-20: Content={231, 1107}
+03-21: Content={231, 1111}
+04-18: Content={231, 1100}
+04-19: Content={231}
+04-20: Content={231, 1106}
+04-21: Content={231, 1110}
+05-17: Content={231, 1108}
+05-18: Content={231, 1104}
+05-19: Content={231}
+05-20: Content={231, 1102}
+06-16: Content={231, 1108}
+06-17: Content={231, 1104}
+06-18: Content={231}
+06-19: Content={231}
+06-20: Content={231, 1102}
+07-16: Content={231, 1109}
+07-17: Content={231, 1105}
+07-18: Content={231}
+07-19: Content={231, 1106}
+07-20: Content={231, 1110}
+08-17: Content={231, 1100}
+08-18: Content={231}
+08-19: Content={231, 1102}
+09-17: Content={231, 1109}
+09-18: Content={231, 1101}
+09-19: Content={231, 1110}

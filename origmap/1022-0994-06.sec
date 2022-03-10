@@ -1,0 +1,47 @@
+# Tibia - graphical Multi-User-Dungeon
+# Sector File
+
+17-14: Content={1114}
+17-15: Content={1112}
+17-16: Content={1112}
+18-14: Content={1113}
+18-15: Content={387, 1112}
+18-16: Content={387, 1116}
+19-16: Refresh, Content={4515, 1108, 3635}
+19-17: Refresh, Content={4522, 1103, 3698}
+19-18: Refresh, Content={4515, 1103, 3681}
+19-19: Refresh, Content={4515, 1103, 1792}
+19-20: Refresh, Content={4524, 1103, 1772}
+19-21: Refresh, Content={4515, 1111, 1840}
+20-16: Refresh, Content={4527, 1100, 3629}
+20-17: Refresh, Content={4523, 1796}
+20-18: Refresh, Content={4515, 1791}
+20-19: Refresh, Content={4522, 1793}
+20-20: Refresh, Content={4515, 1787}
+20-21: Refresh, Content={4515, 1102, 1789}
+21-16: Refresh, Content={4521, 1100, 3630}
+21-17: Refresh, Content={4515, 3681}
+21-18: Refresh, Content={4530, 3682}
+21-19: Refresh, Content={4525, 3681}
+21-20: Refresh, Content={4515, 1106, 1788}
+21-21: Refresh, Content={4515, 1110, 1790}
+22-15: Refresh, Content={4523, 1108, 1772}
+22-16: Refresh, Content={4515, 1104, 1777}
+22-17: Refresh, Content={4515, 3681}
+22-18: Refresh, Content={4529, 3681}
+22-19: Refresh, Content={4529, 3684}
+22-20: Refresh, Content={4518, 1102, 3627}
+23-15: Refresh, Content={4521, 1100, 3698}
+23-16: Refresh, Content={4518, 1796}
+23-17: Refresh, Content={4517, 3682}
+23-18: Refresh, Content={4515, 3683}
+23-19: Refresh, Content={4518, 1106, 1791}
+23-20: Refresh, Content={4515, 1110, 3628}
+24-15: Refresh, Content={4526, 1109, 3682}
+24-16: Refresh, Content={4515, 1105, 3682}
+24-17: Refresh, Content={4515, 1772}
+24-18: Refresh, Content={4515, 1106, 1810}
+24-19: Refresh, Content={4523, 1110, 3682}
+25-16: Refresh, Content={4515, 1109, 3681}
+25-17: Refresh, Content={4527, 1101, 3625}
+25-18: Refresh, Content={4515, 1110, 3699}

@@ -1,0 +1,44 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1036/997/6
+
+19-0: Refresh, Content={1127}
+20-0: Refresh, Content={1127}
+20-1: Refresh, Content={1127, 1772}
+21-0: Refresh, Content={1127}
+21-1: Refresh, Content={1127}
+22-0: Refresh, Content={1127, 1777}
+22-1: Refresh, Content={1127}
+22-2: Refresh, Content={1127}
+22-11: Refresh, Content={1127}
+23-0: Refresh, Content={1127}
+23-1: Refresh, Content={1127}
+23-2: Refresh, Content={1127}
+23-11: Refresh, Content={1127}
+23-12: Refresh, Content={1127}
+23-13: Refresh, Content={1127}
+23-14: Refresh, Content={1127}
+23-15: Refresh, Content={1127}
+24-0: Refresh, Content={1127}
+24-1: Refresh, Content={1127, 1772}
+24-2: Refresh, Content={1127}
+24-11: Refresh, Content={1127}
+24-12: Refresh, Content={1127}
+24-13: Refresh, Content={1127}
+24-14: Refresh, Content={1127}
+24-15: Refresh, Content={1127}
+24-16: Refresh, Content={1127}
+25-0: Refresh, Content={1127}
+25-1: Refresh, Content={1127}
+25-11: Refresh, Content={1127}
+25-12: Refresh, Content={1127}
+25-13: Refresh, Content={1127}
+25-14: Refresh, Content={1127}
+25-15: Refresh, Content={1127}
+25-16: Refresh, Content={1127}
+26-0: Refresh, Content={1127, 1777}
+26-1: Refresh, Content={1127}
+26-12: Refresh, Content={1127}
+26-13: Refresh, Content={1127}
+26-14: Refresh, Content={1127}
+26-15: Refresh, Content={1127}
+27-0: Refresh, Content={1127}

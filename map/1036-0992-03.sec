@@ -1,0 +1,27 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1036/992/3
+
+19-18: Content={4943}
+19-19: Content={1769}
+19-20: Content={1769}
+19-21: Content={4944}
+20-19: Content={4957}
+20-20: Content={4957, 1748}
+25-16: Content={4943}
+25-17: Content={1769}
+25-18: Content={1769}
+25-19: Content={1769}
+25-20: Content={1769}
+25-21: Content={1769}
+25-22: Content={1769}
+25-23: Content={4944}
+26-17: Content={4958}
+26-18: Content={4959}
+26-19: Content={4960}
+26-20: Content={4958, 1748}
+26-21: Content={4959}
+26-22: Content={4960}
+31-18: Content={4943}
+31-19: Content={1769}
+31-20: Content={1769}
+31-21: Content={4944}

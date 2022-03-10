@@ -1,0 +1,7 @@
+SHELL=/bin/sh
+MAILTO=admin@cipsoft.com
+
+13 0 1 * * /game/bin/deloldusr v > /game/deloldusr.log
+26 1 * * * /game/bin/highscores
+0  0 1 * * /game/bin/gamelogs-backup
+0  0 * * * /game/bin/check-logs

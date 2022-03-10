@@ -1,0 +1,24 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1022/1025/5
+
+26-0: Content={3798, 3857}
+27-0: Content={3803, 3851}
+28-0: Content={3788, 3851}
+28-1: Content={3856}
+28-2: Content={3850}
+28-3: Content={3858}
+29-0: Content={3784, 3859}
+29-1: Content={3784, 3852}
+29-2: Content={3785, 3866}
+29-3: Content={3784, 3863}
+29-4: Content={3788, 3858}
+30-0: Content={3857}
+30-1: Content={3855}
+30-2: Content={3801, 3862}
+30-3: Content={3788, 3868}
+30-4: Content={3851}
+31-0: Content={3802, 3863}
+31-1: Content={3857}
+31-2: Content={3855}
+31-3: Content={3849}
+31-4: Content={3860}

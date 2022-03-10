@@ -1,0 +1,159 @@
+# Tibia - graphical Multi-User-Dungeon
+# Data for sector 1008/994/6
+
+18-14: Content={1283}
+18-15: Content={1281}
+18-16: Content={1281, 2908}
+18-17: Content={1281, 2667}
+18-18: Content={1288}
+18-19: Content={1281}
+18-20: Content={1735}
+18-21: Content={1281}
+18-22: Content={1281}
+18-23: Content={1281}
+18-24: Content={1281}
+18-25: Content={1286}
+19-14: Content={1282, 2667}
+19-15: ProtectionZone, Content={459, 2487}
+19-16: ProtectionZone, Content={457, 2488}
+19-17: ProtectionZone, Content={461, 2982}
+19-18: Content={454, 1282}
+19-19: ProtectionZone, Content={459, 2487}
+19-20: ProtectionZone, Content={457, 2488}
+19-21: ProtectionZone, Content={457, 2438}
+19-22: ProtectionZone, Content={457, 2439}
+19-23: ProtectionZone, Content={457, 2440 Content={2854 Content={3587 Amount=47, 3584 Amount=5, 3600 Amount=4, 3578 Amount=20, 3579 Amount=5, 3586 Amount=15, 2644, 2647, 2647, 2647, 2647}, 3577 Amount=1, 3582 Amount=5, 3577 Amount=100}}
+19-24: ProtectionZone, Content={461, 2493}
+19-25: Content={454, 1282}
+20-14: Content={1734}
+20-15: ProtectionZone, Content={456, 2366}
+20-16: ProtectionZone, Content={454}
+20-17: ProtectionZone, Content={455, 2935, 2319}
+20-18: Content={454, 1282, 2664 RemainingExpireTime=74}
+20-19: ProtectionZone, Content={456, 2572, 3017, 2393}
+20-20: ProtectionZone, Content={454, 2575, 3042 Amount=3, 2393}
+20-21: ProtectionZone, Content={454, 2578, 3291, 3448 Amount=5, 3097 SavedExpireTime=3509, 2647}
+20-22: ProtectionZone, Content={454, 3050, 3448 Amount=5, 2647}
+20-23: ProtectionZone, Content={454, 3093, 3448 Amount=5, 2647}
+20-24: ProtectionZone, Content={455, 2494}
+20-25: Content={454, 1282}
+21-14: Content={1282, 2667, 2603}
+21-15: ProtectionZone, Content={460, 2934, 2319}
+21-16: ProtectionZone, Content={454}
+21-17: ProtectionZone, Content={462, 2319}
+21-18: Content={454, 1282, 2910}
+21-19: ProtectionZone, Content={456, 2574, 3007, 2393}
+21-20: ProtectionZone, Content={454, 2577, 3287 Amount=8, 2393}
+21-21: ProtectionZone, Content={454, 2580, 3412, 3572, 3066, 3441}
+21-22: ProtectionZone, Content={454, 3586 Amount=8, 2977, 2990, 3444}
+21-23: ProtectionZone, Content={454, 3298 Amount=10}
+21-24: ProtectionZone, Content={455, 2367, 3017}
+21-25: Content={454, 1282}
+22-14: Content={1290}
+22-15: Content={454, 1281}
+22-16: ProtectionZone, Content={454, 1639 String="# Players allowed to open this door\ncaprates\nprincess karla\n"}
+22-17: Content={454, 1281, 2908}
+22-18: Content={454, 1289, 2664 RemainingExpireTime=87}
+22-19: ProtectionZone, Content={460, 2487}
+22-20: ProtectionZone, Content={454, 2488}
+22-21: ProtectionZone, Content={454, 3600 Amount=4, 3584 Amount=3, 3590 Amount=9, 3507 String="hi love i love you!!!!!!!!! =**********\nTY LOVE\nI LOVE YOU TOO\n=************\n" Editor="Saenzx"}
+22-22: ProtectionZone, Content={454, 3579 Amount=4, 3507 String="Dont forget to close the door i love you!! =*******\nok my love\nTe amo !\n" Editor="Saenzx"}
+22-23: ProtectionZone, Content={454, 3589 Amount=33, 3066}
+22-24: ProtectionZone, Content={462}
+22-25: Content={454, 1734}
+23-14: Content={1282}
+23-15: ProtectionZone, Content={454, 2526}
+23-16: ProtectionZone, Content={454}
+23-17: ProtectionZone, Content={438}
+23-18: Content={454, 1290}
+23-19: Content={454, 1281}
+23-20: Content={454, 1281, 2601}
+23-21: Content={454, 1281, 2907}
+23-22: ProtectionZone, Content={454, 1638 String="# Players allowed to open this door\ncaprates\n"}
+23-23: Content={454, 1281, 2907}
+23-24: Content={454, 1281, 2601}
+23-25: Content={454, 1289}
+24-14: Content={1290}
+24-15: Content={454, 1286}
+24-16: ProtectionZone, Content={454}
+24-17: ProtectionZone, Content={454}
+24-18: Content={454, 1282}
+24-19: ProtectionZone, Content={459}
+24-20: ProtectionZone, Content={457}
+24-21: ProtectionZone, Content={457}
+24-22: ProtectionZone, Content={454}
+24-23: ProtectionZone, Content={457}
+24-24: ProtectionZone, Content={461}
+24-25: Content={454, 1282}
+25-14: Content={1290}
+25-15: Content={454, 1291}
+25-16: ProtectionZone, Content={454, 1947}
+25-17: ProtectionZone, Content={454}
+25-18: ProtectionZone, Content={454, 1641 String="# Players allowed to open this door\ncaprates\nFredi-Focker\n"}
+25-19: ProtectionZone, Content={454}
+25-20: ProtectionZone, Content={454}
+25-21: ProtectionZone, Content={454, 2302}
+25-22: ProtectionZone, Content={454, 2305}
+25-23: ProtectionZone, Content={454}
+25-24: ProtectionZone, Content={455}
+25-25: Content={454, 1734}
+26-14: Content={1290}
+26-15: Content={454, 1287}
+26-16: Content={454, 1281, 2601}
+26-17: Content={454, 1281}
+26-18: Content={454, 1289, 2909}
+26-19: ProtectionZone, Content={454}
+26-20: ProtectionZone, Content={454}
+26-21: ProtectionZone, Content={454, 2303}
+26-22: ProtectionZone, Content={454, 2306}
+26-23: ProtectionZone, Content={454}
+26-24: ProtectionZone, Content={455}
+26-25: Content={454, 1282}
+27-14: Content={1282, 2667}
+27-15: ProtectionZone, Content={459, 2473 Content={3457, 3035 Amount=1, 2853 Content={3446 Amount=4, 3464}}}
+27-16: ProtectionZone, Content={457, 3279, 2854 Content={3266}}
+27-17: ProtectionZone, Content={461, 2542}
+27-18: Content={454, 1282}
+27-19: ProtectionZone, Content={454}
+27-20: ProtectionZone, Content={454}
+27-21: ProtectionZone, Content={454, 2303}
+27-22: ProtectionZone, Content={454, 2306}
+27-23: ProtectionZone, Content={454}
+27-24: ProtectionZone, Content={455, 2522}
+27-25: Content={454, 1734}
+28-14: Content={1734}
+28-15: ProtectionZone, Content={456, 3374}
+28-16: ProtectionZone, Content={454, 3164 Charges=1, 3174 Charges=3}
+28-17: ProtectionZone, Content={454, 3097 SavedExpireTime=3594, 3483}
+28-18: ProtectionZone, Content={454, 1640 String="# Players allowed to open this door\nfredi-focker\ncaprates\n"}
+28-19: ProtectionZone, Content={454}
+28-20: ProtectionZone, Content={454}
+28-21: ProtectionZone, Content={454, 2304}
+28-22: ProtectionZone, Content={454, 2307}
+28-23: ProtectionZone, Content={454}
+28-24: ProtectionZone, Content={455, 2525}
+28-25: Content={454, 1282}
+29-14: Content={1282, 2910}
+29-15: ProtectionZone, Content={460, 2487}
+29-16: ProtectionZone, Content={458, 2488}
+29-17: ProtectionZone, Content={462, 2482 Content={3264, 3358}, 3546, 3540, 3537, 3543}
+29-18: Content={454, 1282, 2909}
+29-19: ProtectionZone, Content={460}
+29-20: ProtectionZone, Content={458}
+29-21: ProtectionZone, Content={458}
+29-22: ProtectionZone, Content={458}
+29-23: ProtectionZone, Content={458}
+29-24: ProtectionZone, Content={462, 2539}
+29-25: Content={454, 1282}
+30-14: Content={1284}
+30-15: Content={454, 1281}
+30-16: Content={454, 1281}
+30-17: Content={454, 1735}
+30-18: Content={454, 1287}
+30-19: Content={454, 1281}
+30-20: Content={454, 1281}
+30-21: Content={454, 1735}
+30-22: Content={454, 1281}
+30-23: Content={454, 1735}
+30-24: Content={454, 1281}
+30-25: Content={454, 1285}
